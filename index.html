@@ -174,7 +174,8 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .mgr-sheet-backdrop.show{display:block}
 .mgr-sheet h3{font-size:.9rem;font-weight:600;color:#1f2937;margin-bottom:16px}
 .mgr-add-row{display:flex;gap:8px;margin-bottom:16px}
-.mgr-input{flex:1;padding:8px 12px;border-radius:8px;border:1px solid #d1d5db;font-size:.78rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb}
+.mgr-input{flex:2;min-width:0;padding:8px 12px;border-radius:8px;border:1px solid #d1d5db;font-size:.78rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb}
+.mgr-time{width:82px;flex-shrink:0;padding:7px 6px;border-radius:8px;border:1px solid #d1d5db;font-size:.72rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb;text-align:center}
 .mgr-input:focus{border-color:#1f2937}
 .mgr-input::placeholder{color:#9ca3af}
 .mgr-cal-btn{width:38px;height:38px;border-radius:8px;border:1px solid #d1d5db;background:#fff;color:#6b7280;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;padding:0}
@@ -189,6 +190,8 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .mgr-item .mgr-text{flex:1;min-width:0;word-break:break-all}
 .mgr-item .mgr-badge{font-size:.65rem;color:#9ca3af;flex-shrink:0;margin-left:4px}
 .mgr-item.editing .mgr-text{background:#f3f4f6;border-radius:4px;padding:2px 6px;margin:-2px -6px;outline:1px solid #1f2937}
+.mgr-edit-btn{background:none;border:none;color:#9ca3af;cursor:pointer;font-size:.85rem;padding:2px 4px;flex-shrink:0;transition:color .12s}
+.mgr-edit-btn:hover{color:#1f2937}
 .mgr-actions{display:flex;gap:8px}
 .mgr-actions button{padding:8px 16px;border-radius:8px;border:none;font-size:.75rem;font-weight:500;cursor:pointer;font-family:inherit}
 .mgr-btn-del{background:#f3f4f6;color:#1f2937;border:none;border-radius:8px}
@@ -345,6 +348,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <div class="mgr-add-row">
 <input class="mgr-input" id="mgrInput" placeholder="添加内容..." autocomplete="off">
 <button class="mgr-cal-btn" id="mgrCalBtn" title="设置日期/时间" onclick="openMgrCal(event)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
+<input type="time" class="mgr-time" id="mgrTime" value="">
 <button class="mgr-btn-del" onclick="addMgrItem()" style="white-space:nowrap">添加</button>
 </div>
 <ul class="mgr-item-list" id="mgrList"></ul>
@@ -653,6 +657,7 @@ document.addEventListener("click",function(){dp2.classList.remove("show")});
 
 
 var mgrCalVal=null;
+var editingItemId=null;
 function toggleManage(){if(currentSection==='travel'){var sheet=document.getElementById('mgrSheet');sheet.classList.contains('open')?closeTravelManage():openTravelManage();return}
   var sheet=document.getElementById('mgrSheet');
   var open=sheet.classList.contains('open');
@@ -734,6 +739,41 @@ function startMgrEdit(tx){
   }
   tx.onblur=function(){finish(true)};
   tx.onkeydown=function(ev){if(ev.key==='Enter'){ev.preventDefault();finish(true)}if(ev.key==='Escape')finish(false)};
+}
+function startMgrEditFull(id){
+  var data=loadMgrData();
+  var it=data.items.find(function(x){return x.id===id});
+  if(!it)return;
+  editingItemId=id;
+  var inp=document.getElementById('mgrInput');
+  var timeInp=document.getElementById('mgrTime');
+  inp.value=it.text||'';
+  if(timeInp)timeInp.value=it.time||'';
+  mgrCalVal=null;
+  if(it.dateVal||it.recurrence||it.day||it.week||it.startStr){
+    mgrCalVal={recurrence:it.recurrence||'single'};
+    if(it.dateVal)mgrCalVal.dateStr=it.dateVal;
+    if(it.startStr){mgrCalVal.startStr=it.startStr;if(it.endStr)mgrCalVal.endStr=it.endStr}
+    if(it.day)mgrCalVal.day=it.day;
+    if(it.week)mgrCalVal.week=it.week;
+    if(it.dayOfWeek)mgrCalVal.dayOfWeek=it.dayOfWeek;
+  }
+  document.getElementById('mgrCalBtn').classList.toggle('has-val',!!mgrCalVal);
+  var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
+  if(addBtn)addBtn.textContent='保存修改';
+  var cancelBtn=document.getElementById('mgrEditCancel');
+  if(cancelBtn)cancelBtn.style.display='inline-block';
+  inp.focus();
+}
+function cancelMgrEdit(){
+  editingItemId=null;
+  var inp=document.getElementById('mgrInput');inp.value='';
+  var timeInp=document.getElementById('mgrTime');if(timeInp)timeInp.value='';
+  mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
+  if(addBtn)addBtn.textContent='添加';
+  var cancelBtn=document.getElementById('mgrEditCancel');
+  if(cancelBtn)cancelBtn.style.display='none';
 }
 function openMgrCal(e){e.stopPropagation();showMgrCalPopup(document.getElementById('mgrCalBtn'),function(r){mgrCalVal=r;document.getElementById('mgrCalBtn').classList.toggle('has-val',!!r)},mgrCalVal)}
 
