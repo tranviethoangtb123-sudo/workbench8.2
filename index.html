@@ -1151,7 +1151,7 @@ function fmtBadgeHtml(it){
   if (r === 'monthDayTime') return '每月' + it.day + '日 ' + (it.startStr || '') + timeStr;
   if (r === 'single' && it.dateVal) {
     var p = it.dateVal.split('-');
-    var dstr = p.length === 3 ? parseInt(p[1]) + '月' + parseInt(p[2]) + '日' : it.dateVal;
+    var dstr = p.length === 3 ? p[0] + '年' + parseInt(p[1]) + '月' + parseInt(p[2]) + '日' : it.dateVal;
     return dstr + timeStr;
   }
   if (r === 'time' && it.startStr) return it.startStr + (it.endStr ? ' - ' + it.endStr : '');
