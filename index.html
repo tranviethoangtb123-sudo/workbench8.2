@@ -705,8 +705,10 @@ function renderMgrItems(){
 function addMgrItem(){
   var inp=document.getElementById('mgrInput');
   var t=inp.value.trim();if(!t)return;
+  var timeInp=document.getElementById('mgrTime');
+  var timeVal=timeInp?timeInp.value:'';
   var data=loadMgrData();
-  var it={id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),text:t};
+  var it={id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),text:t,time:timeVal};
   if(mgrCalVal){
     it.recurrence=mgrCalVal.recurrence||'single';
     if(mgrCalVal.dateStr)it.dateVal=mgrCalVal.dateStr;
@@ -715,8 +717,19 @@ function addMgrItem(){
     if(mgrCalVal.week)it.week=mgrCalVal.week;
     if(mgrCalVal.dayOfWeek)it.dayOfWeek=mgrCalVal.dayOfWeek;
   }
-  data.items.push(it);saveMgrData(data);
-  inp.value='';mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  if(editingItemId){
+    var idx=data.items.findIndex(function(x){return x.id===editingItemId});
+    if(idx>=0){it.id=editingItemId;data.items[idx]=it;}
+    editingItemId=null;
+  }else{
+    data.items.push(it);
+  }
+  saveMgrData(data);
+  inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
+  if(addBtn)addBtn.textContent='添加';
+  var cancelBtn=document.getElementById('mgrEditCancel');
+  if(cancelBtn)cancelBtn.style.display='none';
   renderMgrItems();
 }
 function delMgrItems(){
@@ -1126,17 +1139,23 @@ function renderHabits(){
 
 function fmtBadgeHtml(it){
   var r = it.recurrence || 'single';
-  if (r === 'daily') return '';
-  if (r === 'monthDay') return '每月' + it.day + '日';
-  if (r === 'monthWeek') { var wn = it.week === 'last' ? '最后1周' : '第' + it.week + '周'; return '每月' + wn; }
+  var timeStr = it.time ? ' ' + it.time : '';
+  if (r === 'daily') return timeStr ? timeStr : '';
+  if (r === 'monthDay') return '每月' + it.day + '日' + timeStr;
+  if (r === 'monthWeek') { var wn = it.week === 'last' ? '最后1周' : '第' + it.week + '周'; return '每月' + wn + timeStr; }
   if (r === 'monthWeekDay') {
     var wn2 = it.week === 'last' ? '最后1周' : '第' + it.week + '周';
     var dn = {'mon':'周一','tue':'周二','wed':'周三','thu':'周四','fri':'周五','sat':'周六','sun':'周日'}[it.dayOfWeek] || '';
-    return '每月' + wn2 + dn;
+    return '每月' + wn2 + dn + timeStr;
   }
-  if (r === 'monthDayTime') return '每月' + it.day + '日 ' + (it.startStr || '');
-  if (r === 'single' && it.dateVal) return it.dateVal;
-  return '';
+  if (r === 'monthDayTime') return '每月' + it.day + '日 ' + (it.startStr || '') + timeStr;
+  if (r === 'single' && it.dateVal) {
+    var p = it.dateVal.split('-');
+    var dstr = p.length === 3 ? parseInt(p[1]) + '月' + parseInt(p[2]) + '日' : it.dateVal;
+    return dstr + timeStr;
+  }
+  if (r === 'time' && it.startStr) return it.startStr + (it.endStr ? ' - ' + it.endStr : '');
+  return timeStr;
 }
 
 function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
