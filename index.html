@@ -235,46 +235,33 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .tag-anti3{background:#dbeafe;color:#1e40af}
 
 
-.travel-bg{background:linear-gradient(135deg,#1e3a5f 0%,#2d6a9f 30%,#4a9fc8 50%,#87CEEB 70%,#c9e8f5 100%);position:relative;border-radius:16px;overflow:hidden;min-height:520px;padding:0}
-.travel-bg::before{content:'';position:absolute;inset:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><circle cx="80" cy="60" r="4" fill="rgba(255,255,255,.15)"/><circle cx="320" cy="90" r="3" fill="rgba(255,255,255,.1)"/><circle cx="200" cy="40" r="5" fill="rgba(255,255,255,.12)"/><circle cx="50" cy="200" r="2" fill="rgba(255,255,255,.08)"/><circle cx="350" cy="220" r="4" fill="rgba(255,255,255,.1)"/><circle cx="180" cy="180" r="3" fill="rgba(255,255,255,.06)"/></svg>');opacity:.6}
-.travel-card{position:relative;z-index:1;background:rgba(255,255,255,.18);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.25);border-radius:16px;padding:24px 24px 20px;margin:16px;color:#fff;box-shadow:0 8px 32px rgba(0,0,0,.12)}
-.travel-search{display:flex;align-items:center;background:rgba(255,255,255,.2);border-radius:24px;padding:8px 16px;margin-bottom:20px;border:1px solid rgba(255,255,255,.25)}
-.travel-search svg{width:16px;height:16px;color:rgba(255,255,255,.7);flex-shrink:0;margin-right:8px}
-.travel-search input{flex:1;border:none;background:transparent;color:#fff;font-size:.78rem;outline:none;font-family:inherit}
-.travel-search input::placeholder{color:rgba(255,255,255,.5)}
-.travel-main{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:20px}
-.travel-info h2{font-size:2.2rem;font-weight:700;color:#fff;line-height:1.1;margin:0;text-shadow:0 2px 8px rgba(0,0,0,.15);letter-spacing:.02em}
-.travel-info p{font-size:.78rem;color:rgba(255,255,255,.7);margin:6px 0 0;font-weight:300;letter-spacing:.05em}
-.travel-info p::before{content:'';display:block;width:24px;height:1px;background:rgba(255,255,255,.4);margin-bottom:8px}
-.travel-cta{padding:10px 24px;border-radius:24px;border:2px solid rgba(255,255,255,.6);background:rgba(255,255,255,.15);color:#fff;font-size:.8rem;font-weight:600;cursor:pointer;font-family:inherit;backdrop-filter:blur(10px);transition:all .2s;white-space:nowrap;letter-spacing:.03em}
-.travel-cta:hover{background:rgba(255,255,255,.3);border-color:#fff}
-.travel-stats{display:flex;align-items:center;justify-content:space-between;padding-top:16px;border-top:1px solid rgba(255,255,255,.15)}
-.travel-stats-left{display:flex;gap:20px}
-.travel-stat{display:flex;align-items:center;gap:6px;font-size:.72rem;color:rgba(255,255,255,.8)}
-.travel-stat svg{width:14px;height:14px;opacity:.7}
-.travel-countdown{display:flex;align-items:center;gap:8px;background:linear-gradient(135deg,rgba(255,255,255,.25),rgba(255,255,255,.1));border-radius:16px;padding:6px 14px}
-.travel-countdown-label{font-size:.62rem;color:rgba(255,255,255,.6);text-transform:uppercase;letter-spacing:.05em}
-.travel-countdown-num{font-size:1.1rem;font-weight:700;color:#fff;font-variant-numeric:tabular-nums}
-.travel-watermark{text-align:left;margin-top:14px;font-size:.6rem;color:rgba(255,255,255,.25);letter-spacing:.08em}
-
-
-.travel-wrap{position:relative;min-height:500px;border-radius:16px;overflow:hidden;background-size:cover;background-position:center;background-image:linear-gradient(135deg,#1a365d 0%,#2563eb 30%,#7c3aed 70%,#1a365d 100%);transition:background-image .5s}
-.travel-wrap::after{content:'';position:absolute;inset:0;background:rgba(0,0,0,.15);pointer-events:none}
-.travel-hint{position:absolute;bottom:8px;left:50%;transform:translateX(-50%);font-size:.6rem;color:rgba(255,255,255,.3);z-index:2;letter-spacing:.04em;pointer-events:none}
-.travel-glass{position:relative;z-index:1;background:rgba(255,255,255,.22);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.3);border-radius:12px;padding:18px;margin:80px 20px 20px;box-shadow:0 4px 24px rgba(0,0,0,.1)}
-.travel-glass .tl-name{font-size:1.2rem;font-weight:700;color:#fff;margin-bottom:12px;text-shadow:0 1px 4px rgba(0,0,0,.2)}
-.travel-glass .tl-img{width:100%;aspect-ratio:16/9;border-radius:8px;background:rgba(255,255,255,.15);display:flex;align-items:center;justify-content:center;cursor:pointer;overflow:hidden;margin-bottom:12px;transition:all .2s;background-size:cover;background-position:center}
-.travel-glass .tl-img:hover{opacity:.85}
-.travel-glass .tl-img .tl-img-placeholder{color:rgba(255,255,255,.4);font-size:.75rem}
-.travel-glass .tl-amount-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
-.travel-glass .tl-amount-label{font-size:.7rem;color:rgba(255,255,255,.6)}
-.travel-glass .tl-amount-val{font-size:1rem;font-weight:700;color:#fff}
-.travel-glass .tl-progress-track{height:6px;background:rgba(255,255,255,.2);border-radius:3px;overflow:hidden;margin-bottom:4px}
-.travel-glass .tl-progress-fill{height:100%;background:linear-gradient(90deg,#60a5fa,#a78bfa);border-radius:3px;transition:width .4s}
-.travel-glass .tl-progress-pct{text-align:right;font-size:.68rem;color:rgba(255,255,255,.6)}
-.travel-glass .tl-gear{position:absolute;right:14px;bottom:14px;width:28px;height:28px;border-radius:7px;border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.1);color:rgba(255,255,255,.7);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:.9rem;transition:all .15s}
-.travel-glass .tl-gear:hover{background:rgba(255,255,255,.25);color:#fff}
-
+.travel-list{display:flex;flex-direction:column;gap:16px;padding:0}
+.tcard{background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Roboto','PingFang SC',sans-serif}
+.tcard-nav{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;background:#8E8E93}
+.tcard-nav .tcn-back,.tcard-nav .tcn-more{width:34px;height:34px;color:#fff;font-size:18px;display:flex;align-items:center;justify-content:center;cursor:pointer}
+.tcard-nav .tcn-title{flex:1;text-align:center;color:#fff;font-size:15px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0 8px}
+.tcard-body{padding:16px}
+.tcard-status{font-size:12px;color:#8E8E93;margin-bottom:12px}
+.tcard-info{display:flex;flex-direction:column;gap:10px;margin-bottom:14px;position:relative;min-height:80px}
+.tcard-info-row{display:flex;justify-content:space-between;align-items:center;font-size:13px}
+.tcard-info-row .tir-label{color:#8E8E93}
+.tcard-info-row .tir-value{color:#3A3A3C;font-weight:500}
+.tcard-qr{position:absolute;right:0;bottom:0;width:56px;height:56px;border:1px solid #D1D1D6;border-radius:8px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:#AEAEB2;font-size:9px;background:#FAFAFA}
+.tcard-qr svg{width:22px;height:22px}
+.tcard-amounts{display:flex;gap:10px;margin-bottom:16px}
+.tcard-amount{flex:1;background:#F7F7F8;border-radius:10px;padding:12px;text-align:center}
+.tcard-amount .ta-label{font-size:11px;color:#8E8E93;margin-bottom:4px}
+.tcard-amount .ta-num{font-size:17px;font-weight:600;color:#3A3A3C;font-variant-numeric:tabular-nums}
+.tcard-img{width:100%;aspect-ratio:16/9;border:1.5px dashed #C7C7CC;border-radius:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;color:#AEAEB2;font-size:12px;cursor:pointer;background:#FAFAFA;background-size:cover;background-position:center;margin-bottom:16px;transition:all .15s}
+.tcard-img:hover{border-color:#8E8E93}
+.tcard-img.has-img{border-style:solid;border-color:transparent;color:transparent}
+.tcard-img svg{width:26px;height:26px}
+.tcard-actions{display:flex;gap:10px}
+.tcard-btn{flex:1;padding:12px;border-radius:10px;font-size:14px;font-weight:500;cursor:pointer;font-family:inherit;text-align:center}
+.tcard-btn-cancel{background:#fff;border:1px solid #D1D1D6;color:#3A3A3C}
+.tcard-btn-save{background:#8E8E93;border:none;color:#fff}
+.tcard-edit{position:absolute;top:10px;right:10px;width:28px;height:28px;border-radius:6px;border:none;background:rgba(0,0,0,.4);color:#fff;font-size:13px;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s}
+.tcard:hover .tcard-edit{opacity:1}
 .travel-modal-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center}
 .travel-modal-overlay.show{display:flex}
 .travel-modal{background:#fff;border-radius:16px;padding:24px;width:90%;max-width:380px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
@@ -305,6 +292,19 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .news-refresh{font-size:.62rem;color:#9ca3af;text-align:right;margin-top:4px}
 
 .tm-item{display:flex;align-items:center;gap:6px;padding:4px 0;border-bottom:1px solid #f3f4f6;font-size:.73rem;color:#374151}.tm-check{width:14px;height:14px;border-radius:3px;border:2px solid #d1d5db;flex-shrink:0;cursor:pointer}.tm-check.checked{background:#1f2937;border-color:#1f2937;position:relative}.tm-check.checked::after{content:'';position:absolute;left:2px;top:0;width:3px;height:6px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(45deg)}
+
+.lang-list{display:flex;flex-direction:column;gap:14px}
+.lang-card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.05);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Roboto','PingFang SC',sans-serif}
+.lang-hd{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;background:#F5F5F7;border-bottom:1px solid #EBEBED}
+.lang-hd .lang-name{font-size:15px;font-weight:600;color:#1C1C1E}
+.lang-hd .lang-count{font-size:11px;color:#8E8E93}
+.lang-body{padding:12px 16px}
+.lang-select{width:100%;padding:8px 10px;border:1px solid #D1D1D6;border-radius:8px;font-size:13px;color:#1C1C1E;background:#FAFAFA;font-family:inherit;outline:none;margin-bottom:10px}
+.lang-scene{display:flex;flex-direction:column;gap:6px;max-height:260px;overflow-y:auto}
+.lang-topic{display:flex;align-items:center;gap:8px;padding:8px 10px;background:#FAFAFA;border:1px solid #F0F0F2;border-radius:8px;font-size:13px;color:#3A3A3C}
+.lang-topic::before{content:'';width:5px;height:5px;border-radius:50%;background:#C7C7CC;flex-shrink:0}
+.lang-empty{color:#AEAEB2;font-size:12px;text-align:center;padding:16px 0}
+
 </style>
 </head><body>
 <div class="overlay" id="overlay" onclick="closeSidebar()"></div>
@@ -402,13 +402,8 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 
 </div>
 <div id="travelTemplate" style="display:none">
-<div class="travel-wrap" id="travelBg">
-<div class="travel-cards-grid" id="travelCardsGrid"></div>
-<div class="travel-hint">长按背景 5 秒更换</div>
-</div>
-</div>
-
-<div class="travel-modal-overlay" id="travelModalOverlay" onclick="closeTravelEdit()">
+<div class="travel-list" id="travelCardsGrid"></div>
+</div><div class="travel-modal-overlay" id="travelModalOverlay" onclick="closeTravelEdit()">
 <div class="travel-modal" id="travelModal" onclick="event.stopPropagation()">
 <h3>编辑旅行计划</h3>
 <label>目的地名称</label><input id="tmName" placeholder="输入目的地">
@@ -423,6 +418,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 
 <input type="file" id="tlFileBg" accept="image/*" style="display:none" onchange="changeTravelBg(this)">
 <input type="file" id="tmFile" accept="image/*" style="display:none" onchange="changeTravelImg(this,'preview')">
+<div id="langTemplate" style="display:none"><div class="lang-list" id="langList"></div></div>
 <div id="dietTemplate" style="display:none"><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector('.news-toggle');b.classList.toggle('open');t.classList.toggle('open')"><h4>每周营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin-bottom:8px">烹饪原则</p><p class="diet-note">· 烹饪以蒸、煮、炖、凉拌为主，少油少盐（油≤25g/日，盐&lt;5g/日）</p><p class="diet-note">· 鱼类每周3次以上，优先深海鱼（三文鱼、秋刀鱼、鳕鱼）</p><p class="diet-note">· 每餐蔬菜占1/2，深色蔬菜优先（菠菜、西兰花、紫甘蓝）</p><p class="diet-note">· 每日1-2份低糖水果（蓝莓、草莓、猕猴桃），避免果汁</p><p class="diet-note">· 每日坚果10g（核桃、巴旦木），全谷物替代精米面</p><p class="diet-note">· 常用葱姜蒜、洋葱调味，兼具抗炎杀菌功效</p><table class="diet-table"><tr><th>日</th><th>餐</th><th>食谱</th></tr><tr><td rowspan="3">周一</td><td>早</td><td>燕麦粥（燕麦50g+蓝莓+核桃碎）、豆浆200ml</td></tr><tr><td>午</td><td>蒸鲈鱼、凉拌菠菜胡萝卜丝、杂粮饭、番茄蛋花汤</td></tr><tr><td>晚</td><td>清炖鸡胸肉冬瓜汤、蒜蓉西兰花、小米粥</td></tr><tr><td rowspan="3">周二</td><td>早</td><td>全麦面包+牛油果半个、希腊酸奶150g+草莓</td></tr><tr><td>午</td><td>秋刀鱼煎（少油）、蒸茄子拌蒜泥、糙米饭、紫菜蛋汤</td></tr><tr><td>晚</td><td>豆腐菌菇煲（香菇+金针菇+豆腐）、炒生菜、红薯粥</td></tr><tr><td rowspan="3">周三</td><td>早</td><td>小米南瓜粥、水煮蛋1个、凉拌黄瓜</td></tr><tr><td>午</td><td>三文鱼刺身/低温煎、芦笋炒虾仁（少油）、藜麦饭、冬瓜海带汤</td></tr><tr><td>晚</td><td>鸡胸肉沙拉（生菜+紫甘蓝+番茄+橄榄油柠檬汁）、蒸玉米</td></tr><tr><td rowspan="3">周四</td><td>早</td><td>红豆薏米粥、蒸紫薯100g、巴旦木5颗</td></tr><tr><td>午</td><td>清蒸鳕鱼、蒜蓉空心菜、荞麦面拌芝麻酱（少酱）、菌菇汤</td></tr><tr><td>晚</td><td>番茄炖牛腩（少油）、凉拌木耳洋葱、杂粮饭</td></tr><tr><td rowspan="3">周五</td><td>早</td><td>燕麦牛奶杯（燕麦+牛奶+猕猴桃+奇亚籽）、水煮蛋</td></tr><tr><td>午</td><td>蒜蓉蒸扇贝/生蚝、炒西兰花胡萝卜、糙米饭、紫菜豆腐汤</td></tr><tr><td>晚</td><td>凉拌鸡丝（鸡胸+黄瓜+香菜+醋）、蒸南瓜、绿豆粥</td></tr><tr><td rowspan="3">周六</td><td>早</td><td>全麦馒头、豆浆、核桃3颗+黑莓</td></tr><tr><td>午</td><td>清蒸三文鱼、凉拌紫甘蓝苹果丝、藜麦饭、番茄菌菇汤</td></tr><tr><td>晚</td><td>蒜蓉蒸茄子、豆腐拌皮蛋（少酱）、小米山药粥</td></tr><tr><td rowspan="3">周日</td><td>早</td><td>红薯粥、希腊酸奶+蓝莓+亚麻籽粉、水煮蛋</td></tr><tr><td>午</td><td>鳝鱼煎（少油）、清炒时令绿叶菜、荞麦面、莲藕排骨汤（少盐）</td></tr><tr><td>晚</td><td>凉拌木耳芹菜、蒸豆腐淋酱油（少盐）、杂粮饭</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector('.news-toggle');b.classList.toggle('open');t.classList.toggle('open')"><h4>每月营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><table class="diet-table"><tr><th>类别</th><th>每月推荐量</th><th>备注</th></tr><tr><td>鱼类</td><td>1.2-2.3 kg</td><td>深海鱼≥2次/周</td></tr><tr><td>畜禽肉</td><td>1.2-2.3 kg</td><td>优先瘦肉，少加工肉</td></tr><tr><td>蛋类</td><td>0.7-1.5 kg</td><td>约25-50个鸡蛋</td></tr><tr><td>奶制品</td><td>9-15 kg</td><td>日均300-500ml</td></tr><tr><td>大豆及坚果</td><td>0.8-1.1 kg</td><td>大豆+坚果日均25-35g</td></tr><tr><td>蔬菜</td><td>9-15 kg</td><td>深色蔬菜占1/2以上</td></tr><tr><td>水果</td><td>6-10.5 kg</td><td>低糖水果优先</td></tr><tr><td>谷薯</td><td>6-9 kg</td><td>全谷物和杂豆≥1.5kg</td></tr><tr><td>烹调油</td><td>0.75-0.9 kg</td><td>多种油交替</td></tr><tr><td>食盐</td><td>&lt;0.15 kg</td><td>含隐形盐&lt;5g/日</td></tr><tr><td>饮水</td><td>45-51 L</td><td>日均1500-1700ml</td></tr><tr><td>膳食纤维</td><td>750-900 g</td><td>蔬果谷薯为主要来源</td></tr><tr><td>维生素C</td><td>3 g</td><td>新鲜蔬果含量丰富</td></tr><tr><td>钙</td><td>24 g</td><td>奶制品最佳来源</td></tr><tr><td>铁</td><td>600 mg</td><td>女性需求高于男性</td></tr><tr><td>叶酸</td><td>12 mg DFE</td><td>育龄女性尤为重要</td></tr><tr><td>身体活动</td><td>180000步</td><td>每周150min中等强度运动</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector('.news-toggle');b.classList.toggle('open');t.classList.toggle('open')"><h4>抗炎抗糖抗氧食物 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin:8px 0 4px">果蔬</p><div class="diet-food-list"><span class="diet-food-item">蓝莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">草莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">树莓/黑莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">樱桃（酸樱桃）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">石榴<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蔓越莓<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫葡萄<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">橙子/柠檬<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">猕猴桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠萝<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">苹果<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">梨<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">牛油果<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">番茄<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西兰花<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">羽衣甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">花椰菜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芹菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">芦笋<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">胡萝卜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜椒（红/黄）<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">洋葱<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">大蒜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜菜根<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蘑菇<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红薯/紫薯<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜（鲜）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">姜黄（鲜）<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">西梅<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芒果<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">木瓜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西瓜<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">肉类</p><div class="diet-food-list"><span class="diet-food-item">三文鱼<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">沙丁鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳝鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳕鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鲱鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">虾<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牡蛎<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">鸡胸肉<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">草饲牛肉<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">瘦牛肉<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">金枪鱼<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">鸡肝<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">其他</p><div class="diet-food-list"><span class="diet-food-item">核桃<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">山核桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">杏仁<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">榛子<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">葵花籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">南瓜籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">奇亚籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">亚麻籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">黑巧克力（≥70%）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">抹茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">绿茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红茶<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">咖啡<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜黄粉<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">肉桂<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">丁香<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">生姜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">迷送香<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牛至<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">罗勒<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">特级初榨橄榄油<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">枸杞<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">燕麦<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">豆类<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">苹果醋<span class="diet-food-tag tag-anti2">抗糖</span></span></div></div></div></div></div></div>
 </div>
 <div class="install-toast2" id="installToast2"><span>添加到桌面</span><button id="installBtn2">安装</button></div>
@@ -472,6 +468,11 @@ function switchToSection(id){
 function renderOtherSection(id){
   var data=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
   var list=document.getElementById('otherList');
+  if(id==='lang'){
+    var langTpl=document.getElementById('langTemplate');
+    if(langTpl){list.innerHTML=langTpl.innerHTML;setTimeout(renderLang,50);}
+    return;
+  }
   if(id==='tmpmemo'){
     var tmTpl=document.getElementById('tmpmemoTemplate');
     if(tmTpl){list.innerHTML=tmTpl.innerHTML;setTimeout(tmLoad,50);}
@@ -921,9 +922,12 @@ function saveTravelCards(){localStorage.setItem('wb_travel_cards',JSON.stringify
 function renderTravelCards(){
   var grid=document.getElementById('travelCardsGrid');
   if(!grid)return;
-  if(!travelCards.length){grid.innerHTML='<div style="color:rgba(255,255,255,.4);text-align:center;padding:60px 20px;font-size:.85rem">点击右下角「管理」添加目的地</div>';return}
-  grid.innerHTML=travelCards.map(function(c,i){var pct=c.target>0?Math.min(100,Math.round((c.saved||0)/c.target*100)):0;return'<div class="travel-glass" style="position:relative;margin:12px 0"><div class="tl-name">'+escHtml(c.name||'未命名')+'</div><div class="tl-img"'+(c.img?' style="background-image:url('+c.img+')"':'')+' onclick="openTravelEditCard(&quot;&quot;+c.id+&quot;&quot;)"><span class="tl-img-placeholder"'+(c.img?' style="display:none"':'')+'>点击添加图片</span></div><div class="tl-amount-row"><span class="tl-amount-label">目标金额</span><span class="tl-amount-val">'+fmtMoney(c.target||0)+'</span></div><div class="tl-progress-track"><div class="tl-progress-fill" style="width:'+pct+'%"></div></div><div class="tl-progress-pct">'+pct+'%</div><button class="tl-gear" onclick="event.stopPropagation();openTravelEditCard(&quot;&quot;+c.id+&quot;&quot;)">⚙</button></div>'}).join('')}
-function openTravelEditCard(id){
+  if(!travelCards.length){grid.innerHTML='<div style="color:#AEAEB2;text-align:center;padding:60px 20px;font-size:13px">点击右下角「管理」添加旅行计划</div>';return}
+  grid.innerHTML=travelCards.map(function(c,i){
+    var pct=c.target>0?Math.min(100,Math.round((c.saved||0)/c.target*100)):0;
+    return '<div class="tcard"><div class="tcard-nav"><span class="tcn-back">‹</span><span class="tcn-title">'+escH(c.name||'旅行计划')+'</span><span class="tcn-more" title="编辑" onclick="openTravelEditCard(\''+c.id+'\')">⋯</span></div><div class="tcard-body"><div class="tcard-info-row"><span class="tir-label">储蓄进度</span><span class="tir-value">'+pct+'%</span></div></div><div class="tcard-amounts"><div class="tcard-amount"><div class="ta-label">目标金额</div><div class="ta-num">'+fmtMoney(c.target||0)+'</div></div><div class="tcard-amount"><div class="ta-label">目前已存</div><div class="ta-num">'+fmtMoney(c.saved||0)+'</div></div></div><div class="tcard-img'+(c.img?' has-img':'')+'" style="'+(c.img?'background-image:url('+c.img+')':'')+'" onclick="selectTravelImg(\''+c.id+'\')">'+(c.img?'':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg><span>点击添加/更换图片</span>')+'</div><div class="tcard-actions"><button class="tcard-btn tcard-btn-cancel" onclick="openTravelEditCard(\''+c.id+'\')">取消</button><button class="tcard-btn tcard-btn-save" onclick="openTravelEditCard(\''+c.id+'\')">保存</button></div></div></div>';
+  }).join('');
+}function openTravelEditCard(id){
   var c=travelCards.find(function(x){return x.id===id});if(!c)return;
   editingCardId=id;
   document.getElementById('tmName').value=c.name||'';
@@ -945,6 +949,8 @@ function saveTravelEdit(){
   if(window._travelImgTemp){c.img=window._travelImgTemp;window._travelImgTemp=null}
   saveTravelCards();renderTravelCards();closeTravelEdit();
 }
+var _travelImgCardId=null;
+function selectTravelImg(id){_travelImgCardId=id;var f=document.getElementById('tmFile');if(f)f.click();}
 function changeTravelImg(inp,type){
   var file=inp.files[0];if(!file)return;
   var reader=new FileReader();
@@ -1013,6 +1019,70 @@ function closeTravelManage(){
   document.getElementById('mgrFab').textContent='管理';
   saveTravelCards();
 }
+
+var LANGS=['英语','西班牙语','德语','法语'];
+var LANG_SCENES={
+  '出行与交通':{
+    '机场与飞行':['办理值机','托运行李','通过安检','海关入境申报','处理航班延误','在飞机上与空乘交流','提取行李','失物招领'],
+    '公共交通':['询问路线','购票','确认站点'],
+    '出租车与自驾':['打车','租车','加油','停车缴费','应对警察临检']
+  },
+  '住宿与安顿':{
+    '寻找住所':['看房','询问细节（水电费、家具）','商讨租期和押金'],
+    '酒店相关':['办理入住','延迟退房','寄存行李','处理设施问题'],
+    '报修与维护':['报告水管漏水','电器损坏']
+  },
+  '餐饮与购物':{
+    '餐厅用餐':['预订座位','点餐','询问菜品信息','催菜','结账','打包'],
+    '购物消费':['询问价格尺寸颜色','使用自助收银','退货换货'],
+    '药店咨询':['购买非处方药','描述症状（如过敏、感冒）','咨询用药建议']
+  },
+  '健康与紧急情况':{
+    '看病就医':['预约医生','描述病情','与医生沟通','获取处方'],
+    '紧急求助':['拨打紧急电话','向他人求助']
+  },
+  '银行业务与行政事务':{
+    '银行开户':['开设本地账户','办理存取款','转账'],
+    '办理手机/网络':['咨询套餐','选择方案'],
+    '其他行政':['办理社保','更新驾照']
+  },
+  '学习与工作':{
+    '校园生活':['与同学教授交流','确认作业要求','参与课堂讨论'],
+    '职场沟通':['找工作','参加面试','工作汇报','日常交流']
+  },
+  '社交与日常交流':{
+    '日常寒暄':['与邻居路人店员闲聊（天气、周末计划）'],
+    '自我介绍与社交':['介绍自己他人','发出接受拒绝邀请','谈论兴趣爱好'],
+    '基本礼仪':['表达感谢','回应感谢','表达歉意']
+  },
+  '解决问题与杂务':{
+    '问路与指路':['问路','指路'],
+    '处理快递与邮件':['收取包裹','处理寄丢或退货'],
+    '电话沟通':['预订','咨询','报修']
+  }
+};
+function renderLang(){
+  var list=document.getElementById('langList');if(!list)return;
+  list.innerHTML=LANGS.map(function(lang,i){
+    var opts='';
+    Object.keys(LANG_SCENES).forEach(function(cat){
+      opts+='<optgroup label="'+cat+'">';
+      Object.keys(LANG_SCENES[cat]).forEach(function(sc){
+        opts+='<option value="'+i+'_'+cat+'_'+sc+'">'+sc+'</option>';
+      });
+      opts+='</optgroup>';
+    });
+    return '<div class="lang-card"><div class="lang-hd"><span class="lang-name">'+lang+'</span><span class="lang-count">'+Object.keys(LANG_SCENES).reduce(function(n,cat){return n+Object.keys(LANG_SCENES[cat]).length},0)+' 场景</span></div><div class="lang-body"><select class="lang-select" data-lang="'+i+'" onchange="loadLangScene(this)"><option value="">选择对话场景...</option>'+opts+'</select><div class="lang-scene" id="langScene'+i+'"><div class="lang-empty">请选择场景</div></div></div></div>';
+  }).join('');
+}
+function loadLangScene(sel){
+  var v=sel.value;if(!v){return}
+  var parts=v.split('_');var li=parts[0];var cat=parts[1];var sc=parts[2];
+  var box=document.getElementById('langScene'+li);if(!box)return;
+  var topics=LANG_SCENES[cat]&&LANG_SCENES[cat][sc]?LANG_SCENES[cat][sc]:[];
+  box.innerHTML=topics.length?topics.map(function(t){return'<div class="lang-topic">'+escH(t)+'</div>'}).join(''):'<div class="lang-empty">暂无内容</div>';
+}
+
 // ── Seed life data ──
 (function(){
   if(localStorage.getItem("wb_seeded_v3"))return;
