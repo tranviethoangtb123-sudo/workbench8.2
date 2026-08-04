@@ -173,7 +173,10 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .mgr-sheet-backdrop{position:fixed;inset:0;z-index:159;background:rgba(0,0,0,.3);display:none}
 .mgr-sheet-backdrop.show{display:block}
 .mgr-sheet h3{font-size:.9rem;font-weight:600;color:#1f2937;margin-bottom:16px}
-.mgr-add-row{display:flex;gap:8px;margin-bottom:16px}
+.mgr-add-row{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.mgr-add-row .mgr-btn-del{padding:8px 14px;white-space:nowrap}
+.mgr-topic-row{display:flex;gap:8px;margin-bottom:8px}
+.mgr-topic-row .mgr-input{flex:1;min-width:0}
 .mgr-input{flex:2;min-width:0;padding:8px 12px;border-radius:8px;border:1px solid #d1d5db;font-size:.78rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb}
 .mgr-time{width:82px;flex-shrink:0;padding:7px 6px;border-radius:8px;border:1px solid #d1d5db;font-size:.72rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb;text-align:center}
 .mgr-input:focus{border-color:#1f2937}
@@ -188,6 +191,8 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .mgr-item .mgr-check.checked{background:#1f2937;border-color:#1f2937}
 .mgr-item .mgr-check.checked::after{content:'';width:4px;height:7px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(45deg);margin-top:-1px}
 .mgr-item .mgr-text{flex:1;min-width:0;word-break:break-all}
+.mgr-item .mgr-topic{display:block;font-weight:600;color:#1f2937;font-size:.8rem}
+.mgr-item .mgr-detail{display:block;color:#6b7280;font-size:.72rem;margin-top:2px}
 .mgr-item .mgr-badge{font-size:.65rem;color:#9ca3af;flex-shrink:0;margin-left:4px}
 .mgr-item.editing .mgr-text{background:#f3f4f6;border-radius:4px;padding:2px 6px;margin:-2px -6px;outline:1px solid #1f2937}
 .mgr-edit-btn{background:none;border:none;color:#9ca3af;cursor:pointer;font-size:.85rem;padding:2px 4px;flex-shrink:0;transition:color .12s}
@@ -235,51 +240,45 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .tag-anti3{background:#dbeafe;color:#1e40af}
 
 
-.travel-list{display:flex;flex-direction:column;gap:16px;padding:0}
-.tcard{background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Roboto','PingFang SC',sans-serif}
-.tcard-nav{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;background:#8E8E93}
-.tcard-nav .tcn-back,.tcard-nav .tcn-more{width:34px;height:34px;color:#fff;font-size:18px;display:flex;align-items:center;justify-content:center;cursor:pointer}
-.tcard-nav .tcn-title{flex:1;text-align:center;color:#fff;font-size:15px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0 8px}
-.tcard-body{padding:16px}
-.tcard-status{font-size:12px;color:#8E8E93;margin-bottom:12px}
-.tcard-info{display:flex;flex-direction:column;gap:10px;margin-bottom:14px;position:relative;min-height:80px}
-.tcard-info-row{display:flex;justify-content:space-between;align-items:center;font-size:13px}
-.tcard-info-row .tir-label{color:#8E8E93}
-.tcard-info-row .tir-value{color:#3A3A3C;font-weight:500}
-.tcard-qr{position:absolute;right:0;bottom:0;width:56px;height:56px;border:1px solid #D1D1D6;border-radius:8px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:#AEAEB2;font-size:9px;background:#FAFAFA}
-.tcard-qr svg{width:22px;height:22px}
-.tcard-amounts{display:flex;gap:10px;margin-bottom:16px}
-.tcard-amount{flex:1;background:#F7F7F8;border-radius:10px;padding:12px;text-align:center}
-.tcard-amount .ta-label{font-size:11px;color:#8E8E93;margin-bottom:4px}
-.tcard-amount .ta-num{font-size:17px;font-weight:600;color:#3A3A3C;font-variant-numeric:tabular-nums}
-.tcard-img{width:100%;aspect-ratio:16/9;border:1.5px dashed #C7C7CC;border-radius:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;color:#AEAEB2;font-size:12px;cursor:pointer;background:#FAFAFA;background-size:cover;background-position:center;margin-bottom:16px;transition:all .15s}
-.tcard-img:hover{border-color:#8E8E93}
-.tcard-img.has-img{border-style:solid;border-color:transparent;color:transparent}
-.tcard-img svg{width:26px;height:26px}
-.tcard-actions{display:flex;gap:10px}
-.tcard-btn{flex:1;padding:12px;border-radius:10px;font-size:14px;font-weight:500;cursor:pointer;font-family:inherit;text-align:center}
-.tcard-btn-cancel{background:#fff;border:1px solid #D1D1D6;color:#3A3A3C}
-.tcard-btn-save{background:#8E8E93;border:none;color:#fff}
-.tcard-edit{position:absolute;top:10px;right:10px;width:28px;height:28px;border-radius:6px;border:none;background:rgba(0,0,0,.4);color:#fff;font-size:13px;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s}
-.tcard:hover .tcard-edit{opacity:1}
-.travel-modal-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center}
-.travel-modal-overlay.show{display:flex}
-.travel-modal{background:#fff;border-radius:16px;padding:24px;width:90%;max-width:380px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
-.travel-modal h3{font-size:.95rem;font-weight:600;color:#1f2937;margin:0 0 16px}
-.travel-modal label{display:block;font-size:.68rem;color:#6b7280;margin-bottom:4px;margin-top:12px}
-.travel-modal label:first-child{margin-top:0}
-.travel-modal input{width:100%;padding:8px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.78rem;color:#1f2937;outline:none;font-family:inherit;background:#f9fafb}
-.travel-modal input:focus{border-color:#1f2937}
-.travel-modal .tm-img-preview{width:100%;aspect-ratio:16/9;border-radius:8px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;cursor:pointer;margin:4px 0 12px;background-size:cover;background-position:center;font-size:.7rem;color:#9ca3af;border:2px dashed #e5e7eb;transition:all .15s}
-.travel-modal .tm-img-preview:hover{border-color:#9ca3af}
-.travel-modal .tm-actions{display:flex;gap:8px;margin-top:16px}
-.travel-modal .tm-actions button{flex:1;padding:8px;border-radius:8px;font-size:.75rem;font-weight:500;cursor:pointer;font-family:inherit;border:none}
-.tm-btn-save{background:#1f2937;color:#fff}
-.tm-btn-cancel{background:#f3f4f6;color:#1f2937}
-.travel-toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1f2937;color:#fff;padding:8px 16px;border-radius:8px;font-size:.72rem;z-index:600;opacity:0;transition:opacity .2s;pointer-events:none}
-.travel-toast.show{opacity:1}
-
-.travel-cards-grid{display:flex;flex-direction:column;padding:60px 16px 20px;gap:12px;max-height:80vh;overflow-y:auto}
+.travel-section .card.task-card{background:#E0E0E0;border:none;box-shadow:none;border-radius:0}
+.travel-section .task-card-header{background:transparent;border-bottom:1px solid rgba(0,0,0,.08)}
+.travel-section .task-card-body{padding:0}
+.travel-canvas{background:#E0E0E0;min-height:calc(100dvh - 92px);padding:28px 20px 48px}
+.travel-hero{width:100%;max-width:520px;margin:0 auto;background:#fff;border-radius:28px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.16);position:relative}
+.travel-hero-media{width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat}
+.travel-hero-gear{position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;border:none;background:rgba(0,0,0,.32);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;padding:0;transition:background .15s,transform .12s}
+.travel-hero-gear:hover{background:rgba(0,0,0,.48)}
+.travel-hero-gear:active{transform:scale(.92)}
+.travel-hero-gear svg{width:21px;height:21px}
+.travel-hero-slot{min-height:210px;padding:20px 16px 24px}
+.travel-main{display:flex;align-items:center;gap:14px}
+.travel-name{flex:1;min-width:0}
+.travel-name-input{width:100%;padding:9px 10px;border-radius:10px;border:1px solid #E5E7EB;font-size:.95rem;font-weight:500;color:#1f2937;font-family:inherit;background:#F9FAFB;outline:none;text-align:left}
+.travel-name-input:focus{border-color:#1f2937}
+.travel-stats{display:flex;gap:12px;margin-top:18px}
+.travel-stat{flex:1;min-width:0}
+.travel-stat-label{display:block;font-size:.72rem;color:#8E8E93;margin-bottom:6px}
+.travel-stat-input{width:100%;padding:9px 10px;border-radius:10px;border:1px solid #E5E7EB;font-size:.9rem;color:#1f2937;font-family:inherit;background:#F9FAFB;outline:none;text-align:center;font-variant-numeric:tabular-nums}
+.travel-stat-input:focus{border-color:#1f2937}
+.travel-pct{position:relative;width:84px;height:84px;flex-shrink:0}
+.travel-pct svg{width:84px;height:84px;transform:rotate(-90deg)}
+.travel-pct .pct-track{fill:none;stroke:#ECECEE;stroke-width:3.5}
+.travel-pct .pct-ring{fill:none;stroke:#1f2937;stroke-width:3.5;stroke-linecap:round;transition:stroke-dashoffset .2s}
+.travel-pct .pct-text{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.95rem;font-weight:600;color:#1f2937}
+.travel-empty{color:#AEAEB2;text-align:center;padding:80px 20px;font-size:13px}
+.travel-edit-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
+.travel-edit-overlay.show{display:flex}
+.travel-edit{background:#fff;border-radius:20px;width:100%;max-width:360px;padding:20px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
+.travel-edit h3{font-size:.9rem;font-weight:600;color:#1f2937;margin:0 0 14px;text-align:center}
+.travel-edit label{display:block;font-size:.72rem;color:#6b7280;margin:12px 0 4px}
+.travel-edit input[type="text"]{width:100%;padding:9px 10px;border-radius:10px;border:1px solid #d1d5db;font-size:.82rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none}
+.travel-edit input[type="text"]:focus{border-color:#1f2937}
+.travel-edit .te-preview{width:100%;aspect-ratio:4/3;border-radius:12px;background:#eee url('canyon.jpg') center/cover no-repeat;cursor:pointer;border:1px solid #e5e7eb}
+.travel-edit-actions{display:flex;gap:10px;margin-top:16px}
+.travel-edit-actions button{flex:1;padding:10px;border-radius:10px;font-size:.82rem;font-weight:500;cursor:pointer;font-family:inherit;border:none}
+.te-btn-cancel{background:#f3f4f6;color:#1f2937}
+.te-btn-save{background:#1f2937;color:#fff}
+.travel-toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1f2937;color:#fff;padding:8px 16px;border-radius:8px;font-size:.72rem;z-index:600;display:none}
 
 .news-feed-item{padding:8px 0;border-bottom:1px solid #f3f4f6;font-size:.75rem}
 .news-feed-source{display:inline-block;font-size:.6rem;font-weight:600;color:#6b7280;background:#f3f4f6;padding:1px 6px;border-radius:3px;margin-right:6px;flex-shrink:0}
@@ -355,11 +354,15 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <div class="mgr-sheet-backdrop" id="mgrBackdrop" onclick="closeManage()"></div>
 <div class="mgr-sheet" id="mgrSheet">
 <h3 id="mgrTitle">管理待办</h3>
+<div class="mgr-topic-row">
+<input class="mgr-input" id="mgrTopicInput" placeholder="工作主题" autocomplete="off">
+<input class="mgr-input" id="mgrInput" placeholder="具体事项" autocomplete="off">
+</div>
 <div class="mgr-add-row">
-<input class="mgr-input" id="mgrInput" placeholder="添加内容..." autocomplete="off">
 <button class="mgr-cal-btn" id="mgrCalBtn" title="设置日期/时间" onclick="openMgrCal(event)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
 <input type="time" class="mgr-time" id="mgrTime" value="">
 <button class="mgr-btn-del" onclick="addMgrItem()" style="white-space:nowrap">添加</button>
+<button class="mgr-btn-del" id="mgrEditCancel" onclick="cancelMgrEdit()" style="display:none;white-space:nowrap">取消修改</button>
 </div>
 <ul class="mgr-item-list" id="mgrList"></ul>
 <div class="mgr-actions">
@@ -412,8 +415,20 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 
 </div>
 <div id="travelTemplate" style="display:none">
-<div class="travel-list" id="travelCardsGrid"></div>
-</div><div class="travel-modal-overlay" id="travelModalOverlay" onclick="closeTravelEdit()">
+<div class="travel-canvas" id="travelCanvas"></div>
+<div class="travel-edit-overlay" id="travelEditOverlay" onclick="if(event.target===this)closeTravelEditor()">
+<div class="travel-edit">
+<h3>编辑旅行卡片</h3>
+<label for="teName">目的地名称</label><input id="teName" type="text" placeholder="输入目的地">
+<label>封面图片</label>
+<div class="te-preview" id="tePreview" onclick="document.getElementById('travelImgFile').click()"></div>
+<label for="teTarget">目标金额</label><input id="teTarget" type="text" inputmode="decimal" placeholder="0">
+<label for="teSaved">已存金额</label><input id="teSaved" type="text" inputmode="decimal" placeholder="0">
+<div class="travel-edit-actions"><button class="te-btn-cancel" onclick="closeTravelEditor()">取消</button><button class="te-btn-save" onclick="saveTravelEditor()">保存</button></div>
+</div>
+</div>
+<input type="file" id="travelImgFile" accept="image/*" style="display:none" onchange="onTravelImgPick(this)">
+</div><div class="travel-modal-overlay" id="travelModalOverlay" style="display:none" onclick="closeTravelEdit()">
 <div class="travel-modal" id="travelModal" onclick="event.stopPropagation()">
 <h3>编辑旅行计划</h3>
 <label>目的地名称</label><input id="tmName" placeholder="输入目的地">
@@ -424,7 +439,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <div class="tm-actions"><button class="tm-btn-cancel" onclick="closeTravelEdit()">取消</button><button class="tm-btn-save" onclick="saveTravelEdit()">保存</button></div>
 </div>
 </div>
-<div class="travel-toast" id="travelToast"></div>
+<div class="travel-toast" id="travelToast" style="display:none"></div>
 
 <input type="file" id="tlFileBg" accept="image/*" style="display:none" onchange="changeTravelBg(this)">
 <input type="file" id="tmFile" accept="image/*" style="display:none" onchange="changeTravelImg(this,'preview')">
@@ -477,6 +492,7 @@ function switchToSection(id){
 }
 function renderOtherSection(id){
   var data=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
+  var os=document.getElementById('otherSections');if(os)os.classList.toggle('travel-section',id==='travel');
   var list=document.getElementById('otherList');
   if(id==='lang'){
     var langTpl=document.getElementById('langTemplate');
@@ -490,7 +506,7 @@ function renderOtherSection(id){
   }
   if(id==='travel'){
     var tpl3=document.getElementById('travelTemplate');
-    if(tpl3){list.innerHTML=tpl3.innerHTML;setTimeout(function(){loadTravelCards();renderTravelCards();initTravelLongPress2();var bg=localStorage.getItem('wb_travel_bg');if(bg)document.getElementById('travelBg').style.backgroundImage='url('+bg+')'},100);}
+    if(tpl3){list.innerHTML=tpl3.innerHTML;setTimeout(function(){loadTravelCards();renderTravelCards()},0);}
     return;
   }
   if(id==='diet'){
@@ -512,7 +528,9 @@ function renderOtherSection(id){
     list.innerHTML=data.items.map(function(it){
       var badge=typeof fmtBadgeHtml==='function'?fmtBadgeHtml(it):'';
       var bhtml=badge?' <span style="font-size:.65rem;color:#9ca3af">'+badge+'</span>':'';
-      return '<li class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">'+escHtml(it.text)+bhtml+'</span></li>';
+      var txt=escHtml(it.text);
+      if(it.topic)txt='<span class="mgr-topic">'+escHtml(it.topic)+'</span><span class="mgr-detail">'+txt+'</span>';
+      return '<li class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">'+txt+bhtml+'</span></li>';
     }).join('');
     list.querySelectorAll('.subtask-check').forEach(function(ck){
       ck.onclick=function(){this.classList.toggle('done');var t=this.nextElementSibling;if(t)t.classList.toggle('done')}
@@ -714,16 +732,21 @@ document.addEventListener("click",function(){dp2.classList.remove("show")});
 
 var mgrCalVal=null;
 var editingItemId=null;
+var MGR_SHEET_HTML=document.getElementById('mgrSheet').innerHTML;
 function toggleManage(){if(currentSection==='travel'){var sheet=document.getElementById('mgrSheet');sheet.classList.contains('open')?closeTravelManage():openTravelManage();return}
   var sheet=document.getElementById('mgrSheet');
   var open=sheet.classList.contains('open');
   if(open){closeManage()}else{openManage()}
 }
 function openManage(){
-  document.getElementById('mgrSheet').classList.add('open');
+  var sheet=document.getElementById('mgrSheet');
+  sheet.innerHTML=MGR_SHEET_HTML;
+  sheet.classList.add('open');
   document.getElementById('mgrBackdrop').classList.add('show');
   document.getElementById('mgrFab').classList.add('active');
   document.getElementById('mgrFab').textContent='退出管理';
+  document.getElementById('mgrTitle').textContent='管理 - '+SECTIONS.find(function(s){return s.id===currentSection}).name;
+  var topicInp=document.getElementById('mgrTopicInput');if(topicInp)topicInp.value='';
   document.getElementById('mgrInput').value='';
   mgrCalVal=null;
   document.getElementById('mgrCalBtn').classList.remove('has-val');
@@ -751,20 +774,24 @@ function renderMgrItems(){
   if(!data.items.length){list.innerHTML='<li style="color:#9ca3af;font-size:.75rem;text-align:center;padding:20px 0">暂无，上方添加</li>';return}
   list.innerHTML=data.items.map(function(it,i){
     var b=fmtBadgeHtml(it);
-    return '<li class="mgr-item" data-id="'+it.id+'"><div class="mgr-check"></div><span class="mgr-text">'+escHtml(it.text)+'</span>'+(b?'<span class="mgr-badge">'+b+'</span>':'')+'</li>';
+    var topic=it.topic?'<span class="mgr-topic">'+escHtml(it.topic)+'</span>':'';
+    var detail=it.text?'<span class="mgr-detail">'+escHtml(it.text)+'</span>':'';
+    return '<li class="mgr-item" data-id="'+it.id+'"><div class="mgr-check"></div><span class="mgr-text">'+topic+detail+'</span>'+(b?'<span class="mgr-badge">'+b+'</span>':'')+'<button class="mgr-edit-btn" onclick="startMgrEditFull(\''+it.id+'\')" title="修改">✎</button></li>';
   }).join('');
   // Wire checkboxes
   list.querySelectorAll('.mgr-check').forEach(function(ck){ck.onclick=function(){this.classList.toggle('checked')}});
-  // Wire edit
-  list.querySelectorAll('.mgr-text').forEach(function(tx){tx.onclick=function(){startMgrEdit(tx)}});
+  // Clicking item text opens full editor
+  list.querySelectorAll('.mgr-text').forEach(function(tx){tx.onclick=function(){startMgrEditFull(tx.parentElement.dataset.id)}});
 }
 function addMgrItem(){
+  var topicInp=document.getElementById('mgrTopicInput');
   var inp=document.getElementById('mgrInput');
-  var t=inp.value.trim();if(!t)return;
+  var topic=topicInp?topicInp.value.trim():'';
+  var t=inp.value.trim();if(!topic&&!t)return;
   var timeInp=document.getElementById('mgrTime');
   var timeVal=timeInp?timeInp.value:'';
   var data=loadMgrData();
-  var it={id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),text:t,time:timeVal};
+  var it={id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),topic:topic,text:t,time:timeVal};
   if(mgrCalVal){
     it.recurrence=mgrCalVal.recurrence||'single';
     if(mgrCalVal.dateStr)it.dateVal=mgrCalVal.dateStr;
@@ -781,7 +808,7 @@ function addMgrItem(){
     data.items.push(it);
   }
   saveMgrData(data);
-  inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  if(topicInp)topicInp.value='';inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
   var cancelBtn=document.getElementById('mgrEditCancel');
@@ -814,8 +841,10 @@ function startMgrEditFull(id){
   var it=data.items.find(function(x){return x.id===id});
   if(!it)return;
   editingItemId=id;
+  var topicInp=document.getElementById('mgrTopicInput');
   var inp=document.getElementById('mgrInput');
   var timeInp=document.getElementById('mgrTime');
+  if(topicInp)topicInp.value=it.topic||'';
   inp.value=it.text||'';
   if(timeInp)timeInp.value=it.time||'';
   mgrCalVal=null;
@@ -836,6 +865,7 @@ function startMgrEditFull(id){
 }
 function cancelMgrEdit(){
   editingItemId=null;
+  var topicInp=document.getElementById('mgrTopicInput');if(topicInp)topicInp.value='';
   var inp=document.getElementById('mgrInput');inp.value='';
   var timeInp=document.getElementById('mgrTime');if(timeInp)timeInp.value='';
   mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
@@ -970,13 +1000,55 @@ function showMgrCalPopup(btn,cb,cv){
 
 var travelCards=[];
 function loadTravelCards(){
-  var raw=localStorage.getItem('wb_travel_cards');
-  if(raw)travelCards=JSON.parse(raw);
+  var arr=null;
+  try{
+    var raw=localStorage.getItem('wb_travel_cards');
+    if(raw){var p=JSON.parse(raw);if(Array.isArray(p))arr=p;}
+  }catch(e){}
+  if(!arr||!arr.length){
+    try{
+      var raw2=localStorage.getItem('wb_travel_v2');
+      if(raw2){var c=JSON.parse(raw2);if(c&&typeof c==='object'&&!Array.isArray(c))arr=[c];}
+    }catch(e){}
+  }
+  if(!arr||!arr.length){arr=[{id:'default',name:'',target:'',saved:'',img:''}];}
+  travelCards=arr;
+  localStorage.removeItem('wb_travel_v2');
+  saveTravelCards();
 }
 function saveTravelCards(){localStorage.setItem('wb_travel_cards',JSON.stringify(travelCards))}
+var TRAVEL_GEAR_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>';
 function renderTravelCards(){
-  var grid=document.getElementById('travelCardsGrid');
-  if(!grid)return;
+  var canvas=document.getElementById('travelCanvas');
+  if(!canvas)return;
+  if(!travelCards.length){
+    canvas.innerHTML='<div class="travel-empty">暂无旅行卡片，点击右下角「管理」添加</div>';
+    return;
+  }
+  canvas.innerHTML=travelCards.map(function(c){
+    var id=c.id;
+    var mediaStyle=c.img?'background-image:url('+c.img+')':'background-image:url(canyon.jpg)';
+    return '<div class="travel-hero" id="travelHero_'+id+'" data-card="'+id+'">'
+      +'<div class="travel-hero-media" style="'+mediaStyle+'"></div>'
+      +'<button class="travel-hero-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_SVG+'</button>'
+      +'<div class="travel-hero-slot">'
+      +'<div class="travel-main">'
+      +'<div class="travel-name"><label class="travel-stat-label" for="travelName_'+id+'">目的地名称</label><input class="travel-name-input" id="travelName_'+id+'" type="text" placeholder="输入目的地" oninput="onTravelName(\''+id+'\')"></div>'
+      +'<div class="travel-pct"><svg viewBox="0 0 36 36"><circle class="pct-track" cx="18" cy="18" r="15.5"></circle><circle class="pct-ring" id="travelPctRing_'+id+'" cx="18" cy="18" r="15.5" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"></circle></svg><span class="pct-text" id="travelPctText_'+id+'">0%</span></div>'
+      +'</div>'
+      +'<div class="travel-stats">'
+      +'<div class="travel-stat"><label class="travel-stat-label" for="travelTarget_'+id+'">目标金额</label><input class="travel-stat-input" id="travelTarget_'+id+'" type="text" inputmode="decimal" placeholder="0" oninput="onTravelAmounts(\''+id+'\')"></div>'
+      +'<div class="travel-stat"><label class="travel-stat-label" for="travelSaved_'+id+'">已存金额</label><input class="travel-stat-input" id="travelSaved_'+id+'" type="text" inputmode="decimal" placeholder="0" oninput="onTravelAmounts(\''+id+'\')"></div>'
+      +'</div>'
+      +'</div></div>';
+  }).join('');
+  travelCards.forEach(function(c){
+    var n=document.getElementById('travelName_'+c.id);if(n)n.value=c.name||'';
+    var t=document.getElementById('travelTarget_'+c.id);if(t)t.value=c.target||'';
+    var s=document.getElementById('travelSaved_'+c.id);if(s)s.value=c.saved||'';
+    updateTravelPct(c.id);
+  });
+  return;
   if(!travelCards.length){grid.innerHTML='<div style="color:#AEAEB2;text-align:center;padding:60px 20px;font-size:13px">点击右下角「管理」添加旅行计划</div>';return}
   grid.innerHTML=travelCards.map(function(c,i){
     var pct=c.target>0?Math.min(100,Math.round((c.saved||0)/c.target*100)):0;
@@ -1024,7 +1096,66 @@ function changeTravelBg(inp){
 }
 function fmtMoney(n){return '¥'+n.toLocaleString('zh-CN')}
 function escHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
-function showTravelToast(msg){var t=document.getElementById('travelToast');t.textContent=msg;t.classList.add('show');setTimeout(function(){t.classList.remove('show')},2000)}
+function showTravelToast(msg){var t=document.getElementById('travelToast');t.textContent=msg;t.style.display='block';setTimeout(function(){t.style.display='none'},2000)}
+var _travelEditId=null;
+var _travelEditImg=null;
+function updateTravelPct(id){
+  var ti=document.getElementById('travelTarget_'+id);
+  var si=document.getElementById('travelSaved_'+id);
+  if(!ti||!si)return;
+  var t=parseFloat(ti.value)||0;
+  var s=parseFloat(si.value)||0;
+  var pct=t>0?Math.min(100,Math.round(s/t*100)):0;
+  var text=document.getElementById('travelPctText_'+id);
+  var ring=document.getElementById('travelPctRing_'+id);
+  if(text)text.textContent=pct+'%';
+  if(ring)ring.style.strokeDashoffset=(100-pct);
+}
+function onTravelAmounts(id){
+  var c=travelCards.find(function(x){return x.id===id});if(!c)return;
+  var ti=document.getElementById('travelTarget_'+id);
+  var si=document.getElementById('travelSaved_'+id);
+  c.target=ti?ti.value.trim():'';
+  c.saved=si?si.value.trim():'';
+  saveTravelCards();updateTravelPct(id);
+}
+function onTravelName(id){
+  var c=travelCards.find(function(x){return x.id===id});if(!c)return;
+  var n=document.getElementById('travelName_'+id);
+  if(n)c.name=n.value.trim();
+  saveTravelCards();
+}
+function openTravelEditor(id){
+  var c=travelCards.find(function(x){return x.id===id});if(!c)return;
+  _travelEditId=id;
+  document.getElementById('teName').value=c.name||'';
+  document.getElementById('teTarget').value=c.target||'';
+  document.getElementById('teSaved').value=c.saved||'';
+  var prev=document.getElementById('tePreview');
+  if(prev)prev.style.backgroundImage=c.img?'url('+c.img+')':'url(canyon.jpg)';
+  _travelEditImg=null;
+  document.getElementById('travelEditOverlay').classList.add('show');
+}
+function closeTravelEditor(){document.getElementById('travelEditOverlay').classList.remove('show')}
+function saveTravelEditor(){
+  var c=travelCards.find(function(x){return x.id===_travelEditId});if(!c){closeTravelEditor();return}
+  c.name=document.getElementById('teName').value.trim();
+  c.target=document.getElementById('teTarget').value.trim();
+  c.saved=document.getElementById('teSaved').value.trim();
+  if(_travelEditImg){c.img=_travelEditImg;_travelEditImg=null}
+  saveTravelCards();renderTravelCards();closeTravelEditor();
+}
+function onTravelImgPick(inp){
+  var f=inp.files[0];if(!f)return;
+  var r=new FileReader();
+  r.onload=function(e){
+    _travelEditImg=e.target.result;
+    var prev=document.getElementById('tePreview');
+    if(prev)prev.style.backgroundImage='url('+_travelEditImg+')';
+  };
+  r.readAsDataURL(f);
+  inp.value='';
+}
 // Long press background
 var longPressTimer2;
 function initTravelLongPress2(){
@@ -1072,6 +1203,7 @@ function closeTravelManage(){
   document.getElementById('mgrBackdrop').classList.remove('show');
   document.getElementById('mgrFab').classList.remove('active');
   document.getElementById('mgrFab').textContent='管理';
+  document.getElementById('mgrSheet').innerHTML=MGR_SHEET_HTML;
   saveTravelCards();
 }
 
