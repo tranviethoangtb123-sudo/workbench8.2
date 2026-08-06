@@ -278,6 +278,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .travel-edit-actions button{flex:1;padding:10px;border-radius:10px;font-size:.82rem;font-weight:500;cursor:pointer;font-family:inherit;border:none}
 .te-btn-cancel{background:#f3f4f6;color:#1f2937}
 .te-btn-save{background:#1f2937;color:#fff}
+.visually-hidden-file{position:fixed;left:-9999px;top:0;width:1px;height:1px;opacity:0;overflow:hidden}
 .travel-toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1f2937;color:#fff;padding:8px 16px;border-radius:8px;font-size:.72rem;z-index:600;display:none}
 
 .news-feed-item{padding:8px 0;border-bottom:1px solid #f3f4f6;font-size:.75rem}
@@ -427,7 +428,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <div class="travel-edit-actions"><button class="te-btn-cancel" onclick="closeTravelEditor()">取消</button><button class="te-btn-save" onclick="saveTravelEditor()">保存</button></div>
 </div>
 </div>
-<input type="file" id="travelImgFile" accept="image/*" style="display:none" onchange="onTravelImgPick(this)">
+<input type="file" id="travelImgFile" accept="image/*" class="visually-hidden-file" onchange="onTravelImgPick(this)">
 </div><div class="travel-modal-overlay" id="travelModalOverlay" style="display:none" onclick="closeTravelEdit()">
 <div class="travel-modal" id="travelModal" onclick="event.stopPropagation()">
 <h3>编辑旅行计划</h3>
@@ -1182,6 +1183,7 @@ function applyTravelImage(dataUrl){
 function onTravelImgPick(inp){
   var f=inp.files[0];if(!f)return;
   var reader=new FileReader();
+  reader.onerror=function(){showTravelToast('读取图片失败，请重试')};
   reader.onload=function(e){
     var src=e.target.result;
     var img=new Image();
@@ -1198,7 +1200,7 @@ function onTravelImgPick(inp){
       try{out=canvas.toDataURL('image/jpeg',0.82);}catch(err){out=src;}
       applyTravelImage(out);
     };
-    img.onerror=function(){applyTravelImage(src)};
+    img.onerror=function(){showTravelToast('无法处理这张图片，请换一张')};
     img.src=src;
   };
   reader.readAsDataURL(f);
