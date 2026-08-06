@@ -245,7 +245,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .travel-section .task-card-body{padding:0}
 .travel-canvas{background:#E0E0E0;min-height:calc(100dvh - 92px);padding:28px 20px 48px}
 .travel-hero{width:100%;max-width:520px;margin:0 auto;background:#fff;border-radius:28px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.16);position:relative}
-.travel-hero-media{width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat}
+.travel-hero-media{width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat;cursor:pointer}
 .travel-hero-gear{position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;border:none;background:rgba(0,0,0,.32);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;padding:0;transition:background .15s,transform .12s}
 .travel-hero-gear:hover{background:rgba(0,0,0,.48)}
 .travel-hero-gear:active{transform:scale(.92)}
@@ -445,6 +445,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <input type="file" id="tmFile" accept="image/*" style="display:none" onchange="changeTravelImg(this,'preview')">
 <div id="langTemplate" style="display:none"><div class="lang-list" id="langList"></div></div>
 <div id="dietTemplate" style="display:none"><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>每周营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin-bottom:8px">烹饪原则</p><p class="diet-note">· 烹饪以蒸、煮、炖、凉拌为主，少油少盐（油≤25g/日，盐&lt;5g/日）</p><p class="diet-note">· 鱼类每周3次以上，优先深海鱼（三文鱼、秋刀鱼、鳕鱼）</p><p class="diet-note">· 每餐蔬菜占1/2，深色蔬菜优先（菠菜、西兰花、紫甘蓝）</p><p class="diet-note">· 每日1-2份低糖水果（蓝莓、草莓、猕猴桃），避免果汁</p><p class="diet-note">· 每日坚果10g（核桃、巴旦木），全谷物替代精米面</p><p class="diet-note">· 常用葱姜蒜、洋葱调味，兼具抗炎杀菌功效</p><table class="diet-table"><tr><th>日</th><th>餐</th><th>食谱</th></tr><tr><td rowspan="3">周一</td><td>早</td><td>燕麦粥（燕麦50g+蓝莓+核桃碎）、豆浆200ml</td></tr><tr><td>午</td><td>蒸鲈鱼、凉拌菠菜胡萝卜丝、杂粮饭、番茄蛋花汤</td></tr><tr><td>晚</td><td>清炖鸡胸肉冬瓜汤、蒜蓉西兰花、小米粥</td></tr><tr><td rowspan="3">周二</td><td>早</td><td>全麦面包+牛油果半个、希腊酸奶150g+草莓</td></tr><tr><td>午</td><td>秋刀鱼煎（少油）、蒸茄子拌蒜泥、糙米饭、紫菜蛋汤</td></tr><tr><td>晚</td><td>豆腐菌菇煲（香菇+金针菇+豆腐）、炒生菜、红薯粥</td></tr><tr><td rowspan="3">周三</td><td>早</td><td>小米南瓜粥、水煮蛋1个、凉拌黄瓜</td></tr><tr><td>午</td><td>三文鱼刺身/低温煎、芦笋炒虾仁（少油）、藜麦饭、冬瓜海带汤</td></tr><tr><td>晚</td><td>鸡胸肉沙拉（生菜+紫甘蓝+番茄+橄榄油柠檬汁）、蒸玉米</td></tr><tr><td rowspan="3">周四</td><td>早</td><td>红豆薏米粥、蒸紫薯100g、巴旦木5颗</td></tr><tr><td>午</td><td>清蒸鳕鱼、蒜蓉空心菜、荞麦面拌芝麻酱（少酱）、菌菇汤</td></tr><tr><td>晚</td><td>番茄炖牛腩（少油）、凉拌木耳洋葱、杂粮饭</td></tr><tr><td rowspan="3">周五</td><td>早</td><td>燕麦牛奶杯（燕麦+牛奶+猕猴桃+奇亚籽）、水煮蛋</td></tr><tr><td>午</td><td>蒜蓉蒸扇贝/生蚝、炒西兰花胡萝卜、糙米饭、紫菜豆腐汤</td></tr><tr><td>晚</td><td>凉拌鸡丝（鸡胸+黄瓜+香菜+醋）、蒸南瓜、绿豆粥</td></tr><tr><td rowspan="3">周六</td><td>早</td><td>全麦馒头、豆浆、核桃3颗+黑莓</td></tr><tr><td>午</td><td>清蒸三文鱼、凉拌紫甘蓝苹果丝、藜麦饭、番茄菌菇汤</td></tr><tr><td>晚</td><td>蒜蓉蒸茄子、豆腐拌皮蛋（少酱）、小米山药粥</td></tr><tr><td rowspan="3">周日</td><td>早</td><td>红薯粥、希腊酸奶+蓝莓+亚麻籽粉、水煮蛋</td></tr><tr><td>午</td><td>鳝鱼煎（少油）、清炒时令绿叶菜、荞麦面、莲藕排骨汤（少盐）</td></tr><tr><td>晚</td><td>凉拌木耳芹菜、蒸豆腐淋酱油（少盐）、杂粮饭</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>每月营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><table class="diet-table"><tr><th>类别</th><th>每月推荐量</th><th>备注</th></tr><tr><td>鱼类</td><td>1.2-2.3 kg</td><td>深海鱼≥2次/周</td></tr><tr><td>畜禽肉</td><td>1.2-2.3 kg</td><td>优先瘦肉，少加工肉</td></tr><tr><td>蛋类</td><td>0.7-1.5 kg</td><td>约25-50个鸡蛋</td></tr><tr><td>奶制品</td><td>9-15 kg</td><td>日均300-500ml</td></tr><tr><td>大豆及坚果</td><td>0.8-1.1 kg</td><td>大豆+坚果日均25-35g</td></tr><tr><td>蔬菜</td><td>9-15 kg</td><td>深色蔬菜占1/2以上</td></tr><tr><td>水果</td><td>6-10.5 kg</td><td>低糖水果优先</td></tr><tr><td>谷薯</td><td>6-9 kg</td><td>全谷物和杂豆≥1.5kg</td></tr><tr><td>烹调油</td><td>0.75-0.9 kg</td><td>多种油交替</td></tr><tr><td>食盐</td><td>&lt;0.15 kg</td><td>含隐形盐&lt;5g/日</td></tr><tr><td>饮水</td><td>45-51 L</td><td>日均1500-1700ml</td></tr><tr><td>膳食纤维</td><td>750-900 g</td><td>蔬果谷薯为主要来源</td></tr><tr><td>维生素C</td><td>3 g</td><td>新鲜蔬果含量丰富</td></tr><tr><td>钙</td><td>24 g</td><td>奶制品最佳来源</td></tr><tr><td>铁</td><td>600 mg</td><td>女性需求高于男性</td></tr><tr><td>叶酸</td><td>12 mg DFE</td><td>育龄女性尤为重要</td></tr><tr><td>身体活动</td><td>180000步</td><td>每周150min中等强度运动</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>抗炎抗糖抗氧食物 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin:8px 0 4px">果蔬</p><div class="diet-food-list"><span class="diet-food-item">蓝莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">草莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">树莓/黑莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">樱桃（酸樱桃）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">石榴<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蔓越莓<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫葡萄<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">橙子/柠檬<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">猕猴桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠萝<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">苹果<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">梨<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">牛油果<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">番茄<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西兰花<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">羽衣甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">花椰菜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芹菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">芦笋<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">胡萝卜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜椒（红/黄）<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">洋葱<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">大蒜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜菜根<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蘑菇<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红薯/紫薯<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜（鲜）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">姜黄（鲜）<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">西梅<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芒果<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">木瓜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西瓜<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">肉类</p><div class="diet-food-list"><span class="diet-food-item">三文鱼<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">沙丁鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳝鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳕鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鲱鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">虾<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牡蛎<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">鸡胸肉<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">草饲牛肉<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">瘦牛肉<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">金枪鱼<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">鸡肝<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">其他</p><div class="diet-food-list"><span class="diet-food-item">核桃<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">山核桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">杏仁<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">榛子<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">葵花籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">南瓜籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">奇亚籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">亚麻籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">黑巧克力（≥70%）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">抹茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">绿茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红茶<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">咖啡<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜黄粉<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">肉桂<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">丁香<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">生姜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">迷送香<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牛至<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">罗勒<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">特级初榨橄榄油<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">枸杞<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">燕麦<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">豆类<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">苹果醋<span class="diet-food-tag tag-anti2">抗糖</span></span></div></div></div></div></div></div>
+<div id="dietShiBuTemplate" style="display:none"><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>食补 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"></div></div></div>
 </div>
 <div class="install-toast2" id="installToast2"><span>添加到桌面</span><button id="installBtn2">安装</button></div>
 <script>
@@ -511,7 +512,11 @@ function renderOtherSection(id){
   }
   if(id==='diet'){
     var tpl=document.getElementById('dietTemplate');
-    if(tpl)list.innerHTML=tpl.innerHTML;
+    if(tpl){
+      list.innerHTML=tpl.innerHTML;
+      var shi=document.getElementById('dietShiBuTemplate');
+      if(shi)list.insertAdjacentHTML('beforeend',shi.innerHTML);
+    }
     return;
   }
   if(!data.items.length){
@@ -1029,7 +1034,7 @@ function renderTravelCards(){
     var id=c.id;
     var mediaStyle=c.img?'background-image:url('+c.img+')':'background-image:url(canyon.jpg)';
     return '<div class="travel-hero" id="travelHero_'+id+'" data-card="'+id+'">'
-      +'<div class="travel-hero-media" style="'+mediaStyle+'"></div>'
+      +'<div class="travel-hero-media" style="'+mediaStyle+'" onclick="onTravelMediaClick(\''+id+'\')"></div>'
       +'<button class="travel-hero-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_SVG+'</button>'
       +'<div class="travel-hero-slot">'
       +'<div class="travel-main">'
@@ -1099,6 +1104,7 @@ function escHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(
 function showTravelToast(msg){var t=document.getElementById('travelToast');t.textContent=msg;t.style.display='block';setTimeout(function(){t.style.display='none'},2000)}
 var _travelEditId=null;
 var _travelEditImg=null;
+var _travelDirectImg=false;
 function updateTravelPct(id){
   var ti=document.getElementById('travelTarget_'+id);
   var si=document.getElementById('travelSaved_'+id);
@@ -1134,6 +1140,7 @@ function openTravelEditor(id){
   var prev=document.getElementById('tePreview');
   if(prev)prev.style.backgroundImage=c.img?'url('+c.img+')':'url(canyon.jpg)';
   _travelEditImg=null;
+  _travelDirectImg=false;
   document.getElementById('travelEditOverlay').classList.add('show');
 }
 function closeTravelEditor(){document.getElementById('travelEditOverlay').classList.remove('show')}
@@ -1143,17 +1150,52 @@ function saveTravelEditor(){
   c.target=document.getElementById('teTarget').value.trim();
   c.saved=document.getElementById('teSaved').value.trim();
   if(_travelEditImg){c.img=_travelEditImg;_travelEditImg=null}
-  saveTravelCards();renderTravelCards();closeTravelEditor();
+  try{saveTravelCards();}catch(e){showTravelToast('图片太大，保存失败');return}
+  renderTravelCards();closeTravelEditor();
+}
+function onTravelMediaClick(id){
+  _travelEditId=id;
+  _travelDirectImg=true;
+  _travelEditImg=null;
+  var f=document.getElementById('travelImgFile');if(f)f.click();
+}
+function applyTravelImage(dataUrl){
+  _travelEditImg=dataUrl;
+  var prev=document.getElementById('tePreview');
+  if(prev)prev.style.backgroundImage='url('+dataUrl+')';
+  if(_travelDirectImg){
+    _travelDirectImg=false;
+    var c=travelCards.find(function(x){return x.id===_travelEditId});
+    if(c){
+      c.img=dataUrl;
+      try{saveTravelCards();}catch(e){showTravelToast('图片太大，保存失败');return}
+      renderTravelCards();
+    }
+  }
 }
 function onTravelImgPick(inp){
   var f=inp.files[0];if(!f)return;
-  var r=new FileReader();
-  r.onload=function(e){
-    _travelEditImg=e.target.result;
-    var prev=document.getElementById('tePreview');
-    if(prev)prev.style.backgroundImage='url('+_travelEditImg+')';
+  var reader=new FileReader();
+  reader.onload=function(e){
+    var src=e.target.result;
+    var img=new Image();
+    img.onload=function(){
+      var MAX=1280;
+      var scale=Math.min(1,MAX/Math.max(img.width,img.height));
+      var w=Math.max(1,Math.round(img.width*scale));
+      var h=Math.max(1,Math.round(img.height*scale));
+      var canvas=document.createElement('canvas');
+      canvas.width=w;canvas.height=h;
+      var ctx=canvas.getContext('2d');
+      ctx.drawImage(img,0,0,w,h);
+      var out;
+      try{out=canvas.toDataURL('image/jpeg',0.82);}catch(err){out=src;}
+      applyTravelImage(out);
+    };
+    img.onerror=function(){applyTravelImage(src)};
+    img.src=src;
   };
-  r.readAsDataURL(f);
+  reader.readAsDataURL(f);
   inp.value='';
 }
 // Long press background
