@@ -240,10 +240,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .tag-anti3{background:#dbeafe;color:#1e40af}
 
 
-.travel-section .card.task-card{background:#F5F7FA;border:none;box-shadow:none;border-radius:0}
-.travel-section .task-card-header{background:transparent;border-bottom:1px solid rgba(0,0,0,.08)}
-.travel-section .task-card-body{padding:0}
-.travel-canvas{background:#F5F7FA;min-height:calc(100dvh - 92px);padding:28px 20px 48px}
+.travel-canvas{min-height:calc(100dvh - 92px);padding:0}
 .travel-hero{width:100%;max-width:520px;margin:0 auto;background:#fff;border-radius:28px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.16);position:relative}
 .travel-hero-media{width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat;cursor:pointer}
 .travel-hero-gear{position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;border:none;background:rgba(0,0,0,.32);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;padding:0;transition:background .15s,transform .12s}
@@ -417,6 +414,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 </div>
 <div id="travelTemplate" style="display:none">
 <div class="travel-canvas" id="travelCanvas"></div>
+</div>
 <div class="travel-edit-overlay" id="travelEditOverlay" onclick="if(event.target===this)closeTravelEditor()">
 <div class="travel-edit">
 <h3>编辑旅行卡片</h3>
@@ -429,7 +427,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 </div>
 </div>
 <input type="file" id="travelImgFile" accept="image/*" class="visually-hidden-file" onchange="onTravelImgPick(this)">
-</div><div class="travel-modal-overlay" id="travelModalOverlay" style="display:none" onclick="closeTravelEdit()">
+<div class="travel-modal-overlay" id="travelModalOverlay" style="display:none" onclick="closeTravelEdit()">
 <div class="travel-modal" id="travelModal" onclick="event.stopPropagation()">
 <h3>编辑旅行计划</h3>
 <label>目的地名称</label><input id="tmName" placeholder="输入目的地">
