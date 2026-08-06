@@ -1360,7 +1360,7 @@ var savedSection=localStorage.getItem('wb_section');if(savedSection&&SECTIONS.so
 // ── PWA ──
 var dfp;window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();dfp=e;document.getElementById("installToast2").classList.add("show")});
 document.getElementById("installBtn2").onclick=function(){if(dfp){dfp.prompt();dfp.userChoice.then(function(){dfp=null;document.getElementById("installToast2").classList.remove("show")})}};
-if("serviceWorker" in navigator){navigator.serviceWorker.register("/sw.js")}
+if("serviceWorker" in navigator){navigator.serviceWorker.register("/sw.js?v=20260806a")}
 
 // ── Keyboard ──
 document.addEventListener("keydown",function(e){
