@@ -725,7 +725,7 @@ function renderNewsCards(){
     var hls=newsData[s.text]||[];
     var body='';
     if(newsLoading[s.text])body='<div class="news-loading">加载中...</div>';
-    else if(hls.length)body=hls.map(function(it){return'<div class="news-feed-item"><span class="news-feed-title"><a href="'+escH(it.link||'#')+'" target="_blank">'+escH(it.title)+'</a></span></div>'}).join('');
+    else if(hls.length)body=hls.map(function(it){return'<div class="news-feed-item"><span class="news-feed-title"><a href="'+escH(it.link||'#')+'" target="_blank" rel="noopener">'+escH(it.title)+'</a></span></div>'}).join('');
     else if(s.headlines&&s.headlines.length)body=s.headlines.map(function(hl){return'<div class="news-hl"><span class="news-hl-dot"></span><span>'+escH(hl)+'</span></div>'}).join('');
     else body='<div class="news-error">暂无RSS源</div>';
     return '<div class="news-card"><div class="news-source" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span class="news-name">'+escH(s.text)+'</span><button class="news-toggle">⌃</button></div><div class="news-body">'+body+'</div></div>';
