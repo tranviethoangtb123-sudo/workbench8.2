@@ -574,14 +574,19 @@ function fetchAllNews(){
   var srcs=JSON.parse(localStorage.getItem('wb_news')||'{"items":[]}').items;
   srcs.forEach(function(s){newsData[s.text]=newsData[s.text]||[];newsLoading[s.text]=true});
   renderNewsCards();
-  var keys=Object.keys(NEWS_FEEDS);
-  var promises=keys.map(function(name){
-    return fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(NEWS_FEEDS[name]))
-      .then(function(r){return r.json()})
-      .then(function(data){if(data.status==='ok'&&data.items)newsData[name]=data.items.slice(0,6);newsLoading[name]=false;return null})
-      .catch(function(){newsLoading[name]=false;return null});
-  });
-  Promise.all(promises).then(function(){renderNewsCards()});
+  fetch('news-data.json?t='+Date.now())
+    .then(function(r){return r.json()})
+    .then(function(data){
+      srcs.forEach(function(s){
+        newsData[s.text]=(data.sources&&data.sources[s.text])||[];
+        newsLoading[s.text]=false;
+      });
+      renderNewsCards();
+    })
+    .catch(function(){
+      srcs.forEach(function(s){newsLoading[s.text]=false});
+      renderNewsCards();
+    });
 }
 function renderNewsCards(){
   var list=document.getElementById('otherList');if(!list)return;
