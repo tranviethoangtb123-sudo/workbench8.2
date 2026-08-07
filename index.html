@@ -649,6 +649,7 @@ function renderOtherSection(id){
       list.innerHTML=tpl.innerHTML;
       var shi=document.getElementById('dietShiBuTemplate');
       if(shi)list.insertAdjacentHTML('beforeend',shi.innerHTML);
+      list.querySelectorAll('.diet-mod-hd h4').forEach(function(h){h.textContent=h.textContent.replace(/\s*\u25bc/g,'')});
     }
     return;
   }
