@@ -228,6 +228,18 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .diet-mod-bd.open{display:block}
 .diet-mod-bd p{margin:4px 0}
 .diet-mod-bd .diet-note{font-size:.72rem;color:#9ca3af;margin:2px 0 2px 12px}
+.shibu-cat{margin-bottom:12px;border:1px solid #f0f0f0;border-radius:10px;overflow:hidden;background:#fff}
+.shibu-cat-hd{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;background:#f9fafb;cursor:pointer;user-select:none;font-size:.78rem;font-weight:600;color:#1f2937}
+.shibu-cat-hd:hover{background:#f3f4f6}
+.shibu-cat-bd{display:none;padding:10px 12px}
+.shibu-cat-bd.open{display:block}
+.shibu-item{margin-bottom:10px;border-bottom:1px solid #f3f4f6;padding-bottom:10px}
+.shibu-item:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
+.shibu-name{font-size:.78rem;font-weight:600;color:#1f2937;margin-bottom:4px}
+.shibu-row{display:flex;gap:6px;font-size:.72rem;color:#4b5563;line-height:1.6}
+.shibu-label{flex-shrink:0;color:#9ca3af;width:32px}
+.shibu-note{margin-top:14px;padding:10px 12px;background:#f9fafb;border-radius:10px;border:1px solid #f0f0f0;font-size:.72rem;color:#4b5563;line-height:1.8}
+.shibu-note-title{font-weight:600;color:#1f2937;margin-bottom:6px}
 .diet-table{width:100%;border-collapse:collapse;margin:8px 0;font-size:.72rem}
 .diet-table th,.diet-table td{padding:6px 8px;border:1px solid #e5e7eb;text-align:left;vertical-align:top}
 .diet-table th{background:#f9fafb;font-weight:600;color:#6b7280;font-size:.68rem}
@@ -444,7 +456,124 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <input type="file" id="tmFile" accept="image/*" style="display:none" onchange="changeTravelImg(this,'preview')">
 <div id="langTemplate" style="display:none"><div class="lang-list" id="langList"></div></div>
 <div id="dietTemplate" style="display:none"><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>每周营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin-bottom:8px">烹饪原则</p><p class="diet-note">· 烹饪以蒸、煮、炖、凉拌为主，少油少盐（油≤25g/日，盐&lt;5g/日）</p><p class="diet-note">· 鱼类每周3次以上，优先深海鱼（三文鱼、秋刀鱼、鳕鱼）</p><p class="diet-note">· 每餐蔬菜占1/2，深色蔬菜优先（菠菜、西兰花、紫甘蓝）</p><p class="diet-note">· 每日1-2份低糖水果（蓝莓、草莓、猕猴桃），避免果汁</p><p class="diet-note">· 每日坚果10g（核桃、巴旦木），全谷物替代精米面</p><p class="diet-note">· 常用葱姜蒜、洋葱调味，兼具抗炎杀菌功效</p><table class="diet-table"><tr><th>日</th><th>餐</th><th>食谱</th></tr><tr><td rowspan="3">周一</td><td>早</td><td>燕麦粥（燕麦50g+蓝莓+核桃碎）、豆浆200ml</td></tr><tr><td>午</td><td>蒸鲈鱼、凉拌菠菜胡萝卜丝、杂粮饭、番茄蛋花汤</td></tr><tr><td>晚</td><td>清炖鸡胸肉冬瓜汤、蒜蓉西兰花、小米粥</td></tr><tr><td rowspan="3">周二</td><td>早</td><td>全麦面包+牛油果半个、希腊酸奶150g+草莓</td></tr><tr><td>午</td><td>秋刀鱼煎（少油）、蒸茄子拌蒜泥、糙米饭、紫菜蛋汤</td></tr><tr><td>晚</td><td>豆腐菌菇煲（香菇+金针菇+豆腐）、炒生菜、红薯粥</td></tr><tr><td rowspan="3">周三</td><td>早</td><td>小米南瓜粥、水煮蛋1个、凉拌黄瓜</td></tr><tr><td>午</td><td>三文鱼刺身/低温煎、芦笋炒虾仁（少油）、藜麦饭、冬瓜海带汤</td></tr><tr><td>晚</td><td>鸡胸肉沙拉（生菜+紫甘蓝+番茄+橄榄油柠檬汁）、蒸玉米</td></tr><tr><td rowspan="3">周四</td><td>早</td><td>红豆薏米粥、蒸紫薯100g、巴旦木5颗</td></tr><tr><td>午</td><td>清蒸鳕鱼、蒜蓉空心菜、荞麦面拌芝麻酱（少酱）、菌菇汤</td></tr><tr><td>晚</td><td>番茄炖牛腩（少油）、凉拌木耳洋葱、杂粮饭</td></tr><tr><td rowspan="3">周五</td><td>早</td><td>燕麦牛奶杯（燕麦+牛奶+猕猴桃+奇亚籽）、水煮蛋</td></tr><tr><td>午</td><td>蒜蓉蒸扇贝/生蚝、炒西兰花胡萝卜、糙米饭、紫菜豆腐汤</td></tr><tr><td>晚</td><td>凉拌鸡丝（鸡胸+黄瓜+香菜+醋）、蒸南瓜、绿豆粥</td></tr><tr><td rowspan="3">周六</td><td>早</td><td>全麦馒头、豆浆、核桃3颗+黑莓</td></tr><tr><td>午</td><td>清蒸三文鱼、凉拌紫甘蓝苹果丝、藜麦饭、番茄菌菇汤</td></tr><tr><td>晚</td><td>蒜蓉蒸茄子、豆腐拌皮蛋（少酱）、小米山药粥</td></tr><tr><td rowspan="3">周日</td><td>早</td><td>红薯粥、希腊酸奶+蓝莓+亚麻籽粉、水煮蛋</td></tr><tr><td>午</td><td>鳝鱼煎（少油）、清炒时令绿叶菜、荞麦面、莲藕排骨汤（少盐）</td></tr><tr><td>晚</td><td>凉拌木耳芹菜、蒸豆腐淋酱油（少盐）、杂粮饭</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>每月营养摄入 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><table class="diet-table"><tr><th>类别</th><th>每月推荐量</th><th>备注</th></tr><tr><td>鱼类</td><td>1.2-2.3 kg</td><td>深海鱼≥2次/周</td></tr><tr><td>畜禽肉</td><td>1.2-2.3 kg</td><td>优先瘦肉，少加工肉</td></tr><tr><td>蛋类</td><td>0.7-1.5 kg</td><td>约25-50个鸡蛋</td></tr><tr><td>奶制品</td><td>9-15 kg</td><td>日均300-500ml</td></tr><tr><td>大豆及坚果</td><td>0.8-1.1 kg</td><td>大豆+坚果日均25-35g</td></tr><tr><td>蔬菜</td><td>9-15 kg</td><td>深色蔬菜占1/2以上</td></tr><tr><td>水果</td><td>6-10.5 kg</td><td>低糖水果优先</td></tr><tr><td>谷薯</td><td>6-9 kg</td><td>全谷物和杂豆≥1.5kg</td></tr><tr><td>烹调油</td><td>0.75-0.9 kg</td><td>多种油交替</td></tr><tr><td>食盐</td><td>&lt;0.15 kg</td><td>含隐形盐&lt;5g/日</td></tr><tr><td>饮水</td><td>45-51 L</td><td>日均1500-1700ml</td></tr><tr><td>膳食纤维</td><td>750-900 g</td><td>蔬果谷薯为主要来源</td></tr><tr><td>维生素C</td><td>3 g</td><td>新鲜蔬果含量丰富</td></tr><tr><td>钙</td><td>24 g</td><td>奶制品最佳来源</td></tr><tr><td>铁</td><td>600 mg</td><td>女性需求高于男性</td></tr><tr><td>叶酸</td><td>12 mg DFE</td><td>育龄女性尤为重要</td></tr><tr><td>身体活动</td><td>180000步</td><td>每周150min中等强度运动</td></tr></table></div></div><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>抗炎抗糖抗氧食物 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"><p style="font-weight:600;color:#1f2937;margin:8px 0 4px">果蔬</p><div class="diet-food-list"><span class="diet-food-item">蓝莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">草莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">树莓/黑莓<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">樱桃（酸樱桃）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">石榴<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蔓越莓<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫葡萄<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">橙子/柠檬<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">猕猴桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠萝<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">苹果<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">梨<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">牛油果<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">番茄<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西兰花<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">菠菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">羽衣甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">花椰菜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芹菜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">芦笋<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">胡萝卜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜椒（红/黄）<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">洋葱<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">大蒜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">紫甘蓝<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">甜菜根<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">蘑菇<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红薯/紫薯<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜（鲜）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">姜黄（鲜）<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">西梅<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">芒果<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">木瓜<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">西瓜<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">肉类</p><div class="diet-food-list"><span class="diet-food-item">三文鱼<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">沙丁鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳝鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鳕鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">鲱鱼<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">虾<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牡蛎<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">鸡胸肉<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">草饲牛肉<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">瘦牛肉<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">金枪鱼<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">鸡肝<span class="diet-food-tag tag-anti3">抗氧</span></span></div><p style="font-weight:600;color:#1f2937;margin:12px 0 4px">其他</p><div class="diet-food-list"><span class="diet-food-item">核桃<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">山核桃<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">杏仁<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">榛子<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">葵花籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">南瓜籽<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">奇亚籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">亚麻籽<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">黑巧克力（≥70%）<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">抹茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">绿茶<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">红茶<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">咖啡<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">姜黄粉<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">肉桂<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">丁香<span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">生姜<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">迷送香<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">牛至<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">罗勒<span class="diet-food-tag tag-anti1">抗炎</span></span><span class="diet-food-item">特级初榨橄榄油<span class="diet-food-tag tag-anti1">抗炎</span><span class="diet-food-tag tag-anti2">抗糖</span><span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">枸杞<span class="diet-food-tag tag-anti3">抗氧</span></span><span class="diet-food-item">燕麦<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">豆类<span class="diet-food-tag tag-anti2">抗糖</span></span><span class="diet-food-item">苹果醋<span class="diet-food-tag tag-anti2">抗糖</span></span></div></div></div></div></div></div>
-<div id="dietShiBuTemplate" style="display:none"><div class="diet-module"><div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>食补 ▼</h4><button class="news-toggle">⌃</button></div><div class="diet-mod-bd"></div></div></div>
+<div id="dietShiBuTemplate" style="display:none">
+<div class="diet-module">
+<div class="diet-mod-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><h4>食补 ▼</h4><button class="news-toggle">⌃</button></div>
+<div class="diet-mod-bd">
+<div class="shibu-cat">
+<div class="shibu-cat-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span>健脾益气类</span><button class="news-toggle">⌃</button></div>
+<div class="shibu-cat-bd">
+<div class="shibu-item">
+<div class="shibu-name">① 四君子汤</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、茯苓15g、炒白术10g、炙甘草6g、山药20g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>益气健脾、渗湿和胃。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>亚健康期晨起乏力、食欲不振。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服，每日1剂，每周2-3次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">② 参苓白术散</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、茯苓15g、炒白术10g、山药20g、莲子15g、薏苡仁20g、砂仁3g（后下）、白扁豆15g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>健脾渗湿、益气和中。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>脾虚湿困、四肢沉重、便溏。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服或打粉冲服，每周2-3次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">③ 六君子汤</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、茯苓15g、炒白术10g、炙甘草6g、陈皮6g、法半夏6g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>益气健脾、燥湿化痰。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>脾虚兼痰湿、脘腹胀满。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服，每周2-3次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">④ 山药茯苓粥</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>山药30g、茯苓20g、粳米50g、红枣5枚。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>健脾益气、养胃安神。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>日常早餐基础方。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>晨起食用，每日或隔日。</span></div>
+</div>
+</div>
+</div>
+<div class="shibu-cat">
+<div class="shibu-cat-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span>养心安神类</span><button class="news-toggle">⌃</button></div>
+<div class="shibu-cat-bd">
+<div class="shibu-item">
+<div class="shibu-name">① 归脾汤</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、黄芪15g、炒白术10g、茯苓15g、龙眼肉10g、酸枣仁15g、远志6g、红枣5枚、炙甘草6g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>益气补血、健脾养心。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>心脾两虚、失眠健忘、注意力不集中。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服，每周1-2次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">② 莲子百合枣羹</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>莲子15g、百合12g、大枣5枚、糯米50g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>养心安神、健脾润肺。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>睡眠质量欠佳、晨起困倦。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>佐餐食用，每周2-3次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">③ 茯苓安神粥</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>茯苓20g、莲子15g、百合10g、小米50g。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>健脾宁心、清心安神。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>亚健康期入睡困难、多梦。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>晚餐食用，每周2-3次。</span></div>
+</div>
+</div>
+</div>
+<div class="shibu-cat">
+<div class="shibu-cat-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span>补肾填精类</span><button class="news-toggle">⌃</button></div>
+<div class="shibu-cat-bd">
+<div class="shibu-item">
+<div class="shibu-name">① 栗子山药炖鸡</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>栗子30g、山药30g、鸡肉200g、红枣5枚。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>补肾健脾、益气养血。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>运动后恢复、腰膝酸软。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>佐餐食用，每周1-2次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">② 黑芝麻核桃糊</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>黑芝麻20g、核桃15g、粳米30g、蜂蜜适量。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>补肝肾、益精血、润肠。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>晨起精力不足、脑力疲劳。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>早餐或加餐食用。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">③ 党参枸杞茶</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参10g、枸杞10g、红枣3枚。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>补气养阴、益肾明目。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>咖啡替代饮品。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>晨起代茶饮。</span></div>
+</div>
+</div>
+</div>
+<div class="shibu-cat">
+<div class="shibu-cat-hd" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span>气血双补类</span><button class="news-toggle">⌃</button></div>
+<div class="shibu-cat-bd">
+<div class="shibu-item">
+<div class="shibu-name">① 八珍汤</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、炒白术10g、茯苓15g、炙甘草6g、当归10g、熟地黄15g、白芍10g、川芎6g、红枣5枚。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>益气补血。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>亚健康期气血两虚、面色萎黄。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服，每周1-2次。</span></div>
+</div>
+<div class="shibu-item">
+<div class="shibu-name">② 归脾汤（气血双补）</div>
+<div class="shibu-row"><span class="shibu-label">配方</span><span>党参15g、黄芪15g、炒白术10g、茯苓15g、龙眼肉10g、酸枣仁15g、远志6g、当归10g、红枣5枚。</span></div>
+<div class="shibu-row"><span class="shibu-label">功效</span><span>益气补血、健脾养心。</span></div>
+<div class="shibu-row"><span class="shibu-label">适用</span><span>心脾两虚、失眠健忘、乏力。</span></div>
+<div class="shibu-row"><span class="shibu-label">用法</span><span>水煎服，每周1-2次。</span></div>
+</div>
+</div>
+</div>
+<div class="shibu-note">
+<div class="shibu-note-title">状态匹配速查</div>
+<p>1．正常状态（运动规律、精神良好）：首选山药茯苓粥（日常早餐），次选黑芝麻核桃糊（加餐）。注意事项：维持基础健脾，不需峻补。</p>
+<p>2．亚健康状态（乏力、睡不醒）：首选四君子汤配方+莲子百合枣羹，次选参苓白术散配方。注意事项：连续服用3-5天，症状缓解后减量。</p>
+<p>3．运动后恢复期：首选栗子山药炖鸡，次选六君子汤配方。注意事项：运动后30分钟内补充。</p>
+<p>4．咖啡戒断期：首选党参枸杞茶（替代咖啡），次选归脾汤配方。注意事项：逐步减量咖啡，2-4周过渡。</p>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="install-toast2" id="installToast2"><span>添加到桌面</span><button id="installBtn2">安装</button></div>
 <script>
