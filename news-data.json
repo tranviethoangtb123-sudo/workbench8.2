@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:04:44.866Z",
+  "updated": "2026-08-08T09:59:51.158Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Police officers investigated over handling of sex offender who murdered two women",
-        "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 07 Aug 2026 23:56:11 GMT"
-      },
-      {
-        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+        "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
         "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 07 Aug 2026 22:42:43 GMT"
+        "date": "Sat, 08 Aug 2026 06:16:44 GMT"
       },
       {
-        "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 07 Aug 2026 22:50:58 GMT"
+      },
+      {
+        "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 07 Aug 2026 23:23:12 GMT"
       },
       {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -68,41 +68,36 @@
         "date": "Fri, 07 Aug 2026 22:13:55 GMT"
       },
       {
-        "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-        "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 07 Aug 2026 21:24:17 GMT"
-      },
-      {
         "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
         "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 07 Aug 2026 22:07:00 GMT"
       },
       {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 08 Aug 2026 05:15:51 GMT"
+        "title": "Police officers investigated over handling of sex offender who murdered two women",
+        "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 08 Aug 2026 08:50:16 GMT"
       },
       {
-        "title": "Obesity rates have doubled in England since 1993 - what's going on?",
-        "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 07 Aug 2026 18:38:46 GMT"
+        "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
+        "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 08 Aug 2026 00:37:42 GMT"
+      },
+      {
+        "title": "I went for a full body MOT and the results came as a shock",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 08 Aug 2026 00:49:48 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
-        "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
-        "date": "Fri, 07 Aug 2026 22:35:20 +0000"
-      },
-      {
-        "title": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+        "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
         "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-        "date": "Sat, 08 Aug 2026 01:06:56 +0000"
+        "date": "Sat, 08 Aug 2026 09:38:06 +0000"
       },
       {
-        "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
-        "link": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
-        "date": "Fri, 07 Aug 2026 18:54:45 +0000"
+        "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+        "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+        "date": "Sat, 08 Aug 2026 08:04:22 +0000"
       },
       {
         "title": "Appeals Court Upholds Block on Trump Ballroom Construction",
@@ -110,9 +105,9 @@
         "date": "Fri, 07 Aug 2026 19:06:27 +0000"
       },
       {
-        "title": "Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim",
-        "link": "https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html",
-        "date": "Fri, 07 Aug 2026 17:42:06 +0000"
+        "title": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+        "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+        "date": "Fri, 07 Aug 2026 22:35:20 +0000"
       },
       {
         "title": "A Spurned Schumer Reaches Out to the Left",
@@ -128,6 +123,11 @@
         "title": "They’re Battle-Tested Democrats. Do Voters Care?",
         "link": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html",
         "date": "Fri, 07 Aug 2026 22:29:44 +0000"
+      },
+      {
+        "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+        "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+        "date": "Fri, 07 Aug 2026 18:56:02 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 05:30:53 +0000"
+        "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 09:38:58 +0000"
       },
       {
-        "title": "Violence is driving Palestinian Christians out of their Holy Land",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 05:28:45 +0000"
+        "title": "US announces $400m investment in Australian rare earth mine",
+        "link": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 09:30:12 +0000"
       },
       {
-        "title": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
-        "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 05:10:27 +0000"
+        "title": "Messi will decide when he retires, says Argentina FA chief",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 08:59:28 +0000"
       },
       {
-        "title": "Norway Football Federation calls for FIFA president to resign",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 04:37:56 +0000"
+        "title": "Typhoon Dolphin hits Japan, heads towards China",
+        "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 08:50:49 +0000"
       },
       {
-        "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 04:31:42 +0000"
+        "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 08:06:35 +0000"
       },
       {
-        "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
-        "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 04:29:46 +0000"
+        "title": "South Korea FA apologises over ‘sexual services’ allegations",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 07:49:21 +0000"
       },
       {
-        "title": "Russian strikes near Ukrainian capital kill three, including child",
-        "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 04:18:45 +0000"
+        "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+        "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 06:03:42 +0000"
       },
       {
-        "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-        "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
-        "date": "Sat, 08 Aug 2026 03:42:43 +0000"
+        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+        "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+        "date": "Sat, 08 Aug 2026 05:45:58 +0000"
       }
     ],
     "Financial Times": [
@@ -236,14 +236,14 @@
         "date": "Sat, 08 Aug 2026 04:00:32 GMT"
       },
       {
-        "title": "Spain reinstates border controls on Italy as tensions rise over migrants",
-        "link": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
-        "date": "Fri, 07 Aug 2026 22:06:08 GMT"
+        "title": "Widdecombe murder probe reopens inquiry into attempted burglary at Farage’s house",
+        "link": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1",
+        "date": "Sat, 08 Aug 2026 07:27:34 GMT"
       },
       {
-        "title": "Police investigating Ann Widdecombe murder reopen inquiry into attempted burglary",
-        "link": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1",
-        "date": "Fri, 07 Aug 2026 22:44:34 GMT"
+        "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
+        "link": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5",
+        "date": "Sat, 08 Aug 2026 09:16:56 GMT"
       },
       {
         "title": "Trump revives threat to sack Fed governor Lisa Cook",
@@ -251,51 +251,51 @@
         "date": "Fri, 07 Aug 2026 19:56:51 GMT"
       },
       {
-        "title": "US economy unexpectedly sheds 23,000 jobs in July",
-        "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-        "date": "Fri, 07 Aug 2026 20:02:22 GMT"
+        "title": "Spain reinstates border controls on Italy as tensions rise over migrants",
+        "link": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
+        "date": "Sat, 08 Aug 2026 09:45:12 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:Americans Got Wealthier but Don't Feel Like It",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281343?accountid=37826",
-        "date": "Fri, 07 Aug 2026 09:57:14 GMT"
+        "title": "ProQuest:display ad 103",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715521?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:28:18 GMT"
       },
       {
-        "title": "ProQuest:Remembering a Musical Union",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281335?accountid=37826",
-        "date": "Fri, 07 Aug 2026 09:57:14 GMT"
+        "title": "ProQuest:'Mad' Cliff- Top Dream On the Irish Coast: A couple wanted a home on the edge of the sea. So they braved 75-mph winds to turn a former sea-urchin farm into a modern, light-filled house.",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715519?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:29:24 GMT"
       },
       {
-        "title": "ProQuest:Holy Guacamole! Study Bares Avocado's Sex Life",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281331?accountid=37826",
-        "date": "Fri, 07 Aug 2026 08:54:00 GMT"
+        "title": "ProQuest:display ad 105",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715517?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:29:08 GMT"
       },
       {
-        "title": "ProQuest:display ad 40",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281330?accountid=37826",
-        "date": "Fri, 07 Aug 2026 09:57:15 GMT"
+        "title": "ProQuest:stock quote 89",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715515?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:28:25 GMT"
       },
       {
-        "title": "ProQuest:tbl of contents 73",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281329?accountid=37826",
-        "date": "Fri, 07 Aug 2026 08:53:00 GMT"
+        "title": "ProQuest:display ad 109",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715513?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:28:18 GMT"
       },
       {
-        "title": "ProQuest:Mamdani Cuts Out Business Elite: Corporate leaders ousted from board of charitable fund in latest swat at the rich",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281328?accountid=37826",
-        "date": "Fri, 07 Aug 2026 09:57:13 GMT"
+        "title": "ProQuest:display ad 101",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715492?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:29:52 GMT"
       },
       {
-        "title": "ProQuest:Kraft Heinz Raises Its Sales View Fo Year",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281324?accountid=37826",
-        "date": "Fri, 07 Aug 2026 08:53:48 GMT"
+        "title": "ProQuest:display ad 111",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715482?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:28:20 GMT"
       },
       {
-        "title": "ProQuest:MONEY & INVESTING",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372281323?accountid=37826",
-        "date": "Fri, 07 Aug 2026 08:53:56 GMT"
+        "title": "ProQuest:other 99",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3372715480?accountid=37826",
+        "date": "Sat, 08 Aug 2026 09:28:44 GMT"
       }
     ],
     "Bloomberg": [
@@ -343,6 +343,26 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+        "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+        "date": "Sat, 08 Aug 2026 09:31:00 +0000"
+      },
+      {
+        "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+        "link": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+        "date": "Sat, 08 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+        "link": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+        "date": "Sat, 08 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+        "link": "https://www.wired.com/story/best-solar-generators/",
+        "date": "Sat, 08 Aug 2026 09:00:00 +0000"
+      },
+      {
         "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
         "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
         "date": "Fri, 07 Aug 2026 18:54:04 +0000"
@@ -361,29 +381,14 @@
         "title": "Scientists Used AI to Create 16 New Viruses",
         "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
         "date": "Fri, 07 Aug 2026 14:13:57 +0000"
-      },
-      {
-        "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
-        "link": "https://www.wired.com/story/fan-deals-august-2026/",
-        "date": "Fri, 07 Aug 2026 13:56:51 +0000"
-      },
-      {
-        "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-        "link": "https://www.wired.com/story/best-webcams/",
-        "date": "Fri, 07 Aug 2026 11:32:00 +0000"
-      },
-      {
-        "title": "The 5 Best Laptop Power Banks I've Personally Tested (2026)",
-        "link": "https://www.wired.com/story/best-laptop-power-banks/",
-        "date": "Fri, 07 Aug 2026 11:30:00 +0000"
-      },
-      {
-        "title": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
-        "link": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
-        "date": "Fri, 07 Aug 2026 11:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+        "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+        "date": "2026-08-08 07:00:00"
+      },
       {
         "title": "The gaming site sponsored by Walmart lays off its editorial staff",
         "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
@@ -418,11 +423,6 @@
         "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
         "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
         "date": "2026-08-07 17:43:34"
-      },
-      {
-        "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-        "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-        "date": "2026-08-07 16:58:18"
       }
     ],
     "TechCrunch": [
@@ -469,12 +469,12 @@
     ],
     "Hacker News": [
       {
-        "title": "Mythos social engineering AISI INC-2026-07-28-01",
-        "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-        "date": "Sat, 08 Aug 2026 03:41:56 +0000"
+        "title": "Hardware backdoors in some x86 CPUs",
+        "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+        "date": "Sat, 08 Aug 2026 07:04:51 +0000"
       },
       {
-        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+        "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
         "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "date": "Sat, 08 Aug 2026 01:49:11 +0000"
       },
@@ -521,14 +521,14 @@
         "date": "2026-08-08T04:02:28+00:00"
       },
       {
+        "title": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vio0lp/greenland_issues_strong_warning_as_trumplinked/",
+        "date": "2026-08-08T05:59:39+00:00"
+      },
+      {
         "title": "Elon Musk Refuses Ukrainian Request to Enable Starlink for Deep Strikes Inside Russia",
         "link": "https://www.reddit.com/r/worldnews/comments/1viadam/elon_musk_refuses_ukrainian_request_to_enable/",
         "date": "2026-08-07T19:32:06+00:00"
-      },
-      {
-        "title": "Ukraine strikes six Russian shadow fleet vessels and ten energy facilities",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vifpy5/ukraine_strikes_six_russian_shadow_fleet_vessels/",
-        "date": "2026-08-07T23:08:00+00:00"
       },
       {
         "title": "Japan warns US government to stop using Nintendo and Pokemon in memes",
@@ -536,19 +536,19 @@
         "date": "2026-08-07T14:30:44+00:00"
       },
       {
+        "title": "Israel is revoking entry permits for U.S. activists involved in West Bank | Jewish volunteers who accompany Palestinian farmers during harvests say their travel authorizations vanished, sometimes while they were still in the country",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vij4ca/israel_is_revoking_entry_permits_for_us_activists/",
+        "date": "2026-08-08T01:47:23+00:00"
+      },
+      {
         "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
         "link": "https://www.reddit.com/r/worldnews/comments/1vhx6be/us_strikes_12bn_deal_to_pay_german_firm_to_halt/",
         "date": "2026-08-07T10:45:33+00:00"
       },
       {
-        "title": "A Ukrainian prankster and activist has said he infiltrated a closed video conference of Russian defense officials discussing military budgets, triggering panic as participants scrambled to disconnect.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vhwbao/a_ukrainian_prankster_and_activist_has_said_he/",
-        "date": "2026-08-07T09:57:44+00:00"
-      },
-      {
-        "title": "Israel is revoking entry permits for U.S. activists involved in West Bank | Jewish volunteers who accompany Palestinian farmers during harvests say their travel authorizations vanished, sometimes while they were still in the country",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vij4ca/israel_is_revoking_entry_permits_for_us_activists/",
-        "date": "2026-08-08T01:47:23+00:00"
+        "title": "Spain announces immediate border controls with Italy in migration spat",
+        "link": "https://www.reddit.com/r/worldnews/comments/1viqufr/spain_announces_immediate_border_controls_with/",
+        "date": "2026-08-08T08:46:47+00:00"
       }
     ],
     "PCMag": [],
