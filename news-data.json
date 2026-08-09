@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T06:09:49.436Z",
+  "updated": "2026-08-09T10:03:58.624Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,24 +48,24 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 09 Aug 2026 10:02:52 GMT"
+      },
+      {
         "title": "Andy Burnham to embark on cost of living tour through the UK",
         "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 08 Aug 2026 23:10:50 GMT"
       },
       {
-        "title": "Fifa criticises campaign to oust president Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 08 Aug 2026 22:06:44 GMT"
-      },
-      {
-        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
         "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 08 Aug 2026 23:13:35 GMT"
       },
       {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 08 Aug 2026 23:43:44 GMT"
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 08 Aug 2026 19:00:22 GMT"
       },
       {
         "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
@@ -73,9 +73,9 @@
         "date": "Sun, 09 Aug 2026 04:32:06 GMT"
       },
       {
-        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 08 Aug 2026 19:00:22 GMT"
+        "title": "Fifa criticises campaign to oust president Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 08 Aug 2026 22:06:44 GMT"
       },
       {
         "title": "Kellie Bright to leave EastEnders after 13 years",
@@ -90,24 +90,14 @@
     ],
     "The New York Times": [
       {
-        "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-        "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-        "date": "Sat, 08 Aug 2026 19:56:38 +0000"
+        "title": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
+        "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
+        "date": "Sun, 09 Aug 2026 09:00:28 +0000"
       },
       {
-        "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-        "date": "Sat, 08 Aug 2026 19:04:41 +0000"
-      },
-      {
-        "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-        "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-        "date": "Sat, 08 Aug 2026 14:57:24 +0000"
-      },
-      {
-        "title": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
-        "link": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
-        "date": "Sat, 08 Aug 2026 16:28:57 +0000"
+        "title": "The Lonely Crew at the Kennedy Center Will Miss Its…Mice",
+        "link": "https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html",
+        "date": "Sun, 09 Aug 2026 09:00:32 +0000"
       },
       {
         "title": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
@@ -115,19 +105,29 @@
         "date": "Sat, 08 Aug 2026 20:12:51 +0000"
       },
       {
-        "title": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-        "link": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
-        "date": "Sun, 09 Aug 2026 00:20:55 +0000"
+        "title": "Inside the War on Hezbollah’s Finances",
+        "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+        "date": "Sun, 09 Aug 2026 09:00:15 +0000"
       },
       {
-        "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
-        "link": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
-        "date": "Sat, 08 Aug 2026 14:16:27 +0000"
+        "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+        "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+        "date": "Sat, 08 Aug 2026 19:56:38 +0000"
       },
       {
-        "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
-        "link": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
-        "date": "Sat, 08 Aug 2026 09:02:06 +0000"
+        "title": "In Michigan, a Former Trump Critic Shifts Toward Election Skepticism",
+        "link": "https://www.nytimes.com/2026/08/09/us/politics/mike-rogers-michigan-senate-elections.html",
+        "date": "Sun, 09 Aug 2026 09:01:47 +0000"
+      },
+      {
+        "title": "Poll: Voters See Political Parties as More Extreme Than Their Own Candidates",
+        "link": "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html",
+        "date": "Sun, 09 Aug 2026 09:00:50 +0000"
+      },
+      {
+        "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
+        "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
+        "date": "Sun, 09 Aug 2026 09:00:49 +0000"
       }
     ],
     "The Guardian": [
@@ -157,6 +157,11 @@
         "date": "Thu, 06 Aug 2026 14:30:32 GMT"
       },
       {
+        "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+        "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+        "date": "Sun, 09 Aug 2026 07:00:08 GMT"
+      },
+      {
         "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
         "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
         "date": "Sat, 08 Aug 2026 05:00:37 GMT"
@@ -165,65 +170,60 @@
         "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
         "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
         "date": "Sat, 08 Aug 2026 04:08:18 GMT"
-      },
-      {
-        "title": "US police officer accused of killing three people in Mexico arrested at border",
-        "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-        "date": "Fri, 07 Aug 2026 20:49:24 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Lionel Messi returns to Argentina after father Jorge’s death",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 05:18:37 +0000"
+        "title": "It won’t be Trump who kills the ICC",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 09:05:47 +0000"
       },
       {
-        "title": "Iran issues new demands as Pezeshkian seeks deal",
-        "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 05:06:02 +0000"
+        "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 08:37:39 +0000"
       },
       {
-        "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 05:01:54 +0000"
+        "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
+        "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 08:37:37 +0000"
       },
       {
-        "title": "Car bomb hits Colombia highway day after new president sworn in",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 04:32:32 +0000"
+        "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+        "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 07:58:00 +0000"
       },
       {
-        "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 04:12:39 +0000"
+        "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 07:56:47 +0000"
       },
       {
-        "title": "Ghana’s cashew apples get a second life",
-        "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 04:07:39 +0000"
+        "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
+        "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 07:10:56 +0000"
       },
       {
-        "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-        "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 03:09:27 +0000"
+        "title": "Israel announces tender for 627 settler units in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 06:57:56 +0000"
       },
       {
-        "title": "Israeli settler attacks rise as West Bank residents lose land",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-        "date": "Sun, 09 Aug 2026 01:43:04 +0000"
+        "title": "Wildfire forces thousands of evacuations in Western Canada",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
+        "date": "Sun, 09 Aug 2026 06:10:08 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "UK state subsidies soar as post-Brexit grants boost energy projects",
+        "title": "UK state subsidies soar as post-Brexit support boosts energy projects",
         "link": "https://www.ft.com/content/560ff425-c1ac-4eef-b8da-e6cdb0a412a3?syn-25a6b1a6=1",
         "date": "Sun, 09 Aug 2026 04:00:10 GMT"
       },
       {
-        "title": "How a made-up agency found its way into Nigeria’s budget",
-        "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
-        "date": "Sun, 09 Aug 2026 04:00:09 GMT"
+        "title": "Burnham failed to end rough sleeping as a mayor — can he succeed as PM?",
+        "link": "https://www.ft.com/content/7aafc76c-c381-4381-a89c-e92c9db60671?syn-25a6b1a6=1",
+        "date": "Sun, 09 Aug 2026 04:00:17 GMT"
       },
       {
         "title": "The Bayeux Tapestry loan is a model for the Parthenon Marbles",
@@ -241,9 +241,9 @@
         "date": "Sat, 08 Aug 2026 15:36:35 GMT"
       },
       {
-        "title": "Burnham failed to end rough sleeping as a mayor — can he succeed as PM?",
-        "link": "https://www.ft.com/content/7aafc76c-c381-4381-a89c-e92c9db60671?syn-25a6b1a6=1",
-        "date": "Sun, 09 Aug 2026 04:00:17 GMT"
+        "title": "How a made-up agency found its way into Nigeria’s budget",
+        "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
+        "date": "Sun, 09 Aug 2026 04:00:09 GMT"
       },
       {
         "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
@@ -338,6 +338,16 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+        "link": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+        "date": "Sun, 09 Aug 2026 09:37:00 +0000"
+      },
+      {
+        "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+        "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+        "date": "Sun, 09 Aug 2026 09:30:00 +0000"
+      },
+      {
         "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
         "link": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
         "date": "Sat, 08 Aug 2026 14:03:58 +0000"
@@ -366,16 +376,6 @@
         "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
         "link": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
         "date": "Sat, 08 Aug 2026 10:36:00 +0000"
-      },
-      {
-        "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
-        "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
-        "date": "Sat, 08 Aug 2026 10:30:00 +0000"
-      },
-      {
-        "title": "How to Disable Gemini in Gmail and Google Docs",
-        "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-        "date": "Sat, 08 Aug 2026 10:00:00 +0000"
       }
     ],
     "The Verge": [
@@ -464,6 +464,21 @@
     ],
     "Hacker News": [
       {
+        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+        "date": "Sun, 09 Aug 2026 08:00:51 +0000"
+      },
+      {
+        "title": "There Are Magic Hexagons of Every Order",
+        "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+        "date": "Sun, 09 Aug 2026 07:19:58 +0000"
+      },
+      {
+        "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+        "link": "https://github.com/jmarshall23/msword",
+        "date": "Sun, 09 Aug 2026 05:23:41 +0000"
+      },
+      {
         "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
         "link": "http://longbets.org/601/",
         "date": "Sun, 09 Aug 2026 04:30:26 +0000"
@@ -484,24 +499,9 @@
         "date": "Sun, 09 Aug 2026 03:13:01 +0000"
       },
       {
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "date": "Sun, 09 Aug 2026 02:01:38 +0000"
-      },
-      {
         "title": "Incentives are for losers",
         "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
         "date": "Sun, 09 Aug 2026 01:49:48 +0000"
-      },
-      {
-        "title": "TheoremDB – A public workspace for machine mathematics",
-        "link": "https://theoremdb.org/",
-        "date": "Sun, 09 Aug 2026 01:23:36 +0000"
-      },
-      {
-        "title": "Melatonin impairs morning cognition in healthy young adults",
-        "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-        "date": "Sun, 09 Aug 2026 00:59:58 +0000"
       }
     ],
     "Reddit": [
@@ -526,24 +526,24 @@
         "date": "2026-08-08T20:36:43+00:00"
       },
       {
+        "title": "Israel Blocked Transfer of U.S. Iron Dome Systems to Ukraine Over Fears of Technology Leaks to Iran",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vjjwxv/israel_blocked_transfer_of_us_iron_dome_systems/",
+        "date": "2026-08-09T07:57:20+00:00"
+      },
+      {
+        "title": "Zelenskyy: Putin plans unannounced mobilisation to pressure Ukraine and Europe",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vjhzrn/zelenskyy_putin_plans_unannounced_mobilisation_to/",
+        "date": "2026-08-09T06:06:20+00:00"
+      },
+      {
         "title": "Zelenskyy on results of 40-day operation against Russia: I am satisfied",
         "link": "https://www.reddit.com/r/worldnews/comments/1vj507f/zelenskyy_on_results_of_40day_operation_against/",
         "date": "2026-08-08T19:37:20+00:00"
       },
       {
-        "title": "'We understand all their weak points' — Zelensky 'satisfied' with Ukraine's '40-day campaign,' suggests more strikes on Russian logistics planned",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vja9u1/we_understand_all_their_weak_points_zelensky/",
-        "date": "2026-08-08T23:28:44+00:00"
-      },
-      {
-        "title": "US Agrees to Monthly Patriot Interceptor Deliveries to Ukraine, Zelenskyy Says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1viu1eq/us_agrees_to_monthly_patriot_interceptor/",
-        "date": "2026-08-08T11:53:18+00:00"
-      },
-      {
-        "title": "Iran links Hormuz reopening to US meeting promises",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vje482/iran_links_hormuz_reopening_to_us_meeting_promises/",
-        "date": "2026-08-09T02:37:45+00:00"
+        "title": "North Korea Could Deploy Up to 50,000 Troops to Russia, Zelenskyy Says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vjl6tf/north_korea_could_deploy_up_to_50000_troops_to/",
+        "date": "2026-08-09T09:14:32+00:00"
       }
     ],
     "PCMag": [],
