@@ -21,15 +21,15 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .overlay.show{display:block}
 
 /* ── Sidebar ── */
-.sidebar{position:fixed;top:0;left:0;bottom:0;width:200px;background:#fff;z-index:100;transform:translateX(-100%);transition:transform .25s ease;box-shadow:2px 0 16px rgba(0,0,0,.08);display:flex;flex-direction:column;overflow-y:auto}
+.sidebar{position:fixed;top:0;left:0;bottom:0;width:200px;background:#050505;z-index:100;transform:translateX(-100%);transition:transform .25s ease;box-shadow:2px 0 16px rgba(0,0,0,.4);display:flex;flex-direction:column;overflow-y:auto}
 .sidebar.open{transform:translateX(0)}
-.sidebar-brand{display:flex;align-items:center;gap:10px;padding:16px;border-bottom:1px solid #e5e7eb}
-.sidebar-brand img{width:32px;height:32px;border-radius:50%;object-fit:cover}
-.sidebar-brand span{font-weight:600;font-size:.9rem;color:#1f2937}
+.sidebar-brand{display:flex;align-items:center;gap:10px;padding:16px;border-bottom:1px solid rgba(255,255,255,.14)}
+.sidebar-brand img{width:32px;height:32px;object-fit:cover;border:1px solid #fff}
+.sidebar-brand span{font-weight:600;font-size:.9rem;color:#fff}
 .sidebar-nav{flex:1;padding:8px 0}
-.sidebar-item{display:flex;align-items:center;gap:10px;padding:10px 16px;cursor:pointer;color:#6b7280;font-size:.78rem;transition:all .12s;border-left:3px solid transparent}
-.sidebar-item:hover{background:#f3f4f6;color:#374151}
-.sidebar-item.active{color:#1f2937;background:#f3f4f6;border-left-color:#1f2937;font-weight:600}
+.sidebar-item{display:flex;align-items:center;gap:10px;padding:10px 16px;cursor:pointer;color:rgba(255,255,255,.72);font-size:.78rem;transition:all .12s;border-left:3px solid transparent}
+.sidebar-item:hover{background:rgba(255,255,255,.08);color:#fff}
+.sidebar-item.active{color:#fff;background:rgba(255,255,255,.14);border-left-color:#fff;font-weight:600}
 .sidebar-item svg{width:18px;height:18px;flex-shrink:0}
 
 /* ── App Wrap ── */
