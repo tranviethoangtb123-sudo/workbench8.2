@@ -254,7 +254,8 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 
 .travel-canvas{min-height:calc(100dvh - 92px);padding:4px 0 12px;display:flex;flex-direction:column;gap:18px}
 .travel-hero{width:100%;max-width:520px;margin:0 auto;background:#fff;border-radius:28px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.16);position:relative}
-.travel-hero-media{display:block;width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat;cursor:pointer}
+.travel-hero-media{display:block;position:relative;width:100%;aspect-ratio:4/3;background:#D7D7D9 url('canyon.jpg') center/cover no-repeat;cursor:pointer}
+.file-input-inside{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;z-index:2}
 .travel-hero-gear{position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;border:none;background:rgba(0,0,0,.32);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;padding:0;transition:background .15s,transform .12s}
 .travel-hero-gear:hover{background:rgba(0,0,0,.48)}
 .travel-hero-gear:active{transform:scale(.92)}
@@ -282,7 +283,7 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 .travel-edit label{display:block;font-size:.72rem;color:#6b7280;margin:12px 0 4px}
 .travel-edit input[type="text"]{width:100%;padding:9px 10px;border-radius:10px;border:1px solid #d1d5db;font-size:.82rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none}
 .travel-edit input[type="text"]:focus{border-color:#1f2937}
-.travel-edit .te-preview{width:100%;aspect-ratio:4/3;border-radius:12px;background:#eee url('canyon.jpg') center/cover no-repeat;cursor:pointer;border:1px solid #e5e7eb}
+.travel-edit .te-preview{position:relative;width:100%;aspect-ratio:4/3;border-radius:12px;background:#eee url('canyon.jpg') center/cover no-repeat;cursor:pointer;border:1px solid #e5e7eb}
 .travel-edit-actions{display:flex;gap:10px;margin-top:16px}
 .travel-edit-actions button{flex:1;padding:10px;border-radius:10px;font-size:.82rem;font-weight:500;cursor:pointer;font-family:inherit;border:none}
 .te-btn-cancel{background:#f3f4f6;color:#1f2937}
@@ -420,13 +421,12 @@ body{margin:0;padding:0;font-family:"PingFang SC","Microsoft YaHei","Hiragino Sa
 <h3>编辑旅行卡片</h3>
 <label for="teName">目的地名称</label><input id="teName" type="text" placeholder="输入目的地">
 <label>封面图片</label>
-<label class="te-preview" id="tePreview" for="travelImgFile"></label>
+<label class="te-preview" id="tePreview"><input type="file" id="travelImgFile" accept="image/*" class="file-input-inside" onchange="onTravelImgPick(this)"></label>
 <label for="teTarget">目标金额</label><input id="teTarget" type="text" inputmode="decimal" placeholder="0">
 <label for="teSaved">已存金额</label><input id="teSaved" type="text" inputmode="decimal" placeholder="0">
 <div class="travel-edit-actions"><button class="te-btn-cancel" onclick="closeTravelEditor()">取消</button><button class="te-btn-save" onclick="saveTravelEditor()">保存</button></div>
 </div>
 </div>
-<input type="file" id="travelImgFile" accept="image/*" class="visually-hidden-file" onchange="onTravelImgPick(this)">
 <div class="travel-modal-overlay" id="travelModalOverlay" style="display:none" onclick="closeTravelEdit()">
 <div class="travel-modal" id="travelModal" onclick="event.stopPropagation()">
 <h3>编辑旅行计划</h3>
@@ -1181,7 +1181,7 @@ function renderTravelCards(){
     var id=c.id;
     var mediaStyle=c.img?'background-image:url('+c.img+')':'background-image:url(canyon.jpg)';
     return '<div class="travel-hero" id="travelHero_'+id+'" data-card="'+id+'">'
-      +'<label class="travel-hero-media" style="'+mediaStyle+'" for="travelImgFile" onclick="onTravelMediaClick(\''+id+'\')"></label>'
+      +'<label class="travel-hero-media" style="'+mediaStyle+'"><input type="file" accept="image/*" class="file-input-inside" data-card="'+id+'" onchange="onTravelImgPick(this)"></label>'
       +'<button class="travel-hero-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_SVG+'</button>'
       +'<div class="travel-hero-slot">'
       +'<div class="travel-main">'
@@ -1324,6 +1324,8 @@ function applyTravelImage(dataUrl){
 }
 function onTravelImgPick(inp){
   var f=inp.files[0];if(!f)return;
+  var cardId=inp.getAttribute('data-card');
+  if(cardId){_travelEditId=cardId;_travelDirectImg=true;_travelEditImg=null}
   var reader=new FileReader();
   reader.onerror=function(){showTravelToast('读取图片失败，请重试')};
   reader.onload=function(e){
