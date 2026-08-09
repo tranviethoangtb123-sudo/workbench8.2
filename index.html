@@ -16,7 +16,8 @@
 .card,.task-card,.travel-hero,.travel-edit,.mgr-sheet,.diet-module,.shibu-cat,.news-card{background:#C3C3C3!important}
 .card,.task-card-header,.diet-module,.shibu-cat,.shibu-item,.shibu-note,.mgr-item,.tm-item,.news-feed-item,.news-source,.timeline-item,.inspo-item,.kanban-item{border-color:#A6A6A6!important}
 .diet-table th,.diet-table td{border-color:#A6A6A6!important}
-.card,.card *:not(.travel-hero-media):not(.te-preview),.task-card,.task-card *,.travel-hero,.travel-hero *:not(.travel-hero-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#C3C3C3!important;border-color:transparent!important;box-shadow:none!important;color:#1f2937!important}
+.card,.card *:not(.travel-hero-media):not(.te-preview),.task-card,.task-card *:not(.travel-hero-media):not(.te-preview),.travel-hero,.travel-hero *:not(.travel-hero-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#C3C3C3!important;border-color:transparent!important;box-shadow:none!important;color:#1f2937!important}
+.card .travel-hero{border:1px solid #1f2937!important}
 .tm-check,.mgr-check,.subtask-check{border-color:#1f2937!important;background:transparent!important}
 .tm-check.checked,.mgr-check.checked,.subtask-check.done{background:#1f2937!important;border-color:#1f2937!important}
 html{font-size:15px;-webkit-text-size-adjust:100%}
@@ -44,11 +45,13 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 /* ── App Wrap ── */
 .app-wrap{max-width:1440px;margin:0 auto;padding:0 20px}
 @media(max-width:768px){.app-wrap{padding:0 12px}}
+#otherSections{padding:0 20px}
+@media(max-width:768px){#otherSections{padding:0 12px}}
 
 /* ── Top Nav ── */
 .topnav{display:flex;align-items:center;justify-content:space-between;padding:8px 0 4px;gap:16px;z-index:50;background:#FFFDF4}
 .topnav-left{display:flex;align-items:center;gap:12px}
-.menu-btn2{width:36px;height:36px;border-radius:8px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1.1rem;transition:all .12s;flex-shrink:0}
+.menu-btn2{width:36px;height:36px;border:none;background:transparent;color:#1f2937;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1.1rem;transition:all .12s;flex-shrink:0}
 .menu-btn2:hover{border-color:#9ca3af}
 .page-title{font-size:1.1rem;font-weight:700;color:#1f2937;white-space:nowrap}
 .topnav-right{display:flex;align-items:center;gap:10px}
