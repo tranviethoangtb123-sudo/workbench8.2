@@ -1330,7 +1330,7 @@ function onTravelImgPick(inp){
     var src=e.target.result;
     var img=new Image();
     img.onload=function(){
-      var MAX=1280;
+      var MAX=2560;
       var scale=Math.min(1,MAX/Math.max(img.width,img.height));
       var w=Math.max(1,Math.round(img.width*scale));
       var h=Math.max(1,Math.round(img.height*scale));
