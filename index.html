@@ -707,7 +707,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('news-section',id==='news');
   if(os)os.classList.toggle('tmpmemo-section',id==='tmpmemo');
   var secCard=document.querySelector('#otherSections .card.task-card');
-  var divSections=['study','work','workext','books','tmplife','med'];
+  var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
   var list=document.getElementById('otherList');
   if(id==='lang'){
