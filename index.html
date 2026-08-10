@@ -80,8 +80,8 @@ body,.topnav,#otherSections,#dashboard,.app-wrap,.main-content,.card,.task-card,
 #otherSections.tmpmemo-section .task-card-body{padding:10px 16px!important}
 #otherSections.tmpmemo-section .task-card-header{padding:12px 16px!important;background:#fff!important}
 #otherSections.tmpmemo-section .tm-item{padding:4px 0!important;background:transparent!important;border-bottom:1px solid #f3f4f6!important}
-.section-divider{position:relative}
-.section-divider::after{content:'';position:absolute;left:1em;right:1em;bottom:0;height:1px;background:#C8CACC}
+.section-divider{position:relative;overflow:visible!important}
+.section-divider::after{content:'';position:absolute;left:1em;right:1em;bottom:-1px;height:1px;background:#C8CACC;z-index:5}
 html{font-size:15px;-webkit-text-size-adjust:100%}
 @font-face{font-family:'AppZH';src:local('Helvetica'),local('Helvetica Neue'),local('PingFang SC'),local('Microsoft YaHei');unicode-range:U+2E80-9FFF,U+F900-FAFF,U+3000-303F,U+FF00-FFEF}
 @font-face{font-family:'AppEN';src:local('Futura'),local('Helvetica Neue'),local('Helvetica');unicode-range:U+0041-005A,U+0061-007A,U+00C0-024F}
