@@ -318,8 +318,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-card{display:flex;flex-direction:column;height:300px;background:#FFFDF4;border-radius:0;overflow:hidden}
 .travel-card-media{position:relative;flex:1;background-color:#FFFDF4;background-size:cover;background-position:center}
 .travel-card-pct{position:absolute;top:11px;left:11px;font-size:14px;line-height:14px;color:#1f2937;z-index:2}
-#otherSections .travel-card .travel-card-gear{background:#FFFDF4!important;background-color:#FFFDF4!important;border:0!important;box-shadow:none!important;appearance:none;-webkit-appearance:none;outline:none}
-.travel-card-gear{position:absolute;top:11px;right:11px;height:16px;width:16px;background:#FFFDF4;border:none;padding:0;color:#1f2937;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
+#otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important;appearance:none;-webkit-appearance:none;outline:none;color:#fff!important}
+.travel-card-gear{position:absolute;top:11px;right:11px;height:16px;width:16px;background:#000;border:none;padding:0;color:#fff;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
 .travel-card-gear svg{width:14px;height:14px}
 .travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
 .travel-card-info{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;padding:1em 0 2em;background:#F2F2F2}
@@ -327,7 +327,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-card-amounts div{font-size:14px;color:#1f2937;padding-left:4px}
 .travel-card-name{font-size:14px;color:#1f2937;text-align:right;max-width:50%;padding-right:4px}
 #otherSections .travel-card-pct,#otherSections .travel-card-gear{background:transparent!important}
-#otherSections .travel-card,#otherSections .travel-card-media,#otherSections .travel-card-info{background:#FFFDF4!important}
+#otherSections .travel-card,#otherSections .travel-card-info{background:#FFFDF4!important}
+#otherSections .travel-card-media{background-color:#FFFDF4!important}
 #otherSections .travel-card .travel-card-gear{background:transparent!important;background-color:transparent!important;border:0!important;box-shadow:none!important}
 .travel-edit-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
 .travel-edit-overlay.show{display:flex}
