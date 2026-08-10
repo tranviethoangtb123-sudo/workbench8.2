@@ -1308,7 +1308,7 @@ function renderTravelCards(){
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
       +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
       +'<span class="travel-card-pct" id="travelPct_'+id+'">'+pct+'%</span>'
-      +'<button class="travel-card-gear" onclick="onTravelGearClick(event,\''+id+'\')" title="更换图片" aria-label="更换图片">'+TRAVEL_GEAR_THIN_SVG+'</button>'
+      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_THIN_SVG+'</button>'
       +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
       +'</div>'
       +'<div class="travel-card-info">'
