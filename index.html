@@ -77,6 +77,9 @@ body,.topnav,#otherSections,#dashboard,.app-wrap,.main-content,.card,.task-card,
 #otherSections:not(.travel-section) .subtask-check,#otherSections:not(.travel-section) .mgr-check,#otherSections:not(.travel-section) .tm-check,#dashboard .subtask-check{border:1px solid #000!important;background:transparent!important}
 #otherSections:not(.travel-section) .subtask-check.done,#otherSections:not(.travel-section) .mgr-check.checked,#otherSections:not(.travel-section) .tm-check.checked,#dashboard .subtask-check.done{background:#000!important;border-color:#000!important}
 #otherSections.news-section .task-card-body{padding:10px 16px!important}
+#otherSections.tmpmemo-section .task-card-body{padding:10px 16px!important}
+#otherSections.tmpmemo-section .task-card-header{padding:12px 16px!important;background:#fff!important}
+#otherSections.tmpmemo-section .tm-item{padding:4px 0!important;background:transparent!important;border-bottom:1px solid #f3f4f6!important}
 .section-divider{position:relative}
 .section-divider::after{content:'';position:absolute;left:1em;right:1em;bottom:0;height:1px;background:#C8CACC}
 html{font-size:15px;-webkit-text-size-adjust:100%}
@@ -702,6 +705,7 @@ function renderOtherSection(id){
   var data=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
   var os=document.getElementById('otherSections');if(os)os.classList.toggle('travel-section',id==='travel');
   if(os)os.classList.toggle('news-section',id==='news');
+  if(os)os.classList.toggle('tmpmemo-section',id==='tmpmemo');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
