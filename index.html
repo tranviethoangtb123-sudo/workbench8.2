@@ -711,7 +711,7 @@ function renderOtherSection(id){
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
-  if(secCard)secCard.classList.toggle('no-section-title',id==='lang'||id==='tmpmemo'||id==='diet');
+  if(secCard)secCard.classList.toggle('no-section-title',id==='lang'||id==='tmpmemo'||id==='diet'||id==='travel');
   var list=document.getElementById('otherList');
   if(id==='lang'){
     var langTpl=document.getElementById('langTemplate');
