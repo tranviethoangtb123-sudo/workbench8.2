@@ -695,7 +695,7 @@ function switchToSection(id){
     dash.style.display='';other.style.display='none';
   }else{
     dash.style.display='none';other.style.display='';
-    document.getElementById('otherTitle').textContent=SECTIONS.find(function(s){return s.id===id}).name;document.getElementById('otherList').innerHTML='';
+    document.getElementById('otherTitle').textContent=(id==='study'?'学习任务':SECTIONS.find(function(s){return s.id===id}).name);document.getElementById('otherList').innerHTML='';
     renderOtherSection(id);
   }
   // Update manage button to work for this section
