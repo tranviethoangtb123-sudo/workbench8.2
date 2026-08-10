@@ -319,7 +319,7 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-card-media{position:relative;flex:1;background-color:#FFFDF4;background-size:cover;background-position:center}
 .travel-card-pct{position:absolute;top:11px;left:11px;font-size:14px;line-height:14px;color:#1f2937;z-index:2}
 #otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important;appearance:none;-webkit-appearance:none;outline:none;color:#fff!important}
-.travel-card-gear{position:absolute;top:11px;right:11px;height:16px;width:16px;background:#000;border:none;padding:0;color:#fff;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
+.travel-card-gear{position:absolute;top:11px;right:11px;height:18px;width:18px;background:#000;border:none;padding:0;color:#fff;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
 .travel-card-gear svg{width:14px;height:14px}
 .travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
 .travel-card-info{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;padding:1em 0 2em;background:#F2F2F2}
@@ -1310,7 +1310,7 @@ function renderTravelCards(){
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
       +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
       +'<span class="travel-card-pct" id="travelPct_'+id+'">'+pct+'%</span>'
-      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_THIN_SVG+'</button>'
+      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑"></button>'
       +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
       +'</div>'
       +'<div class="travel-card-info">'
