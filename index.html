@@ -16,7 +16,7 @@
 .card,.task-card,.travel-hero,.travel-edit,.mgr-sheet,.diet-module,.shibu-cat,.news-card{background:#C3C3C3!important}
 .card,.task-card-header,.diet-module,.shibu-cat,.shibu-item,.shibu-note,.mgr-item,.tm-item,.news-feed-item,.news-source,.timeline-item,.inspo-item,.kanban-item{border-color:#A6A6A6!important}
 .diet-table th,.diet-table td{border-color:#A6A6A6!important}
-.card,.card *:not(.travel-hero-media):not(.te-preview),.task-card,.task-card *:not(.travel-hero-media):not(.te-preview),.travel-hero,.travel-hero *:not(.travel-hero-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#C3C3C3!important;border-color:transparent!important;box-shadow:none!important;color:#1f2937!important}
+.card,.card *:not(.travel-hero-media):not(.travel-card-media):not(.te-preview),.task-card,.task-card *:not(.travel-hero-media):not(.travel-card-media):not(.te-preview),.travel-hero,.travel-hero *:not(.travel-hero-media):not(.travel-card-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#C3C3C3!important;border-color:transparent!important;box-shadow:none!important;color:#1f2937!important}
 #otherSections .travel-hero{border:1px solid #1f2937!important}
 #otherSections .card.task-card{background:#FFFDF4!important;border-color:transparent!important;box-shadow:none!important}
 #otherSections .task-card-header,#otherSections .task-card-header *{background:transparent!important;border:0!important;border-bottom:0!important}
@@ -31,7 +31,7 @@
 .tm-check.checked,.mgr-check.checked,.subtask-check.done{background:#1f2937!important;border-color:#1f2937!important}
 #otherSections .tm-check,#otherSections .mgr-check,#otherSections .subtask-check{border:2px solid #1f2937!important;background:transparent!important;display:inline-block!important}
 #otherSections .tm-check.checked,#otherSections .mgr-check.checked,#otherSections .subtask-check.done{background:#1f2937!important;border-color:#C3C3C3!important}
-.card,.card *:not(.travel-hero-media):not(.te-preview),.task-card,.task-card *:not(.travel-hero-media):not(.te-preview),.travel-hero,.travel-hero *:not(.travel-hero-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#FFFDF4!important;border-color:#C3C3C3!important;box-shadow:none!important;color:#1f2937!important}
+.card,.card *:not(.travel-hero-media):not(.travel-card-media):not(.te-preview),.task-card,.task-card *:not(.travel-hero-media):not(.travel-card-media):not(.te-preview),.travel-hero,.travel-hero *:not(.travel-hero-media):not(.travel-card-media),.travel-edit,.travel-edit *:not(.te-preview),.mgr-sheet,.mgr-sheet *,.diet-module,.diet-module *,.shibu-cat,.shibu-cat *,.news-card,.news-card *{background:#FFFDF4!important;border-color:#C3C3C3!important;box-shadow:none!important;color:#1f2937!important}
 #otherSections:not(.travel-section) .tm-item,#otherSections:not(.travel-section) .news-feed-item,#otherSections:not(.travel-section) .mgr-item,#otherSections:not(.travel-section) .shibu-item,#otherSections:not(.travel-section) .timeline-item,#otherSections:not(.travel-section) .inspo-item,#otherSections:not(.travel-section) .kanban-item{border-bottom:1px solid #C3C3C3!important}
 #otherSections .tm-check,#otherSections .mgr-check,#otherSections .subtask-check{border:1px solid #C3C3C3!important;background:transparent!important}
 #otherSections .travel-hero{border:none!important;background:#FFFDF4!important}
@@ -315,6 +315,16 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-pct .pct-ring{fill:none;stroke:#1f2937;stroke-width:3.5;stroke-linecap:round;transition:stroke-dashoffset .2s}
 .travel-pct .pct-text{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.95rem;font-weight:600;color:#1f2937}
 .travel-empty{color:#AEAEB2;text-align:center;padding:80px 20px;font-size:13px}
+.travel-card{display:flex;flex-direction:column;height:300px;background:#FFFDF4;border-radius:0;overflow:hidden}
+.travel-card-media{position:relative;flex:1;background-color:#F5F5F5;background-size:cover;background-position:center}
+.travel-card-pct{position:absolute;top:4px;left:4px;font-size:14px;line-height:14px;color:#1f2937;z-index:2}
+.travel-card-gear{position:absolute;top:4px;right:4px;height:14px;width:14px;background:transparent;border:none;padding:0;color:#1f2937;display:flex;align-items:center;justify-content:center;z-index:3}
+.travel-card-gear svg{width:14px;height:14px}
+.travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
+.travel-card-info{flex:1;display:flex;align-items:center;justify-content:space-between;padding:0 16px;background:#FFFDF4}
+.travel-card-amounts{display:flex;flex-direction:column;gap:10px;align-items:flex-start}
+.travel-card-amounts div{font-size:14px;color:#1f2937}
+.travel-card-name{font-size:14px;color:#1f2937;text-align:right;max-width:50%}
 .travel-edit-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
 .travel-edit-overlay.show{display:flex}
 .travel-edit{background:#fff;border-radius:20px;width:100%;max-width:360px;padding:20px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
@@ -1279,7 +1289,47 @@ function renderTravelCards(){
     var pct=c.target>0?Math.min(100,Math.round((c.saved||0)/c.target*100)):0;
     return '<div class="tcard"><div class="tcard-nav"><span class="tcn-back">‹</span><span class="tcn-title">'+escH(c.name||'旅行计划')+'</span><span class="tcn-more" title="编辑" onclick="openTravelEditCard(\''+c.id+'\')">⋯</span></div><div class="tcard-body"><div class="tcard-info-row"><span class="tir-label">储蓄进度</span><span class="tir-value">'+pct+'%</span></div></div><div class="tcard-amounts"><div class="tcard-amount"><div class="ta-label">目标金额</div><div class="ta-num">'+fmtMoney(c.target||0)+'</div></div><div class="tcard-amount"><div class="ta-label">目前已存</div><div class="ta-num">'+fmtMoney(c.saved||0)+'</div></div></div><div class="tcard-img'+(c.img?' has-img':'')+'" style="'+(c.img?'background-image:url('+c.img+')':'')+'" onclick="selectTravelImg(\''+c.id+'\')">'+(c.img?'':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg><span>点击添加/更换图片</span>')+'</div><div class="tcard-actions"><button class="tcard-btn tcard-btn-cancel" onclick="openTravelEditCard(\''+c.id+'\')">取消</button><button class="tcard-btn tcard-btn-save" onclick="openTravelEditCard(\''+c.id+'\')">保存</button></div></div></div>';
   }).join('');
-}function openTravelEditCard(id){
+}
+var TRAVEL_GEAR_THIN_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>';
+function renderTravelCards(){
+  var canvas=document.getElementById('travelCanvas');
+  if(!canvas)return;
+  if(!travelCards.length){
+    canvas.innerHTML='<div class="travel-empty">暂无旅行卡片，点击右下角「管理」添加</div>';
+    return;
+  }
+  canvas.innerHTML=travelCards.map(function(c){
+    var id=c.id;
+    var mediaStyle=c.img?'background-image:url('+c.img+')':'';
+    var pct=c.target>0?Math.min(100,Math.round((parseFloat(c.saved)||0)/(parseFloat(c.target)||1)*100)):0;
+    return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
+      +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
+      +'<span class="travel-card-pct" id="travelPct_'+id+'">'+pct+'%</span>'
+      +'<button class="travel-card-gear" onclick="onTravelGearClick(event,\''+id+'\')" title="更换图片" aria-label="更换图片">'+TRAVEL_GEAR_THIN_SVG+'</button>'
+      +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
+      +'</div>'
+      +'<div class="travel-card-info">'
+      +'<div class="travel-card-amounts"><div>目标金额</div><div>已存金额</div></div>'
+      +'<div class="travel-card-name" id="travelName_'+id+'">'+escH(c.name||'')+'</div>'
+      +'</div></div>';
+  }).join('');
+  travelCards.forEach(function(c){updateTravelPct(c.id)});
+}
+function updateTravelPct(id){
+  var c=travelCards.find(function(x){return x.id===id});if(!c)return;
+  var pct=c.target>0?Math.min(100,Math.round((parseFloat(c.saved)||0)/(parseFloat(c.target)||1)*100)):0;
+  var el=document.getElementById('travelPct_'+id);if(el)el.textContent=pct+'%';
+}
+function onTravelGearClick(e,id){
+  if(e){e.preventDefault();e.stopPropagation();}
+  onTravelMediaClick(id);
+}
+function onTravelMediaClick(id){
+  _travelEditId=id;_travelDirectImg=true;_travelEditImg=null;
+  var inp=document.querySelector('.travel-card-media input[data-card="'+id+'"]');
+  if(inp)inp.click();
+}
+function openTravelEditCard(id){
   var c=travelCards.find(function(x){return x.id===id});if(!c)return;
   editingCardId=id;
   document.getElementById('tmName').value=c.name||'';
