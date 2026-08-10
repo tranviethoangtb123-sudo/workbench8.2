@@ -1424,7 +1424,7 @@ function changeTravelBg(inp){
   reader.onload=function(e){document.getElementById('travelBg').style.backgroundImage='url('+e.target.result+')';localStorage.setItem('wb_travel_bg',e.target.result)};
   reader.readAsDataURL(file);
 }
-function fmtMoney(n){return '¥'+n.toLocaleString('zh-CN')}
+function fmtMoney(n){return Number(n||0).toLocaleString('zh-CN')}
 function escHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 function showTravelToast(msg){var t=document.getElementById('travelToast');t.textContent=msg;t.style.display='block';setTimeout(function(){t.style.display='none'},2000)}
 var _travelEditId=null;
