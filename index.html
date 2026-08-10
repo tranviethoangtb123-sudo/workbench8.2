@@ -1309,7 +1309,6 @@ function renderTravelCards(){
     var pct=c.target>0?Math.min(100,Math.round((parseFloat(c.saved)||0)/(parseFloat(c.target)||1)*100)):0;
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
       +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
-      +'<span class="travel-card-pct" id="travelPct_'+id+'">'+pct+'%</span>'
       +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑"></button>'
       +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
       +'</div>'
