@@ -504,10 +504,6 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 </div></div>
 </div>
 
-<div style="display:flex;justify-content:flex-end;margin-top:8px">
-<button class="mgr-btn-del" id="tmManageBtn" onclick="openTmManage()" style="font-size:.72rem;padding:5px 14px">管理</button>
-</div>
-
 </div>
 <div id="travelTemplate" style="display:none">
 <div class="travel-canvas" id="travelCanvas"></div>
@@ -700,7 +696,7 @@ function switchToSection(id){
     renderOtherSection(id);
   }
   // Update manage button to work for this section
-  document.getElementById('mgrFab').style.display=id==='tmpmemo'?'none':'';
+  document.getElementById('mgrFab').style.display='';
   document.getElementById('mgrTitle').textContent='管理 - '+SECTIONS.find(function(s){return s.id===id}).name;
 }
 function renderOtherSection(id){
@@ -894,6 +890,8 @@ function tmRender(){
   });
 }function openTmManage(){
   tmManageMode=true;
+  document.getElementById('mgrFab').classList.add('active');
+  document.getElementById('mgrFab').textContent='退出管理';
   var panel=document.getElementById('mgrSheet');
   panel.innerHTML=''
     +'<h3>管理 - 临时备忘</h3>'
@@ -921,6 +919,8 @@ function tmRender(){
 }
 function closeTmManage(){
   tmManageMode=false;
+  document.getElementById('mgrFab').classList.remove('active');
+  document.getElementById('mgrFab').textContent='管理';
   document.getElementById('mgrSheet').classList.remove('open');
   document.getElementById('mgrBackdrop').classList.remove('show');
   document.getElementById('mgrSheet').innerHTML=MGR_SHEET_HTML;
@@ -1023,6 +1023,7 @@ function updateMgrCalBtn(){
 }
 var MGR_SHEET_HTML=document.getElementById('mgrSheet').innerHTML;
 function toggleManage(){if(currentSection==='travel'){var sheet=document.getElementById('mgrSheet');sheet.classList.contains('open')?closeTravelManage():openTravelManage();return}
+  if(currentSection==='tmpmemo'){var ts=document.getElementById('mgrSheet');if(ts.classList.contains('open')){closeTmManage()}else{openTmManage()}return}
   var sheet=document.getElementById('mgrSheet');
   var open=sheet.classList.contains('open');
   if(open){closeManage()}else{openManage()}
