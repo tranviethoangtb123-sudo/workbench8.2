@@ -928,6 +928,35 @@ document.addEventListener("click",function(){dp2.classList.remove("show")});
 
 var mgrCalVal=null;
 var editingItemId=null;
+var MGR_CAL_SVG='<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>';
+function fmtMgrCal(r){
+  if(!r)return '';
+  if(r.recurrence==='single'&&r.dateStr)return r.dateStr.replace(/-/g,'/');
+  if(r.recurrence==='daily')return '每日';
+  if(r.recurrence==='range'&&r.startStr)return r.startStr.replace(/-/g,'/')+'~'+r.endStr.replace(/-/g,'/');
+  if(r.recurrence==='time')return (r.startStr||'')+'-'+(r.endStr||'');
+  if(r.recurrence==='monthDay')return '每月'+r.day+'日';
+  if(r.recurrence==='monthWeek')return '每月第'+(r.week==='last'?'末':r.week)+'周';
+  if(r.recurrence==='monthWeekDay')return '每月第'+(r.week==='last'?'末':r.week)+'周'+(r.dayOfWeek||'');
+  if(r.recurrence==='monthDayTime')return '每月'+r.day+'日'+(r.startStr||'');
+  return '';
+}
+function updateMgrCalBtn(){
+  var btn=document.getElementById('mgrCalBtn');
+  if(!btn)return;
+  var txt=fmtMgrCal(mgrCalVal);
+  if(txt){
+    btn.innerHTML=txt;
+    btn.style.width='auto';
+    btn.style.padding='0 8px';
+    btn.classList.add('has-val');
+  }else{
+    btn.innerHTML=MGR_CAL_SVG;
+    btn.style.width='38px';
+    btn.style.padding='0';
+    btn.classList.remove('has-val');
+  }
+}
 var MGR_SHEET_HTML=document.getElementById('mgrSheet').innerHTML;
 function toggleManage(){if(currentSection==='travel'){var sheet=document.getElementById('mgrSheet');sheet.classList.contains('open')?closeTravelManage():openTravelManage();return}
   var sheet=document.getElementById('mgrSheet');
@@ -944,8 +973,7 @@ function openManage(){
   document.getElementById('mgrTitle').textContent='管理 - '+SECTIONS.find(function(s){return s.id===currentSection}).name;
   var topicInp=document.getElementById('mgrTopicInput');if(topicInp)topicInp.value='';
   document.getElementById('mgrInput').value='';
-  mgrCalVal=null;
-  document.getElementById('mgrCalBtn').classList.remove('has-val');
+  mgrCalVal=null;updateMgrCalBtn();
   renderMgrItems();
 }
 function closeManage(){
@@ -1004,7 +1032,7 @@ function addMgrItem(){
     data.items.push(it);
   }
   saveMgrData(data);
-  if(topicInp)topicInp.value='';inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  if(topicInp)topicInp.value='';inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;updateMgrCalBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
   var cancelBtn=document.getElementById('mgrEditCancel');
@@ -1052,7 +1080,7 @@ function startMgrEditFull(id){
     if(it.week)mgrCalVal.week=it.week;
     if(it.dayOfWeek)mgrCalVal.dayOfWeek=it.dayOfWeek;
   }
-  document.getElementById('mgrCalBtn').classList.toggle('has-val',!!mgrCalVal);
+  updateMgrCalBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='保存修改';
   var cancelBtn=document.getElementById('mgrEditCancel');
@@ -1064,13 +1092,13 @@ function cancelMgrEdit(){
   var topicInp=document.getElementById('mgrTopicInput');if(topicInp)topicInp.value='';
   var inp=document.getElementById('mgrInput');inp.value='';
   var timeInp=document.getElementById('mgrTime');if(timeInp)timeInp.value='';
-  mgrCalVal=null;document.getElementById('mgrCalBtn').classList.remove('has-val');
+  mgrCalVal=null;updateMgrCalBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
   var cancelBtn=document.getElementById('mgrEditCancel');
   if(cancelBtn)cancelBtn.style.display='none';
 }
-function openMgrCal(e){e.stopPropagation();showMgrCalPopup(document.getElementById('mgrCalBtn'),function(r){mgrCalVal=r;document.getElementById('mgrCalBtn').classList.toggle('has-val',!!r)},mgrCalVal)}
+function openMgrCal(e){e.stopPropagation();showMgrCalPopup(document.getElementById('mgrCalBtn'),function(r){mgrCalVal=r;updateMgrCalBtn()},mgrCalVal)}
 
 
 function showMgrCalPopup(btn,cb,cv){
