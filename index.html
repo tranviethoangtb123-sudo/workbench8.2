@@ -357,33 +357,30 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-pct .pct-ring{fill:none;stroke:#1f2937;stroke-width:3.5;stroke-linecap:round;transition:stroke-dashoffset .2s}
 .travel-pct .pct-text{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.95rem;font-weight:600;color:#1f2937}
 .travel-empty{color:#AEAEB2;text-align:center;padding:80px 20px;font-size:13px}
-#otherSections.travel-section .travel-card{position:relative;width:100%;max-width:760px;margin:0 auto;aspect-ratio:1.6/1;background:linear-gradient(135deg,#1E1E1E 0%,#131313 48%,#0A0A0A 100%)!important;border:1px solid rgba(255,255,255,.14)!important;border-radius:0!important;overflow:hidden!important;box-shadow:0 18px 46px rgba(0,0,0,.42)!important;isolation:isolate}
-#otherSections.travel-section .travel-card::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 7% 5%,rgba(255,255,255,.10),transparent 40%),repeating-linear-gradient(0deg,rgba(255,255,255,.014) 0 1px,transparent 1px 3px);pointer-events:none;z-index:0}
-#otherSections.travel-section .travel-card::after{content:'';position:absolute;inset:3.5%;border:1px solid rgba(255,255,255,.6);pointer-events:none;z-index:6}
-#otherSections.travel-section .travel-card-inner{position:absolute;inset:0;display:grid;grid-template-columns:60% 40%;z-index:1}
-#otherSections.travel-section .travel-card-left{position:relative;overflow:hidden;background-color:#2A2A2A!important;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.025) 0 1px,transparent 1px 8px)!important;border-right:1px solid rgba(190,195,200,.7)!important}
-#otherSections.travel-section .travel-card-media{position:absolute;inset:0;z-index:0;background-color:#2A2A2A!important;background-size:cover!important;background-position:center!important}
-#otherSections.travel-section .travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
-#otherSections.travel-section .travel-card-left::after{content:'';position:absolute;inset:0;box-shadow:inset 0 0 0 1px rgba(255,255,255,.06);pointer-events:none;z-index:1}
-#otherSections.travel-section .travel-card-watermark{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:2;font-family:'AppEN','Helvetica Neue',Arial,sans-serif;font-weight:600;font-size:12px;letter-spacing:.24em;color:#AAAAAA!important;opacity:.4;text-transform:uppercase;white-space:nowrap}
-#otherSections.travel-section .travel-card-brand{position:absolute;left:7%;top:8%;z-index:3;display:flex;flex-direction:column;align-items:flex-start;font-family:'AppEN','Helvetica Neue',Arial,sans-serif;font-weight:800;color:#E8ECEF!important;letter-spacing:-.02em;line-height:.82;text-transform:uppercase}
-#otherSections.travel-section .travel-card-brand span{font-size:38px;display:block;color:#E8ECEF!important}
-#otherSections.travel-section .travel-card-rule{width:64px;height:1px;margin-top:10px;background:rgba(190,195,200,.72)}
-#otherSections.travel-section .travel-card-time{position:absolute;left:7%;bottom:8%;z-index:3;display:flex;align-items:center;gap:10px;padding:6px 9px;border:1px solid rgba(255,255,255,.22);background:rgba(255,255,255,.045);font-family:'Frutiger','AppNum','DIN','OCR-B',monospace;font-size:11px;letter-spacing:.08em;color:#C2C8CC!important}
-#otherSections.travel-section .travel-card-right{position:relative;background-color:#101010!important;display:flex;align-items:center;justify-content:center;gap:10px;overflow:hidden;z-index:2}
-#otherSections.travel-section .travel-card-right::before{content:"4B4G31VW 4B4G31VW 4B4G31VW 4B4G31VW 4B4G31VW 4B4G31VW 4B4G31VW";position:absolute;inset:0;padding:8px 10px;font-size:7px;letter-spacing:2px;line-height:1.7;color:rgba(255,255,255,.045);white-space:pre;z-index:0;overflow:hidden}
-#otherSections.travel-section .travel-card-code{position:relative;z-index:1;font-family:Georgia,'Times New Roman','Frutiger',sans-serif;font-weight:700;font-size:16px;letter-spacing:.02em;color:transparent!important;background:linear-gradient(135deg,#EDF0F2 0%,#ADB5BB 45%,#E4E8EB 100%);-webkit-background-clip:text;background-clip:text}
-#otherSections.travel-section .travel-card-chip{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;gap:4px}
-#otherSections.travel-section .travel-card-chip .tcc-dot{width:5px;height:5px;border-radius:50%;background:#C7CDD2}
-#otherSections.travel-section .travel-card-chip .tcc-lines{display:flex;flex-direction:column;gap:3px}
-#otherSections.travel-section .travel-card-chip .tcc-lines i{width:10px;height:1px;background:#C7CDD2;display:block}
-#otherSections.travel-section .travel-card .travel-card-gear{position:absolute;top:12px;right:12px;width:20px;height:20px;z-index:8;background:rgba(255,255,255,.08)!important;border:1px solid rgba(255,255,255,.28)!important;color:#E8ECEF!important;box-shadow:none!important}
-@media(min-width:768px){
-  #otherSections.travel-section .travel-card-brand span{font-size:62px}
-  #otherSections.travel-section .travel-card-code{font-size:28px}
-  #otherSections.travel-section .travel-card-watermark{font-size:15px}
-  #otherSections.travel-section .travel-card-time{font-size:13px}
-}
+.travel-card{display:flex;flex-direction:column;height:300px;background:#FFFFFF;border-radius:0;overflow:hidden}
+.travel-card-media{position:relative;flex:1;background-color:#FFFFFF;background-size:cover;background-position:center}
+.travel-card-pct{position:absolute;top:11px;left:11px;font-size:14px;line-height:14px;color:#1f2937;z-index:2}
+#otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important;appearance:none;-webkit-appearance:none;outline:none;color:#fff!important}
+.travel-card-gear{position:absolute;top:11px;right:11px;height:18px;width:18px;background:#000;border:none;padding:0;color:#fff;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
+.travel-card-gear svg{width:14px;height:14px}
+.travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
+.travel-card-info{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;padding:1em 0 1em;background:#CBCDD1}
+.travel-card-amounts{display:flex;flex-direction:column;gap:3px;align-items:flex-start}
+.travel-card-amounts div{font-size:14px;color:#1f2937;padding-left:4px}
+.travel-card-amounts .travel-card-num{font-family:'Frutiger','AppNum','AppEN',sans-serif}
+.travel-card-name{font-size:14px;color:#1f2937;text-align:right;max-width:50%;padding-right:4px;font-family:'Frutiger','AppNum','AppEN',sans-serif;transform:translateY(-7px)}
+#otherSections .travel-card-pct,#otherSections .travel-card-gear{background:transparent!important}
+#otherSections .travel-card{background:#FFFFFF!important}
+#otherSections .travel-card-info{background:#CBCDD1!important;padding:1em 0 1em!important}
+#otherSections.travel-section .travel-card,
+#otherSections.travel-section .travel-card .travel-card-info,
+#otherSections.travel-section .travel-card .travel-card-amounts,
+#otherSections.travel-section .travel-card .travel-card-amounts div,
+#otherSections.travel-section .travel-card .travel-card-name,
+#otherSections.travel-section .travel-card .travel-card-num{background:#CBCDD1!important}
+#otherSections.travel-section .travel-card-media{background-color:#CBCDD1!important}
+#otherSections .travel-card-media{background-color:#FFFFFF!important}
+#otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important}
 .travel-edit-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
 .travel-edit-overlay.show{display:flex}
 .travel-edit{background:#fff;border-radius:20px;width:100%;max-width:360px;padding:20px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
@@ -1368,20 +1365,15 @@ function renderTravelCards(){
   canvas.innerHTML=travelCards.map(function(c){
     var id=c.id;
     var mediaStyle=c.img?'background-image:url('+c.img+')':'';
+    var pct=c.target>0?Math.min(100,Math.round((parseFloat(c.saved)||0)/(parseFloat(c.target)||1)*100)):0;
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
-      +'<div class="travel-card-inner">'
-      +'<div class="travel-card-left">'
-      +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'"><input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)"></div>'
-      +'<div class="travel-card-watermark">IMAGE PLACEHOLDER</div>'
-      +'<div class="travel-card-brand"><span>KEM</span><span>ODO</span><i class="travel-card-rule"></i></div>'
-      +'<div class="travel-card-time"><span>2026-07</span><span>NO.341771</span></div>'
+      +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
+      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑"></button>'
+      +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
       +'</div>'
-      +'<div class="travel-card-right">'
-      +'<div class="travel-card-code">4B4G31VW</div>'
-      +'<div class="travel-card-chip"><span class="tcc-dot"></span><span class="tcc-lines"><i></i><i></i><i></i><i></i></span></div>'
-      +'</div>'
-      +'</div>'
-      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_THIN_SVG+'</button>'
+      +'<div class="travel-card-info">'
+      +'<div class="travel-card-amounts"><div>目标金额 <span class="travel-card-num">'+fmtMoney(parseFloat(c.target)||0)+'</span></div><div>已存金额 <span class="travel-card-num">'+fmtMoney(parseFloat(c.saved)||0)+'</span></div></div>'
+      +'<div class="travel-card-name" id="travelName_'+id+'">'+escH(c.name||'')+'</div>'
       +'</div></div>';
   }).join('');
   travelCards.forEach(function(c){updateTravelPct(c.id)});
