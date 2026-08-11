@@ -468,6 +468,20 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-topic::before{background:#1f2937!important}
 #otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-dlg-spk{color:#1f2937!important}
 
+/* Work section expanded card */
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed)),
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-header,
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-body,
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-footer,
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.work-section .card.task-card:has(.collapse-body:not(.collapsed))::after{display:none!important}
+#otherSections.work-section .subtask-item{position:relative}
+#otherSections.work-section .subtask-item.done::after{content:'';position:absolute;left:.5em;right:.5em;top:50%;transform:translateY(-50%);height:1px;background:#414445!important;pointer-events:none;z-index:2}
+#otherSections.work-section .subtask-item.done .subtask-text{color:#414445!important}
+#otherSections.work-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
+#otherSections.work-section .subtask-check.done{background:transparent!important;border:none!important}
+#otherSections.work-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+
 </style>
 </head><body>
 <div class="overlay" id="overlay" onclick="closeSidebar()"></div>
@@ -753,6 +767,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('tmpmemo-section',id==='tmpmemo');
   if(os)os.classList.toggle('study-section',id==='study');
   if(os)os.classList.toggle('lang-section',id==='lang');
+  if(os)os.classList.toggle('work-section',id==='work');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
@@ -814,7 +829,7 @@ function renderOtherSection(id){
         item.classList.toggle('done',done);
         var t=this.nextElementSibling;
         if(t)t.classList.toggle('done',done);
-        if(id==='study'){
+        if(id==='study'||id==='work'){
           if(done){
             list.appendChild(item);
           }else{
