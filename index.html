@@ -1788,7 +1788,8 @@ function renderHabits(){
     var badge = fmtBadgeHtml(it);
     recHtml += '<div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-info"><div class="t-title">' + escHtml(it.text) + '</div><div class="t-desc">' + badge + '</div></div></div>';
   });
-  document.getElementById('recurringList').innerHTML = recHtml || '<div class="timeline-item"><div class="timeline-info"><div class="t-title" style="color:#9ca3af;font-size:.78rem">暂无</div></div></div>';
+  var recurringList = document.getElementById('recurringList');
+  if (recurringList) recurringList.innerHTML = recHtml || '<div class="timeline-item"><div class="timeline-info"><div class="t-title" style="color:#9ca3af;font-size:.78rem">暂无</div></div></div>';
   
   // Wire checkboxes
   document.querySelectorAll('#habitsList .subtask-check').forEach(function(ck){
