@@ -842,7 +842,7 @@ function renderOtherSection(id){
   // Special rendering for news section
   if(id==='news'){
     var ntitle=document.getElementById('otherTitle');
-    if(ntitle)ntitle.innerHTML='时事新闻 <button class="news-refresh-btn" onclick="fetchAllNews()" title="刷新">↻</button>';
+    if(ntitle)ntitle.innerHTML='<button class="news-refresh-btn" onclick="fetchAllNews()" title="刷新">↻</button>';
     setTimeout(initNews,100);
     return;
   }else{
