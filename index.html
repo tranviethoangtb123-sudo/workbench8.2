@@ -511,6 +511,18 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.books-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #otherSections.books-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.books-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed)),
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-header,
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-body,
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-footer,
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.tmplife-section .card.task-card:has(.collapse-body:not(.collapsed))::after{display:none!important}
+#otherSections.tmplife-section .subtask-item{position:relative}
+#otherSections.tmplife-section .subtask-item.done::after{content:'';position:absolute;left:.5em;right:.5em;top:50%;transform:translateY(-50%);height:1px;background:#414445!important;pointer-events:none;z-index:2}
+#otherSections.tmplife-section .subtask-item.done .subtask-text{color:#414445!important}
+#otherSections.tmplife-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
+#otherSections.tmplife-section .subtask-check.done{background:transparent!important;border:none!important}
+#otherSections.tmplife-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 #otherSections.news-section .task-card-header{display:none!important}
 #otherSections.news-section .news-feed-item{margin-left:0!important;margin-right:0!important}
 #otherSections.news-section .news-feed-item + .news-feed-item{margin-left:0!important;margin-right:0!important}
@@ -818,6 +830,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('work-section',id==='work');
   if(os)os.classList.toggle('workext-section',id==='workext');
   if(os)os.classList.toggle('books-section',id==='books');
+  if(os)os.classList.toggle('tmplife-section',id==='tmplife');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
@@ -879,7 +892,7 @@ function renderOtherSection(id){
         item.classList.toggle('done',done);
         var t=this.nextElementSibling;
         if(t)t.classList.toggle('done',done);
-        if(id==='study'||id==='work'||id==='workext'||id==='books'){
+        if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'){
           if(done){
             list.appendChild(item);
           }else{
