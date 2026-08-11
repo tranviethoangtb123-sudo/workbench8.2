@@ -545,6 +545,21 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check{width:12px;height:12px;border:none!important;background:#000!important;background-color:#000!important;background-image:none!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked{background:transparent!important;background-color:transparent!important;border:none!important}
 html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open),
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-mod-hd,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-mod-bd,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-table th,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-table td,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-cat,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-cat-hd,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-cat-bd,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-item,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-note{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-food-tag,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-food-item,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .shibu-label,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) p,
+#otherSections.diet-section .diet-module:has(.diet-mod-bd.open) h4{background:transparent!important}
 #otherSections.news-section .task-card-header{display:none!important}
 #otherSections.news-section .news-feed-item{margin-left:0!important;margin-right:0!important}
 #otherSections.news-section .news-feed-item + .news-feed-item{margin-left:0!important;margin-right:0!important}
@@ -854,6 +869,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('books-section',id==='books');
   if(os)os.classList.toggle('tmplife-section',id==='tmplife');
   if(os)os.classList.toggle('med-section',id==='med');
+  if(os)os.classList.toggle('diet-section',id==='diet');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
