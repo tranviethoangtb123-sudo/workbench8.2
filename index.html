@@ -511,7 +511,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.books-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #otherSections.books-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.books-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
-#otherSections.news-section .task-card-header .collapse-toggle{display:none!important}
+#otherSections.news-section .task-card-header{display:none!important}
+.news-refresh-row{display:flex;justify-content:flex-start;padding:10px 0}
 
 </style>
 </head><body>
@@ -843,7 +844,7 @@ function renderOtherSection(id){
   // Special rendering for news section
   if(id==='news'){
     var ntitle=document.getElementById('otherTitle');
-    if(ntitle)ntitle.innerHTML='<button class="news-refresh-btn" onclick="fetchAllNews()" title="刷新">↻</button>';
+    if(ntitle)ntitle.innerHTML='';
     setTimeout(initNews,100);
     return;
   }else{
@@ -928,6 +929,7 @@ function renderNewsCards(){
     else body='<div class="news-error">暂无RSS源</div>';
     return '<div class="news-card"><div class="news-source" onclick="var b=this.nextElementSibling;var t=this.querySelector(&quot;.news-toggle&quot;);b.classList.toggle(&quot;open&quot;);t.classList.toggle(&quot;open&quot;)"><span class="news-name">'+escH(s.text)+'</span><button class="news-toggle">⌃</button></div><div class="news-body">'+body+'</div></div>';
   }).join('');
+  list.insertAdjacentHTML('beforeend','<div class="news-refresh-row"><button class="news-refresh-btn" onclick="fetchAllNews()" title="刷新">↻</button></div>');
 }
 function renderNewsFeed(items){
   var list=document.getElementById('otherList');if(!list)return;
