@@ -423,6 +423,20 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .lang-dlg-txt .ld-en{color:#3A3A3C;font-weight:500;margin-bottom:2px}
 .lang-dlg-txt .ld-zh{color:#8E8E93}
 
+/* Life dashboard expanded card */
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)),
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-header,
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-body,
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-footer,
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-header{padding:.5em!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-body{padding:.5em!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-footer{padding:.5em!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{padding:.5em!important;margin:0!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check.done{background:transparent!important;border:none!important}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check.done::after{content:'✓'!important;color:#000!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+
 </style>
 </head><body>
 <div class="overlay" id="overlay" onclick="closeSidebar()"></div>
