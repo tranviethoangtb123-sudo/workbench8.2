@@ -523,6 +523,18 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.tmplife-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #otherSections.tmplife-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.tmplife-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed)),
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-header,
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-body,
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed)) .task-card-footer,
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.med-section .card.task-card:has(.collapse-body:not(.collapsed))::after{display:none!important}
+#otherSections.med-section .subtask-item{position:relative}
+#otherSections.med-section .subtask-item.done::after{content:'';position:absolute;left:.5em;right:.5em;top:50%;transform:translateY(-50%);height:1px;background:#414445!important;pointer-events:none;z-index:2}
+#otherSections.med-section .subtask-item.done .subtask-text{color:#414445!important}
+#otherSections.med-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
+#otherSections.med-section .subtask-check.done{background:transparent!important;border:none!important}
+#otherSections.med-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)),
 #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .task-card-header,
 #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .collapse-body,
@@ -841,6 +853,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('workext-section',id==='workext');
   if(os)os.classList.toggle('books-section',id==='books');
   if(os)os.classList.toggle('tmplife-section',id==='tmplife');
+  if(os)os.classList.toggle('med-section',id==='med');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
@@ -902,7 +915,7 @@ function renderOtherSection(id){
         item.classList.toggle('done',done);
         var t=this.nextElementSibling;
         if(t)t.classList.toggle('done',done);
-        if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'){
+        if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'||id==='med'){
           if(done){
             list.appendChild(item);
           }else{
