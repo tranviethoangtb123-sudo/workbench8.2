@@ -523,6 +523,16 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.tmplife-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #otherSections.tmplife-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.tmplife-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)),
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .task-card-header,
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .collapse-body,
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .task-card-body,
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-text,
+#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item span{background:transparent!important}
+html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check{width:12px;height:12px;border:none!important;background:#000!important;background-color:#000!important;background-image:none!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
+html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked{background:transparent!important;background-color:transparent!important;border:none!important}
+html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 #otherSections.news-section .task-card-header{display:none!important}
 #otherSections.news-section .news-feed-item{margin-left:0!important;margin-right:0!important}
 #otherSections.news-section .news-feed-item + .news-feed-item{margin-left:0!important;margin-right:0!important}
@@ -605,9 +615,9 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 <div class="card" style="padding:0">
 <div class="task-card-header" style="display:flex;align-items:center;justify-content:space-between">
 <span style="font-size:.8rem;font-weight:600;color:#1f2937">📦 快递</span>
-<button class="collapse-toggle open" onclick="tmToggle(this)">⌃</button>
+<button class="collapse-toggle" onclick="tmToggle(this)">⌄</button>
 </div>
-<div class="collapse-body" style="max-height:400px">
+<div class="collapse-body collapsed" style="max-height:400px">
 <div class="task-card-body">
 <ul id="tmParcelList" style="list-style:none;font-size:.75rem;margin-bottom:8px"></ul>
 </div></div>
@@ -616,9 +626,9 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 <div class="card" style="padding:0">
 <div class="task-card-header" style="display:flex;align-items:center;justify-content:space-between">
 <span style="font-size:.8rem;font-weight:600;color:#1f2937">📝 备忘一</span>
-<button class="collapse-toggle open" onclick="tmToggle(this)">⌃</button>
+<button class="collapse-toggle" onclick="tmToggle(this)">⌄</button>
 </div>
-<div class="collapse-body" style="max-height:400px">
+<div class="collapse-body collapsed" style="max-height:400px">
 <div class="task-card-body">
 <ul id="tmMemoList" style="list-style:none;font-size:.75rem;margin-bottom:8px"></ul>
 </div></div>
