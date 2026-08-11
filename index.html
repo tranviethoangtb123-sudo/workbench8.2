@@ -357,12 +357,14 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-pct .pct-ring{fill:none;stroke:#1f2937;stroke-width:3.5;stroke-linecap:round;transition:stroke-dashoffset .2s}
 .travel-pct .pct-text{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.95rem;font-weight:600;color:#1f2937}
 .travel-empty{color:#AEAEB2;text-align:center;padding:80px 20px;font-size:13px}
-#otherSections.travel-section .travel-card{position:relative;width:100%;max-width:900px;margin:0 auto;aspect-ratio:2282/960;background:#CBCDD1!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:hidden!important;display:grid;grid-template-columns:73% 27%;container-type:inline-size}
+#otherSections.travel-section .travel-card{position:relative;width:100%;max-width:900px;margin:0 auto;aspect-ratio:2300/1000;background:#CBCDD1!important;border:0!important;border-radius:25px!important;box-shadow:none!important;overflow:hidden!important;display:grid;grid-template-columns:70% 30%;container-type:inline-size}
 #otherSections.travel-section .travel-card-media{position:relative;background-color:#F5F5F5!important;background-size:cover!important;background-position:center!important;cursor:pointer}
 #otherSections.travel-section .travel-card-panel{position:relative;background:#CBCDD1!important;padding:min(6mm,2.5cqw);box-sizing:border-box;min-width:0}
 #otherSections.travel-section .travel-card-brand{position:absolute;top:min(6mm,2.5cqw);left:min(6mm,2.5cqw);display:flex;flex-direction:column;gap:6pt;font-family:'AppEN','Helvetica Neue',Arial,sans-serif;font-weight:700;letter-spacing:.05em;color:#000!important;text-transform:uppercase;line-height:1.1}
-#otherSections.travel-section .travel-card-brand span{font-size:clamp(18px,4.5cqw,32px);color:#000!important;white-space:nowrap}
-#otherSections.travel-section .travel-card-amounts{position:absolute;left:min(6mm,2.5cqw);top:60%;transform:translateY(-50%);display:flex;flex-direction:column;gap:2pt;font-family:'AppZH','Helvetica Neue',Arial,sans-serif;font-weight:500;font-size:clamp(10px,2.4cqw,15px);color:#000!important;white-space:nowrap}
+#otherSections.travel-section .travel-card-brand span{color:#000!important;white-space:nowrap}
+#otherSections.travel-section .travel-card-brand span:first-child{font-size:10pt}
+#otherSections.travel-section .travel-card-brand span:last-child{font-size:8pt}
+#otherSections.travel-section .travel-card-amounts{position:absolute;left:min(6mm,2.5cqw);top:60%;transform:translateY(-50%);margin-left:-.5em;display:flex;flex-direction:column;gap:2pt;font-family:'AppZH','Helvetica Neue',Arial,sans-serif;font-weight:500;font-size:clamp(10px,2.4cqw,15px);color:#000!important;white-space:nowrap}
 #otherSections.travel-section .travel-card-num{margin-left:.5em;font-family:'Frutiger','AppNum','DIN',sans-serif}
 #otherSections.travel-section .travel-card-brand span,
 #otherSections.travel-section .travel-card-amounts div,
@@ -509,7 +511,7 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 <div class="travel-edit">
 <h3>编辑旅行卡片</h3>
 <label for="teName">第一行文字</label><input id="teName" type="text" placeholder="PLACE">
-<label for="teLine2">第二行文字</label><input id="teLine2" type="text" placeholder="PALCE">
+<label for="teLine2">第二行文字</label><input id="teLine2" type="text" placeholder="PLACE">
 <label>封面图片</label>
 <label class="te-preview" id="tePreview"><input type="file" id="travelImgFile" accept="image/*" class="file-input-inside" onchange="onTravelImgPick(this)"></label>
 <label for="teTarget">目标金额</label><input id="teTarget" type="text" inputmode="decimal" placeholder="0">
@@ -1355,7 +1357,7 @@ function renderTravelCards(){
     var id=c.id;
     var mediaStyle=c.img?'background-image:url('+c.img+')':'';
     var line1=escH(c.name||'PLACE');
-    var line2=escH(c.line2||'PALCE');
+    var line2=escH(c.line2||'PLACE');
     var target=fmtMoney(parseFloat(c.target)||0);
     var saved=fmtMoney(parseFloat(c.saved)||0);
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
@@ -1458,7 +1460,7 @@ function openTravelEditor(id){
   var c=travelCards.find(function(x){return x.id===id});if(!c)return;
   _travelEditId=id;
   document.getElementById('teName').value=c.name||'PLACE';
-  document.getElementById('teLine2').value=c.line2||'PALCE';
+  document.getElementById('teLine2').value=c.line2||'PLACE';
   document.getElementById('teTarget').value=c.target||'';
   document.getElementById('teSaved').value=c.saved||'';
   var prev=document.getElementById('tePreview');
@@ -1562,7 +1564,7 @@ function renderTravelManage(){
 function addTravelCard(){
   var inp=document.getElementById('travelAddInput');if(!inp)return;
   var t=inp.value.trim();if(!t){showTravelToast('请输入目的地');return}
-  travelCards.push({id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),name:t,line2:'PALCE',target:0,saved:0,img:''});
+  travelCards.push({id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),name:t,line2:'PLACE',target:0,saved:0,img:''});
   saveTravelCards();renderTravelCards();renderTravelManage();inp.value='';
 }
 function delTravelCard(){
