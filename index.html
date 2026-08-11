@@ -357,30 +357,15 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .travel-pct .pct-ring{fill:none;stroke:#1f2937;stroke-width:3.5;stroke-linecap:round;transition:stroke-dashoffset .2s}
 .travel-pct .pct-text{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.95rem;font-weight:600;color:#1f2937}
 .travel-empty{color:#AEAEB2;text-align:center;padding:80px 20px;font-size:13px}
-.travel-card{display:flex;flex-direction:column;height:300px;background:#FFFFFF;border-radius:0;overflow:hidden}
-.travel-card-media{position:relative;flex:1;background-color:#FFFFFF;background-size:cover;background-position:center}
-.travel-card-pct{position:absolute;top:11px;left:11px;font-size:14px;line-height:14px;color:#1f2937;z-index:2}
-#otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important;appearance:none;-webkit-appearance:none;outline:none;color:#fff!important}
-.travel-card-gear{position:absolute;top:11px;right:11px;height:18px;width:18px;background:#000;border:none;padding:0;color:#fff;display:flex;align-items:center;justify-content:center;z-index:3;appearance:none;-webkit-appearance:none;outline:none}
-.travel-card-gear svg{width:14px;height:14px}
-.travel-card-media input{position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none;z-index:1}
-.travel-card-info{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;padding:1em 0 1em;background:#CBCDD1}
-.travel-card-amounts{display:flex;flex-direction:column;gap:3px;align-items:flex-start}
-.travel-card-amounts div{font-size:14px;color:#1f2937;padding-left:4px}
-.travel-card-amounts .travel-card-num{font-family:'Frutiger','AppNum','AppEN',sans-serif}
-.travel-card-name{font-size:14px;color:#1f2937;text-align:right;max-width:50%;padding-right:4px;font-family:'Frutiger','AppNum','AppEN',sans-serif;transform:translateY(-7px)}
-#otherSections .travel-card-pct,#otherSections .travel-card-gear{background:transparent!important}
-#otherSections .travel-card{background:#FFFFFF!important}
-#otherSections .travel-card-info{background:#CBCDD1!important;padding:1em 0 1em!important}
-#otherSections.travel-section .travel-card,
-#otherSections.travel-section .travel-card .travel-card-info,
-#otherSections.travel-section .travel-card .travel-card-amounts,
-#otherSections.travel-section .travel-card .travel-card-amounts div,
-#otherSections.travel-section .travel-card .travel-card-name,
-#otherSections.travel-section .travel-card .travel-card-num{background:#CBCDD1!important}
-#otherSections.travel-section .travel-card-media{background-color:#CBCDD1!important}
-#otherSections .travel-card-media{background-color:#FFFFFF!important}
-#otherSections .travel-card .travel-card-gear{background:#000!important;background-color:#000!important;border:0!important;box-shadow:none!important}
+#otherSections.travel-section .travel-card{position:relative;width:100%;max-width:900px;margin:0 auto;aspect-ratio:2282/960;background:#CBCDD1!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:hidden!important;display:grid;grid-template-columns:73% 27%;container-type:inline-size}
+#otherSections.travel-section .travel-card-media{position:relative;background-color:#F5F5F5!important;background-size:cover!important;background-position:center!important;cursor:pointer}
+#otherSections.travel-section .travel-card-panel{position:relative;background:#CBCDD1!important;padding:min(6mm,2.5cqw);box-sizing:border-box;min-width:0}
+#otherSections.travel-section .travel-card-brand{position:absolute;top:min(6mm,2.5cqw);left:min(6mm,2.5cqw);display:flex;flex-direction:column;gap:6pt;font-family:'AppEN','Helvetica Neue',Arial,sans-serif;font-weight:700;letter-spacing:.05em;color:#000!important;text-transform:uppercase;line-height:1.1}
+#otherSections.travel-section .travel-card-brand span{font-size:clamp(18px,4.5cqw,32px);color:#000!important;white-space:nowrap}
+#otherSections.travel-section .travel-card-amounts{position:absolute;left:min(6mm,2.5cqw);top:60%;transform:translateY(-50%);display:flex;flex-direction:column;gap:2pt;font-family:'AppZH','Helvetica Neue',Arial,sans-serif;font-weight:500;font-size:clamp(10px,2.4cqw,15px);color:#000!important;white-space:nowrap}
+#otherSections.travel-section .travel-card-num{margin-left:.5em;font-family:'Frutiger','AppNum','DIN',sans-serif}
+#otherSections.travel-section .travel-card .travel-card-gear{position:absolute;top:min(6mm,2.5cqw);right:min(6mm,2.5cqw);width:20px;height:20px;z-index:3;background:transparent!important;border:0!important;color:#000!important;box-shadow:none!important;display:flex;align-items:center;justify-content:center}
+#otherSections.travel-section .travel-card .travel-card-gear svg{width:16px;height:16px}
 .travel-edit-overlay{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
 .travel-edit-overlay.show{display:flex}
 .travel-edit{background:#fff;border-radius:20px;width:100%;max-width:360px;padding:20px;box-shadow:0 16px 48px rgba(0,0,0,.2)}
@@ -520,7 +505,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 <div class="travel-edit-overlay" id="travelEditOverlay" onclick="if(event.target===this)closeTravelEditor()">
 <div class="travel-edit">
 <h3>编辑旅行卡片</h3>
-<label for="teName">目的地名称</label><input id="teName" type="text" placeholder="输入目的地">
+<label for="teName">第一行文字</label><input id="teName" type="text" placeholder="PLACE">
+<label for="teLine2">第二行文字</label><input id="teLine2" type="text" placeholder="PALCE">
 <label>封面图片</label>
 <label class="te-preview" id="tePreview"><input type="file" id="travelImgFile" accept="image/*" class="file-input-inside" onchange="onTravelImgPick(this)"></label>
 <label for="teTarget">目标金额</label><input id="teTarget" type="text" inputmode="decimal" placeholder="0">
@@ -1365,15 +1351,16 @@ function renderTravelCards(){
   canvas.innerHTML=travelCards.map(function(c){
     var id=c.id;
     var mediaStyle=c.img?'background-image:url('+c.img+')':'';
-    var pct=c.target>0?Math.min(100,Math.round((parseFloat(c.saved)||0)/(parseFloat(c.target)||1)*100)):0;
+    var line1=escH(c.name||'PLACE');
+    var line2=escH(c.line2||'PALCE');
+    var target=fmtMoney(parseFloat(c.target)||0);
+    var saved=fmtMoney(parseFloat(c.saved)||0);
     return '<div class="travel-card" id="travelHero_'+id+'" data-card="'+id+'">'
-      +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'">'
-      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑"></button>'
-      +'<input type="file" accept="image/*" data-card="'+id+'" onchange="onTravelImgPick(this)">'
-      +'</div>'
-      +'<div class="travel-card-info">'
-      +'<div class="travel-card-amounts"><div>目标金额 <span class="travel-card-num">'+fmtMoney(parseFloat(c.target)||0)+'</span></div><div>已存金额 <span class="travel-card-num">'+fmtMoney(parseFloat(c.saved)||0)+'</span></div></div>'
-      +'<div class="travel-card-name" id="travelName_'+id+'">'+escH(c.name||'')+'</div>'
+      +'<div class="travel-card-media" id="travelHeroMedia_'+id+'" style="'+mediaStyle+'" onclick="openTravelEditor(\''+id+'\')" title="更换图片"></div>'
+      +'<div class="travel-card-panel">'
+      +'<div class="travel-card-brand"><span>'+line1+'</span><span>'+line2+'</span></div>'
+      +'<div class="travel-card-amounts"><div>目标金额 <span class="travel-card-num">'+target+'</span></div><div>已存金额 <span class="travel-card-num">'+saved+'</span></div></div>'
+      +'<button class="travel-card-gear" onclick="openTravelEditor(\''+id+'\')" title="编辑" aria-label="编辑">'+TRAVEL_GEAR_THIN_SVG+'</button>'
       +'</div></div>';
   }).join('');
   travelCards.forEach(function(c){updateTravelPct(c.id)});
@@ -1467,7 +1454,8 @@ function onTravelName(id){
 function openTravelEditor(id){
   var c=travelCards.find(function(x){return x.id===id});if(!c)return;
   _travelEditId=id;
-  document.getElementById('teName').value=c.name||'';
+  document.getElementById('teName').value=c.name||'PLACE';
+  document.getElementById('teLine2').value=c.line2||'PALCE';
   document.getElementById('teTarget').value=c.target||'';
   document.getElementById('teSaved').value=c.saved||'';
   var prev=document.getElementById('tePreview');
@@ -1481,6 +1469,7 @@ function saveTravelEditor(){
   try{
     var c=travelCards.find(function(x){return x.id===_travelEditId});if(!c){closeTravelEditor();return}
     c.name=document.getElementById('teName').value.trim();
+    c.line2=document.getElementById('teLine2').value.trim();
     c.target=document.getElementById('teTarget').value.trim();
     c.saved=document.getElementById('teSaved').value.trim();
     if(_travelEditImg){c.img=_travelEditImg;_travelEditImg=null}
@@ -1570,7 +1559,7 @@ function renderTravelManage(){
 function addTravelCard(){
   var inp=document.getElementById('travelAddInput');if(!inp)return;
   var t=inp.value.trim();if(!t){showTravelToast('请输入目的地');return}
-  travelCards.push({id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),name:t,target:0,saved:0,img:''});
+  travelCards.push({id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),name:t,line2:'PALCE',target:0,saved:0,img:''});
   saveTravelCards();renderTravelCards();renderTravelManage();inp.value='';
 }
 function delTravelCard(){
