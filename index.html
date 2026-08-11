@@ -435,10 +435,14 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-item{padding:.5em!important;margin:0!important}
 #dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check.done{background:transparent!important;border:none!important}
-#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check.done::after{content:'✓'!important;color:#000!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#dashboard .card.task-card:has(.collapse-body:not(.collapsed)) .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 #dashboard .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #dashboard .subtask-check.done{background:transparent!important;border:none!important}
-#dashboard .subtask-check.done::after{content:'✓'!important;color:#000!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#dashboard .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
+#dashboard .subtask-item{position:relative}
+#dashboard .subtask-item.done::after{content:'';position:absolute;left:.5em;right:.5em;top:50%;transform:translateY(-50%);height:1px;background:#414445!important;pointer-events:none;z-index:2}
+#dashboard .subtask-item.done .subtask-text{color:#414445!important}
+#dashboard .subtask-item.done .subtask-check.done::after{color:#414445!important}
 
 </style>
 </head><body>
@@ -1794,9 +1798,18 @@ function renderHabits(){
   // Wire checkboxes
   document.querySelectorAll('#habitsList .subtask-check').forEach(function(ck){
     ck.onclick = function(){
-      this.classList.toggle('done');
+      var item = this.parentElement;
+      var list = item.parentElement;
+      var done = this.classList.toggle('done');
+      item.classList.toggle('done', done);
       var txt = this.nextElementSibling;
-      if (txt) txt.classList.toggle('done');
+      if (txt) txt.classList.toggle('done', done);
+      if (done) {
+        list.appendChild(item);
+      } else {
+        var firstDone = list.querySelector('.subtask-item.done');
+        list.insertBefore(item, firstDone || list.firstElementChild);
+      }
     }
   });
 }
@@ -1827,10 +1840,6 @@ function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace
 // Render on load
 renderHabits();
 
-// ── Subtask checkboxes ──
-document.querySelectorAll(".subtask-check").forEach(function(ck){
-  ck.onclick=function(){this.classList.toggle("done");var txt=this.nextElementSibling;if(txt)txt.classList.toggle("done")}
-});
 </script>
 </body>
 </html>
