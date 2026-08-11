@@ -454,6 +454,20 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.study-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.study-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 
+/* Language section expanded card */
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)),
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-hd,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-body,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-scene,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-empty{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-select,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-topic,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-dlg,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-dlg-spk,
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-dlg-txt{background:transparent!important;border:none!important;box-shadow:none!important}
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-topic::before{background:#1f2937!important}
+#otherSections.lang-section .lang-card:has(.lang-body:not(.collapsed)) .lang-dlg-spk{color:#1f2937!important}
+
 </style>
 </head><body>
 <div class="overlay" id="overlay" onclick="closeSidebar()"></div>
@@ -738,6 +752,7 @@ function renderOtherSection(id){
   if(os)os.classList.toggle('news-section',id==='news');
   if(os)os.classList.toggle('tmpmemo-section',id==='tmpmemo');
   if(os)os.classList.toggle('study-section',id==='study');
+  if(os)os.classList.toggle('lang-section',id==='lang');
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
@@ -1684,7 +1699,7 @@ function renderLang(){
       });
       opts+='</optgroup>';
     });
-    return '<div class="lang-card"><div class="lang-hd"><span class="lang-name">'+lang+'</span><div style="display:flex;align-items:center;gap:8px"><span class="lang-count">'+Object.keys(LANG_SCENES).reduce(function(n,cat){return n+Object.keys(LANG_SCENES[cat]).length},0)+' 场景</span><button class="collapse-toggle open" onclick="var b=this.parentElement.parentElement.nextElementSibling;b.classList.toggle(\'collapsed\');var o=!b.classList.contains(\'collapsed\');this.classList.toggle(\'open\',o);this.textContent=o?\'⌃\':\'⌄\'">⌃</button></div></div><div class="lang-body"><select class="lang-select" data-lang="'+i+'" onchange="loadLangScene(this)"><option value="">选择对话场景...</option>'+opts+'</select><div class="lang-scene" id="langScene'+i+'"><div class="lang-empty">请选择场景</div></div></div></div>';
+    return '<div class="lang-card"><div class="lang-hd"><span class="lang-name">'+lang+'</span><div style="display:flex;align-items:center;gap:8px"><span class="lang-count">'+Object.keys(LANG_SCENES).reduce(function(n,cat){return n+Object.keys(LANG_SCENES[cat]).length},0)+' 场景</span><button class="collapse-toggle" onclick="var b=this.parentElement.parentElement.nextElementSibling;b.classList.toggle(\'collapsed\');var o=!b.classList.contains(\'collapsed\');this.classList.toggle(\'open\',o);this.textContent=o?\'⌃\':\'⌄\'">⌄</button></div></div><div class="lang-body collapsed"><select class="lang-select" data-lang="'+i+'" onchange="loadLangScene(this)"><option value="">选择对话场景...</option>'+opts+'</select><div class="lang-scene" id="langScene'+i+'"><div class="lang-empty">请选择场景</div></div></div></div>';
   }).join('');
 }
 function loadLangScene(sel){
