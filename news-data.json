@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:21:40.629Z",
+  "updated": "2026-08-13T08:52:24.966Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -53,9 +53,14 @@
         "date": "Wed, 12 Aug 2026 21:53:45 GMT"
       },
       {
-        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-        "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 13 Aug 2026 02:31:39 GMT"
+        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
+        "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 12 Aug 2026 22:45:52 GMT"
+      },
+      {
+        "title": "UK economy grows between April and June but experts warn of challenges in coming months",
+        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 13 Aug 2026 08:21:42 GMT"
       },
       {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -63,36 +68,31 @@
         "date": "Thu, 13 Aug 2026 04:55:58 GMT"
       },
       {
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
         "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 13 Aug 2026 01:19:23 GMT"
       },
       {
-        "title": "Leading doctor rebukes NHS chiefs over transplants",
-        "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 13 Aug 2026 01:03:15 GMT"
+        "title": "Polls open in Clacton by-election",
+        "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 13 Aug 2026 06:28:40 GMT"
+      },
+      {
+        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 12 Aug 2026 22:58:45 GMT"
       },
       {
         "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
         "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
         "date": "Wed, 12 Aug 2026 21:53:26 GMT"
-      },
-      {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 13 Aug 2026 03:28:56 GMT"
-      },
-      {
-        "title": "BTS star V reveals hearing loss battle during livestream",
-        "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 13 Aug 2026 04:09:12 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
         "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-        "date": "Thu, 13 Aug 2026 04:01:08 +0000"
+        "date": "Thu, 13 Aug 2026 08:18:06 +0000"
       },
       {
         "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Why tariffs are not the right tool to bolster US production",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 05:00:07 +0000"
+        "title": "Part of children’s hospital collapses in Colombia earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 08:23:23 +0000"
       },
       {
-        "title": "Leavitt to leave as White House press secretary",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 04:58:49 +0000"
+        "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
+        "link": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 08:15:17 +0000"
       },
       {
-        "title": "Three Palestinian families besieged in their homes by Israeli settlers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 04:34:46 +0000"
+        "title": "Three US states to hold executions on same day for first time since 2010",
+        "link": "https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 08:13:08 +0000"
       },
       {
-        "title": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
-        "link": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 04:26:46 +0000"
+        "title": "Swiatek sinks Svitolina to set up Rybakina title clash in Toronto",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 08:06:51 +0000"
       },
       {
-        "title": "Oman says oil spill from stricken tanker has reached its coast",
-        "link": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 04:26:11 +0000"
+        "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 07:58:31 +0000"
       },
       {
-        "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
-        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 03:54:09 +0000"
+        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 07:41:12 +0000"
       },
       {
-        "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 02:42:24 +0000"
+        "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 07:17:55 +0000"
       },
       {
-        "title": "Olympic skateboarder times epic stunt with solar eclipse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
-        "date": "Thu, 13 Aug 2026 01:56:11 +0000"
+        "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+        "date": "Thu, 13 Aug 2026 07:11:05 +0000"
       }
     ],
     "Financial Times": [
@@ -226,7 +226,12 @@
         "date": "Wed, 12 Aug 2026 21:11:50 GMT"
       },
       {
-        "title": "Wanted: a leader to rescue the UN",
+        "title": "Who is Anthropic’s auditor — and why should we care?",
+        "link": "https://www.ft.com/content/b93d8030-203b-4445-b4a7-49e52d9b17a5",
+        "date": "Wed, 12 Aug 2026 11:00:03 GMT"
+      },
+      {
+        "title": "The impossible job: saving the United Nations",
         "link": "https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1",
         "date": "Thu, 13 Aug 2026 04:00:13 GMT"
       },
@@ -241,61 +246,56 @@
         "date": "Thu, 13 Aug 2026 04:00:14 GMT"
       },
       {
-        "title": "Wealth managers cut fees to win AI’s paper millionaires",
-        "link": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
-        "date": "Thu, 13 Aug 2026 04:00:04 GMT"
+        "title": "UK economy grows 0.4% in second quarter",
+        "link": "https://www.ft.com/content/f35f8c3d-3c9f-4209-b8a7-e4038dfc528f?syn-25a6b1a6=1",
+        "date": "Thu, 13 Aug 2026 06:02:03 GMT"
       },
       {
-        "title": "Women buy their own diamonds now, says Swarovski boss",
+        "title": "‘Endearing’ rise in women buying their own diamonds, says Swarovski boss",
         "link": "https://www.ft.com/content/93dcc888-6998-48a5-86f7-3303e0770f12?syn-25a6b1a6=1",
         "date": "Thu, 13 Aug 2026 04:00:14 GMT"
-      },
-      {
-        "title": "Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones",
-        "link": "https://www.ft.com/content/f2f2a881-1d4d-47db-a7d9-c6c50ee29a6a?syn-25a6b1a6=1",
-        "date": "Thu, 13 Aug 2026 04:00:23 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:Capital Is Key To Reviving LSE, Official Says",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373611000?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:04:36 GMT"
+        "title": "ProQuest:Curaleaf Plans Hostile Bid for Rival",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860207?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:51:57 GMT"
       },
       {
-        "title": "ProQuest:The New College Race Preferences",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610997?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:03:14 GMT"
+        "title": "ProQuest:Don't Hand America's Auto Future to Beijing",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860203?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:14 GMT"
       },
       {
-        "title": "ProQuest:other 55",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610995?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:04:02 GMT"
+        "title": "ProQuest:Why Open-Weight AI Models Matter and How Meta Benefits",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860202?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:38 GMT"
       },
       {
-        "title": "ProQuest:Quake Kills More Than 100 In Colombia: Strong temblor hits just a few days after country's president WaS inaugurated",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610991?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:03:15 GMT"
+        "title": "ProQuest:classified ad 103",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860200?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:13 GMT"
       },
       {
-        "title": "ProQuest:Testing Garmin's Rival To Oura, Fitbit, Whoop: The Cirqa health tracker offers lots of data with nO distractions",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610987?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:04:02 GMT"
+        "title": "ProQuest:MONEY & INVESTING",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860198?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:53:01 GMT"
       },
       {
-        "title": "ProQuest:A Rowdy Bike Race Delivers Chaos, Anger and Drama: Tour de France Femmes ends with a decisive win but not before some finger-poir by riders",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610983?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:03:15 GMT"
+        "title": "ProQuest:other 18",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860185?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:03 GMT"
       },
       {
-        "title": "ProQuest:Schools Owe Students a Safe And Studious Environment",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610979?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:04:02 GMT"
+        "title": "ProQuest:Anthropic Looks to Soothe Investors Ahead of Its IPO",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860184?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:14 GMT"
       },
       {
-        "title": "ProQuest:New Rules On Food Ingredient Disclosure",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373610972?accountid=37826",
-        "date": "Wed, 12 Aug 2026 10:03:07 GMT"
+        "title": "ProQuest:tbl of contents 3",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3373860183?accountid=37826",
+        "date": "Thu, 13 Aug 2026 08:52:38 GMT"
       }
     ],
     "Bloomberg": [
@@ -358,6 +358,11 @@
         "date": "Thu, 13 Aug 2026 05:00:00 +0000"
       },
       {
+        "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+        "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+        "date": "Thu, 13 Aug 2026 05:00:00 +0000"
+      },
+      {
         "title": "Castlery Promo Codes: 15% Off for August 2026",
         "link": "https://www.wired.com/story/castlery-promo-code/",
         "date": "Thu, 13 Aug 2026 05:00:00 +0000"
@@ -375,11 +380,6 @@
       {
         "title": "Herman Miller Promo Codes: 40% Off August 2026",
         "link": "https://www.wired.com/story/herman-miller-promo-code/",
-        "date": "Thu, 13 Aug 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Braun Promo Codes: 15% Off August",
-        "link": "https://www.wired.com/story/braun-promo-code/",
         "date": "Thu, 13 Aug 2026 05:00:00 +0000"
       }
     ],
@@ -469,14 +469,24 @@
     ],
     "Hacker News": [
       {
-        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-        "link": "https://www.ballet.dev/",
-        "date": "Thu, 13 Aug 2026 00:01:43 +0000"
+        "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+        "link": "https://www.codewithbullet.com",
+        "date": "Thu, 13 Aug 2026 08:14:30 +0000"
+      },
+      {
+        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+        "link": "https://openai.com/codex/",
+        "date": "Thu, 13 Aug 2026 04:53:41 +0000"
       },
       {
         "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
         "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
         "date": "Wed, 12 Aug 2026 23:50:33 +0000"
+      },
+      {
+        "title": "Flutter 3.47",
+        "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+        "date": "Wed, 12 Aug 2026 23:46:00 +0000"
       },
       {
         "title": "Build Wide, Ship Narrow",
@@ -489,24 +499,14 @@
         "date": "Wed, 12 Aug 2026 23:26:21 +0000"
       },
       {
-        "title": "Process as a Proxy for Motivation",
-        "link": "https://bengodfrey.dev/blog/process/",
-        "date": "Wed, 12 Aug 2026 22:01:43 +0000"
-      },
-      {
         "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
         "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
         "date": "Wed, 12 Aug 2026 21:45:29 +0000"
       },
       {
-        "title": "Delta",
-        "link": "https://zed.dev/blog/introducing-delta",
-        "date": "Wed, 12 Aug 2026 18:19:59 +0000"
-      },
-      {
-        "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-        "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-        "date": "Wed, 12 Aug 2026 17:00:21 +0000"
+        "title": "Breaking the WAL",
+        "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+        "date": "Wed, 12 Aug 2026 20:00:16 +0000"
       }
     ],
     "Reddit": [
@@ -521,9 +521,9 @@
         "date": "2026-08-13T04:02:28+00:00"
       },
       {
-        "title": "Iran Tracked Trump Down to His Exact Hotel Floor as Missile Threat Triggered Secret Escape From Turkey",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vmgegg/iran_tracked_trump_down_to_his_exact_hotel_floor/",
-        "date": "2026-08-12T14:54:09+00:00"
+        "title": "Raytheon, Lockheed Martin worry Ukraine will build better, cheaper versions of Patriot missiles",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vn3g8q/raytheon_lockheed_martin_worry_ukraine_will_build/",
+        "date": "2026-08-13T07:04:18+00:00"
       },
       {
         "title": "Nepal just recorded a huge tiger comeback: 429 wild tigers, up from 121 in 2010",
@@ -536,14 +536,14 @@
         "date": "2026-08-13T00:46:53+00:00"
       },
       {
+        "title": "Iran Tracked Trump Down to His Exact Hotel Floor as Missile Threat Triggered Secret Escape From Turkey",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vmgegg/iran_tracked_trump_down_to_his_exact_hotel_floor/",
+        "date": "2026-08-12T14:54:09+00:00"
+      },
+      {
         "title": "Russia Executed at Least 345 Surrendered Soldiers and Killed 375 Ukrainians in Captivity",
         "link": "https://www.reddit.com/r/worldnews/comments/1vmgd9m/russia_executed_at_least_345_surrendered_soldiers/",
         "date": "2026-08-12T14:52:55+00:00"
-      },
-      {
-        "title": "Sailors Tried To Jump Off US Warship Amid Long Iran War Deployment: Report",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vmzjj1/sailors_tried_to_jump_off_us_warship_amid_long/",
-        "date": "2026-08-13T03:33:25+00:00"
       },
       {
         "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
