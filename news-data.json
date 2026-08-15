@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:00:50.860Z",
+  "updated": "2026-08-15T08:59:51.892Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,14 +48,9 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-        "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 01:41:24 GMT"
-      },
-      {
-        "title": "Fires prompt national alert as 19 homes destroyed",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 02:54:04 GMT"
+        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 07:53:48 GMT"
       },
       {
         "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -68,24 +63,29 @@
         "date": "Fri, 14 Aug 2026 17:00:14 GMT"
       },
       {
+        "title": "Heathrow Airport pipe leak causes flood disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 08:52:13 GMT"
+      },
+      {
         "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
         "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 15 Aug 2026 00:01:53 GMT"
       },
       {
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 14 Aug 2026 19:20:43 GMT"
-      },
-      {
-        "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 04:12:55 GMT"
+        "date": "Sat, 15 Aug 2026 08:52:55 GMT"
       },
       {
-        "title": "Derailed Essex to London train leads to travel chaos",
-        "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 14 Aug 2026 19:57:50 GMT"
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 05:01:13 GMT"
+      },
+      {
+        "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
+        "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 14 Aug 2026 23:16:43 GMT"
       }
     ],
     "The New York Times": [
@@ -122,12 +122,12 @@
       {
         "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
         "link": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
-        "date": "Sat, 15 Aug 2026 04:01:08 +0000"
+        "date": "Sat, 15 Aug 2026 04:01:09 +0000"
       },
       {
-        "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-        "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-        "date": "Sat, 15 Aug 2026 01:00:46 +0000"
+        "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+        "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+        "date": "Sat, 15 Aug 2026 08:50:20 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Iran says no decision yet on a return to talks with the US",
-        "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 04:24:02 +0000"
+        "title": "Arteta assures Arsenal fans over contract before Man City clash",
+        "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 07:44:35 +0000"
       },
       {
-        "title": "What we know about the crisis aboard the USS Lincoln",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 04:21:07 +0000"
+        "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+        "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 07:27:59 +0000"
       },
       {
-        "title": "Did the US really destroy Iran’s ballistic missile capability?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 03:52:08 +0000"
+        "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+        "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 07:27:32 +0000"
       },
       {
-        "title": "India marks 80th Independence Day with military display",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 03:39:06 +0000"
+        "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+        "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 07:18:13 +0000"
       },
       {
-        "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-        "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 03:04:20 +0000"
+        "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 07:13:11 +0000"
       },
       {
-        "title": "US President Trump says he will declare Strait of Hormuz US territory",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 02:25:09 +0000"
+        "title": "South Korea’s president wants talks with North to end Korean War",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 06:53:28 +0000"
       },
       {
-        "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-        "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 02:08:02 +0000"
+        "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+        "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 06:10:07 +0000"
       },
       {
-        "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 02:03:22 +0000"
+        "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+        "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 05:14:40 +0000"
       }
     ],
     "Financial Times": [
@@ -219,6 +219,11 @@
         "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
         "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
         "date": "Sat, 15 Aug 2026 04:00:31 GMT"
+      },
+      {
+        "title": "China poised to lift travel ban on Manus founders",
+        "link": "https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1",
+        "date": "Sat, 15 Aug 2026 04:00:32 GMT"
       },
       {
         "title": "America’s AI election",
@@ -236,66 +241,61 @@
         "date": "Sat, 15 Aug 2026 04:00:32 GMT"
       },
       {
-        "title": "UK universities offer fee discounts to overseas students in ‘pricing war’",
-        "link": "https://www.ft.com/content/bf7b4e9b-6017-4525-a0e7-10c3b7bfec30?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:23 GMT"
+        "title": "Burnham warns of ‘tinderbox’ Britain after week of intense heat",
+        "link": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1",
+        "date": "Fri, 14 Aug 2026 22:42:23 GMT"
       },
       {
-        "title": "Geneva super-rich rocked by luxury home burglary spree",
-        "link": "https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:31 GMT"
+        "title": "Second UK train derails in less than 24 hours",
+        "link": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1",
+        "date": "Fri, 14 Aug 2026 17:52:36 GMT"
       },
       {
         "title": "Former Cambridge professor Jason Arday found dead",
         "link": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1",
         "date": "Fri, 14 Aug 2026 21:24:12 GMT"
-      },
-      {
-        "title": "Burnham warns of ‘tinderbox’ Britain after week of intense heat",
-        "link": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1",
-        "date": "Fri, 14 Aug 2026 22:42:23 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:display ad 47",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374435168?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:16:06 GMT"
+        "title": "ProQuest:display ad 82",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660210?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:08:28 GMT"
       },
       {
-        "title": "ProQuest:The Political Parties' Pathologies",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374435155?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:16:51 GMT"
+        "title": "ProQuest:display ad 116",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660209?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:08:26 GMT"
       },
       {
-        "title": "ProQuest:other 62",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374435124?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:16:24 GMT"
+        "title": "ProQuest:tbl of contents 103",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660208?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:08:26 GMT"
       },
       {
-        "title": "ProQuest:Push to Build Gold Mine Inside National Park Divides Alaskans",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374434510?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:15:35 GMT"
+        "title": "ProQuest:Israel Deploys Troops Amid Settler Siege: Violence intensifies in West Bank as Palestinian homes come under attack",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660207?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:08:25 GMT"
       },
       {
-        "title": "ProQuest:display ad 93",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374434497?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:17:10 GMT"
+        "title": "ProQuest:stock quote 71",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660205?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:09:21 GMT"
       },
       {
-        "title": "ProQuest:tbl of contents 78",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374434495?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:16:54 GMT"
+        "title": "ProQuest:other 17",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660204?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:09:20 GMT"
       },
       {
-        "title": "ProQuest:Lilly Sues Weight-Loss Drug Sellers",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374434488?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:16:04 GMT"
+        "title": "ProQuest:display ad 130",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660203?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:09:21 GMT"
       },
       {
-        "title": "ProQuest:Trump Sued Over Feed From His Trutl Social",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374434473?accountid=37826",
-        "date": "Sat, 15 Aug 2026 02:17:10 GMT"
+        "title": "ProQuest:WNBA's Battle Over Women",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3374660202?accountid=37826",
+        "date": "Sat, 15 Aug 2026 09:08:28 GMT"
       }
     ],
     "Bloomberg": [
@@ -343,6 +343,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Google Workspace Promo Codes: 14% Off for August 2026",
+        "link": "https://www.wired.com/story/google-workspace-promo-code/",
+        "date": "Sat, 15 Aug 2026 05:00:00 +0000"
+      },
+      {
         "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
         "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
         "date": "Fri, 14 Aug 2026 21:43:17 +0000"
@@ -376,11 +381,6 @@
         "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
         "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
         "date": "Fri, 14 Aug 2026 11:00:00 +0000"
-      },
-      {
-        "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-        "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-        "date": "Fri, 14 Aug 2026 10:45:00 +0000"
       }
     ],
     "The Verge": [
@@ -469,7 +469,17 @@
     ],
     "Hacker News": [
       {
-        "title": "AI Driven Testing",
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "link": "https://chenxiachan.github.io/thoughtdag/",
+        "date": "Sat, 15 Aug 2026 04:42:07 +0000"
+      },
+      {
+        "title": "The other Sean Byrne doesn't exist",
+        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "date": "Sat, 15 Aug 2026 04:18:44 +0000"
+      },
+      {
+        "title": "Show HN: Deltix – AI Driven Testing",
         "link": "https://app.deltix.ai",
         "date": "Sat, 15 Aug 2026 02:42:14 +0000"
       },
@@ -484,7 +494,7 @@
         "date": "Sat, 15 Aug 2026 00:55:31 +0000"
       },
       {
-        "title": "Simplifying and Refactoring Introductory Calculus",
+        "title": "Simplifying and Refactoring Introductory Calculus (2018)",
         "link": "https://arxiv.org/abs/1811.03459",
         "date": "Sat, 15 Aug 2026 00:15:23 +0000"
       },
@@ -497,16 +507,6 @@
         "title": "Going Dark, and the era of law enforcement hacking",
         "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "date": "Fri, 14 Aug 2026 20:52:44 +0000"
-      },
-      {
-        "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-        "link": "https://arxiv.org/abs/2608.11158",
-        "date": "Fri, 14 Aug 2026 19:41:42 +0000"
-      },
-      {
-        "title": "Firefox is now the last major browser that still supports uBlock Origin",
-        "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-        "date": "Fri, 14 Aug 2026 19:03:20 +0000"
       }
     ],
     "Reddit": [
@@ -531,6 +531,16 @@
         "date": "2026-08-14T23:40:07+00:00"
       },
       {
+        "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+        "link": "https://www.reddit.com/r/worldnews/comments/1voqocv/iran_defiant_on_strait_as_trump_tells_americans/",
+        "date": "2026-08-15T02:23:13+00:00"
+      },
+      {
+        "title": "‘We’ll Warm Ourselves With the Fire of Russian Oil Refineries’: Ukraine Hits Back at Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vomd0s/well_warm_ourselves_with_the_fire_of_russian_oil/",
+        "date": "2026-08-14T23:02:55+00:00"
+      },
+      {
         "title": "Ukraine’s Strikes Wipe Out Wildberries’ Major Warehouses as Losses Near $12 Billion",
         "link": "https://www.reddit.com/r/worldnews/comments/1vo6iyk/ukraines_strikes_wipe_out_wildberries_major/",
         "date": "2026-08-14T12:55:20+00:00"
@@ -539,16 +549,6 @@
         "title": "Putin Ordered Kremlin to ‘Destroy NATO and EU From Within’ – NYT",
         "link": "https://www.reddit.com/r/worldnews/comments/1vo84hs/putin_ordered_kremlin_to_destroy_nato_and_eu_from/",
         "date": "2026-08-14T14:01:44+00:00"
-      },
-      {
-        "title": "‘We’ll Warm Ourselves With the Fire of Russian Oil Refineries’: Ukraine Hits Back at Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vomd0s/well_warm_ourselves_with_the_fire_of_russian_oil/",
-        "date": "2026-08-14T23:02:55+00:00"
-      },
-      {
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-        "link": "https://www.reddit.com/r/worldnews/comments/1voqocv/iran_defiant_on_strait_as_trump_tells_americans/",
-        "date": "2026-08-15T02:23:13+00:00"
       }
     ],
     "PCMag": [],
