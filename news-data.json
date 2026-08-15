@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T09:02:18.119Z",
+  "updated": "2026-08-15T23:39:41.174Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,56 +48,71 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+        "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 21:28:54 GMT"
+      },
+      {
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
         "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 07:53:48 GMT"
+        "date": "Sat, 15 Aug 2026 17:43:04 GMT"
       },
       {
-        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 03:58:31 GMT"
-      },
-      {
-        "title": "Five years after the Taliban swept to power, does the West have any influence?",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 14 Aug 2026 17:00:14 GMT"
-      },
-      {
-        "title": "Heathrow Airport pipe leak causes flood disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 08:52:13 GMT"
-      },
-      {
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 00:01:53 GMT"
-      },
-      {
-        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 08:52:55 GMT"
+        "date": "Sat, 15 Aug 2026 20:00:15 GMT"
       },
       {
-        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 05:01:13 GMT"
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 11:53:19 GMT"
       },
       {
-        "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
-        "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 14 Aug 2026 23:16:43 GMT"
+        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 21:19:28 GMT"
+      },
+      {
+        "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+        "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 17:33:38 GMT"
+      },
+      {
+        "title": "Hunt wins third gold as Asher-Smith makes history",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 21:13:17 GMT"
+      },
+      {
+        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+        "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 13:48:38 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-        "date": "Fri, 14 Aug 2026 22:35:07 +0000"
+        "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+        "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+        "date": "Sat, 15 Aug 2026 09:01:01 +0000"
       },
       {
-        "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-        "date": "Sat, 15 Aug 2026 01:04:40 +0000"
+        "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+        "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+        "date": "Sat, 15 Aug 2026 19:36:20 +0000"
+      },
+      {
+        "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+        "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+        "date": "Sat, 15 Aug 2026 16:09:55 +0000"
+      },
+      {
+        "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+        "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+        "date": "Sat, 15 Aug 2026 22:26:02 +0000"
+      },
+      {
+        "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+        "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+        "date": "Sat, 15 Aug 2026 18:15:49 +0000"
       },
       {
         "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
@@ -105,32 +120,27 @@
         "date": "Fri, 14 Aug 2026 19:20:46 +0000"
       },
       {
-        "title": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-        "date": "Sat, 15 Aug 2026 01:37:14 +0000"
+        "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+        "link": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+        "date": "Sat, 15 Aug 2026 18:27:45 +0000"
       },
       {
-        "title": "The 5 Congress Members Whose Families Trade the Most Stocks",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
-        "date": "Fri, 14 Aug 2026 20:51:31 +0000"
-      },
-      {
-        "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
-        "date": "Fri, 14 Aug 2026 21:49:50 +0000"
-      },
-      {
-        "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
-        "link": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
-        "date": "Sat, 15 Aug 2026 04:01:09 +0000"
-      },
-      {
-        "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-        "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-        "date": "Sat, 15 Aug 2026 08:50:20 +0000"
+        "title": "An Island Used to Storms Readies for One of the Strongest in Decades",
+        "link": "https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html",
+        "date": "Sat, 15 Aug 2026 19:32:54 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "date": "Sat, 15 Aug 2026 19:39:07 GMT"
+      },
+      {
+        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+        "date": "Sat, 15 Aug 2026 18:08:21 GMT"
+      },
       {
         "title": "American missionary kidnapped in Niger freed after nine months",
         "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
@@ -145,16 +155,6 @@
         "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
         "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
         "date": "Thu, 13 Aug 2026 14:21:52 GMT"
-      },
-      {
-        "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-        "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-        "date": "Thu, 13 Aug 2026 04:00:49 GMT"
-      },
-      {
-        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-        "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-        "date": "Wed, 12 Aug 2026 12:21:08 GMT"
       },
       {
         "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
-        "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 08:44:36 +0000"
+        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+        "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 23:04:47 +0000"
       },
       {
-        "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
-        "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 08:32:07 +0000"
+        "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+        "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 22:22:46 +0000"
       },
       {
-        "title": "The women India’s biggest river project forgot",
-        "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 08:22:09 +0000"
+        "title": "Why is the latest Ebola outbreak worsening?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 22:00:42 +0000"
       },
       {
-        "title": "Arteta assures Arsenal fans over contract before Man City clash",
-        "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 07:44:35 +0000"
+        "title": "Qatar denies it is detaining three Iranian bomber pilots",
+        "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 20:55:29 +0000"
       },
       {
-        "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
-        "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 07:27:59 +0000"
+        "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+        "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 20:40:48 +0000"
       },
       {
-        "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-        "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 07:27:32 +0000"
+        "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+        "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 20:09:33 +0000"
       },
       {
-        "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-        "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 07:18:13 +0000"
+        "title": "Moroccan police intercept migrants heading for Ceuta enclave",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 20:07:07 +0000"
       },
       {
-        "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 07:13:11 +0000"
+        "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+        "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+        "date": "Sat, 15 Aug 2026 19:46:20 +0000"
       }
     ],
     "Financial Times": [
@@ -226,9 +226,14 @@
         "date": "Sat, 15 Aug 2026 04:00:32 GMT"
       },
       {
-        "title": "America’s AI election",
+        "title": "AI vs the people",
         "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
         "date": "Sat, 15 Aug 2026 04:00:14 GMT"
+      },
+      {
+        "title": "How Burnham can curb Britain’s tax-dodging shops",
+        "link": "https://www.ft.com/content/936c1856-a049-4d3e-be1c-7cd6269f6bcf",
+        "date": "Sat, 15 Aug 2026 04:00:23 GMT"
       },
       {
         "title": "Which is the next No 1 city on Earth?",
@@ -236,24 +241,19 @@
         "date": "Sat, 15 Aug 2026 04:00:23 GMT"
       },
       {
-        "title": "Traders are spoiling for a fight over the yen",
-        "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:32 GMT"
+        "title": "Burnham calls for ‘reflection’ over death of Jason Arday",
+        "link": "https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1",
+        "date": "Sat, 15 Aug 2026 11:45:46 GMT"
       },
       {
-        "title": "Burnham warns of ‘tinderbox’ Britain after week of intense heat",
-        "link": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1",
-        "date": "Fri, 14 Aug 2026 22:42:23 GMT"
+        "title": "Ukraine left exposed as Patriot launchers run empty",
+        "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
+        "date": "Sat, 15 Aug 2026 12:00:05 GMT"
       },
       {
-        "title": "Second UK train derails in less than 24 hours",
-        "link": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1",
-        "date": "Fri, 14 Aug 2026 17:52:36 GMT"
-      },
-      {
-        "title": "Former Cambridge professor Jason Arday found dead",
-        "link": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1",
-        "date": "Fri, 14 Aug 2026 21:24:12 GMT"
+        "title": "Geneva super-rich rocked by luxury home burglary spree",
+        "link": "https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1",
+        "date": "Sat, 15 Aug 2026 04:00:31 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -343,89 +343,114 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-        "link": "https://www.wired.com/story/google-workspace-promo-code/",
-        "date": "Sat, 15 Aug 2026 05:00:00 +0000"
+        "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+        "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+        "date": "Sat, 15 Aug 2026 11:00:00 +0000"
       },
       {
-        "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-        "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
-        "date": "Fri, 14 Aug 2026 21:43:17 +0000"
+        "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+        "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+        "date": "Sat, 15 Aug 2026 11:00:00 +0000"
       },
       {
-        "title": "The Best Movies to Stream This Month (August 2026)",
-        "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-        "date": "Fri, 14 Aug 2026 21:18:21 +0000"
+        "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+        "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+        "date": "Sat, 15 Aug 2026 10:30:00 +0000"
       },
       {
-        "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-        "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-        "date": "Fri, 14 Aug 2026 20:59:03 +0000"
+        "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+        "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+        "date": "Sat, 15 Aug 2026 10:30:00 +0000"
       },
       {
-        "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-        "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-        "date": "Fri, 14 Aug 2026 15:00:00 +0000"
+        "title": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+        "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+        "date": "Sat, 15 Aug 2026 10:01:00 +0000"
       },
       {
-        "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
-        "link": "https://www.wired.com/gallery/best-wireless-chargers/",
-        "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+        "title": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+        "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+        "date": "Sat, 15 Aug 2026 10:00:00 +0000"
       },
       {
-        "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
-        "link": "https://www.wired.com/story/best-paper-planners/",
-        "date": "Fri, 14 Aug 2026 11:33:00 +0000"
+        "title": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)",
+        "link": "https://www.wired.com/story/best-apple-watch-bands/",
+        "date": "Sat, 15 Aug 2026 09:33:00 +0000"
       },
       {
-        "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
-        "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
-        "date": "Fri, 14 Aug 2026 11:00:00 +0000"
+        "title": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+        "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+        "date": "Sat, 15 Aug 2026 09:30:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Samsung has new Galaxy headphones in the works",
-        "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-        "date": "2026-08-14 19:18:45"
+        "title": "Matt Groening lets slip that Simpsons: Hit &amp; Run might be making a comeback",
+        "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+        "date": "2026-08-15 21:56:13"
       },
       {
-        "title": "A RAMageddon guide to back-to-school laptop shopping",
-        "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-        "date": "2026-08-14 18:32:47"
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "date": "2026-08-15 20:45:00"
       },
       {
-        "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-        "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-        "date": "2026-08-14 18:00:00"
+        "title": "Don’t overlook Elektron’s budget electronic music instruments",
+        "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+        "date": "2026-08-15 17:00:00"
       },
       {
-        "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-        "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
-        "date": "2026-08-14 18:00:00"
+        "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+        "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+        "date": "2026-08-15 15:00:00"
       },
       {
-        "title": "Google’s best new camera feature is only for the Pixel 11 series",
-        "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-        "date": "2026-08-14 17:34:14"
+        "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+        "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+        "date": "2026-08-15 14:58:27"
       },
       {
-        "title": "Mark Zuckerberg has an Instagzam",
-        "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "date": "2026-08-14 16:54:16"
+        "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+        "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+        "date": "2026-08-15 14:20:33"
       },
       {
-        "title": "You can now turn off Google Gemini’s visible watermarks",
-        "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "date": "2026-08-14 16:39:32"
+        "title": "I finally found a magnetic phone grip I never want to remove",
+        "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+        "date": "2026-08-15 14:10:16"
       },
       {
-        "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
-        "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
-        "date": "2026-08-14 14:50:25"
+        "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+        "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+        "date": "2026-08-15 14:03:14"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "date": "Sat, 15 Aug 2026 21:29:19 +0000"
+      },
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "date": "Sat, 15 Aug 2026 18:58:39 +0000"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "date": "Sat, 15 Aug 2026 16:30:00 +0000"
+      },
+      {
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "date": "Sat, 15 Aug 2026 16:10:00 +0000"
+      },
+      {
+        "title": "Every fusion startup that has raised over $100M",
+        "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+        "date": "Sat, 15 Aug 2026 13:15:20 +0000"
+      },
       {
         "title": "Talks to sell PayPal to Stripe and Advent are heating up",
         "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
@@ -440,73 +465,48 @@
         "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
         "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
         "date": "Fri, 14 Aug 2026 19:33:00 +0000"
-      },
-      {
-        "title": "What we know about the alleged Iranian hacks on US water utilities",
-        "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-        "date": "Fri, 14 Aug 2026 19:04:32 +0000"
-      },
-      {
-        "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-        "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-        "date": "Fri, 14 Aug 2026 18:58:15 +0000"
-      },
-      {
-        "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
-        "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-        "date": "Fri, 14 Aug 2026 16:21:04 +0000"
-      },
-      {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "date": "Fri, 14 Aug 2026 16:13:40 +0000"
-      },
-      {
-        "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "date": "Fri, 14 Aug 2026 15:43:28 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "link": "https://chenxiachan.github.io/thoughtdag/",
-        "date": "Sat, 15 Aug 2026 04:42:07 +0000"
+        "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
+        "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+        "date": "Sat, 15 Aug 2026 22:40:20 +0000"
       },
       {
-        "title": "The other Sean Byrne doesn't exist",
-        "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "date": "Sat, 15 Aug 2026 04:18:44 +0000"
+        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+        "link": "https://sugartrack-beta.vercel.app/",
+        "date": "Sat, 15 Aug 2026 22:28:14 +0000"
       },
       {
-        "title": "Show HN: Deltix – AI Driven Testing",
-        "link": "https://app.deltix.ai",
-        "date": "Sat, 15 Aug 2026 02:42:14 +0000"
+        "title": "Engineers will do anything to avoid learning from history",
+        "link": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+        "date": "Sat, 15 Aug 2026 22:08:22 +0000"
       },
       {
-        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "date": "Sat, 15 Aug 2026 01:14:05 +0000"
+        "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+        "link": "https://xescu.re/keeta-consensus.pdf",
+        "date": "Sat, 15 Aug 2026 21:49:45 +0000"
       },
       {
-        "title": "The Ploopy A+ Trackball Is Here",
-        "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "date": "Sat, 15 Aug 2026 00:55:31 +0000"
+        "title": "Bede Liu, a digital signal processing pioneer, has died",
+        "link": "https://spectrum.ieee.org/digital-signal-processing",
+        "date": "Sat, 15 Aug 2026 21:45:54 +0000"
       },
       {
-        "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-        "link": "https://arxiv.org/abs/1811.03459",
-        "date": "Sat, 15 Aug 2026 00:15:23 +0000"
+        "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+        "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+        "date": "Sat, 15 Aug 2026 21:42:47 +0000"
       },
       {
-        "title": "eigendrum",
-        "link": "https://eigendrum.com/#p=circle",
-        "date": "Fri, 14 Aug 2026 22:15:12 +0000"
+        "title": "Tracking down a Zsh history data loss bug",
+        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "date": "Sat, 15 Aug 2026 21:39:09 +0000"
       },
       {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "date": "Fri, 14 Aug 2026 20:52:44 +0000"
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "date": "Sat, 15 Aug 2026 21:14:34 +0000"
       }
     ],
     "Reddit": [
@@ -521,77 +521,77 @@
         "date": "2026-08-15T04:02:23+00:00"
       },
       {
-        "title": "U.S. uninterested in lumber relief, wants American booze back on shelves ‘immediately’ if deal reached: sources",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vonhnw/us_uninterested_in_lumber_relief_wants_american/",
-        "date": "2026-08-14T23:53:23+00:00"
+        "title": "South Korea proposes talks to officially end war with North",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vp0pkz/south_korea_proposes_talks_to_officially_end_war/",
+        "date": "2026-08-15T11:43:40+00:00"
       },
       {
-        "title": "Sturgeon Lake Cree Nation Wins Court Ruling in Kevin O'Leary's $70-Billion Wonder Valley Data Center Water Fight",
-        "link": "https://www.reddit.com/r/worldnews/comments/1von72w/sturgeon_lake_cree_nation_wins_court_ruling_in/",
-        "date": "2026-08-14T23:40:07+00:00"
+        "title": "Greenland forces Trump-linked US oil firm to delay drilling",
+        "link": "https://www.reddit.com/r/worldnews/comments/1voypnk/greenland_forces_trumplinked_us_oil_firm_to_delay/",
+        "date": "2026-08-15T09:50:26+00:00"
       },
       {
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-        "link": "https://www.reddit.com/r/worldnews/comments/1voqocv/iran_defiant_on_strait_as_trump_tells_americans/",
-        "date": "2026-08-15T02:23:13+00:00"
+        "title": "Russian E-Commerce Giants Beg Kremlin for Bailout After Devastating Drone Strikes",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vp1c4i/russian_ecommerce_giants_beg_kremlin_for_bailout/",
+        "date": "2026-08-15T12:15:22+00:00"
       },
       {
-        "title": "‘We’ll Warm Ourselves With the Fire of Russian Oil Refineries’: Ukraine Hits Back at Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vomd0s/well_warm_ourselves_with_the_fire_of_russian_oil/",
-        "date": "2026-08-14T23:02:55+00:00"
+        "title": "Poland will soon have Europe's largest army, Tusk pledges",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpc9ol/poland_will_soon_have_europes_largest_army_tusk/",
+        "date": "2026-08-15T19:49:02+00:00"
       },
       {
-        "title": "Ukraine’s Strikes Wipe Out Wildberries’ Major Warehouses as Losses Near $12 Billion",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vo6iyk/ukraines_strikes_wipe_out_wildberries_major/",
-        "date": "2026-08-14T12:55:20+00:00"
+        "title": "Russia threatens Türkiye and US with worsening relations over arms supplies to Ukraine",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vp5q8k/russia_threatens_türkiye_and_us_with_worsening/",
+        "date": "2026-08-15T15:28:30+00:00"
       },
       {
-        "title": "Putin Ordered Kremlin to ‘Destroy NATO and EU From Within’ – NYT",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vo84hs/putin_ordered_kremlin_to_destroy_nato_and_eu_from/",
-        "date": "2026-08-14T14:01:44+00:00"
+        "title": "Liechtenstein moves to change rules of succession so women can inherit principality's throne",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vp8jbj/liechtenstein_moves_to_change_rules_of_succession/",
+        "date": "2026-08-15T17:20:45+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "The Incredibles 3 Confirmed as Disney Kicks Off D23 Entertainment Showcase",
-        "link": "https://www.cnet.com/culture/entertainment/the-incredibles-3-confirmed-as-disney-kicks-off-d23-entertainment-showcase/",
-        "date": "2026-08-15 03:57:20"
+        "title": "Lego Star Wars: The Mandalorian Is Packed With Laughs, Flashbacks and Lots of Grogu",
+        "link": "https://www.cnet.com/culture/entertainment/lego-star-wars-the-mandalorian-is-packed-with-laughs-flashbacks-and-lots-of-grogu/",
+        "date": "2026-08-15 18:58:20"
       },
       {
-        "title": "ChatGPT Can Now Add Your Mac Activity to Its Memories",
-        "link": "https://www.cnet.com/tech/services-and-software/chatgpt-mac-activity-computer-history/",
-        "date": "2026-08-14 21:01:04"
+        "title": "X-Men Cast, VisionQuest Trailer: All the Big Marvel News Out of D23",
+        "link": "https://www.cnet.com/tech/services-and-software/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23/",
+        "date": "2026-08-15 18:58:01"
       },
       {
-        "title": "Judge Tells Google to Make It Easier to Install Third-Party App Stores",
-        "link": "https://www.cnet.com/tech/services-and-software/judge-tells-google-to-make-it-easier-to-install-third-party-app-stores/",
-        "date": "2026-08-14 20:45:12"
+        "title": "Disney D23 Movies and Streaming Lineup: Biggest Surprises and Everything Else",
+        "link": "https://www.cnet.com/tech/services-and-software/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everything-else/",
+        "date": "2026-08-15 18:43:19"
       },
       {
-        "title": "Apple’s Once-Futuristic iPhone X Is Now ‘Obsolete’",
-        "link": "https://www.cnet.com/tech/mobile/apples-once-futuristic-iphone-x-is-now-obsolete/",
-        "date": "2026-08-14 20:02:43"
+        "title": "Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming",
+        "link": "https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/",
+        "date": "2026-08-15 17:26:17"
       },
       {
-        "title": "‘The Mandalorian and Grogu’ Gets Disney Plus Streaming Release Date",
-        "link": "https://www.cnet.com/culture/entertainment/the-mandalorian-and-grogu-gets-disney-plus-streaming-release-date/",
-        "date": "2026-08-14 19:01:22"
+        "title": "Disney Snuck In and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why",
+        "link": "https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/",
+        "date": "2026-08-15 16:47:45"
       },
       {
-        "title": "Stressed Parents Give Kids More Screen Time, Study Finds",
-        "link": "https://www.cnet.com/news/social-media/stressed-parents-give-kids-more-screen-time-study-finds/",
-        "date": "2026-08-11 19:50:30"
+        "title": "Starfighter Trailer, Ahsoka and Anakin: Biggest Star Wars News Out of D23",
+        "link": "https://www.cnet.com/tech/services-and-software/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d23/",
+        "date": "2026-08-15 16:23:12"
       },
       {
-        "title": "Black Hole Stars Are Apparently Real and Help Explain a Long-Standing Mystery",
-        "link": "https://www.cnet.com/science/space/black-hole-star-mom-bh-1-space-science-research/",
-        "date": "2026-08-14 13:40:41"
+        "title": "Looking for a Free Microsoft 365 Replacement? Try This Program",
+        "link": "https://www.cnet.com/tech/services-and-software/copy-of-looking-for-a-free-microsoft-365-replacement-try-this-program/",
+        "date": "2026-01-16 11:01:19"
       },
       {
-        "title": "Apple’s Warnings About Spyware Are Real, Don’t Ignore Them",
-        "link": "https://www.cnet.com/tech/apples-warnings-about-spyware-are-real-dont-ignore-them/",
-        "date": "2026-08-14 17:28:54"
+        "title": "Frozen 3 Trailer Reveals Anna’s Royal Wedding and A New Icy Magic",
+        "link": "https://www.cnet.com/culture/entertainment/frozen-3-trailer-reveals-annas-royal-wedding-and-a-new-icy-magic/",
+        "date": "2026-08-15 05:42:32"
       }
     ],
     "AP": [],
