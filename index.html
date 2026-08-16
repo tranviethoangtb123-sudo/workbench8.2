@@ -1303,7 +1303,7 @@ function downloadIcs(title,ev){
   var start=new Date(ev.replace('T','T'));
   var end=new Date(start.getTime()+60*60*1000);
   var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6)+'@workbench';
-  var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART:'+icsUtc(start)+'\r\nDTEND:'+icsUtc(end)+'\r\nSUMMARY;CHARSET=UTF-8:'+escIcs(title)+'\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nBEGIN:VALARM\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
+  var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART:'+icsUtc(start)+'\r\nDTEND:'+icsUtc(end)+'\r\nSUMMARY:'+escIcs(title)+'\r\nDESCRIPTION:'+escIcs(title)+'\r\nBEGIN:VALARM\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
   var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
   // 安卓：优先用系统分享面板把 .ics 直接发给日历 App（最可靠）；分享不可用则下载文件
   if(/Android/i.test(navigator.userAgent||'')){
