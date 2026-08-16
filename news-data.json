@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:39:33.415Z",
+  "updated": "2026-08-16T05:14:24.238Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,9 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 00:39:22 GMT"
+      },
+      {
         "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
         "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 15 Aug 2026 21:28:54 GMT"
+      },
+      {
+        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 02:01:42 GMT"
       },
       {
         "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -58,24 +68,9 @@
         "date": "Sat, 15 Aug 2026 17:43:04 GMT"
       },
       {
-        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 20:00:15 GMT"
-      },
-      {
-        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 11:53:19 GMT"
-      },
-      {
-        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 21:19:28 GMT"
-      },
-      {
-        "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-        "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 17:33:38 GMT"
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 04:13:32 GMT"
       },
       {
         "title": "Hunt wins third gold as Asher-Smith makes history",
@@ -83,9 +78,14 @@
         "date": "Sat, 15 Aug 2026 21:13:17 GMT"
       },
       {
-        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-        "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 13:48:38 GMT"
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+      },
+      {
+        "title": "What's driving men to get penis fillers, despite the risks?",
+        "link": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 23:42:33 GMT"
       }
     ],
     "The New York Times": [
@@ -98,11 +98,6 @@
         "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
         "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
         "date": "Sat, 15 Aug 2026 19:36:20 +0000"
-      },
-      {
-        "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-        "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-        "date": "Sat, 15 Aug 2026 16:09:55 +0000"
       },
       {
         "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
@@ -125,9 +120,14 @@
         "date": "Sat, 15 Aug 2026 18:27:45 +0000"
       },
       {
-        "title": "An Island Used to Storms Readies for One of the Strongest in Decades",
-        "link": "https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html",
-        "date": "Sat, 15 Aug 2026 19:32:54 +0000"
+        "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+        "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+        "date": "Sat, 15 Aug 2026 17:31:40 +0000"
+      },
+      {
+        "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+        "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+        "date": "Sun, 16 Aug 2026 04:01:17 +0000"
       }
     ],
     "The Guardian": [
@@ -174,86 +174,86 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-        "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 23:27:10 +0000"
+        "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+        "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 05:14:00 +0000"
       },
       {
-        "title": "At least five reported dead amid flooding in US state of Indiana",
-        "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 23:19:34 +0000"
+        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 04:54:33 +0000"
       },
       {
-        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-        "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 23:04:47 +0000"
+        "title": "Israel strikes south Lebanon again as families flee north",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 04:43:21 +0000"
       },
       {
-        "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-        "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 22:22:46 +0000"
+        "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+        "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 04:35:26 +0000"
       },
       {
-        "title": "Why is the latest Ebola outbreak worsening?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 22:00:42 +0000"
+        "title": "Yemeni government forces hit back after new Houthi offensive",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 04:09:01 +0000"
       },
       {
-        "title": "Qatar denies it is detaining three Iranian bomber pilots",
-        "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 20:55:29 +0000"
+        "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+        "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 03:47:43 +0000"
       },
       {
-        "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-        "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 20:40:48 +0000"
+        "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
+        "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 03:39:32 +0000"
       },
       {
-        "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-        "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-        "date": "Sat, 15 Aug 2026 20:09:33 +0000"
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 02:26:54 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-        "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:31 GMT"
+        "title": "Most US voters say they are worse off under Trump — FT poll",
+        "link": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:01:09 GMT"
       },
       {
-        "title": "China poised to lift travel ban on Manus founders",
-        "link": "https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:32 GMT"
+        "title": "Are Americans making peace with the spectre of socialism?",
+        "link": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "AI vs the people",
-        "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
-        "date": "Sat, 15 Aug 2026 04:00:14 GMT"
+        "title": "BlackBerry: From phone dinosaur to tech champion",
+        "link": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "How Burnham can curb Britain’s tax-dodging shops",
-        "link": "https://www.ft.com/content/936c1856-a049-4d3e-be1c-7cd6269f6bcf",
-        "date": "Sat, 15 Aug 2026 04:00:23 GMT"
+        "title": "Can we stop with the public ‘blasterbating’, actually?",
+        "link": "https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "Which is the next No 1 city on Earth?",
-        "link": "https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:23 GMT"
+        "title": "European companies count the costs and gains of extreme heat",
+        "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "Burnham calls for ‘reflection’ over death of Jason Arday",
-        "link": "https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 11:45:46 GMT"
+        "title": "World’s largest carmakers seek to avert motor oil crisis",
+        "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "Ukraine left exposed as Patriot launchers run empty",
-        "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 12:00:05 GMT"
+        "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+        "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 01:52:17 GMT"
       },
       {
-        "title": "Geneva super-rich rocked by luxury home burglary spree",
-        "link": "https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1",
-        "date": "Sat, 15 Aug 2026 04:00:31 GMT"
+        "title": "Miner Ferrexpo caught up in dispute between oligarch and Kyiv",
+        "link": "https://www.ft.com/content/1b318ce4-75ef-4f68-8db5-f148dd00fe9f?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -343,13 +343,13 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-        "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+        "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+        "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
         "date": "Sat, 15 Aug 2026 11:00:00 +0000"
       },
       {
-        "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-        "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+        "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+        "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
         "date": "Sat, 15 Aug 2026 11:00:00 +0000"
       },
       {
@@ -385,6 +385,11 @@
     ],
     "The Verge": [
       {
+        "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+        "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+        "date": "2026-08-16 03:00:00"
+      },
+      {
         "title": "Matt Groening lets slip that Simpsons: Hit &amp; Run might be making a comeback",
         "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
         "date": "2026-08-15 21:56:13"
@@ -418,11 +423,6 @@
         "title": "I finally found a magnetic phone grip I never want to remove",
         "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
         "date": "2026-08-15 14:10:16"
-      },
-      {
-        "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-        "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-        "date": "2026-08-15 14:03:14"
       }
     ],
     "TechCrunch": [
@@ -469,44 +469,44 @@
     ],
     "Hacker News": [
       {
-        "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
-        "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
-        "date": "Sat, 15 Aug 2026 22:40:20 +0000"
+        "title": "The quirky personal homepages of programming language creators",
+        "link": "https://breck.lol/plMakers.html",
+        "date": "Sun, 16 Aug 2026 04:24:00 +0000"
       },
       {
-        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-        "link": "https://sugartrack-beta.vercel.app/",
-        "date": "Sat, 15 Aug 2026 22:28:14 +0000"
+        "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+        "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+        "date": "Sun, 16 Aug 2026 04:07:18 +0000"
       },
       {
-        "title": "Engineers will do anything to avoid learning from history",
-        "link": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
-        "date": "Sat, 15 Aug 2026 22:08:22 +0000"
+        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+        "link": "https://nntaleb.substack.com/p/have-another-drink",
+        "date": "Sun, 16 Aug 2026 03:23:34 +0000"
       },
       {
-        "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-        "link": "https://xescu.re/keeta-consensus.pdf",
-        "date": "Sat, 15 Aug 2026 21:49:45 +0000"
+        "title": "ProofRun – a local verification receipt for AI coding agents",
+        "link": "https://github.com/yebiguo/ProofRun",
+        "date": "Sun, 16 Aug 2026 03:22:15 +0000"
       },
       {
-        "title": "Bede Liu, a digital signal processing pioneer, has died",
-        "link": "https://spectrum.ieee.org/digital-signal-processing",
-        "date": "Sat, 15 Aug 2026 21:45:54 +0000"
+        "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+        "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+        "date": "Sun, 16 Aug 2026 02:36:10 +0000"
       },
       {
-        "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-        "link": "https://en.wikipedia.org/wiki/Wow!_signal",
-        "date": "Sat, 15 Aug 2026 21:42:47 +0000"
+        "title": "Patterns and problems in emerging multi-agent systems",
+        "link": "https://www.anthropic.com/research/multiagent-systems",
+        "date": "Sun, 16 Aug 2026 02:12:53 +0000"
       },
       {
-        "title": "Tracking down a Zsh history data loss bug",
-        "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-        "date": "Sat, 15 Aug 2026 21:39:09 +0000"
+        "title": "Guiding Ships with Moire Patterns",
+        "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+        "date": "Sun, 16 Aug 2026 01:26:44 +0000"
       },
       {
-        "title": "Abdominal fat predicts heart disease risk better than BMI",
-        "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-        "date": "Sat, 15 Aug 2026 21:14:34 +0000"
+        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "link": "https://www.micdrop.gg/",
+        "date": "Sun, 16 Aug 2026 00:46:29 +0000"
       }
     ],
     "Reddit": [
@@ -516,9 +516,14 @@
         "date": "2026-08-01T23:58:45+00:00"
       },
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1634, Part 1 (Thread #1781)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vosnvn/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-08-15T04:02:23+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1635, Part 1 (Thread #1782)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpmvj9/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-08-16T04:02:49+00:00"
+      },
+      {
+        "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpjaxa/us_pulls_last_aircraft_carrier_in_asia_as_trump/",
+        "date": "2026-08-16T01:01:48+00:00"
       },
       {
         "title": "South Korea proposes talks to officially end war with North",
@@ -526,29 +531,24 @@
         "date": "2026-08-15T11:43:40+00:00"
       },
       {
+        "title": "North Korea Is Preparing Fifty Thousand More Troops and Missiles for Russia’s War Against Ukraine — and Just Promised to Stay Until Victory",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpmgc5/north_korea_is_preparing_fifty_thousand_more/",
+        "date": "2026-08-16T03:41:20+00:00"
+      },
+      {
         "title": "Greenland forces Trump-linked US oil firm to delay drilling",
         "link": "https://www.reddit.com/r/worldnews/comments/1voypnk/greenland_forces_trumplinked_us_oil_firm_to_delay/",
         "date": "2026-08-15T09:50:26+00:00"
       },
       {
-        "title": "Russian E-Commerce Giants Beg Kremlin for Bailout After Devastating Drone Strikes",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vp1c4i/russian_ecommerce_giants_beg_kremlin_for_bailout/",
-        "date": "2026-08-15T12:15:22+00:00"
+        "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpm98u/benjamin_netanyahu_describes_uk_as_first_islamic/",
+        "date": "2026-08-16T03:30:48+00:00"
       },
       {
-        "title": "Poland will soon have Europe's largest army, Tusk pledges",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vpc9ol/poland_will_soon_have_europes_largest_army_tusk/",
-        "date": "2026-08-15T19:49:02+00:00"
-      },
-      {
-        "title": "Russia threatens Türkiye and US with worsening relations over arms supplies to Ukraine",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vp5q8k/russia_threatens_türkiye_and_us_with_worsening/",
-        "date": "2026-08-15T15:28:30+00:00"
-      },
-      {
-        "title": "Liechtenstein moves to change rules of succession so women can inherit principality's throne",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vp8jbj/liechtenstein_moves_to_change_rules_of_succession/",
-        "date": "2026-08-15T17:20:45+00:00"
+        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake | Donald Trump News",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vphteo/colombia_asks_trump_to_suspend_tariffs_as_country/",
+        "date": "2026-08-15T23:51:27+00:00"
       }
     ],
     "PCMag": [],
