@@ -1289,6 +1289,14 @@ function anchorDownloadIcs(file){
   var a=document.createElement('a');a.href=URL.createObjectURL(file);a.download='todo.ics';document.body.appendChild(a);a.click();
   setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},3000);
 }
+function openCalendarUrl(title,ev){
+  var start=new Date(ev.replace('T','T'));
+  var end=new Date(start.getTime()+60*60*1000);
+  var ds=start.toISOString().replace(/[-:]|\.\d{3}/g,'');
+  var de=end.toISOString().replace(/[-:]|\.\d{3}/g,'');
+  var url='https://calendar.google.com/calendar/render?action=TEMPLATE&text='+encodeURIComponent(title)+'&dates='+ds+'/'+de+'&details='+encodeURIComponent(title);
+  window.open(url,'_blank');
+}
 function downloadIcs(title,ev){
   var start=new Date(ev.replace('T','T'));
   var end=new Date(start.getTime()+60*60*1000);
@@ -1297,10 +1305,10 @@ function downloadIcs(title,ev){
   var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
   if(typeof File!=='undefined'&&navigator.canShare&&navigator.canShare({files:[file]})){
     navigator.share({files:[file],title:title}).catch(function(e){
-      if(!e||e.name!=='AbortError')anchorDownloadIcs(file);
+      if(!e||e.name!=='AbortError')openCalendarUrl(title,ev);
     });
   }else{
-    anchorDownloadIcs(file);
+    openCalendarUrl(title,ev);
   }
 }
 function exportItemIcs(id){
