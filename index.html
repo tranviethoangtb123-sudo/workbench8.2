@@ -278,6 +278,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .mgr-edit-btn:hover{color:#1f2937}
 .mgr-ics-btn,.mgr-remind-btn{background:none;border:1px solid #1f2937;color:#1f2937;font-size:.62rem;padding:2px 6px;border-radius:0;cursor:pointer;font-family:inherit;flex-shrink:0;line-height:1.2}
 .mgr-remind-btn.on{background:#1f2937;color:#fff}
+.subtask-cal,.subtask-remind{background:none;border:1px solid #1f2937;color:#1f2937;font-size:.58rem;padding:1px 5px;border-radius:0;cursor:pointer;font-family:inherit;flex-shrink:0;line-height:1.2}
+.subtask-remind.on{background:#1f2937;color:#fff}
 .mgr-actions{display:flex;gap:8px}
 .mgr-actions button{padding:8px 16px;border-radius:8px;border:none;font-size:.75rem;font-weight:500;cursor:pointer;font-family:inherit}
 .cal-popup{background:#FFFFFF;border:1px solid #d1d5db;padding:12px;width:280px;z-index:300;box-shadow:0 4px 16px rgba(0,0,0,.08)}
@@ -639,6 +641,8 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 <div class="mgr-add-row">
 <button class="mgr-cal-btn" id="mgrCalBtn" title="设置日期/时间" onclick="openMgrCal(event)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></button>
 <input type="time" class="mgr-time" id="mgrTime" value="">
+<button class="mgr-remind-btn" id="mgrRemindNewBtn" onclick="toggleMgrRemindNew()">提醒</button>
+<button class="mgr-remind-btn" id="mgrDraftIcsBtn" onclick="exportDraftIcs()">同步日历</button>
 <button class="mgr-btn-del" onclick="addMgrItem()" style="white-space:nowrap">添加</button>
 <button class="mgr-btn-del" id="mgrEditCancel" onclick="cancelMgrEdit()" style="display:none;white-space:nowrap">取消修改</button>
 </div>
@@ -936,7 +940,8 @@ function renderOtherSection(id){
       var bhtml=badge?' <span style="font-size:.65rem;color:#9ca3af">'+badge+'</span>':'';
       var txt=escHtml(it.text);
       if(it.topic)txt='<span class="mgr-topic">'+escHtml(it.topic)+'</span><span class="mgr-detail">'+txt+'</span>';
-      return '<li class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">'+txt+bhtml+'</span></li>';
+      var hasEv=mgrEventTime(it)?1:0;
+      return '<li class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">'+txt+bhtml+'</span>'+(hasEv?'<button class="subtask-cal" onclick="exportItemIcs(\''+it.id+'\')">日历</button><button class="subtask-remind'+(it.remind?' on':'')+'" onclick="toggleMgrRemind(\''+it.id+'\')">'+(it.remind?'提醒开':'提醒')+'</button>':'')+'</li>';
     }).join('');
     list.querySelectorAll('.subtask-check').forEach(function(ck){
       ck.onclick=function(){
@@ -1188,6 +1193,16 @@ document.addEventListener("click",function(){dp2.classList.remove("show")});
 
 
 var mgrCalVal=null;
+var mgrRemindNew=false;
+function updateMgrRemindNewBtn(){
+  var b=document.getElementById('mgrRemindNewBtn');if(!b)return;
+  b.textContent=mgrRemindNew?'提醒开':'提醒';
+  b.classList.toggle('on',mgrRemindNew);
+}
+function toggleMgrRemindNew(){
+  mgrRemindNew=!mgrRemindNew;updateMgrRemindNewBtn();
+  if(mgrRemindNew&&'Notification' in window&&Notification.permission==='default')Notification.requestPermission();
+}
 var editingItemId=null;
 var MGR_CAL_SVG='<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>';
 function fmtMgrCal(r){
@@ -1236,6 +1251,7 @@ function openManage(){
   var topicInp=document.getElementById('mgrTopicInput');if(topicInp)topicInp.value='';
   document.getElementById('mgrInput').value='';
   mgrCalVal=null;updateMgrCalBtn();
+  mgrRemindNew=false;updateMgrRemindNewBtn();
   renderMgrItems();
 }
 function closeManage(){
@@ -1268,16 +1284,28 @@ function mgrEventTime(it){
   return null;
 }
 function mgrItemTitle(it){return ((it.topic?it.topic+' ':'')+(it.text||'待办')).trim()}
-function exportItemIcs(id){
-  var data=loadMgrData();var it=data.items.find(function(x){return x.id===id});if(!it)return;
-  var ev=mgrEventTime(it);if(!ev){alert('该待办没有可用的日期');return}
+function downloadIcs(title,ev){
   var start=new Date(ev.replace('T','T'));
   var end=new Date(start.getTime()+60*60*1000);
   var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6)+'@workbench';
-  var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsStamp(new Date())+'\r\nDTSTART:'+icsStamp(start)+'\r\nDTEND:'+icsStamp(end)+'\r\nSUMMARY:'+escIcs(mgrItemTitle(it))+'\r\nDESCRIPTION:'+escIcs(mgrItemTitle(it))+'\r\nEND:VEVENT\r\nEND:VCALENDAR';
+  var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsStamp(new Date())+'\r\nDTSTART:'+icsStamp(start)+'\r\nDTEND:'+icsStamp(end)+'\r\nSUMMARY:'+escIcs(title)+'\r\nDESCRIPTION:'+escIcs(title)+'\r\nEND:VEVENT\r\nEND:VCALENDAR';
   var blob=new Blob([ics],{type:'text/calendar;charset=utf-8'});
   var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='todo.ics';document.body.appendChild(a);a.click();
   setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},100);
+}
+function exportItemIcs(id){
+  var data=loadMgrData();var it=data.items.find(function(x){return x.id===id});if(!it)return;
+  var ev=mgrEventTime(it);if(!ev){alert('该待办没有可用的日期');return}
+  downloadIcs(mgrItemTitle(it),ev);
+}
+function exportDraftIcs(){
+  var topic=document.getElementById('mgrTopicInput')?document.getElementById('mgrTopicInput').value.trim():'';
+  var text=document.getElementById('mgrInput')?document.getElementById('mgrInput').value.trim():'';
+  var time=document.getElementById('mgrTime')?document.getElementById('mgrTime').value:'';
+  if(!mgrCalVal){alert('请先选择日期');return}
+  var ev=mgrEventTime({dateVal:mgrCalVal.dateStr,time:time||mgrCalVal.startStr,recurrence:mgrCalVal.recurrence,day:mgrCalVal.day,startStr:mgrCalVal.startStr});
+  if(!ev){alert('请先选择日期');return}
+  downloadIcs((topic+' '+text).trim()||'待办',ev);
 }
 var _remindTimers={};
 function clearMgrReminder(id){if(_remindTimers[id]){clearTimeout(_remindTimers[id]);delete _remindTimers[id]}}
@@ -1338,6 +1366,7 @@ function addMgrItem(){
   var timeVal=timeInp?timeInp.value:'';
   var data=loadMgrData();
   var it={id:Date.now().toString(36)+Math.random().toString(36).substr(2,5),topic:topic,text:t,time:timeVal};
+  it.remind=mgrRemindNew;
   if(mgrCalVal){
     it.recurrence=mgrCalVal.recurrence||'single';
     if(mgrCalVal.dateStr)it.dateVal=mgrCalVal.dateStr;
@@ -1356,6 +1385,7 @@ function addMgrItem(){
   saveMgrData(data);
   scheduleItemReminder(it);
   if(topicInp)topicInp.value='';inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;updateMgrCalBtn();
+  mgrRemindNew=false;updateMgrRemindNewBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
   var cancelBtn=document.getElementById('mgrEditCancel');
@@ -1417,6 +1447,7 @@ function cancelMgrEdit(){
   var inp=document.getElementById('mgrInput');inp.value='';
   var timeInp=document.getElementById('mgrTime');if(timeInp)timeInp.value='';
   mgrCalVal=null;updateMgrCalBtn();
+  mgrRemindNew=false;updateMgrRemindNewBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
   var cancelBtn=document.getElementById('mgrEditCancel');
@@ -2016,7 +2047,8 @@ function renderHabits(){
   var todayItems = items.filter(function(it){ return isTodayItem(it); });
   var habitsHtml = '';
   todayItems.forEach(function(it, i){ var label = fmtBadgeHtml(it); var lh = label ? ' <span style="font-size:.65rem;color:#9ca3af;font-weight:400">' + label + '</span>' : '';
-    habitsHtml += '<div class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">' + escHtml(it.text) + lh + '</span></div>';
+    var hasEv=mgrEventTime(it)?1:0;
+    habitsHtml += '<div class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">' + escHtml(it.text) + lh + '</span>'+(hasEv?'<button class="subtask-cal" onclick="exportItemIcs(\''+it.id+'\')">日历</button><button class="subtask-remind'+(it.remind?' on':'')+'" onclick="toggleMgrRemind(\''+it.id+'\')">'+(it.remind?'提醒开':'提醒')+'</button>':'')+'</div>';
   });
   document.getElementById('habitsList').innerHTML = habitsHtml || '<div style="color:#9ca3af;font-size:.78rem;padding:8px 0">今日暂无待办</div>';
   
