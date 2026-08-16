@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:14:24.238Z",
+  "updated": "2026-08-16T09:01:20.412Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,14 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 08:23:38 GMT"
+      },
+      {
+        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
         "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 16 Aug 2026 00:39:22 GMT"
       },
       {
-        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 21:28:54 GMT"
+        "title": "People who fled Stourbridge fires start to return home",
+        "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 08:51:30 GMT"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -63,14 +68,9 @@
         "date": "Sun, 16 Aug 2026 02:01:42 GMT"
       },
       {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 17:43:04 GMT"
-      },
-      {
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 16 Aug 2026 04:13:32 GMT"
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 16 Aug 2026 08:49:32 GMT"
       },
       {
         "title": "Hunt wins third gold as Asher-Smith makes history",
@@ -78,21 +78,21 @@
         "date": "Sat, 15 Aug 2026 21:13:17 GMT"
       },
       {
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 15 Aug 2026 20:58:31 GMT"
-      },
-      {
         "title": "What's driving men to get penis fillers, despite the risks?",
         "link": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 15 Aug 2026 23:42:33 GMT"
+      },
+      {
+        "title": "From making friends to managing money: Students' advice for this year's freshers",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 15 Aug 2026 23:45:15 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
         "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-        "date": "Sat, 15 Aug 2026 09:01:01 +0000"
+        "date": "Sun, 16 Aug 2026 06:53:38 +0000"
       },
       {
         "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-        "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 05:14:00 +0000"
+        "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+        "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 08:40:34 +0000"
       },
       {
-        "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-        "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 04:54:33 +0000"
+        "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 08:39:38 +0000"
       },
       {
-        "title": "Israel strikes south Lebanon again as families flee north",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 04:43:21 +0000"
+        "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 08:11:47 +0000"
       },
       {
-        "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-        "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 04:35:26 +0000"
+        "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 07:47:45 +0000"
       },
       {
-        "title": "Yemeni government forces hit back after new Houthi offensive",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 04:09:01 +0000"
+        "title": "New satellite images show Europe’s disappearing rivers due to drought",
+        "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 07:46:22 +0000"
       },
       {
-        "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
-        "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 03:47:43 +0000"
+        "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 07:04:29 +0000"
       },
       {
-        "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
-        "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 03:39:32 +0000"
+        "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 06:40:50 +0000"
       },
       {
-        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-        "date": "Sun, 16 Aug 2026 02:26:54 +0000"
+        "title": "How a simple lighter has become the backbone of life in Gaza",
+        "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+        "date": "Sun, 16 Aug 2026 06:10:58 +0000"
       }
     ],
     "Financial Times": [
@@ -236,23 +236,23 @@
         "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "European companies count the costs and gains of extreme heat",
-        "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
-        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
-      },
-      {
         "title": "World’s largest carmakers seek to avert motor oil crisis",
         "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
         "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       },
       {
-        "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+        "title": "European companies count the costs and gains of extreme heat",
+        "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
+        "date": "Sun, 16 Aug 2026 04:00:11 GMT"
+      },
+      {
+        "title": "Singapore Inc’s AI ace card in rivalry with Hong Kong",
         "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
         "date": "Sun, 16 Aug 2026 01:52:17 GMT"
       },
       {
-        "title": "Miner Ferrexpo caught up in dispute between oligarch and Kyiv",
-        "link": "https://www.ft.com/content/1b318ce4-75ef-4f68-8db5-f148dd00fe9f?syn-25a6b1a6=1",
+        "title": "UK housebuilder profits set to fall 12% as ‘relentless grind’ drags on",
+        "link": "https://www.ft.com/content/c4e45f2a-593f-445a-bd3b-66df91465bb7?syn-25a6b1a6=1",
         "date": "Sun, 16 Aug 2026 04:00:11 GMT"
       }
     ],
@@ -353,13 +353,13 @@
         "date": "Sat, 15 Aug 2026 11:00:00 +0000"
       },
       {
-        "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-        "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+        "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+        "link": "https://www.wired.com/story/best-apple-watch-accessories/",
         "date": "Sat, 15 Aug 2026 10:30:00 +0000"
       },
       {
-        "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-        "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+        "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+        "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
         "date": "Sat, 15 Aug 2026 10:30:00 +0000"
       },
       {
@@ -469,24 +469,19 @@
     ],
     "Hacker News": [
       {
-        "title": "The quirky personal homepages of programming language creators",
-        "link": "https://breck.lol/plMakers.html",
-        "date": "Sun, 16 Aug 2026 04:24:00 +0000"
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "link": "https://littlelearner-ll.github.io/",
+        "date": "Sun, 16 Aug 2026 07:37:53 +0000"
       },
       {
-        "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
-        "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
-        "date": "Sun, 16 Aug 2026 04:07:18 +0000"
+        "title": "Falstad Math and Physics Simulations",
+        "link": "https://www.falstad.com/mathphysics.html",
+        "date": "Sun, 16 Aug 2026 04:19:32 +0000"
       },
       {
-        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
         "link": "https://nntaleb.substack.com/p/have-another-drink",
         "date": "Sun, 16 Aug 2026 03:23:34 +0000"
-      },
-      {
-        "title": "ProofRun – a local verification receipt for AI coding agents",
-        "link": "https://github.com/yebiguo/ProofRun",
-        "date": "Sun, 16 Aug 2026 03:22:15 +0000"
       },
       {
         "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
@@ -507,6 +502,11 @@
         "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
         "link": "https://www.micdrop.gg/",
         "date": "Sun, 16 Aug 2026 00:46:29 +0000"
+      },
+      {
+        "title": "Big Pickle on SWE Atlas – Codebase QnA",
+        "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+        "date": "Sun, 16 Aug 2026 00:10:48 +0000"
       }
     ],
     "Reddit": [
@@ -526,9 +526,14 @@
         "date": "2026-08-16T01:01:48+00:00"
       },
       {
-        "title": "South Korea proposes talks to officially end war with North",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vp0pkz/south_korea_proposes_talks_to_officially_end_war/",
-        "date": "2026-08-15T11:43:40+00:00"
+        "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and Western Hemisphere",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vppkp9/us_pulls_last_aircraft_carrier_in_asia_as_trump/",
+        "date": "2026-08-16T06:30:27+00:00"
+      },
+      {
+        "title": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpovmy/ukrainian_forces_target_moscow_oblast_damaging/",
+        "date": "2026-08-16T05:51:15+00:00"
       },
       {
         "title": "North Korea Is Preparing Fifty Thousand More Troops and Missiles for Russia’s War Against Ukraine — and Just Promised to Stay Until Victory",
@@ -536,23 +541,28 @@
         "date": "2026-08-16T03:41:20+00:00"
       },
       {
-        "title": "Greenland forces Trump-linked US oil firm to delay drilling",
-        "link": "https://www.reddit.com/r/worldnews/comments/1voypnk/greenland_forces_trumplinked_us_oil_firm_to_delay/",
-        "date": "2026-08-15T09:50:26+00:00"
-      },
-      {
         "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
         "link": "https://www.reddit.com/r/worldnews/comments/1vpm98u/benjamin_netanyahu_describes_uk_as_first_islamic/",
         "date": "2026-08-16T03:30:48+00:00"
       },
       {
-        "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake | Donald Trump News",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vphteo/colombia_asks_trump_to_suspend_tariffs_as_country/",
-        "date": "2026-08-15T23:51:27+00:00"
+        "title": "Largest Wildberries warehouse in Moscow Oblast on fire after drone attack",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vpr310/largest_wildberries_warehouse_in_moscow_oblast_on/",
+        "date": "2026-08-16T07:58:26+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Kingdom Hearts 4 Fans Are Well Fed After 2 Days of Great Trailers",
+        "link": "https://www.cnet.com/tech/gaming/kingdom-hearts-4-fans-are-well-fed-after-2-days-of-great-trailers/",
+        "date": "2026-08-16 02:06:52"
+      },
+      {
+        "title": "Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards",
+        "link": "https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/",
+        "date": "2026-08-16 00:07:12"
+      },
       {
         "title": "Lego Star Wars: The Mandalorian Is Packed With Laughs, Flashbacks and Lots of Grogu",
         "link": "https://www.cnet.com/culture/entertainment/lego-star-wars-the-mandalorian-is-packed-with-laughs-flashbacks-and-lots-of-grogu/",
@@ -582,16 +592,6 @@
         "title": "Starfighter Trailer, Ahsoka and Anakin: Biggest Star Wars News Out of D23",
         "link": "https://www.cnet.com/tech/services-and-software/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d23/",
         "date": "2026-08-15 16:23:12"
-      },
-      {
-        "title": "Looking for a Free Microsoft 365 Replacement? Try This Program",
-        "link": "https://www.cnet.com/tech/services-and-software/copy-of-looking-for-a-free-microsoft-365-replacement-try-this-program/",
-        "date": "2026-01-16 11:01:19"
-      },
-      {
-        "title": "Frozen 3 Trailer Reveals Anna’s Royal Wedding and A New Icy Magic",
-        "link": "https://www.cnet.com/culture/entertainment/frozen-3-trailer-reveals-annas-royal-wedding-and-a-new-icy-magic/",
-        "date": "2026-08-15 05:42:32"
       }
     ],
     "AP": [],
