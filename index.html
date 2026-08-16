@@ -1285,14 +1285,23 @@ function mgrEventTime(it){
 }
 function mgrItemTitle(it){return ((it.topic?it.topic+' ':'')+(it.text||'待办')).trim()}
 function icsUtc(d){return d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'')}
+function anchorDownloadIcs(file){
+  var a=document.createElement('a');a.href=URL.createObjectURL(file);a.download='todo.ics';document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},3000);
+}
 function downloadIcs(title,ev){
   var start=new Date(ev.replace('T','T'));
   var end=new Date(start.getTime()+60*60*1000);
   var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6)+'@workbench';
   var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART:'+icsUtc(start)+'\r\nDTEND:'+icsUtc(end)+'\r\nSUMMARY;CHARSET=UTF-8:'+escIcs(title)+'\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nBEGIN:VALARM\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
-  var blob=new Blob([ics],{type:'text/calendar'});
-  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='todo.ics';document.body.appendChild(a);a.click();
-  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},2000);
+  var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
+  if(typeof File!=='undefined'&&navigator.canShare&&navigator.canShare({files:[file]})){
+    navigator.share({files:[file],title:title}).catch(function(e){
+      if(!e||e.name!=='AbortError')anchorDownloadIcs(file);
+    });
+  }else{
+    anchorDownloadIcs(file);
+  }
 }
 function exportItemIcs(id){
   var data=loadMgrData();var it=data.items.find(function(x){return x.id===id});if(!it)return;
