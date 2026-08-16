@@ -276,6 +276,8 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 .mgr-item.editing .mgr-text{background:#f3f4f6;border-radius:4px;padding:2px 6px;margin:-2px -6px;outline:1px solid #1f2937}
 .mgr-edit-btn{background:none;border:none;color:#9ca3af;cursor:pointer;font-size:.85rem;padding:2px 4px;flex-shrink:0;transition:color .12s}
 .mgr-edit-btn:hover{color:#1f2937}
+.mgr-ics-btn,.mgr-remind-btn{background:none;border:1px solid #1f2937;color:#1f2937;font-size:.62rem;padding:2px 6px;border-radius:0;cursor:pointer;font-family:inherit;flex-shrink:0;line-height:1.2}
+.mgr-remind-btn.on{background:#1f2937;color:#fff}
 .mgr-actions{display:flex;gap:8px}
 .mgr-actions button{padding:8px 16px;border-radius:8px;border:none;font-size:.75rem;font-weight:500;cursor:pointer;font-family:inherit}
 .cal-popup{background:#FFFFFF;border:1px solid #d1d5db;padding:12px;width:280px;z-index:300;box-shadow:0 4px 16px rgba(0,0,0,.08)}
@@ -1251,6 +1253,65 @@ function loadMgrData(){
   return raw?JSON.parse(raw):{items:[]};
 }
 function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data))}
+function pad2(n){return (n<10?'0':'')+n}
+function icsStamp(d){return d.getFullYear()+pad2(d.getMonth()+1)+pad2(d.getDate())+'T'+pad2(d.getHours())+pad2(d.getMinutes())+'00'}
+function escIcs(s){return String(s||'').replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\r?\n/g,'\\n')}
+function mgrEventTime(it){
+  var t=it.time||it.startStr||'09:00';
+  if(it.dateVal&&t)return it.dateVal+'T'+t;
+  if(it.recurrence==='monthDay'&&it.day){
+    var now=new Date();var y=now.getFullYear();var m=now.getMonth();
+    var d=new Date(y,m,it.day);
+    if(d.getTime()<now.getTime()){m++;if(m>11){m=0;y++}d=new Date(y,m,it.day)}
+    return y+'-'+pad2(m+1)+'-'+pad2(it.day)+'T'+t;
+  }
+  return null;
+}
+function mgrItemTitle(it){return ((it.topic?it.topic+' ':'')+(it.text||'待办')).trim()}
+function exportItemIcs(id){
+  var data=loadMgrData();var it=data.items.find(function(x){return x.id===id});if(!it)return;
+  var ev=mgrEventTime(it);if(!ev){alert('该待办没有可用的日期');return}
+  var start=new Date(ev.replace('T','T'));
+  var end=new Date(start.getTime()+60*60*1000);
+  var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6)+'@workbench';
+  var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsStamp(new Date())+'\r\nDTSTART:'+icsStamp(start)+'\r\nDTEND:'+icsStamp(end)+'\r\nSUMMARY:'+escIcs(mgrItemTitle(it))+'\r\nDESCRIPTION:'+escIcs(mgrItemTitle(it))+'\r\nEND:VEVENT\r\nEND:VCALENDAR';
+  var blob=new Blob([ics],{type:'text/calendar;charset=utf-8'});
+  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='todo.ics';document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},100);
+}
+var _remindTimers={};
+function clearMgrReminder(id){if(_remindTimers[id]){clearTimeout(_remindTimers[id]);delete _remindTimers[id]}}
+function showTodoReminder(it){
+  var title=mgrItemTitle(it);
+  if('Notification' in window&&Notification.permission==='granted'){
+    try{if(navigator.serviceWorker&&navigator.serviceWorker.ready){navigator.serviceWorker.ready.then(function(reg){if(reg.showNotification)reg.showNotification(title,{body:title,icon:'icon-192.png'})})}}
+    catch(e){}
+    try{new Notification(title,{body:title,icon:'icon-192.png'})}catch(e){}
+  }
+}
+function scheduleItemReminder(it){
+  clearMgrReminder(it.id);if(!it.remind)return;
+  var ev=mgrEventTime(it);if(!ev)return;
+  var delay=new Date(ev.replace('T','T')).getTime()-Date.now();
+  if(delay>0&&delay<2147483647){_remindTimers[it.id]=setTimeout(function(){showTodoReminder(it)},delay)}
+}
+function toggleMgrRemind(id){
+  var data=loadMgrData();var it=data.items.find(function(x){return x.id===id});if(!it)return;
+  it.remind=!it.remind;saveMgrData(data);
+  if(it.remind){
+    if('Notification' in window&&Notification.permission==='default')Notification.requestPermission();
+    scheduleItemReminder(it);
+  }else{clearMgrReminder(id)}
+  renderMgrItems();
+}
+function scheduleAllReminders(){
+  ['life','study','work','workext','books','tmplife','med','bday'].forEach(function(id){
+    try{
+      var d=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
+      (d.items||[]).forEach(function(it){if(it.remind)scheduleItemReminder(it)});
+    }catch(e){}
+  });
+}
 function renderMgrItems(){
   if(currentSection!=='life'&&typeof renderOtherSection==='function')renderOtherSection(currentSection);
   var data=loadMgrData();
@@ -1260,7 +1321,8 @@ function renderMgrItems(){
     var b=fmtBadgeHtml(it);
     var topic=it.topic?'<span class="mgr-topic">'+escHtml(it.topic)+'</span>':'';
     var detail=it.text?'<span class="mgr-detail">'+escHtml(it.text)+'</span>':'';
-    return '<li class="mgr-item" data-id="'+it.id+'"><div class="mgr-check"></div><span class="mgr-text">'+topic+detail+'</span>'+(b?'<span class="mgr-badge">'+b+'</span>':'')+'<button class="mgr-edit-btn" onclick="startMgrEditFull(\''+it.id+'\')" title="修改">✎</button></li>';
+    var hasEv=mgrEventTime(it)?1:0;
+    return '<li class="mgr-item" data-id="'+it.id+'"><div class="mgr-check"></div><span class="mgr-text">'+topic+detail+'</span>'+(b?'<span class="mgr-badge">'+b+'</span>':'')+(hasEv?'<button class="mgr-ics-btn" onclick="exportItemIcs(\''+it.id+'\')" title="添加到系统日历">日历</button>':'')+(hasEv?'<button class="mgr-remind-btn'+(it.remind?' on':'')+'" onclick="toggleMgrRemind(\''+it.id+'\')">'+(it.remind?'提醒开':'提醒')+'</button>':'')+'<button class="mgr-edit-btn" onclick="startMgrEditFull(\''+it.id+'\')" title="修改">✎</button></li>';
   }).join('');
   // Wire checkboxes
   list.querySelectorAll('.mgr-check').forEach(function(ck){ck.onclick=function(){this.classList.toggle('checked')}});
@@ -1286,12 +1348,13 @@ function addMgrItem(){
   }
   if(editingItemId){
     var idx=data.items.findIndex(function(x){return x.id===editingItemId});
-    if(idx>=0){it.id=editingItemId;data.items[idx]=it;}
+    if(idx>=0){it.id=editingItemId;it.remind=data.items[idx].remind;data.items[idx]=it;}
     editingItemId=null;
   }else{
     data.items.push(it);
   }
   saveMgrData(data);
+  scheduleItemReminder(it);
   if(topicInp)topicInp.value='';inp.value='';if(timeInp)timeInp.value='';mgrCalVal=null;updateMgrCalBtn();
   var addBtn=document.querySelector('#mgrSheet .mgr-add-row .mgr-btn-del');
   if(addBtn)addBtn.textContent='添加';
@@ -1304,6 +1367,7 @@ function delMgrItems(){
   if(!checked.length)return;
   var data=loadMgrData();
   var ids=[];checked.forEach(function(c){ids.push(c.parentElement.dataset.id)});
+  ids.forEach(function(id){clearMgrReminder(id)});
   data.items=data.items.filter(function(it){return ids.indexOf(it.id)===-1});
   saveMgrData(data);renderMgrItems();
 }
@@ -2011,6 +2075,7 @@ function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace
 
 // Render on load
 renderHabits();
+scheduleAllReminders();
 
 </script>
 </body>
