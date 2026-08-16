@@ -6,7 +6,6 @@
 <meta name="theme-color" content="#FFFFFF">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<link rel="manifest" href="manifest.json">
 <title>工作台</title>
 <style>
 
@@ -829,7 +828,6 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 </div>
 </div>
 </div>
-<div class="install-toast2" id="installToast2"><span>添加到桌面</span><button id="installBtn2">安装</button></div>
 <script>
 
 var SECTIONS=[{id:"life",name:"生活事务",icon:"life"},{id:"study",name:"学习事务",icon:"study"},{id:"lang",name:"语言",icon:"lang"},{id:"work",name:"工作任务",icon:"work"},{id:"workext",name:"工作拓展",icon:"workext"},{id:"books",name:"书架",icon:"books"},{id:"news",name:"时事新闻",icon:"news"},{id:"tmplife",name:"临时生活事务",icon:"tmplife"},{id:"tmpmemo",name:"临时备忘",icon:"tmpmemo"},{id:"med",name:"医药箱",icon:"med"},{id:"diet",name:"膳食平衡",icon:"diet"},{id:"bday",name:"生日",icon:"bday"},{id:"travel",name:"旅行",icon:"travel"}];
@@ -1993,10 +1991,8 @@ function buildDlg(lang,topic){
 var lifeData=JSON.parse(localStorage.getItem("wb_life")||'{"items":[]}');
 
 var savedSection=localStorage.getItem('wb_section');if(savedSection&&SECTIONS.some(function(s){return s.id===savedSection})){currentSection=savedSection;switchToSection(savedSection)}else{currentSection='life'}
-// ── PWA ──
-var dfp;window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();dfp=e;document.getElementById("installToast2").classList.add("show")});
-document.getElementById("installBtn2").onclick=function(){if(dfp){dfp.prompt();dfp.userChoice.then(function(){dfp=null;document.getElementById("installToast2").classList.remove("show")})}};
-if("serviceWorker" in navigator){navigator.serviceWorker.register("sw.js?v=20260816nocal")}
+// ── 纯网页模式：不做安装提示、不注册离线缓存，仅清理可能残留的旧 Service Worker ──
+if("serviceWorker" in navigator){navigator.serviceWorker.getRegistrations().then(function(rs){rs.forEach(function(r){r.unregister()})})}
 
 // ── Keyboard ──
 document.addEventListener("keydown",function(e){
