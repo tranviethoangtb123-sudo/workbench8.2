@@ -1292,6 +1292,11 @@ function anchorDownloadIcs(file){
 function openCalendarUrl(title,ev){
   var start=new Date(ev.replace('T','T'));
   var end=new Date(start.getTime()+60*60*1000);
+  if(/Android/i.test(navigator.userAgent||'')){
+    var intent='intent:#Intent;action=android.intent.action.INSERT;type=vnd.android.cursor.item/event;S.title='+encodeURIComponent(title)+';S.description='+encodeURIComponent(title)+';L.begin='+start.getTime()+';L.end='+end.getTime()+';end';
+    window.location.href=intent;
+    return;
+  }
   var ds=start.toISOString().replace(/[-:]|\.\d{3}/g,'');
   var de=end.toISOString().replace(/[-:]|\.\d{3}/g,'');
   var url='https://calendar.google.com/calendar/render?action=TEMPLATE&text='+encodeURIComponent(title)+'&dates='+ds+'/'+de+'&details='+encodeURIComponent(title);
