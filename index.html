@@ -1305,10 +1305,18 @@ function downloadIcs(title,ev){
   var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6)+'@workbench';
   var ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART:'+icsUtc(start)+'\r\nDTEND:'+icsUtc(end)+'\r\nSUMMARY;CHARSET=UTF-8:'+escIcs(title)+'\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nBEGIN:VALARM\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION;CHARSET=UTF-8:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
   var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
-  // 安卓：直接下载 .ics 文件导入日历（兼容所有机型，含提前15分钟提醒）
+  // 安卓：优先用系统分享面板把 .ics 直接发给日历 App（最可靠）；分享不可用则下载文件
   if(/Android/i.test(navigator.userAgent||'')){
-    anchorDownloadIcs(file);
-    try{wbToast('已生成日历文件，请在下载记录中点开 todo.ics 导入日历（含提前15分钟提醒）')}catch(e){}
+    if(typeof File!=='undefined'&&navigator.canShare&&navigator.canShare({files:[file]})){
+      navigator.share({files:[file],title:title}).then(function(){
+        try{wbToast('已分享日程文件，请在分享面板中选择你的日历应用导入')}catch(e){}
+      }).catch(function(e){
+        if(!e||e.name!=='AbortError'){anchorDownloadIcs(file);try{wbToast('已生成日历文件，请在下载记录中点开 todo.ics 导入日历（含提前15分钟提醒）')}catch(e2){}}
+      });
+    }else{
+      anchorDownloadIcs(file);
+      try{wbToast('已生成日历文件，请在下载记录中点开 todo.ics 导入日历（含提前15分钟提醒）')}catch(e){}
+    }
     return;
   }
   var done=false;
