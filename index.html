@@ -1313,32 +1313,10 @@ function downloadIcs(title,ev){
   var ics='BEGIN:VCALENDAR\r\nMETHOD:PUBLISH\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nX-WR-CALNAME:工作台\r\nX-WR-TIMEZONE:Asia/Shanghai\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART;TZID=Asia/Shanghai:'+evLocalStr(ev)+'\r\nDTEND;TZID=Asia/Shanghai:'+evLocalStr(end.getFullYear()+'-'+pad2(end.getMonth()+1)+'-'+pad2(end.getDate())+'T'+pad2(end.getHours())+':'+pad2(end.getMinutes()))+'\r\nTRANSP:OPAQUE\r\nSUMMARY:'+escIcs(title)+'\r\nDESCRIPTION:'+escIcs(title)+'\r\nSEQUENCE:0\r\nBEGIN:VALARM\r\nUID:'+uid+'-alarm\r\nX-WR-ALARMUID:'+uid+'-alarm\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
   var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
   anchorDownloadIcs(file);
-  try{wbToast('已下载 todo.ics，请从下载记录/文件管理中打开它导入日历（含提前15分钟提醒）')}catch(e){}
+  try{wbToast('已下载 todo.ics：请打开手机【文件管理→下载】，点开 todo.ics 选日历导入（提前15分钟提醒）')}catch(e){}
 }
 function syncToCalendar(title,ev){
-  if(/Android/i.test(navigator.userAgent||'')){showSyncChooser(title,ev)}else{downloadIcs(title,ev)}
-}
-var _syncPending=null;
-function showSyncChooser(title,ev){
-  hideSyncChooser();
-  _syncPending={title:title,ev:ev};
-  var d=document.createElement('div');d.id='syncChooser';
-  d.style.cssText='position:fixed;left:0;right:0;bottom:0;z-index:2000;background:#fff;border-radius:16px 16px 0 0;box-shadow:0 -4px 24px rgba(0,0,0,.16);padding:18px 20px 26px;max-width:560px;margin:0 auto';
-  d.innerHTML='<div style="font-size:.88rem;font-weight:600;color:#1f2937;margin-bottom:4px">同步到日历</div>'
-    +'<div style="font-size:.72rem;color:#6b7280;margin-bottom:14px">选择一种方式（小米手机建议选"下载文件导入"）</div>'
-    +'<div style="display:flex;gap:10px">'
-    +'<button style="flex:1;padding:12px;border-radius:10px;border:none;background:#1f2937;color:#fff;font-size:.8rem;cursor:pointer" onclick="pickSync(\'intent\')">打开日历填写</button>'
-    +'<button style="flex:1;padding:12px;border-radius:10px;border:none;background:#f3f4f6;color:#1f2937;font-size:.8rem;cursor:pointer" onclick="pickSync(\'ics\')">下载文件导入</button>'
-    +'</div>'
-    +'<div style="text-align:center;margin-top:14px"><button style="border:none;background:none;color:#9ca3af;font-size:.72rem;cursor:pointer" onclick="hideSyncChooser()">取消</button></div>';
-  document.body.appendChild(d);
-}
-function hideSyncChooser(){var o=document.getElementById('syncChooser');if(o)o.remove();_syncPending=null}
-function pickSync(how){
-  var p=_syncPending;hideSyncChooser();
-  if(!p)return;
-  if(how==='intent'){openCalendarUrl(p.title,p.ev)}
-  else{downloadIcs(p.title,p.ev)}
+  downloadIcs(title,ev);
 }
 function wbToast(msg){
   var t=document.getElementById('wbToast');
