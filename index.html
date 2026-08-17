@@ -938,7 +938,8 @@ function renderOtherSection(id){
       var txt=escHtml(it.text);
       if(it.topic)txt='<span class="mgr-topic">'+escHtml(it.topic)+'</span><span class="mgr-detail">'+txt+'</span>';
       var hasEv=mgrEventTime(it)?1:0;
-      return '<li class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">'+txt+bhtml+'</span></li>';
+      var doneCls=mgrItemDone(it)?' done':'';
+      return '<li class="subtask-item'+doneCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+doneCls+'"></div><span class="subtask-text'+doneCls+'">'+txt+bhtml+'</span></li>';
     }).join('');
     list.querySelectorAll('.subtask-check').forEach(function(ck){
       ck.onclick=function(){
@@ -948,6 +949,13 @@ function renderOtherSection(id){
         item.classList.toggle('done',done);
         var t=this.nextElementSibling;
         if(t)t.classList.toggle('done',done);
+        // 持久化完成状态（按条目 id 写入 localStorage，刷新后保持）
+        try{
+          var iid=item.getAttribute('data-id');
+          var d2=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
+          var it2=d2.items.find(function(x){return String(x.id)===iid});
+          if(it2){setMgrItemDone(it2,done);localStorage.setItem('wb_'+id,JSON.stringify(d2));}
+        }catch(e){};
         if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'||id==='med'||id==='bday'){
           if(done){
             list.appendChild(item);
@@ -1267,6 +1275,17 @@ function loadMgrData(){
 }
 function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data))}
 function pad2(n){return (n<10?'0':'')+n}
+// 完成状态统一模型：周期条目（每日/每月等）按当天记录，单次条目永久记录
+function todayStr(){var d=new Date();return d.getFullYear()+'-'+pad2(d.getMonth()+1)+'-'+pad2(d.getDate())}
+function mgrItemDone(it){
+  if(!it||!it.doneDate)return false;
+  var rec=it.recurrence||'single';
+  if(rec==='daily'||rec==='monthDay'||rec==='monthWeek'||rec==='monthWeekDay'||rec==='monthDayTime')return it.doneDate===todayStr();
+  return true;
+}
+function setMgrItemDone(it,done){
+  if(done){it.doneDate=todayStr()}else{delete it.doneDate}
+}
 function icsStamp(d){return d.getFullYear()+pad2(d.getMonth()+1)+pad2(d.getDate())+'T'+pad2(d.getHours())+pad2(d.getMinutes())+'00'}
 function escIcs(s){return String(s||'').replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\r?\n/g,'\\n')}
 function mgrEventTime(it){
@@ -2076,7 +2095,8 @@ function renderHabits(){
   var habitsHtml = '';
   todayItems.forEach(function(it, i){ var label = fmtBadgeHtml(it); var lh = label ? ' <span style="font-size:.65rem;color:#9ca3af;font-weight:400">' + label + '</span>' : '';
     var hasEv=mgrEventTime(it)?1:0;
-    habitsHtml += '<div class="subtask-item"><div class="subtask-check"></div><span class="subtask-text">' + escHtml(it.text) + lh + '</span></div>';
+    var dCls=mgrItemDone(it)?' done':'';
+    habitsHtml += '<div class="subtask-item'+dCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+dCls+'"></div><span class="subtask-text'+dCls+'">' + escHtml(it.text) + lh + '</span></div>';
   });
   document.getElementById('habitsList').innerHTML = habitsHtml || '<div style="color:#9ca3af;font-size:.78rem;padding:8px 0">今日暂无待办</div>';
   
@@ -2100,6 +2120,13 @@ function renderHabits(){
       item.classList.toggle('done', done);
       var txt = this.nextElementSibling;
       if (txt) txt.classList.toggle('done', done);
+      // 持久化完成状态（周期条目按天，刷新不丢，次日自动重置）
+      try{
+        var iid = item.getAttribute('data-id');
+        var d2 = JSON.parse(localStorage.getItem('wb_life') || '{"items":[]}');
+        var it2 = d2.items.find(function(x){ return String(x.id) === iid; });
+        if (it2) { setMgrItemDone(it2, done); localStorage.setItem('wb_life', JSON.stringify(d2)); }
+      }catch(e){}
       if (done) {
         list.appendChild(item);
       } else {
