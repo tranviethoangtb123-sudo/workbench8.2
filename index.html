@@ -939,7 +939,7 @@ function renderOtherSection(id){
       if(it.topic)txt='<span class="mgr-topic">'+escHtml(it.topic)+'</span><span class="mgr-detail">'+txt+'</span>';
       var hasEv=mgrEventTime(it)?1:0;
       var doneCls=mgrItemDone(it)?' done':'';
-      return '<li class="subtask-item'+doneCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+doneCls+'"></div><span class="subtask-text'+doneCls+'">'+txt+bhtml+'</span></li>';
+      return '<li class="subtask-item'+doneCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+doneCls+'"></div><span class="subtask-text'+doneCls+'">'+txt+bhtml+'</span>'+(hasEv?'<button class="mgr-ics-btn" style="margin-left:auto;flex-shrink:0" onclick="exportItemIcs(\''+escHtml(String(it.id))+'\')" title="同步到日历提醒">📅</button>':'')+'</li>';
     }).join('');
     list.querySelectorAll('.subtask-check').forEach(function(ck){
       ck.onclick=function(){
@@ -1093,8 +1093,20 @@ function tmRender(){
     ck.onclick=function(e){e.stopPropagation();var checked=!this.classList.contains('checked');this.classList.toggle('checked');if(!tmManageMode){m.done=checked;sp.classList.toggle('done',checked);tmSave();}};
     li.appendChild(ck);li.appendChild(sp);
     if(m.date){var ds=document.createElement('span');ds.style.cssText='font-size:.65rem;color:#9ca3af;margin-left:6px';ds.textContent=m.date+(m.time?' '+m.time:'');li.appendChild(ds)}
+    if(m.date){var cb=document.createElement('button');cb.className='mgr-ics-btn';cb.textContent='📅';cb.title='同步到日历提醒';cb.style.cssText='margin-left:6px;flex-shrink:0';cb.onclick=function(e){e.stopPropagation();tmSyncMemo(m)};li.appendChild(cb)}
     ml.appendChild(li);
   });
+}
+function tmSyncMemo(m){
+  if(!m||!m.date){wbToast('该备忘没有日期');return}
+  syncToCalendar((m.note||'备忘'), m.date+'T'+(m.time||'09:00'));
+}
+function tmSyncDraft(){
+  var note=document.getElementById('memoNote1')?document.getElementById('memoNote1').value.trim():'';
+  var date=document.getElementById('memoDate1')?document.getElementById('memoDate1').value:'';
+  var time=document.getElementById('memoTime1')?document.getElementById('memoTime1').value:'';
+  if(!date){wbToast('请先选择日期');return}
+  syncToCalendar(note||'备忘', date+'T'+(time||'09:00'));
 }function openTmManage(){
   tmManageMode=true;
   document.getElementById('mgrFab').classList.add('active');
@@ -1116,7 +1128,7 @@ function tmRender(){
     +'<input type="date" id="memoDate1" style="flex:1;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
     +'<input type="time" id="memoTime1" style="width:100px;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
     +'</div>'
-    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddMemo()">保存</button></div>'
+    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddMemo()">保存</button><button class="mgr-btn-del" onclick="tmSyncDraft()">📅同步日历</button></div>'
     +'</div>'
     +'<div class="mgr-actions" style="display:flex;margin-top:12px"><button class="mgr-btn-del" onclick="tmDeleteChecked()">删除选中</button><button class="mgr-btn-done" onclick="closeTmManage()">完成</button></div>';
   document.getElementById('mgrSheet').classList.add('open');
@@ -2096,7 +2108,7 @@ function renderHabits(){
   todayItems.forEach(function(it, i){ var label = fmtBadgeHtml(it); var lh = label ? ' <span style="font-size:.65rem;color:#9ca3af;font-weight:400">' + label + '</span>' : '';
     var hasEv=mgrEventTime(it)?1:0;
     var dCls=mgrItemDone(it)?' done':'';
-    habitsHtml += '<div class="subtask-item'+dCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+dCls+'"></div><span class="subtask-text'+dCls+'">' + escHtml(it.text) + lh + '</span></div>';
+    habitsHtml += '<div class="subtask-item'+dCls+'" data-id="'+escHtml(String(it.id))+'"><div class="subtask-check'+dCls+'"></div><span class="subtask-text'+dCls+'">' + escHtml(it.text) + lh + '</span>'+(hasEv?'<button class="mgr-ics-btn" style="margin-left:auto;flex-shrink:0" onclick="exportItemIcs(\''+escHtml(String(it.id))+'\')" title="同步到日历提醒">📅</button>':'')+'</div>';
   });
   document.getElementById('habitsList').innerHTML = habitsHtml || '<div style="color:#9ca3af;font-size:.78rem;padding:8px 0">今日暂无待办</div>';
   
