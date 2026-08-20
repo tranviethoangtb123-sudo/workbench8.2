@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:46:45.087Z",
+  "updated": "2026-08-20T05:18:04.485Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,34 +48,29 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Prince Harry and Meghan moving back to UK",
+        "title": "Prince Harry and Meghan moving back to UK later this month",
         "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 21:59:03 GMT"
+        "date": "Thu, 20 Aug 2026 01:14:29 GMT"
       },
       {
-        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 18:45:51 GMT"
+        "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 20 Aug 2026 02:00:51 GMT"
       },
       {
-        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 14:06:42 GMT"
+        "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+        "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 17:09:34 GMT"
       },
       {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 15:33:32 GMT"
+        "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 20 Aug 2026 05:12:34 GMT"
       },
       {
-        "title": "People smuggler exposed by BBC investigation arrested and charged",
-        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 20:54:51 GMT"
-      },
-      {
-        "title": "Salmonella outbreak: What we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 16:43:56 GMT"
+        "title": "Giant whales move into Greenland waters as ice disappears",
+        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 20 Aug 2026 02:05:20 GMT"
       },
       {
         "title": "Vaccine breakthrough stops cancer returning in trial",
@@ -83,16 +78,21 @@
         "date": "Wed, 19 Aug 2026 19:00:48 GMT"
       },
       {
-        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 15:01:57 GMT"
+        "title": "Downpours to continue for UK with risk of flash flooding",
+        "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 23:56:33 GMT"
+      },
+      {
+        "title": "People smuggler exposed by BBC investigation arrested and charged",
+        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 20:54:51 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
         "link": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-        "date": "Wed, 19 Aug 2026 22:24:21 +0000"
+        "date": "Wed, 19 Aug 2026 22:24:22 +0000"
       },
       {
         "title": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
@@ -107,7 +107,7 @@
       {
         "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
         "link": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-        "date": "Wed, 19 Aug 2026 19:46:15 +0000"
+        "date": "Wed, 19 Aug 2026 19:46:16 +0000"
       },
       {
         "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
@@ -115,22 +115,27 @@
         "date": "Wed, 19 Aug 2026 19:59:31 +0000"
       },
       {
+        "title": "Trump Threatens Economic Pain for Countries That Help Iran",
+        "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+        "date": "Thu, 20 Aug 2026 01:52:13 +0000"
+      },
+      {
         "title": "What to Know About Iran’s Economic Ties With Gulf Countries",
         "link": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
         "date": "Wed, 19 Aug 2026 22:41:24 +0000"
       },
       {
-        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-        "link": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-        "date": "Wed, 19 Aug 2026 20:18:49 +0000"
-      },
-      {
         "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
         "link": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-        "date": "Wed, 19 Aug 2026 23:40:42 +0000"
+        "date": "Thu, 20 Aug 2026 02:15:15 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "date": "Thu, 20 Aug 2026 00:14:17 GMT"
+      },
       {
         "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
         "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
@@ -152,11 +157,6 @@
         "date": "Sat, 15 Aug 2026 19:39:07 GMT"
       },
       {
-        "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-        "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-        "date": "Sat, 15 Aug 2026 18:08:21 GMT"
-      },
-      {
         "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
         "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
         "date": "Wed, 19 Aug 2026 13:44:57 GMT"
@@ -174,86 +174,86 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
-        "link": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 23:24:43 +0000"
+        "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 04:31:10 +0000"
       },
       {
-        "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-        "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 23:21:32 +0000"
+        "title": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+        "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 02:50:17 +0000"
       },
       {
-        "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
-        "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 23:18:32 +0000"
+        "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 02:16:17 +0000"
       },
       {
-        "title": "What the social media addiction lawsuit could cost Meta",
-        "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 22:01:26 +0000"
+        "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 01:56:41 +0000"
       },
       {
-        "title": "“I get along with him very well.”",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 21:35:34 +0000"
+        "title": "Bodycam captures police team falling when deck collapses in Missouri",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 01:37:08 +0000"
       },
       {
-        "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 21:22:17 +0000"
+        "title": "Publisher of US military newspaper resigns over differences with government",
+        "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 00:34:13 +0000"
       },
       {
-        "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 21:10:39 +0000"
+        "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+        "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 00:26:59 +0000"
       },
       {
-        "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-        "date": "Wed, 19 Aug 2026 21:09:15 +0000"
+        "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+        "date": "Thu, 20 Aug 2026 00:12:59 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students",
+        "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 04:00:19 GMT"
+      },
+      {
+        "title": "The box that built globalisation",
+        "link": "https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 03:00:07 GMT"
+      },
+      {
+        "title": "The slow sucking sound of AI",
+        "link": "https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 04:00:19 GMT"
+      },
+      {
+        "title": "Moderna pins hopes on mRNA ‘game-changer’ for cancer vaccines",
+        "link": "https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 04:00:11 GMT"
+      },
+      {
+        "title": "UK finally showing signs of productivity boost, say economists",
+        "link": "https://www.ft.com/content/6c358cee-d7ec-4542-9c1b-f922b13d48ae?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 04:00:28 GMT"
+      },
+      {
+        "title": "Demand for tankers soars as Gulf oil producers search for ways to export cargoes",
+        "link": "https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1",
+        "date": "Thu, 20 Aug 2026 04:00:28 GMT"
+      },
       {
         "title": "US government debt hits $40tn as borrowing rises at historic rate",
         "link": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1",
         "date": "Wed, 19 Aug 2026 20:18:55 GMT"
       },
       {
-        "title": "US Treasury to boost long-term bond purchases in bid to steady market",
-        "link": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 18:02:27 GMT"
-      },
-      {
-        "title": "Fed officials express rising concern over persistently high inflation",
-        "link": "https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 18:31:52 GMT"
-      },
-      {
-        "title": "Moderna shares nearly triple on skin cancer vaccine success",
-        "link": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 20:15:33 GMT"
-      },
-      {
-        "title": "Europe should wish Marco Rubio a bright future",
-        "link": "https://www.ft.com/content/763bf6a1-31de-4c6a-9591-963440f0562b?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 11:20:13 GMT"
-      },
-      {
-        "title": "Mike Ashley’s luxury retail empire is going cheap",
-        "link": "https://www.ft.com/content/14787634-6345-4446-aab6-1a3f1f519ba5?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 13:34:54 GMT"
-      },
-      {
-        "title": "Zelenskyy fires top aide as corruption allegations pile up",
-        "link": "https://www.ft.com/content/5799e5fa-c836-443b-935d-eb9fb58681b6?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 19:06:35 GMT"
-      },
-      {
-        "title": "Putin pledges help for Wildberries warehouses hit by Ukraine",
-        "link": "https://www.ft.com/content/bed337a0-8917-4026-a406-b5ed832f36e6?syn-25a6b1a6=1",
-        "date": "Wed, 19 Aug 2026 15:45:40 GMT"
+        "title": "North Korea dismisses Trump overture",
+        "link": "https://www.ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e",
+        "date": "Thu, 20 Aug 2026 00:52:01 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,44 +302,44 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-        "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-        "date": "Wed, 19 Aug 2026 23:00:00 +0000"
+        "title": "Chewy Promo Codes: $20 Off August 2026",
+        "link": "https://www.wired.com/story/chewy-promo-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-        "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-        "date": "Wed, 19 Aug 2026 19:30:00 +0000"
+        "title": "Peacock Promo Codes: 40% Off August 2026",
+        "link": "https://www.wired.com/story/peacock-promo-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-        "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-        "date": "Wed, 19 Aug 2026 16:44:07 +0000"
+        "title": "TurboTax Full Service Coupons This August",
+        "link": "https://www.wired.com/story/turbotax-coupon/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Google Pixel Watch 5 Review: More Health, More AI",
-        "link": "https://www.wired.com/review/google-pixel-watch-5/",
-        "date": "Wed, 19 Aug 2026 16:34:24 +0000"
+        "title": "Dell Coupon Codes: 20% Off for August 2026",
+        "link": "https://www.wired.com/story/dell-coupon-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
-        "link": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
-        "date": "Wed, 19 Aug 2026 16:00:00 +0000"
+        "title": "Booking.com Promo Codes: 20% Off | August 2026",
+        "link": "https://www.wired.com/story/booking-com-promo-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-        "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
-        "date": "Wed, 19 Aug 2026 14:33:04 +0000"
+        "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+        "link": "https://www.wired.com/story/nike-promo-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
-        "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-        "date": "Wed, 19 Aug 2026 11:31:00 +0000"
+        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+        "link": "https://www.wired.com/story/hr-block-coupon/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
-        "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
-        "date": "Wed, 19 Aug 2026 11:08:00 +0000"
+        "title": "T-Mobile Promo Codes: 25% Off | August 2026",
+        "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
+        "date": "Thu, 20 Aug 2026 05:00:00 +0000"
       }
     ],
     "The Verge": [
@@ -428,19 +428,14 @@
     ],
     "Hacker News": [
       {
-        "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
-        "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
-        "date": "Wed, 19 Aug 2026 22:51:17 +0000"
+        "title": "Turns are Better than Radians (2022)",
+        "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "date": "Thu, 20 Aug 2026 01:29:12 +0000"
       },
       {
-        "title": "Collaborative Human Agent Protocol (CHAP)",
-        "link": "https://github.com/BrightbeamAI/chap",
-        "date": "Wed, 19 Aug 2026 22:09:16 +0000"
-      },
-      {
-        "title": "Feature Request: Support AGENTS.md",
-        "link": "https://github.com/anthropics/claude-code/issues/6235",
-        "date": "Wed, 19 Aug 2026 21:19:50 +0000"
+        "title": "Universality of Gradient Descent Neural Network Training",
+        "link": "https://arxiv.org/abs/2007.13664",
+        "date": "Thu, 20 Aug 2026 00:05:12 +0000"
       },
       {
         "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
@@ -458,14 +453,19 @@
         "date": "Wed, 19 Aug 2026 20:13:47 +0000"
       },
       {
-        "title": "Xwayland 26.1.0 rc1",
-        "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-        "date": "Wed, 19 Aug 2026 20:03:03 +0000"
+        "title": "Pixel 11 Pro Fold feels like the end of an era",
+        "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "date": "Wed, 19 Aug 2026 19:43:48 +0000"
       },
       {
         "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
         "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
         "date": "Wed, 19 Aug 2026 19:06:16 +0000"
+      },
+      {
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "date": "Wed, 19 Aug 2026 18:36:45 +0000"
       }
     ],
     "Reddit": [
@@ -475,9 +475,14 @@
         "date": "2026-08-01T23:58:45+00:00"
       },
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1638, Part 1 (Thread #1785)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vsbnac/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-08-19T04:02:57+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1639, Part 1 (Thread #1786)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vt8u28/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-08-20T04:02:52+00:00"
+      },
+      {
+        "title": "Trump announces 'Economic Warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vt2e6n/trump_announces_economic_warfare_on_iran/",
+        "date": "2026-08-19T23:13:22+00:00"
       },
       {
         "title": "US reportedly weighing major troop pullback from Gulf following damage in Iran war",
@@ -485,19 +490,14 @@
         "date": "2026-08-19T16:27:22+00:00"
       },
       {
-        "title": "Merck-Moderna mRNA cancer vaccine succeeds in late-stage melanoma trial",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vslvpe/merckmoderna_mrna_cancer_vaccine_succeeds_in/",
-        "date": "2026-08-19T13:05:05+00:00"
-      },
-      {
-        "title": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vsk4lj/israeli_military_admits_for_first_time_to_firing/",
-        "date": "2026-08-19T11:47:47+00:00"
-      },
-      {
         "title": "Seoul to cover all sidewalks with shade by 2028 to combat heat waves, framing extreme heat as a critical public safety disaster",
         "link": "https://www.reddit.com/r/worldnews/comments/1vst46v/seoul_to_cover_all_sidewalks_with_shade_by_2028/",
         "date": "2026-08-19T17:29:40+00:00"
+      },
+      {
+        "title": "Merck-Moderna mRNA cancer vaccine succeeds in late-stage melanoma trial",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vslvpe/merckmoderna_mrna_cancer_vaccine_succeeds_in/",
+        "date": "2026-08-19T13:05:05+00:00"
       },
       {
         "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
@@ -505,13 +505,23 @@
         "date": "2026-08-19T21:57:38+00:00"
       },
       {
-        "title": "Investigation Reveals Identity Of Russian Prison Doctor Accused Of Abusing Ukrainian Captives",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vsyz0a/investigation_reveals_identity_of_russian_prison/",
-        "date": "2026-08-19T20:59:22+00:00"
+        "title": "Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probe",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vsk4lj/israeli_military_admits_for_first_time_to_firing/",
+        "date": "2026-08-19T11:47:47+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Comcast Xfinity Wants to Use Your Wi-Fi as a Motion Sensor in Your Home",
+        "link": "https://www.cnet.com/home/security/comcast-xfinity-wants-to-use-your-wi-fi-as-a-motion-sensor-in-your-home/",
+        "date": "2026-08-20 00:53:19"
+      },
+      {
+        "title": "Google Goes Back to School With New AI Study Tools",
+        "link": "https://www.cnet.com/tech/google-gemini-search-ai-study-tools/",
+        "date": "2026-08-20 00:06:49"
+      },
       {
         "title": "Peacock Is Testing Out a Rewards Program for Subscribers",
         "link": "https://www.cnet.com/tech/services-and-software/peacock-is-testing-out-rewards-program-for-subscribers/",
@@ -541,16 +551,6 @@
         "title": "What to Know About Anthropic’s New Claude Watermarking on AI-Generated Text and Files",
         "link": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files-2/",
         "date": "2026-08-11 21:35:09"
-      },
-      {
-        "title": "The Verdict Is In: CNET Readers Trust These Mobile Carriers More Than the Major Networks",
-        "link": "https://www.cnet.com/tech/mobile/peoples-picks-2026-mobile-carriers/",
-        "date": "2026-08-19 12:00:00"
-      },
-      {
-        "title": "New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?",
-        "link": "https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/",
-        "date": "2026-08-19 00:25:11"
       }
     ],
     "AP": [],
