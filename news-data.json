@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:50:42.065Z",
+  "updated": "2026-08-22T05:03:58.825Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,14 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 22 Aug 2026 04:46:33 GMT"
+      },
+      {
         "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
         "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 21 Aug 2026 22:28:37 GMT"
       },
       {
-        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-        "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 21 Aug 2026 17:18:41 GMT"
+        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 21 Aug 2026 22:36:12 GMT"
       },
       {
         "title": "More students planning to live at home for university over 'insane' living costs",
@@ -63,9 +68,14 @@
         "date": "Fri, 21 Aug 2026 23:01:58 GMT"
       },
       {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "title": "Burnham economic adviser O'Neill rules out government job",
+        "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 22 Aug 2026 02:53:22 GMT"
+      },
+      {
+        "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 21 Aug 2026 19:49:56 GMT"
+        "date": "Sat, 22 Aug 2026 03:17:29 GMT"
       },
       {
         "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
@@ -73,51 +83,41 @@
         "date": "Fri, 21 Aug 2026 18:29:31 GMT"
       },
       {
-        "title": "Watch: How 'strongest' El Niño could affect weather around the world",
-        "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 21 Aug 2026 15:33:28 GMT"
-      },
-      {
-        "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-        "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 21 Aug 2026 22:02:10 GMT"
-      },
-      {
-        "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-        "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 21 Aug 2026 19:13:43 GMT"
+        "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+        "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 21 Aug 2026 23:13:00 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
-        "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
-        "date": "Fri, 21 Aug 2026 14:51:53 +0000"
-      },
-      {
-        "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
-        "link": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-        "date": "Fri, 21 Aug 2026 20:38:33 +0000"
-      },
-      {
-        "title": "Chief Justice Allows White House Ballroom Construction, for Now",
-        "link": "https://www.nytimes.com/2026/08/21/briefing/supreme-court-ballroom-ai-china.html",
-        "date": "Fri, 21 Aug 2026 21:26:24 +0000"
-      },
-      {
-        "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-        "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-        "date": "Fri, 21 Aug 2026 23:41:39 +0000"
+        "title": "Canada-U.S. Trade War Escalates As Talks Collapse",
+        "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+        "date": "Sat, 22 Aug 2026 04:44:34 +0000"
       },
       {
         "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
         "link": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-        "date": "Fri, 21 Aug 2026 20:49:35 +0000"
+        "date": "Fri, 21 Aug 2026 20:49:36 +0000"
       },
       {
-        "title": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
-        "link": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
-        "date": "Fri, 21 Aug 2026 22:14:11 +0000"
+        "title": "Pentagon Fires Editor and Publisher of Independent Military Publication",
+        "link": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
+        "date": "Sat, 22 Aug 2026 02:37:47 +0000"
+      },
+      {
+        "title": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
+        "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
+        "date": "Sat, 22 Aug 2026 00:54:48 +0000"
+      },
+      {
+        "title": "Judge Strikes Down Trump’s 75-Country Visa Ban",
+        "link": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
+        "date": "Sat, 22 Aug 2026 02:12:16 +0000"
+      },
+      {
+        "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+        "link": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+        "date": "Sat, 22 Aug 2026 01:08:25 +0000"
       },
       {
         "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
@@ -125,9 +125,9 @@
         "date": "Fri, 21 Aug 2026 15:23:39 +0000"
       },
       {
-        "title": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-        "link": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-        "date": "Fri, 21 Aug 2026 18:22:00 +0000"
+        "title": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
+        "link": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
+        "date": "Fri, 21 Aug 2026 22:14:11 +0000"
       }
     ],
     "The Guardian": [
@@ -157,6 +157,11 @@
         "date": "Mon, 17 Aug 2026 14:07:31 GMT"
       },
       {
+        "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
+        "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+        "date": "Sat, 22 Aug 2026 04:23:38 GMT"
+      },
+      {
         "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
         "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
         "date": "Fri, 21 Aug 2026 15:22:48 GMT"
@@ -165,56 +170,76 @@
         "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
         "link": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
         "date": "Fri, 21 Aug 2026 10:00:31 GMT"
-      },
-      {
-        "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-        "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-        "date": "Wed, 19 Aug 2026 13:44:57 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "US debt tops $40 trillion, Americans left with the bill",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 23:19:48 +0000"
+        "title": "Inundated Philippine communities seek answers over flood control funds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 04:36:26 +0000"
       },
       {
-        "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 23:19:37 +0000"
+        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 04:30:20 +0000"
       },
       {
-        "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-        "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 22:52:40 +0000"
+        "title": "Nigeria and the Sahel: A growing security divide",
+        "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 04:30:07 +0000"
       },
       {
-        "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
-        "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 21:59:29 +0000"
+        "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+        "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 04:24:11 +0000"
       },
       {
-        "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-        "link": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 21:38:32 +0000"
+        "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+        "link": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 04:02:32 +0000"
       },
       {
-        "title": "One killed, three wounded in sword attack at Swedish high school",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 21:23:35 +0000"
+        "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+        "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 03:19:58 +0000"
       },
       {
-        "title": "Arsenal rout Coventry 3-0 to begin Premier League title defence in style",
-        "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 21:15:40 +0000"
+        "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 02:09:58 +0000"
       },
       {
-        "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
-        "date": "Fri, 21 Aug 2026 21:11:13 +0000"
+        "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+        "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+        "date": "Sat, 22 Aug 2026 01:42:33 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
+        "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:00:38 GMT"
+      },
+      {
+        "title": "Canada vows to match US tariffs as trade talks collapse",
+        "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:51:58 GMT"
+      },
+      {
+        "title": "Who counts in Trump’s America?",
+        "link": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:00:29 GMT"
+      },
+      {
+        "title": "Bossing the bond market around never works",
+        "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:00:38 GMT"
+      },
+      {
+        "title": "Burnham must reveal his hand on immigration",
+        "link": "https://www.ft.com/content/acfe49a7-3b6d-4930-a37a-5f1b91ed6dc8?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:00:37 GMT"
+      },
       {
         "title": "Burnham hit by fiscal challenges as O’Neill declines government role",
         "link": "https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af?syn-25a6b1a6=1",
@@ -226,34 +251,9 @@
         "date": "Fri, 21 Aug 2026 13:01:43 GMT"
       },
       {
-        "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
-        "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-        "date": "Fri, 21 Aug 2026 22:27:59 GMT"
-      },
-      {
-        "title": "Natalie Harp, the devoted ‘human printer’ in Trump’s entourage",
-        "link": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
-        "date": "Fri, 21 Aug 2026 15:22:00 GMT"
-      },
-      {
-        "title": "The bond scare and the balance of power",
-        "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
-        "date": "Fri, 21 Aug 2026 14:10:27 GMT"
-      },
-      {
-        "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
-        "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1",
-        "date": "Fri, 21 Aug 2026 14:50:54 GMT"
-      },
-      {
-        "title": "Iran’s president calls to end war with US from ‘position of strength’",
-        "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
-        "date": "Fri, 21 Aug 2026 18:51:35 GMT"
-      },
-      {
-        "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
-        "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
-        "date": "Fri, 21 Aug 2026 21:46:46 GMT"
+        "title": "Qatar cuts state spending at home and abroad as war shrinks economy",
+        "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
+        "date": "Sat, 22 Aug 2026 04:00:29 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -386,6 +386,16 @@
     ],
     "TechCrunch": [
       {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "date": "Sat, 22 Aug 2026 01:31:04 +0000"
+      },
+      {
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "date": "Sat, 22 Aug 2026 01:03:06 +0000"
+      },
+      {
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
         "date": "Fri, 21 Aug 2026 23:07:25 +0000"
@@ -414,19 +424,29 @@
         "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
         "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
         "date": "Fri, 21 Aug 2026 19:57:46 +0000"
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "date": "Fri, 21 Aug 2026 19:43:39 +0000"
-      },
-      {
-        "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-        "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-        "date": "Fri, 21 Aug 2026 19:16:15 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+        "date": "Sat, 22 Aug 2026 02:37:30 +0000"
+      },
+      {
+        "title": "There's no reason for software to be slow anymore",
+        "link": "https://danluu.com/perf-opt/",
+        "date": "Sat, 22 Aug 2026 01:06:17 +0000"
+      },
+      {
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "date": "Sat, 22 Aug 2026 01:02:09 +0000"
+      },
+      {
+        "title": "HN: The Good Parts (2016)",
+        "link": "https://danluu.com/hn-comments/",
+        "date": "Fri, 21 Aug 2026 23:53:03 +0000"
+      },
       {
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "link": "https://ozbrain.com",
@@ -438,34 +458,14 @@
         "date": "Fri, 21 Aug 2026 22:29:00 +0000"
       },
       {
-        "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-        "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-        "date": "Fri, 21 Aug 2026 22:15:46 +0000"
-      },
-      {
-        "title": "Remotely Unlocking Electric Scooters",
-        "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-        "date": "Fri, 21 Aug 2026 21:32:07 +0000"
-      },
-      {
         "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
         "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
         "date": "Fri, 21 Aug 2026 21:00:48 +0000"
       },
       {
-        "title": "Rust Glancer",
-        "link": "https://matklad.github.io/2026/08/21/rust-glancer.html",
-        "date": "Fri, 21 Aug 2026 19:16:00 +0000"
-      },
-      {
-        "title": "Tumble Forth – from assembly to OS with C compiler",
-        "link": "https://tumbleforth.hardcoded.net/",
-        "date": "Fri, 21 Aug 2026 18:59:52 +0000"
-      },
-      {
-        "title": "Scientists release biggest 2D map of the universe",
-        "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "date": "Fri, 21 Aug 2026 18:36:34 +0000"
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "link": "https://rust-glancer.github.io/blog/hello-world/",
+        "date": "Fri, 21 Aug 2026 19:51:54 +0000"
       }
     ],
     "Reddit": [
@@ -475,9 +475,19 @@
         "date": "2026-08-01T23:58:45+00:00"
       },
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1640, Part 1 (Thread #1787)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vu5lub/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-08-21T04:02:25+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1641, Part 1 (Thread #1788)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vv1y5g/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-08-22T04:02:39+00:00"
+      },
+      {
+        "title": "Leaked audio reportedly shows the US vice-president, JD Vance, mocking Canadian Prime Minister, Mark Carney, for trying to “out-tough” Donald Trump during trade deal talks",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vux43e/leaked_audio_reportedly_shows_the_us/",
+        "date": "2026-08-22T00:10:57+00:00"
+      },
+      {
+        "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vv1tb0/statement_by_prime_minister_carney_on_canadaus/",
+        "date": "2026-08-22T03:56:07+00:00"
       },
       {
         "title": "Turkey issues genocide arrest warrant for Israel’s Netanyahu",
@@ -485,33 +495,64 @@
         "date": "2026-08-21T14:43:48+00:00"
       },
       {
+        "title": "Canada to match new US tariffs dollar for dollar, Prime Minister Mark Carney says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vv2280/canada_to_match_new_us_tariffs_dollar_for_dollar/",
+        "date": "2026-08-22T04:08:27+00:00"
+      },
+      {
         "title": "Trump Rejects Push to Give Ukraine Starlink for Long-Range Strikes on Russia",
         "link": "https://www.reddit.com/r/worldnews/comments/1vurgrg/trump_rejects_push_to_give_ukraine_starlink_for/",
         "date": "2026-08-21T20:19:35+00:00"
       },
       {
-        "title": "Gun stash discovered in German forest believed ⁠to be used ⁠to ​carry out assassinations on behalf of Russian intelligence, say reports",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vud0iu/gun_stash_discovered_in_german_forest_believed_to/",
-        "date": "2026-08-21T10:54:22+00:00"
-      },
-      {
-        "title": "Ukrainian drone unit seriously wounded Colonel Dmitry Shabaev, commander of Russia's 64th brigade, tied to 2022 Bucha atrocities that killed 637 civilians",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vutdpt/ukrainian_drone_unit_seriously_wounded_colonel/",
-        "date": "2026-08-21T21:34:32+00:00"
-      },
-      {
         "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 15 and wounds 130",
         "link": "https://www.reddit.com/r/worldnews/comments/1vus56t/russian_doubletap_strike_on_shopping_centre_in/",
         "date": "2026-08-21T20:45:53+00:00"
-      },
-      {
-        "title": "‘No longer a national project’: US, UK and French troops to help fortify Poland’s eastern border",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vuhg3y/no_longer_a_national_project_us_uk_and_french/",
-        "date": "2026-08-21T14:10:03+00:00"
       }
     ],
     "PCMag": [],
-    "CNET": [],
+    "CNET": [
+      {
+        "title": "Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers",
+        "link": "https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/",
+        "date": "2026-08-21 22:22:31"
+      },
+      {
+        "title": "GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data",
+        "link": "https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/",
+        "date": "2026-08-21 21:44:36"
+      },
+      {
+        "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show",
+        "link": "https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/",
+        "date": "2026-08-21 20:36:40"
+      },
+      {
+        "title": "You Can Soon Use the Tap-to-Pay Option at Walmart and Sam’s Club",
+        "link": "https://www.cnet.com/everyday-needs/you-can-soon-use-the-tap-to-pay-option-at-walmart-and-sams-club/",
+        "date": "2026-08-21 20:22:32"
+      },
+      {
+        "title": "D&amp;D Rolls a Natural 20 on Nerd Collabs, Announcing World of Warcraft and Star Wars Sets",
+        "link": "https://www.cnet.com/tech/gaming/dd-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-and-star-wars-sets/",
+        "date": "2026-07-31 03:01:47"
+      },
+      {
+        "title": "Researchers Seem to Have Figured Out Why It’s Harder to Poop in Space",
+        "link": "https://www.cnet.com/science/space/researchers-seem-to-have-figured-out-why-its-harder-to-poop-in-space/",
+        "date": "2026-08-21 16:05:51"
+      },
+      {
+        "title": "This iOS 27 Shortcut Stopped My Mindless Scrolling",
+        "link": "https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/",
+        "date": "2026-08-21 12:27:09"
+      },
+      {
+        "title": "Ninja Releases ‘Practical Magic’-Inspired Slushie Machine After Original Sold Out in 2 Hours",
+        "link": "https://www.cnet.com/home/kitchen-and-household/ninja-releases-practical-magic-slushie-machine-original-sold-out-2-hours/",
+        "date": "2026-08-21 12:00:00"
+      }
+    ],
     "AP": [],
     "雪球": [],
     "MENA": [],
