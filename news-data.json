@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T05:15:56.663Z",
+  "updated": "2026-08-23T09:01:54.727Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,32 +48,27 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 23 Aug 2026 05:46:43 GMT"
+      },
+      {
         "title": "Mayors to get powers to overrule local councils on planning decisions",
         "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 23 Aug 2026 03:10:51 GMT"
       },
       {
-        "title": "Two police officers among seven killed in wrong-way car crash",
-        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 22 Aug 2026 19:28:14 GMT"
+        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 23 Aug 2026 08:47:47 GMT"
       },
       {
-        "title": "Struggling households need more help with bills, energy industry says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 22 Aug 2026 23:00:03 GMT"
-      },
-      {
-        "title": "Restriction zone scheme for offenders to start in October",
+        "title": "Plan to restrict serious offenders to certain areas to start in October",
         "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 23 Aug 2026 02:37:03 GMT"
       },
       {
-        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 22 Aug 2026 20:10:00 GMT"
-      },
-      {
-        "title": "Cyber attack shut down small power plant",
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
         "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 23 Aug 2026 02:48:41 GMT"
       },
@@ -86,6 +81,11 @@
         "title": "The hotel booking mix-up that could free mushroom murderer",
         "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 22 Aug 2026 19:03:03 GMT"
+      },
+      {
+        "title": "How a new era of heatwaves could shake up the school calendar",
+        "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 22 Aug 2026 23:16:43 GMT"
       }
     ],
     "The New York Times": [
@@ -107,7 +107,7 @@
       {
         "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
         "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-        "date": "Sat, 22 Aug 2026 18:00:55 +0000"
+        "date": "Sun, 23 Aug 2026 07:15:52 +0000"
       },
       {
         "title": "Why Polling Chaos Could Create Big Problems for American Politics",
@@ -174,51 +174,56 @@
     ],
     "Al Jazeera": [
       {
-        "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 03:42:22 +0000"
+        "title": "Flooding across Caracas, Venezuela, after heavy rains",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 08:08:27 +0000"
       },
       {
-        "title": "In rural Chad, solar kiosks bring healthcare closer",
-        "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 03:21:03 +0000"
+        "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+        "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 08:07:54 +0000"
       },
       {
-        "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 03:16:19 +0000"
+        "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+        "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 08:03:41 +0000"
       },
       {
-        "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-        "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 02:34:49 +0000"
+        "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+        "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 07:38:42 +0000"
       },
       {
-        "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 01:51:47 +0000"
+        "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 07:22:37 +0000"
       },
       {
-        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-        "date": "Sun, 23 Aug 2026 00:00:00 +0000"
+        "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 06:59:51 +0000"
       },
       {
-        "title": "Iran threatens countries that join US ‘economic D-Day’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-        "date": "Sat, 22 Aug 2026 23:56:32 +0000"
+        "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 06:48:34 +0000"
       },
       {
-        "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-        "date": "Sat, 22 Aug 2026 23:26:15 +0000"
+        "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
+        "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
+        "date": "Sun, 23 Aug 2026 06:15:50 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Mark Carney says Canada ‘at war’ with US over trade",
-        "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-        "date": "Sat, 22 Aug 2026 17:22:54 GMT"
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+        "date": "Sun, 23 Aug 2026 08:23:24 GMT"
+      },
+      {
+        "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+        "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+        "date": "Sun, 23 Aug 2026 08:33:27 GMT"
       },
       {
         "title": "Why is the far right so obsessed with knights?",
@@ -246,9 +251,9 @@
         "date": "Sun, 23 Aug 2026 04:30:05 GMT"
       },
       {
-        "title": "Railway enthusiasts split over plan to restore train services in rural areas",
-        "link": "https://www.ft.com/content/6fc8d072-5a2c-4431-895a-e3d4eb03329d?syn-25a6b1a6=1",
-        "date": "Sun, 23 Aug 2026 04:00:08 GMT"
+        "title": "Mark Carney says Canada ‘at war’ with US over trade",
+        "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+        "date": "Sun, 23 Aug 2026 08:22:35 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -423,17 +428,32 @@
     ],
     "Hacker News": [
       {
+        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+        "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+        "date": "Sun, 23 Aug 2026 06:41:51 +0000"
+      },
+      {
+        "title": "JIT Compiling Code in 5μs",
+        "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "date": "Sun, 23 Aug 2026 06:04:51 +0000"
+      },
+      {
+        "title": "The End of an Athlon",
+        "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "date": "Sun, 23 Aug 2026 05:51:01 +0000"
+      },
+      {
+        "title": "Fast and Hard Code",
+        "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+        "date": "Sun, 23 Aug 2026 05:39:06 +0000"
+      },
+      {
         "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
         "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
         "date": "Sun, 23 Aug 2026 04:28:18 +0000"
       },
       {
-        "title": "The Covid-19 scandal is still unfolding",
-        "link": "https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding",
-        "date": "Sun, 23 Aug 2026 04:16:50 +0000"
-      },
-      {
-        "title": "The Golden Rule for Becoming a Better Writer",
+        "title": "To become a better writer, read as much as you can",
         "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "date": "Sun, 23 Aug 2026 03:32:25 +0000"
       },
@@ -446,21 +466,6 @@
         "title": "I Dream of Quieter Computing",
         "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
         "date": "Sun, 23 Aug 2026 02:33:22 +0000"
-      },
-      {
-        "title": "The Art and Beauty of Blade Runner",
-        "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-        "date": "Sun, 23 Aug 2026 00:56:03 +0000"
-      },
-      {
-        "title": "NanoGPT Speedrun Frontier",
-        "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "date": "Sat, 22 Aug 2026 22:14:27 +0000"
-      },
-      {
-        "title": "NetBSD and my life (2005)",
-        "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "date": "Sat, 22 Aug 2026 19:07:46 +0000"
       }
     ],
     "Reddit": [
