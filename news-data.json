@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:45:52.758Z",
+  "updated": "2026-08-25T05:47:55.886Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,24 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-        "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 24 Aug 2026 17:53:40 GMT"
+        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 25 Aug 2026 03:50:06 GMT"
       },
       {
-        "title": "How the deadly A66 crash unfolded leaving seven dead",
-        "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 24 Aug 2026 16:55:42 GMT"
+        "title": "More than 70,000 social and affordable homes to be built across England",
+        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 25 Aug 2026 05:41:08 GMT"
       },
       {
-        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 24 Aug 2026 17:29:59 GMT"
-      },
-      {
-        "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-        "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 24 Aug 2026 15:14:14 GMT"
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 24 Aug 2026 22:13:36 GMT"
       },
       {
         "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
@@ -73,26 +68,31 @@
         "date": "Mon, 24 Aug 2026 22:13:20 GMT"
       },
       {
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 24 Aug 2026 19:12:35 GMT"
-      },
-      {
-        "title": "The grieving family who says the coroner's courts aren't working",
+        "title": "The grieving family who say the coroner's courts aren't working",
         "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 24 Aug 2026 23:09:16 GMT"
+      },
+      {
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 25 Aug 2026 04:06:34 GMT"
       },
       {
         "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
         "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 24 Aug 2026 21:58:49 GMT"
+      },
+      {
+        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+        "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 25 Aug 2026 05:19:55 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+        "title": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
         "link": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-        "date": "Mon, 24 Aug 2026 22:52:57 +0000"
+        "date": "Tue, 25 Aug 2026 00:09:09 +0000"
       },
       {
         "title": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
@@ -100,34 +100,34 @@
         "date": "Mon, 24 Aug 2026 23:09:01 +0000"
       },
       {
-        "title": "Justices Allow Plans to Restrict Mail Voting, for Now",
-        "link": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
-        "date": "Mon, 24 Aug 2026 21:53:34 +0000"
+        "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+        "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+        "date": "Tue, 25 Aug 2026 05:12:25 +0000"
       },
       {
-        "title": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
-        "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
-        "date": "Mon, 24 Aug 2026 20:34:23 +0000"
+        "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+        "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+        "date": "Tue, 25 Aug 2026 00:33:34 +0000"
       },
       {
-        "title": "With Trump Against Him, Can Ralph Norman Win in South Carolina?",
-        "link": "https://www.nytimes.com/2026/08/24/us/politics/ralph-norman-trump-south-carolina.html",
-        "date": "Mon, 24 Aug 2026 14:06:11 +0000"
+        "title": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html",
+        "date": "Tue, 25 Aug 2026 03:37:32 +0000"
       },
       {
-        "title": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
-        "link": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
-        "date": "Mon, 24 Aug 2026 09:03:09 +0000"
+        "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+        "date": "Tue, 25 Aug 2026 00:03:11 +0000"
       },
       {
-        "title": "Eon Huntley, the Democratic Socialist Running for Office While Working at Bergdorf",
-        "link": "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html",
-        "date": "Mon, 24 Aug 2026 14:35:54 +0000"
-      },
-      {
-        "title": "Trump’s ‘Economic D-Day’ for Iran Must Overcome a Troubled History",
+        "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
         "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-        "date": "Mon, 24 Aug 2026 23:10:50 +0000"
+        "date": "Tue, 25 Aug 2026 01:10:23 +0000"
+      },
+      {
+        "title": "U.S. Unveils Campaign to Cripple Iran’s Economy, but Offers Few Details",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+        "date": "Mon, 24 Aug 2026 22:26:44 +0000"
       }
     ],
     "The Guardian": [
@@ -157,6 +157,11 @@
         "date": "Thu, 20 Aug 2026 19:57:59 GMT"
       },
       {
+        "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+        "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+        "date": "Tue, 25 Aug 2026 00:34:47 GMT"
+      },
+      {
         "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
         "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
         "date": "Mon, 24 Aug 2026 21:40:48 GMT"
@@ -165,95 +170,90 @@
         "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
         "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
         "date": "Mon, 24 Aug 2026 18:55:43 GMT"
-      },
-      {
-        "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-        "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-        "date": "Mon, 24 Aug 2026 18:22:14 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "How US sanctions on Iran ripple through global markets and consumers",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 22:46:02 +0000"
+        "title": "Two US carrier groups in Middle East strain navy resources",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 05:19:24 +0000"
       },
       {
-        "title": "US Supreme Court sides with Trump administration on mail voting",
-        "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 22:40:04 +0000"
+        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 05:09:25 +0000"
       },
       {
-        "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-        "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 22:32:26 +0000"
+        "title": "Syrian president thanks nation for getting off US state terror list",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 04:38:24 +0000"
       },
       {
-        "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
-        "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 22:19:08 +0000"
+        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+        "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 04:38:20 +0000"
       },
       {
-        "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-        "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 21:35:10 +0000"
+        "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 03:56:30 +0000"
       },
       {
-        "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 21:32:24 +0000"
+        "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+        "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 02:54:40 +0000"
       },
       {
-        "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 21:12:06 +0000"
+        "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 02:53:48 +0000"
       },
       {
-        "title": "What’s behind domestic political pressure on Ukraine’s president?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
-        "date": "Mon, 24 Aug 2026 20:54:38 +0000"
+        "title": "Muslims celebrate Prophet Muhammad’s birthday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
+        "date": "Tue, 25 Aug 2026 02:11:08 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Trump says US to increase tariffs on Canadian cars to 50%",
-        "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 23:30:31 GMT"
+        "title": "US grain farmers pummelled as Iran war triggers surge in costs",
+        "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:31 GMT"
       },
       {
-        "title": "Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs",
-        "link": "https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 15:05:26 GMT"
+        "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
+        "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:09 GMT"
       },
       {
-        "title": "An offer Canada could only refuse",
-        "link": "https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 11:31:01 GMT"
+        "title": "The threats to ‘Swiss Made’",
+        "link": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:21 GMT"
       },
       {
-        "title": "How Shein’s $100bn dream unravelled",
-        "link": "https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 15:00:00 GMT"
+        "title": "Austerity denial and the mystery of Britain’s shrunken state",
+        "link": "https://www.ft.com/content/910288e8-5ad1-4f09-90fb-36c3efe275e0?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:31 GMT"
       },
       {
-        "title": "Treasury market interventions are only a band-aid",
-        "link": "https://www.ft.com/content/d6c9e705-ef30-4896-880b-8e88941e0f58?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 17:16:47 GMT"
+        "title": "Skipton tries to show that building societies still matter",
+        "link": "https://www.ft.com/content/3bcae42c-b784-400e-9f2d-3bb00c4b0d85?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:31 GMT"
       },
       {
-        "title": "Revisiting the Lockerbie bombing, 37 years later",
-        "link": "https://www.ft.com/content/895d08d0-5cb9-45f4-9a90-cbfdd164a0dd",
-        "date": "Mon, 24 Aug 2026 11:57:34 GMT"
+        "title": "Burnham compromises on council homes plan",
+        "link": "https://www.ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f?syn-25a6b1a6=1",
+        "date": "Mon, 24 Aug 2026 21:30:04 GMT"
       },
       {
-        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
-        "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 19:12:22 GMT"
+        "title": "NatWest plots push into US market",
+        "link": "https://www.ft.com/content/940339db-b5b5-4b53-95e6-cfbc42eb6c06?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:31 GMT"
       },
       {
-        "title": "Iran threatens 46 ships in Strait of Hormuz transit crackdown",
-        "link": "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1",
-        "date": "Mon, 24 Aug 2026 11:14:56 GMT"
+        "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
+        "link": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
+        "date": "Tue, 25 Aug 2026 04:00:31 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+        "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+        "date": "Tue, 25 Aug 2026 04:01:00 +0000"
+      },
+      {
         "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
         "link": "https://www.wired.com/review/bitdefender-vpn/",
         "date": "Mon, 24 Aug 2026 21:08:00 +0000"
@@ -335,14 +340,14 @@
         "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
         "link": "https://www.wired.com/story/best-home-theater-projector/",
         "date": "Mon, 24 Aug 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
-        "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-        "date": "Mon, 24 Aug 2026 10:30:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+        "date": "2026-08-24 23:38:10"
+      },
       {
         "title": "The cat-and-mouse game over 3D-printed guns has begun",
         "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
@@ -377,14 +382,19 @@
         "title": "Apple’s four-pack of second-gen AirTags is $20 off",
         "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
         "date": "2026-08-24 14:04:04"
-      },
-      {
-        "title": "How GoFundMe became America’s backup plan",
-        "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-        "date": "2026-08-24 14:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
+        "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "date": "Tue, 25 Aug 2026 03:30:00 +0000"
+      },
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "date": "Tue, 25 Aug 2026 00:23:12 +0000"
+      },
       {
         "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
         "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
@@ -414,19 +424,39 @@
         "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
         "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
         "date": "Mon, 24 Aug 2026 19:54:50 +0000"
-      },
-      {
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "date": "Mon, 24 Aug 2026 19:54:19 +0000"
-      },
-      {
-        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-        "date": "Mon, 24 Aug 2026 19:44:13 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "link": "https://github.com/dragthelake/ambient-context",
+        "date": "Tue, 25 Aug 2026 04:33:24 +0000"
+      },
+      {
+        "title": "Headlong: A Microharness for Persistent Agents",
+        "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "date": "Tue, 25 Aug 2026 03:54:19 +0000"
+      },
+      {
+        "title": "SiFive's First Server Platform",
+        "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+        "date": "Tue, 25 Aug 2026 03:06:26 +0000"
+      },
+      {
+        "title": "Thomson Reuters Launches Its Own Frontier Model",
+        "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+        "date": "Tue, 25 Aug 2026 02:11:39 +0000"
+      },
+      {
+        "title": "How Universities Should Prepare Founders",
+        "link": "https://paulgraham.com/prepare.html",
+        "date": "Tue, 25 Aug 2026 01:40:39 +0000"
+      },
+      {
+        "title": "Was modern art a CIA psy-op? (2020)",
+        "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+        "date": "Tue, 25 Aug 2026 01:35:00 +0000"
+      },
       {
         "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
         "link": "https://github.com/murerkinn/bookshelf",
@@ -436,43 +466,13 @@
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "link": "https://developer.apple.com/news/?id=1ptvdtcm",
         "date": "Mon, 24 Aug 2026 22:13:40 +0000"
-      },
-      {
-        "title": "Moon (2024)",
-        "link": "https://ciechanow.ski/moon/",
-        "date": "Mon, 24 Aug 2026 22:06:02 +0000"
-      },
-      {
-        "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-        "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-        "date": "Mon, 24 Aug 2026 21:03:06 +0000"
-      },
-      {
-        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-        "date": "Mon, 24 Aug 2026 21:01:38 +0000"
-      },
-      {
-        "title": "Oceans hit highest temperature on record",
-        "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "date": "Mon, 24 Aug 2026 19:19:08 +0000"
-      },
-      {
-        "title": "LLMs could control their host machines by exploiting inference engines",
-        "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "date": "Mon, 24 Aug 2026 19:03:06 +0000"
-      },
-      {
-        "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-        "link": "https://textlog.cc/post/2059",
-        "date": "Mon, 24 Aug 2026 18:45:43 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1643, Part 1 (Thread #1790)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vws7b8/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-08-24T04:02:33+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1644, Part 1 (Thread #1791)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vxp75l/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-08-25T04:02:25+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #21)",
@@ -480,14 +480,9 @@
         "date": "2026-07-23T21:27:34+00:00"
       },
       {
-        "title": "Trump administration announces global economic war on Iran",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vx99tg/trump_administration_announces_global_economic/",
-        "date": "2026-08-24T17:25:05+00:00"
-      },
-      {
-        "title": "Canada is no U.S. ‘subsidiary,’ Carney says, urging Europe to take lesson",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vxazft/canada_is_no_us_subsidiary_carney_says_urging/",
-        "date": "2026-08-24T18:24:47+00:00"
+        "title": "Canada won’t return to negotiating table until U.S. changes its attitude, Carney says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vxngw1/canada_wont_return_to_negotiating_table_until_us/",
+        "date": "2026-08-25T02:38:42+00:00"
       },
       {
         "title": "Trump tells Canada to ‘fall in line’ as Carney rejects subordination",
@@ -495,62 +490,67 @@
         "date": "2026-08-24T20:34:24+00:00"
       },
       {
-        "title": "Earth’s oceans just hit their hottest temperature ever recorded.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vxdk1o/earths_oceans_just_hit_their_hottest_temperature/",
-        "date": "2026-08-24T19:54:54+00:00"
+        "title": "Lagging in polls, Netanyahu warns small right-wing parties could hand election to 'fascist' left",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vxj4h8/lagging_in_polls_netanyahu_warns_small_rightwing/",
+        "date": "2026-08-24T23:28:27+00:00"
+      },
+      {
+        "title": "Canada is no U.S. ‘subsidiary,’ Carney says, urging Europe to take lesson",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vxazft/canada_is_no_us_subsidiary_carney_says_urging/",
+        "date": "2026-08-24T18:24:47+00:00"
+      },
+      {
+        "title": "Trump administration announces global economic war on Iran",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vx99tg/trump_administration_announces_global_economic/",
+        "date": "2026-08-24T17:25:05+00:00"
       },
       {
         "title": "'Kiss my ass,' Ford tells Trump as he readies to speak in Hamilton amid Canada-U.S. trade war",
         "link": "https://www.reddit.com/r/worldnews/comments/1vx9k5e/kiss_my_ass_ford_tells_trump_as_he_readies_to/",
         "date": "2026-08-24T17:35:06+00:00"
-      },
-      {
-        "title": "Zelenskyy: Putin Talked Greatness for 27 Years—Now Russia is Queuing for Gas",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vwzige/zelenskyy_putin_talked_greatness_for_27_yearsnow/",
-        "date": "2026-08-24T10:58:08+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "Your Phone Is Filthier Than You Think. Here’s the Right Way to Clean It",
-        "link": "https://www.cnet.com/tech/mobile/dirty-phone-how-to-clean-iphone-or-android/",
-        "date": "2026-04-09 12:01:02"
+        "title": "Behind the Scenes of ESPN’s Animated Sports Alt-Casts",
+        "link": "https://www.cnet.com/tech/services-and-software/behind-the-scenes-espn-animated-sports-alt-cast-disney-pixar/",
+        "date": "2026-08-24 23:39:43"
       },
       {
-        "title": "People’s Picks: Our Readers Say These Mobile Carriers Are Better Than the Industry Giants",
-        "link": "https://www.cnet.com/tech/mobile/peoples-picks-our-readers-say-these-mobile-carriers-are-better-than-the-industry-giants/",
-        "date": "2026-08-19 12:00:00"
+        "title": "A New Interactive Tool Weighs Vaccine Risks for You",
+        "link": "https://www.cnet.com/health/medical/a-new-interactive-tool-weighs-vaccine-risks-for-you/",
+        "date": "2026-08-24 23:21:50"
       },
       {
-        "title": "How to Stop AI Chatbots From Training on Your Personal Data",
-        "link": "https://www.cnet.com/tech/services-and-software/how-to-stop-ai-chatbots-from-training-on-your-personal-data/",
-        "date": "2026-07-16 21:04:13"
+        "title": "Percy Jackson Cast Teases ‘Some People Get What They Deserve’ in Season 3",
+        "link": "https://www.cnet.com/tech/services-and-software/percy-jackson-cast-teases-some-people-get-what-they-deserve-in-season-3/",
+        "date": "2026-08-24 22:00:11"
       },
       {
-        "title": "My Guaranteed Steps to Tell if a New Device Is a Flock Camera",
-        "link": "https://www.cnet.com/home/security/my-guaranteed-steps-to-tell-if-a-new-device-is-a-flock-camera/",
-        "date": "2026-08-24 10:00:00"
+        "title": "Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027",
+        "link": "https://www.cnet.com/tech/services-and-software/privacy-focused-grapheneos-is-coming-to-motorola-phones-in-2027/",
+        "date": "2026-08-24 21:43:30"
       },
       {
-        "title": "Your Mac’s Screen Sharing Feature Has a Security Flaw. Here’s How to Protect Yourself",
-        "link": "https://www.cnet.com/tech/services-and-software/attackers-could-take-over-your-mac-through-screen-sharing-unless-you-update-now/",
-        "date": "2026-08-17 18:48:13"
+        "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?",
+        "link": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
+        "date": "2026-08-24 21:17:18"
       },
       {
-        "title": "Disney Settled an Antitrust Case for $50 Million. Here’s How to Get Your Share Before Sept. 8",
-        "link": "https://www.cnet.com/tech/services-and-software/youtube-tv-directv-subscribers-disney-lawsuit-settlement/",
-        "date": "2026-07-07 23:58:09"
+        "title": "If You Don’t Want Smart Glasses to Spy, Try a Bluetooth Detector App",
+        "link": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
+        "date": "2026-08-24 20:32:46"
       },
       {
-        "title": "Watch the Highest-Ever Resolution Video of the Sun’s Surface",
-        "link": "https://www.cnet.com/science/space/watch-the-highest-ever-resolution-video-of-the-suns-surface/",
-        "date": "2026-08-24 12:52:02"
+        "title": "It’s Been 20 Years Since Astronomers Decided Pluto Isn’t a Planet",
+        "link": "https://www.cnet.com/science/space/20-years-since-astronomers-decided-pluto-isnt-a-planet/",
+        "date": "2026-08-24 19:57:54"
       },
       {
-        "title": "Vitamix’s First Personal Blender, the Nano, Is Here",
-        "link": "https://www.cnet.com/home/kitchen-and-household/vitamix-first-personal-blender-nano/",
-        "date": "2026-08-24 12:37:00"
+        "title": "RAMageddon Strikes Again: Amazon Raises Its Electronics Prices by Up to 60%",
+        "link": "https://www.cnet.com/tech/ramageddon-strikes-again-amazon-raises-its-electronics-prices-by-up-to-60/",
+        "date": "2026-08-24 20:15:33"
       }
     ],
     "AP": [],
