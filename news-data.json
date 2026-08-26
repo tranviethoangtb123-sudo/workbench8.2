@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:20:01.334Z",
+  "updated": "2026-08-26T10:05:15.658Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,24 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "How Dolly Parton told her life story through six iconic songs",
-        "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 23:43:13 GMT"
+        "title": "Watch: The life of an iconic country singer",
+        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 25 Aug 2026 18:27:22 GMT"
       },
       {
-        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
-        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 26 Aug 2026 04:07:48 GMT"
-      },
-      {
-        "title": "Winter energy prices expected to rise to three-year high",
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
         "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 23:07:29 GMT"
+        "date": "Wed, 26 Aug 2026 09:31:51 GMT"
+      },
+      {
+        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+        "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 05:14:12 GMT"
+      },
+      {
+        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 09:28:03 GMT"
       },
       {
         "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -68,41 +73,51 @@
         "date": "Tue, 25 Aug 2026 23:13:34 GMT"
       },
       {
-        "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 23:11:15 GMT"
+        "title": "Ex-England footballer Sterling charged with dangerous driving after crashing Lamborghini",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 07:42:51 GMT"
       },
       {
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 19:50:57 GMT"
+        "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
+        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 04:07:48 GMT"
       },
       {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 19:48:14 GMT"
-      },
-      {
-        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 25 Aug 2026 23:50:53 GMT"
+        "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 08:01:56 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
-        "link": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
-        "date": "Wed, 26 Aug 2026 04:06:42 +0000"
+        "title": "Bessent Faces Credibility Test in Quest to Tame Markets",
+        "link": "https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html",
+        "date": "Wed, 26 Aug 2026 09:03:56 +0000"
       },
       {
-        "title": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
-        "link": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
-        "date": "Tue, 25 Aug 2026 23:24:16 +0000"
+        "title": "‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates",
+        "link": "https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html",
+        "date": "Wed, 26 Aug 2026 09:04:04 +0000"
       },
       {
-        "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-        "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-        "date": "Wed, 26 Aug 2026 02:17:48 +0000"
+        "title": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
+        "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
+        "date": "Wed, 26 Aug 2026 09:04:15 +0000"
+      },
+      {
+        "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+        "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
+        "date": "Wed, 26 Aug 2026 08:07:06 +0000"
+      },
+      {
+        "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
+        "link": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
+        "date": "Wed, 26 Aug 2026 05:02:47 +0000"
+      },
+      {
+        "title": "Joe Manchin Pushes for More Independents to Join Congress",
+        "link": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html",
+        "date": "Wed, 26 Aug 2026 09:03:14 +0000"
       },
       {
         "title": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
@@ -110,27 +125,17 @@
         "date": "Tue, 25 Aug 2026 23:10:23 +0000"
       },
       {
-        "title": "Dolly Parton Died After Brief Battle With Cancer",
-        "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
-        "date": "Wed, 26 Aug 2026 01:28:46 +0000"
-      },
-      {
-        "title": "Dolly Parton’s Death Hits Home for Tennesseans: ‘She Was One of Us’",
-        "link": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
-        "date": "Wed, 26 Aug 2026 02:09:20 +0000"
-      },
-      {
-        "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
-        "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-        "date": "Wed, 26 Aug 2026 03:10:18 +0000"
-      },
-      {
-        "title": "Mike Mazzei, Backed by Trump, Wins Oklahoma Primary for Governor",
-        "link": "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html",
-        "date": "Wed, 26 Aug 2026 03:18:42 +0000"
+        "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+        "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+        "date": "Wed, 26 Aug 2026 02:17:48 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+        "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+        "date": "Wed, 26 Aug 2026 09:00:39 GMT"
+      },
       {
         "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
         "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
@@ -152,9 +157,9 @@
         "date": "Sun, 23 Aug 2026 22:16:53 GMT"
       },
       {
-        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-        "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-        "date": "Thu, 20 Aug 2026 19:57:59 GMT"
+        "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+        "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+        "date": "Wed, 26 Aug 2026 10:00:41 GMT"
       },
       {
         "title": "Wife of US soldier deported after Trump rollback on military family protections",
@@ -165,53 +170,48 @@
         "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
         "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
         "date": "Tue, 25 Aug 2026 17:35:16 GMT"
-      },
-      {
-        "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-        "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-        "date": "Tue, 25 Aug 2026 12:31:53 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 04:54:38 +0000"
+        "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+        "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 10:00:05 +0000"
       },
       {
-        "title": "At least 15 newborns killed in Pakistan hospital fire",
-        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 04:27:15 +0000"
+        "title": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 09:48:36 +0000"
       },
       {
-        "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-        "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 03:49:23 +0000"
+        "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+        "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 09:36:08 +0000"
       },
       {
-        "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
-        "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 03:40:26 +0000"
+        "title": "The Bulgarian village that fears becoming an Iranian target",
+        "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 09:20:33 +0000"
       },
       {
-        "title": "Who were the Syrian Democratic Forces and why dissolve?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 03:28:43 +0000"
+        "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+        "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 09:00:35 +0000"
       },
       {
-        "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 02:54:12 +0000"
+        "title": "US immigration agents arrested more than 49,500 people in July",
+        "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 08:55:23 +0000"
       },
       {
-        "title": "Mamdani opposes Hindu nationalist event in New York",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 02:47:02 +0000"
+        "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 08:54:35 +0000"
       },
       {
-        "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-        "date": "Wed, 26 Aug 2026 01:54:00 +0000"
+        "title": "Thousands in Japan are pulling this historic castle back into place",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
+        "date": "Wed, 26 Aug 2026 08:46:53 +0000"
       }
     ],
     "Financial Times": [
@@ -219,6 +219,11 @@
         "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
         "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
         "date": "Wed, 26 Aug 2026 04:00:30 GMT"
+      },
+      {
+        "title": "Why today’s markets are not as contradictory as they seem",
+        "link": "https://www.ft.com/content/c96c25c1-b27c-4c08-a2ba-21821b39dd78?syn-25a6b1a6=1",
+        "date": "Wed, 26 Aug 2026 04:00:23 GMT"
       },
       {
         "title": "How chicken conquered the world",
@@ -231,19 +236,14 @@
         "date": "Wed, 26 Aug 2026 04:00:13 GMT"
       },
       {
-        "title": "The bankers cashing in on Italy’s wealth boom",
-        "link": "https://www.ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1",
+        "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
+        "link": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1",
         "date": "Wed, 26 Aug 2026 04:00:04 GMT"
       },
       {
-        "title": "Trump administration pauses immigrant visa applications",
-        "link": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1",
-        "date": "Tue, 25 Aug 2026 21:33:38 GMT"
-      },
-      {
-        "title": "Andy Burnham looks at allowing mayors to block sale of council homes",
-        "link": "https://www.ft.com/content/c3dc6390-8d37-47b5-9687-bb77e149a6d5?syn-25a6b1a6=1",
-        "date": "Wed, 26 Aug 2026 04:00:23 GMT"
+        "title": "UK household energy bills to hit three-year high from October",
+        "link": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1",
+        "date": "Wed, 26 Aug 2026 08:18:01 GMT"
       },
       {
         "title": "Four Russian bankers made millions from EU sanctions",
@@ -251,64 +251,69 @@
         "date": "Wed, 26 Aug 2026 04:00:04 GMT"
       },
       {
-        "title": "British Business Bank’s small business loans hit £4bn",
-        "link": "https://www.ft.com/content/d910845e-a886-45a8-a43e-4ca1c5afa4e0?syn-25a6b1a6=1",
-        "date": "Wed, 26 Aug 2026 04:00:23 GMT"
+        "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+        "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
+        "date": "Wed, 26 Aug 2026 07:01:01 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:Judge Blocks Policy Tha' Halted Visas",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906263?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:23:19 GMT"
+        "title": "ProQuest:other 33",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190334?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:52:16 GMT"
       },
       {
-        "title": "ProQuest:CORRECTIONS & AMPLIFICATIONS",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906262?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:17 GMT"
+        "title": "ProQuest:A Strong Yemen Can Overcome the Houthi Threat",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190333?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:52:22 GMT"
       },
       {
-        "title": "ProQuest:Kassebaum Baker, Kansas Senator, 94",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906245?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:17 GMT"
+        "title": "ProQuest:My $2,500 Flight in Alaska's New Long-Haul Business Class: The airline is a new player in trans-Atlantic travel, battling Delta for premium travelers",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190332?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:50:35 GMT"
       },
       {
-        "title": "ProQuest:U.S., Canada Spiral Toward Trade War: Carn responds to new tariffs with levie on U.S., saying 'we got attacked'",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906234?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:35 GMT"
+        "title": "ProQuest:Oil Math Doesn't Add Up In Hormuz",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190331?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:52:15 GMT"
       },
       {
-        "title": "ProQuest:display ad 37",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906233?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:42 GMT"
+        "title": "ProQuest:Ex-Editor Fired for Deal Reward",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190330?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:50:42 GMT"
       },
       {
-        "title": "ProQuest:In Iowa, a Senate Race Has Become a Tossup",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906232?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:40 GMT"
+        "title": "ProQuest:stock quote 59",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190329?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:50:38 GMT"
       },
       {
-        "title": "ProQuest:Iran's Top Politicians Urge an End to War: Leaders say Tehran needs to negotiate an exit while it has leverage with U.S.",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906231?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:22:19 GMT"
+        "title": "ProQuest:CORRECTIONS ಅ AMPLIFICATIONS",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190328?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:52:20 GMT"
       },
       {
-        "title": "ProQuest:Germany's Bauhaus Has a Familiar Enemy: The art and design school, closed by Nazis, again is in a battle with the right",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3377906230?accountid=37826",
-        "date": "Tue, 25 Aug 2026 14:23:19 GMT"
+        "title": "ProQuest:How the President Got the DOJ Off Live Nation's Back: Antitrust case settled after White House call, avoiding breakup",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3378190327?accountid=37826",
+        "date": "Wed, 26 Aug 2026 09:50:41 GMT"
       }
     ],
     "Bloomberg": [],
     "The Economist": [],
     "Wired": [
       {
-        "title": "Corsair Discount Code: Up to 50% Off for August 2026",
-        "link": "https://www.wired.com/story/corsair-coupon/",
-        "date": "Wed, 26 Aug 2026 05:00:00 +0000"
+        "title": "How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range",
+        "link": "https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/",
+        "date": "Wed, 26 Aug 2026 10:00:00 +0000"
       },
       {
-        "title": "AirDoctor Coupon Codes: 40% Off | August 2026",
-        "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+        "title": "A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread",
+        "link": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/",
+        "date": "Wed, 26 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "Corsair Discount Code: Up to 50% Off for August 2026",
+        "link": "https://www.wired.com/story/corsair-coupon/",
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       },
       {
@@ -317,13 +322,13 @@
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-        "link": "https://www.wired.com/story/nomad-discount-code/",
+        "title": "Surfshark Promo Codes: 87% Off | August 2026",
+        "link": "https://www.wired.com/story/surfshark-coupon/",
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Surfshark Promo Codes: 87% Off | August 2026",
-        "link": "https://www.wired.com/story/surfshark-coupon/",
+        "title": "AirDoctor Coupon Codes: 40% Off | August 2026",
+        "link": "https://www.wired.com/story/airdoctor-coupon-code/",
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       },
       {
@@ -332,13 +337,8 @@
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       },
       {
-        "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-        "link": "https://www.wired.com/story/vitamix-promo-code/",
-        "date": "Wed, 26 Aug 2026 05:00:00 +0000"
-      },
-      {
-        "title": "HP Coupon Codes and Deals August 2026",
-        "link": "https://www.wired.com/story/hp-coupon-code/",
+        "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
+        "link": "https://www.wired.com/story/nomad-discount-code/",
         "date": "Wed, 26 Aug 2026 05:00:00 +0000"
       }
     ],
@@ -386,6 +386,11 @@
     ],
     "TechCrunch": [
       {
+        "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+        "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+        "date": "Wed, 26 Aug 2026 07:00:00 +0000"
+      },
+      {
         "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
         "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
         "date": "Wed, 26 Aug 2026 03:30:00 +0000"
@@ -396,7 +401,7 @@
         "date": "Wed, 26 Aug 2026 00:40:59 +0000"
       },
       {
-        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
         "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
         "date": "Wed, 26 Aug 2026 00:06:20 +0000"
       },
@@ -419,53 +424,48 @@
         "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
         "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
         "date": "Tue, 25 Aug 2026 18:26:55 +0000"
-      },
-      {
-        "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-        "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-        "date": "Tue, 25 Aug 2026 18:22:50 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-        "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-        "date": "Wed, 26 Aug 2026 03:23:50 +0000"
+        "title": "Social media use on the rise among Australian under-16s after ban: data",
+        "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+        "date": "Wed, 26 Aug 2026 09:35:58 +0000"
       },
       {
-        "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-        "link": "https://arxiv.org/abs/2607.21503",
-        "date": "Wed, 26 Aug 2026 02:35:25 +0000"
+        "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+        "link": "https://www.globalsolo.global/data/banking-access-index",
+        "date": "Wed, 26 Aug 2026 09:01:49 +0000"
       },
       {
-        "title": "The brain may be about to have its Ozempic moment",
-        "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-        "date": "Wed, 26 Aug 2026 00:40:41 +0000"
+        "title": "Value Classes Still Need Compiler Sympathy",
+        "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+        "date": "Wed, 26 Aug 2026 08:59:15 +0000"
       },
       {
-        "title": "Queryable Executables",
-        "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-        "date": "Wed, 26 Aug 2026 00:20:49 +0000"
+        "title": "Oldinsurancemaps.net is now a Charter Project",
+        "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+        "date": "Wed, 26 Aug 2026 08:57:46 +0000"
       },
       {
-        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-        "link": "https://github.com/runetes/maiao",
-        "date": "Tue, 25 Aug 2026 22:40:07 +0000"
+        "title": "RAG Is Simpler Than You Think",
+        "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+        "date": "Wed, 26 Aug 2026 08:39:17 +0000"
       },
       {
-        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-        "link": "https://github.com/swimmingbrain/texbrain",
-        "date": "Tue, 25 Aug 2026 22:08:50 +0000"
+        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+        "link": "https://rupertlinacre.com/buslens/",
+        "date": "Wed, 26 Aug 2026 07:36:52 +0000"
       },
       {
-        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-        "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-        "date": "Tue, 25 Aug 2026 20:49:03 +0000"
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+        "date": "Wed, 26 Aug 2026 07:31:31 +0000"
       },
       {
-        "title": "C2PA Cameras Do Not Survive Contact with Reality",
-        "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-        "date": "Tue, 25 Aug 2026 19:38:24 +0000"
+        "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+        "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+        "date": "Wed, 26 Aug 2026 05:49:20 +0000"
       }
     ],
     "Reddit": [
@@ -490,9 +490,14 @@
         "date": "2026-08-25T20:43:55+00:00"
       },
       {
-        "title": "Canada unveils retaliatory tariffs on about $20B of U.S. goods",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vy2ewr/canada_unveils_retaliatory_tariffs_on_about_20b/",
-        "date": "2026-08-25T15:05:30+00:00"
+        "title": "US Embassy in Moscow removes US flags after CIA Director’s Secret Moscow Visisit",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vypmmf/us_embassy_in_moscow_removes_us_flags_after_cia/",
+        "date": "2026-08-26T07:00:55+00:00"
+      },
+      {
+        "title": "Ukraine Knocks Out 8 of Wildberries’ 10 Major Warehouses, Wiping Out 81% of Combined Space",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vys8u5/ukraine_knocks_out_8_of_wildberries_10_major/",
+        "date": "2026-08-26T09:33:51+00:00"
       },
       {
         "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
@@ -500,14 +505,9 @@
         "date": "2026-08-26T02:53:36+00:00"
       },
       {
-        "title": "CIA Director John Ratcliffe on secret trip in Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vy2pl1/cia_director_john_ratcliffe_on_secret_trip_in/",
-        "date": "2026-08-25T15:16:44+00:00"
-      },
-      {
-        "title": "Ex-Alberta premier says oil needs to be on the table in U.S. tariff war",
-        "link": "https://www.reddit.com/r/worldnews/comments/1vyem80/exalberta_premier_says_oil_needs_to_be_on_the/",
-        "date": "2026-08-25T22:24:43+00:00"
+        "title": "Canada unveils retaliatory tariffs on about $20B of U.S. goods",
+        "link": "https://www.reddit.com/r/worldnews/comments/1vy2ewr/canada_unveils_retaliatory_tariffs_on_about_20b/",
+        "date": "2026-08-25T15:05:30+00:00"
       }
     ],
     "PCMag": [],
