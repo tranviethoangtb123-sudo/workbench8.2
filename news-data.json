@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:33:48.850Z",
+  "updated": "2026-08-29T13:36:35.422Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,6 +48,31 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Christian festival 'devastated' as man dies after sign falls",
+        "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 29 Aug 2026 13:06:03 GMT"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 29 Aug 2026 12:55:39 GMT"
+      },
+      {
+        "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 29 Aug 2026 10:31:18 GMT"
+      },
+      {
+        "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+        "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 29 Aug 2026 13:02:27 GMT"
+      },
+      {
+        "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+        "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 29 Aug 2026 10:43:25 GMT"
+      },
+      {
         "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
         "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 28 Aug 2026 21:17:54 GMT"
@@ -56,31 +81,6 @@
         "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
         "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 29 Aug 2026 03:54:11 GMT"
-      },
-      {
-        "title": "Christian festival 'devastated' as man dies after sign falls",
-        "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 29 Aug 2026 09:40:34 GMT"
-      },
-      {
-        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-        "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 29 Aug 2026 00:32:17 GMT"
-      },
-      {
-        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-        "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 29 Aug 2026 00:56:19 GMT"
-      },
-      {
-        "title": "The race to stop England running out of water",
-        "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 29 Aug 2026 00:46:00 GMT"
-      },
-      {
-        "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-        "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 28 Aug 2026 10:35:06 GMT"
       },
       {
         "title": "Satellite images reveal scale of flood devastation in Nepal villages",
@@ -92,7 +92,7 @@
       {
         "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
         "link": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
-        "date": "Sat, 29 Aug 2026 09:02:44 +0000"
+        "date": "Sat, 29 Aug 2026 11:00:06 +0000"
       },
       {
         "title": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil",
@@ -110,9 +110,9 @@
         "date": "Sat, 29 Aug 2026 00:41:18 +0000"
       },
       {
-        "title": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
-        "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
-        "date": "Sat, 29 Aug 2026 09:02:33 +0000"
+        "title": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+        "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
+        "date": "Sat, 29 Aug 2026 01:40:28 +0000"
       },
       {
         "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
@@ -125,9 +125,9 @@
         "date": "Sat, 29 Aug 2026 09:02:16 +0000"
       },
       {
-        "title": "Fact-Checking Senate Races in Georgia, Alaska and Texas",
-        "link": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
-        "date": "Sat, 29 Aug 2026 09:04:08 +0000"
+        "title": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+        "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+        "date": "Sat, 29 Aug 2026 09:02:33 +0000"
       }
     ],
     "The Guardian": [
@@ -174,56 +174,56 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Norway mourns King Harald as new era begins under Haakon VIII",
-        "link": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 09:45:37 +0000"
+        "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+        "link": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 12:58:25 +0000"
       },
       {
-        "title": "US revokes visa of former Iraqi minister after watchlist listing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 09:05:30 +0000"
+        "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+        "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 12:56:27 +0000"
       },
       {
-        "title": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-        "link": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 08:51:07 +0000"
+        "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 12:45:48 +0000"
       },
       {
-        "title": "Liverpool vs Nottingham Forest LIVE: Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 08:33:04 +0000"
+        "title": "Formula One champion Lando Norris extends McLaren contract until 2030",
+        "link": "https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 12:34:03 +0000"
       },
       {
-        "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-        "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 07:33:34 +0000"
+        "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+        "link": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 12:02:57 +0000"
       },
       {
-        "title": "India and Pakistan are united in spending citizen lives like pocket change",
-        "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 07:08:23 +0000"
+        "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+        "link": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 11:30:00 +0000"
       },
       {
-        "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-        "link": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 06:11:58 +0000"
+        "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+        "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 10:49:31 +0000"
       },
       {
-        "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
-        "date": "Sat, 29 Aug 2026 05:27:25 +0000"
+        "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+        "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+        "date": "Sat, 29 Aug 2026 10:36:11 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-        "link": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-        "date": "Sat, 29 Aug 2026 00:36:22 GMT"
+        "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
+        "link": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
+        "date": "Sat, 29 Aug 2026 12:57:12 GMT"
       },
       {
-        "title": "US campaign to isolate Iran closes in on Dubai",
-        "link": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1",
-        "date": "Sat, 29 Aug 2026 08:55:44 GMT"
+        "title": "Risk of a new age of financial repression is rising",
+        "link": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
+        "date": "Sat, 29 Aug 2026 04:00:40 GMT"
       },
       {
         "title": "Did AI write this? It’s getting harder to tell",
@@ -236,24 +236,24 @@
         "date": "Sat, 29 Aug 2026 04:00:32 GMT"
       },
       {
-        "title": "Risk of a new age of financial repression is rising",
-        "link": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
+        "title": "Zero-sum thinking will fuel resentment and scarcity",
+        "link": "https://www.ft.com/content/492134e9-49eb-4f13-b70a-b2b595ed0e2a?syn-25a6b1a6=1",
         "date": "Sat, 29 Aug 2026 04:00:40 GMT"
       },
       {
-        "title": "Hawkish Warsh hints Fed will raise rates if inflation does not fall soon",
-        "link": "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1",
-        "date": "Fri, 28 Aug 2026 16:50:09 GMT"
+        "title": "Alex Gerko earned a record £895mn from trading firm XTX in 2025",
+        "link": "https://www.ft.com/content/c1c79d47-31c0-4e4e-85b6-57527e31d78f?syn-25a6b1a6=1",
+        "date": "Sat, 29 Aug 2026 10:12:58 GMT"
       },
       {
-        "title": "English wine reaps rewards of heatwave but extreme weather brings risk",
-        "link": "https://www.ft.com/content/d3924170-6978-4b0a-8357-a621c0d3e1fd",
-        "date": "Sat, 29 Aug 2026 04:00:32 GMT"
+        "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+        "link": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
+        "date": "Sat, 29 Aug 2026 00:36:22 GMT"
       },
       {
-        "title": "The battle over British bubbles",
-        "link": "https://www.ft.com/content/2c5c987d-3ce3-43a6-89b5-abddbd44ebb7",
-        "date": "Sat, 29 Aug 2026 04:00:25 GMT"
+        "title": "US campaign to isolate Iran closes in on Dubai",
+        "link": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1",
+        "date": "Sat, 29 Aug 2026 08:55:44 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
+        "link": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+        "date": "Sat, 29 Aug 2026 11:00:00 +0000"
+      },
+      {
         "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
         "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
         "date": "Sat, 29 Aug 2026 10:30:00 +0000"
@@ -335,11 +340,6 @@
         "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
         "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
         "date": "Fri, 28 Aug 2026 19:44:11 +0000"
-      },
-      {
-        "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-        "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-        "date": "Fri, 28 Aug 2026 18:23:17 +0000"
       }
     ],
     "The Verge": [
@@ -386,6 +386,11 @@
     ],
     "TechCrunch": [
       {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "date": "Sat, 29 Aug 2026 13:00:00 +0000"
+      },
+      {
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
         "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
         "date": "Fri, 28 Aug 2026 23:24:27 +0000"
@@ -419,23 +424,13 @@
         "title": "How Sweden built one of Europe’s hottest startup ecosystems",
         "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
         "date": "Fri, 28 Aug 2026 17:09:05 +0000"
-      },
-      {
-        "title": "More Americans oppose police license plate cameras than support them: survey",
-        "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-        "date": "Fri, 28 Aug 2026 15:57:58 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "You Know GDPR Is Good Based on Who Hates It",
-        "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-        "date": "Sat, 29 Aug 2026 09:19:22 +0000"
-      },
-      {
-        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-        "link": "https://www.inventati.org/who/manifesto",
-        "date": "Sat, 29 Aug 2026 07:38:31 +0000"
+        "title": "Iceland votes on whether to restart talks on joining EU",
+        "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+        "date": "Sat, 29 Aug 2026 11:39:38 +0000"
       },
       {
         "title": "Samsung's Processing-in-Memory (PIM)",
@@ -446,11 +441,6 @@
         "title": "TurboKV: Insanely fast Rust key-value store",
         "link": "https://github.com/kingroryg/turbokv",
         "date": "Sat, 29 Aug 2026 02:23:37 +0000"
-      },
-      {
-        "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-        "link": "https://www.kumander.org/",
-        "date": "Sat, 29 Aug 2026 01:48:15 +0000"
       },
       {
         "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -466,6 +456,16 @@
         "title": "Does the Sumerian King List Align with Paleoclimate Events?",
         "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
         "date": "Fri, 28 Aug 2026 23:46:10 +0000"
+      },
+      {
+        "title": "9th Circuit sides with states in Kalshi gambling fight",
+        "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+        "date": "Fri, 28 Aug 2026 23:32:22 +0000"
+      },
+      {
+        "title": "I accidentally turned LLM memory into program analysis",
+        "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "date": "Fri, 28 Aug 2026 23:27:45 +0000"
       }
     ],
     "Reddit": [
@@ -480,14 +480,19 @@
         "date": "2026-07-23T21:27:34+00:00"
       },
       {
+        "title": "Russia’s ‘Doomsday Radio’ erupts with coded messages after CIA chief’s Moscow visit",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w18bca/russias_doomsday_radio_erupts_with_coded_messages/",
+        "date": "2026-08-29T00:57:21+00:00"
+      },
+      {
         "title": "Canadian city considers renaming Trump Avenue to \"Taco Avenue\"",
         "link": "https://www.reddit.com/r/worldnews/comments/1w13032/canadian_city_considers_renaming_trump_avenue_to/",
         "date": "2026-08-28T21:11:59+00:00"
       },
       {
-        "title": "Russia’s ‘Doomsday Radio’ erupts with coded messages after CIA chief’s Moscow visit",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w18bca/russias_doomsday_radio_erupts_with_coded_messages/",
-        "date": "2026-08-29T00:57:21+00:00"
+        "title": "Mark Carney to address EU Parliament after Canada-U.S. trade talks falter",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w1cs9e/mark_carney_to_address_eu_parliament_after/",
+        "date": "2026-08-29T04:37:19+00:00"
       },
       {
         "title": "US threatens Britain over Falklands",
@@ -495,23 +500,23 @@
         "date": "2026-08-29T01:12:56+00:00"
       },
       {
-        "title": "Consumers Have Hit Their ‘Limit’ With Streaming Price Hikes. Now Platforms Are Changing Course.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w1aadj/consumers_have_hit_their_limit_with_streaming/",
-        "date": "2026-08-29T02:31:59+00:00"
+        "title": "Germany plans to blame Russia for Leipzig attack as tensions with Putin escalate",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w1l7ln/germany_plans_to_blame_russia_for_leipzig_attack/",
+        "date": "2026-08-29T12:25:36+00:00"
       },
       {
-        "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w1acnu/russia_losing_6000_more_troops_in_ukraine_each/",
-        "date": "2026-08-29T02:35:14+00:00"
-      },
-      {
-        "title": "Mark Carney to address EU Parliament after Canada-U.S. trade talks falter",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w1cs9e/mark_carney_to_address_eu_parliament_after/",
-        "date": "2026-08-29T04:37:19+00:00"
+        "title": "Finland discontinues €20 million UNRWA funding agreement",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w1gdvi/finland_discontinues_20_million_unrwa_funding/",
+        "date": "2026-08-29T07:56:27+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "This Website Is Most Reliable Tool for Looking Up Flock Cameras Near You",
+        "link": "https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/",
+        "date": "2026-07-24 01:25:29"
+      },
       {
         "title": "I Stopped My Mindless Scrolling Using This iOS 27 Shortcut",
         "link": "https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/",
@@ -533,24 +538,19 @@
         "date": "2026-08-28 22:25:19"
       },
       {
+        "title": "Premier League Soccer: Watch Liverpool vs. Nottingham Forest Live from Anywhere",
+        "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-watch-liverpool-vs-nottingham-forest-live-from-anywhere/",
+        "date": "2026-08-29 08:30:00"
+      },
+      {
+        "title": "Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It?",
+        "link": "https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/",
+        "date": "2026-08-29 12:00:00"
+      },
+      {
         "title": "Equifax Customers Have Until Tuesday to Claim Part of a $2.2M Class Action Settlement",
         "link": "https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/",
         "date": "2026-08-03 23:01:47"
-      },
-      {
-        "title": "The Crazy Taxi Remake Revives the Dreamcast Era’s Zany Energy",
-        "link": "https://www.cnet.com/tech/gaming/crazy-taxi-world-tour-remake-preview-dreamcast-energy/",
-        "date": "2026-08-28 19:59:44"
-      },
-      {
-        "title": "Eyes Up, Stargazers! Here’s What You Can See in September Night Skies",
-        "link": "https://www.cnet.com/science/space/stargazers-what-to-see-in-september-night-skies/",
-        "date": "2026-08-28 19:30:07"
-      },
-      {
-        "title": "Tech Companies Call for Improved Cyber Defenses After AI-Enabled Attacks",
-        "link": "https://www.cnet.com/tech/services-and-software/tech-companies-call-for-improved-cyber-defenses-after-ai-enabled-attacks/",
-        "date": "2026-08-28 19:06:32"
       }
     ],
     "AP": [],
