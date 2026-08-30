@@ -1055,12 +1055,16 @@ function tmAddParcel(){
   var s=document.getElementById('memoParcelStation')?.value.trim()||'';
   var c=document.getElementById('memoParcelCode')?.value.trim()||'';
   var i=document.getElementById('memoParcelItem')?.value.trim()||'';
-  if(!s&&!c&&!i)return;
-  tmData.parcels.push({station:s,code:c,item:i,done:false});
+  var d=document.getElementById('memoParcelDate')?.value||'';
+  var t=document.getElementById('memoParcelTime')?.value||'';
+  if(!s&&!c&&!i&&!d)return;
+  tmData.parcels.push({station:s,code:c,item:i,date:d,time:t,done:false});
   tmSave();tmRender();
   document.getElementById('memoParcelStation').value='';
   document.getElementById('memoParcelCode').value='';
   document.getElementById('memoParcelItem').value='';
+  document.getElementById('memoParcelDate').value='';
+  document.getElementById('memoParcelTime').value='';
 }
 function tmAddMemo(){
   var n=document.getElementById('memoNote1')?.value.trim()||'';
@@ -1083,7 +1087,10 @@ function tmRender(){
     var ck=document.createElement('span');ck.className='tm-check';if(p.done)ck.classList.add('checked');
     var sp=document.createElement('span');sp.className='tm-text';sp.textContent=(p.station||'-')+' / '+(p.code||'-')+' / '+(p.item||'-');if(p.done)sp.classList.add('done');
     ck.onclick=function(e){e.stopPropagation();var checked=!this.classList.contains('checked');this.classList.toggle('checked');if(!tmManageMode){p.done=checked;sp.classList.toggle('done',checked);tmSave();}};
-    li.appendChild(ck);li.appendChild(sp);pl.appendChild(li);
+    li.appendChild(ck);li.appendChild(sp);
+    if(p.date){var ds=document.createElement('span');ds.style.cssText='font-size:.65rem;color:#9ca3af;margin-left:6px';ds.textContent=p.date+(p.time?' '+p.time:'');li.appendChild(ds)}
+    if(p.date){var cb=document.createElement('button');cb.className='mgr-ics-btn';cb.textContent='📅';cb.title='同步到日历提醒';cb.style.cssText='margin-left:6px;flex-shrink:0';cb.onclick=function(e){e.stopPropagation();tmSyncParcel(p)};li.appendChild(cb)}
+    pl.appendChild(li);
   });
   if(!tmData.memos.length){var li=document.createElement('li');li.style.cssText='color:#9ca3af;padding:4px 0';li.textContent='暂无';ml.appendChild(li)}
   else tmData.memos.forEach(function(m){
@@ -1100,6 +1107,19 @@ function tmRender(){
 function tmSyncMemo(m){
   if(!m||!m.date){wbToast('该备忘没有日期');return}
   syncToCalendar((m.note||'备忘'), m.date+'T'+(m.time||'09:00'));
+}
+function tmSyncParcel(p){
+  if(!p||!p.date){wbToast('该快递没有日期');return}
+  syncToCalendar(((p.station||'')+(p.code?' 取件码'+p.code:'')+(p.item?' '+p.item:'')).trim()||'取快递', p.date+'T'+(p.time||'09:00'));
+}
+function tmSyncParcelDraft(){
+  var s=document.getElementById('memoParcelStation')?document.getElementById('memoParcelStation').value.trim():'';
+  var c=document.getElementById('memoParcelCode')?document.getElementById('memoParcelCode').value.trim():'';
+  var i=document.getElementById('memoParcelItem')?document.getElementById('memoParcelItem').value.trim():'';
+  var date=document.getElementById('memoParcelDate')?document.getElementById('memoParcelDate').value:'';
+  var time=document.getElementById('memoParcelTime')?document.getElementById('memoParcelTime').value:'';
+  if(!date){wbToast('请先选择日期');return}
+  syncToCalendar(((s||'')+(c?' 取件码'+c:'')+(i?' '+i:'')).trim()||'取快递', date+'T'+(time||'09:00'));
 }
 function tmSyncDraft(){
   var note=document.getElementById('memoNote1')?document.getElementById('memoNote1').value.trim():'';
@@ -1120,7 +1140,11 @@ function tmSyncDraft(){
     +'<input class="mgr-input" id="memoParcelCode" placeholder="取件码" style="flex:1">'
     +'<input class="mgr-input" id="memoParcelItem" placeholder="物品" style="flex:1">'
     +'</div>'
-    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddParcel()">保存</button></div>'
+    +'<div class="mgr-add-row">'
+    +'<input type="date" id="memoParcelDate" style="flex:1;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
+    +'<input type="time" id="memoParcelTime" style="width:100px;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
+    +'</div>'
+    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddParcel()">保存</button><button class="mgr-btn-del" onclick="tmSyncParcelDraft()">📅同步日历</button></div>'
     +'</div>'
     +'<div class="tm-mgr-block"><div class="tm-mgr-title">备忘一</div>'
     +'<input class="mgr-input" id="memoNote1" placeholder="输入备注..." style="width:100%;margin-bottom:6px">'
