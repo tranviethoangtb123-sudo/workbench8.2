@@ -647,6 +647,8 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 <ul class="mgr-item-list" id="mgrList"></ul>
 <div class="mgr-actions">
 <button class="mgr-btn-del" onclick="delMgrItems()">删除选中</button>
+<button class="mgr-btn-del" onclick="wbExport()">导出数据</button>
+<button class="mgr-btn-del" onclick="wbImport()">导入数据</button>
 <button class="mgr-btn-done" onclick="closeManage()">完成</button>
 </div>
 </div>
@@ -954,7 +956,7 @@ function renderOtherSection(id){
           var iid=item.getAttribute('data-id');
           var d2=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
           var it2=d2.items.find(function(x){return String(x.id)===iid});
-          if(it2){setMgrItemDone(it2,done);localStorage.setItem('wb_'+id,JSON.stringify(d2));}
+          if(it2){setMgrItemDone(it2,done);localStorage.setItem('wb_'+id,JSON.stringify(d2));bridgePush(id,d2);}
         }catch(e){};
         if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'||id==='med'||id==='bday'){
           if(done){
@@ -1049,7 +1051,7 @@ function initNews(){renderNewsCards();fetchAllNews()}
 var tmData={parcels:[],memos:[]};
 var tmManageMode=false;
 function tmLoad(){var r=localStorage.getItem('wb_tmpmemo');if(r)tmData=JSON.parse(r);tmRender()}
-function tmSave(){localStorage.setItem('wb_tmpmemo',JSON.stringify(tmData))}
+function tmSave(){localStorage.setItem('wb_tmpmemo',JSON.stringify(tmData));bridgePush('tmpmemo',tmData)}
 function tmToggle(btn){var b=btn.parentElement.nextElementSibling;b.classList.toggle('collapsed');var o=!b.classList.contains('collapsed');btn.classList.toggle('open',o);btn.textContent=o?'⌃':'⌄'}
 function tmAddParcel(){
   var s=document.getElementById('memoParcelStation')?.value.trim()||'';
@@ -1309,7 +1311,45 @@ function loadMgrData(){
   var raw=localStorage.getItem('wb_'+currentSection);
   return raw?JSON.parse(raw):{items:[]};
 }
-function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data))}
+function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data));bridgePush(currentSection,data)}
+// App 数据桥接：在安卓 App（WebView）内时，把各板块数据镜像给桌面/锁屏小组件
+function bridgePush(section,data){
+  try{if(window.AndroidBridge&&typeof AndroidBridge.saveSectionData==='function')AndroidBridge.saveSectionData(section,JSON.stringify(data))}catch(e){}
+}
+// 导出/导入全部数据（用于 Chrome 与 App 之间迁移）
+function wbExport(){
+  var keys=['life','study','work','workext','books','tmplife','med','bday','tmpmemo'];
+  var out={sections:{},extra:{}};
+  keys.forEach(function(k){var r=localStorage.getItem('wb_'+k);if(r)out.sections['wb_'+k]=r});
+  ['wb_section','wb_news','wb_news_seeded','wb_seeded_v3','wb_seeded_v2','wb_study','wb_study_seeded','wb_travel_cards','wb_travel_v2','wb_travel_bg'].forEach(function(k){var r=localStorage.getItem(k);if(r)out.extra[k]=r});
+  showDataModal(JSON.stringify(out),false);
+}
+function wbImport(){showDataModal('',true)}
+function showDataModal(json,isImport){
+  var old=document.getElementById('dataModal');if(old)old.remove();
+  var d=document.createElement('div');d.id='dataModal';
+  d.style.cssText='position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:3000;display:flex;align-items:center;justify-content:center;padding:16px';
+  d.innerHTML='<div style="background:#fff;border-radius:14px;width:100%;max-width:480px;padding:18px;max-height:85vh;display:flex;flex-direction:column">'
+    +'<div style="font-size:.9rem;font-weight:600;color:#1f2937;margin-bottom:10px">'+(isImport?'导入数据（粘贴后点确认导入）':'导出数据（全选复制，可在 App 里导入）')+'</div>'
+    +'<textarea id="dataText" style="flex:1;min-height:220px;border:1px solid #d1d5db;border-radius:8px;padding:8px;font-size:.7rem;font-family:monospace;color:#1f2937;outline:none;white-space:pre">'+json+'</textarea>'
+    +'<div style="display:flex;gap:8px;margin-top:10px;justify-content:flex-end">'
+    +'<button style="padding:8px 14px;border-radius:8px;border:none;background:#f3f4f6;color:#1f2937;font-size:.78rem;cursor:pointer" onclick="document.getElementById(\'dataModal\').remove()">取消</button>'
+    +(isImport
+      ?'<button style="padding:8px 14px;border-radius:8px;border:none;background:#1f2937;color:#fff;font-size:.78rem;cursor:pointer" onclick="wbDoImport()">确认导入</button>'
+      :'<button style="padding:8px 14px;border-radius:8px;border:none;background:#1f2937;color:#fff;font-size:.78rem;cursor:pointer" onclick="var t=document.getElementById(\'dataText\');t.select();t.setSelectionRange(0,t.value.length);document.execCommand(\'copy\');wbToast(\'已复制，可到 App 里打开导入粘贴\')">复制</button>')
+    +'</div></div>';
+  document.body.appendChild(d);
+}
+function wbDoImport(){
+  var t=document.getElementById('dataText');if(!t)return;
+  var j;try{j=JSON.parse(t.value)}catch(e){wbToast('数据格式不对，请检查后重试');return}
+  var ok=0;
+  if(j&&j.sections){Object.keys(j.sections).forEach(function(k){if(k.indexOf('wb_')===0){localStorage.setItem(k,j.sections[k]);ok++}})}
+  if(j&&j.extra){Object.keys(j.extra).forEach(function(k){localStorage.setItem(k,j.extra[k])})}
+  var dm=document.getElementById('dataModal');if(dm)dm.remove();
+  wbToast('导入完成（'+ok+' 个板块），即将刷新');
+  setTimeout(function(){location.reload()},800);
+}
 function pad2(n){return (n<10?'0':'')+n}
 // 完成状态统一模型：周期条目（每日/每月等）按当天记录，单次条目永久记录
 function todayStr(){var d=new Date();return d.getFullYear()+'-'+pad2(d.getMonth()+1)+'-'+pad2(d.getDate())}
@@ -2163,7 +2203,7 @@ function renderHabits(){
         var iid = item.getAttribute('data-id');
         var d2 = JSON.parse(localStorage.getItem('wb_life') || '{"items":[]}');
         var it2 = d2.items.find(function(x){ return String(x.id) === iid; });
-        if (it2) { setMgrItemDone(it2, done); localStorage.setItem('wb_life', JSON.stringify(d2)); }
+        if (it2) { setMgrItemDone(it2, done); localStorage.setItem('wb_life', JSON.stringify(d2)); bridgePush('life', d2); }
       }catch(e){}
       if (done) {
         list.appendChild(item);
