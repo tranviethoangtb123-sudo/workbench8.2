@@ -1313,8 +1313,8 @@ function mgrEventTime(it){
 }
 function mgrItemTitle(it){return ((it.topic?it.topic+' ':'')+(it.text||'待办')).trim()}
 function icsUtc(d){return d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'')}
-function anchorDownloadIcs(file){
-  var a=document.createElement('a');a.href=URL.createObjectURL(file);a.download='todo.ics';document.body.appendChild(a);a.click();
+function anchorDownloadIcs(file,name){
+  var a=document.createElement('a');a.href=URL.createObjectURL(file);a.download=name||'todo.ics';document.body.appendChild(a);a.click();
   setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},3000);
 }
 function openCalendarUrl(title,ev){
@@ -1342,9 +1342,11 @@ function downloadIcs(title,ev){
   var uid=Date.now().toString(36)+Math.random().toString(36).substr(2,6);
   // 小米日历用 ical4j 解析：本地时间+TZID、METHOD:PUBLISH、X-WR-*、TRANSP、SEQUENCE 为标准兼容写法
   var ics='BEGIN:VCALENDAR\r\nMETHOD:PUBLISH\r\nVERSION:2.0\r\nPRODID:-//Workbench//CN\r\nX-WR-CALNAME:工作台\r\nX-WR-TIMEZONE:Asia/Shanghai\r\nBEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTAMP:'+icsUtc(new Date())+'\r\nDTSTART;TZID=Asia/Shanghai:'+evLocalStr(ev)+'\r\nDTEND;TZID=Asia/Shanghai:'+evLocalStr(end.getFullYear()+'-'+pad2(end.getMonth()+1)+'-'+pad2(end.getDate())+'T'+pad2(end.getHours())+':'+pad2(end.getMinutes()))+'\r\nTRANSP:OPAQUE\r\nSUMMARY:'+escIcs(title)+'\r\nDESCRIPTION:'+escIcs(title)+'\r\nSEQUENCE:0\r\nBEGIN:VALARM\r\nUID:'+uid+'-alarm\r\nX-WR-ALARMUID:'+uid+'-alarm\r\nTRIGGER:-PT15M\r\nACTION:DISPLAY\r\nDESCRIPTION:'+escIcs(title)+'\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR';
-  var file=(typeof File!=='undefined')?new File([ics],'todo.ics',{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
-  anchorDownloadIcs(file);
-  try{wbToast('已下载 todo.ics：请打开手机【文件管理→下载】，点开 todo.ics 选日历导入（提前15分钟提醒）')}catch(e){}
+  // 文件名带日期时间，每次同步生成新文件，避免同名覆盖/混淆
+  var fname='todo-'+evLocalStr(ev)+'.ics';
+  var file=(typeof File!=='undefined')?new File([ics],fname,{type:'text/calendar'}):new Blob([ics],{type:'text/calendar'});
+  anchorDownloadIcs(file,fname);
+  try{wbToast('已下载 '+fname+'：请打开手机【文件管理→下载】，点开最新这个文件选日历导入（提前15分钟提醒；若浏览器问"下载多个文件"请选允许）')}catch(e){}
 }
 function syncToCalendar(title,ev){
   downloadIcs(title,ev);
