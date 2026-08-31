@@ -648,6 +648,7 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 <div class="mgr-actions">
 <button class="mgr-btn-del" onclick="delMgrItems()">删除选中</button>
 <button class="mgr-btn-del" onclick="wbExport()">导出数据</button>
+<button class="mgr-btn-del" onclick="wbSyncUpload()">上传云端</button>
 <button class="mgr-btn-del" onclick="wbImport()">导入数据</button>
 <button class="mgr-btn-done" onclick="closeManage()">完成</button>
 </div>
@@ -1407,10 +1408,16 @@ function syncPull(){
   }catch(e){}
 }
 function syncInit(){
-  setTimeout(function(){syncPull();setTimeout(syncPush,2200)},900);
+  setTimeout(syncPull,900);
   if(typeof document!=='undefined')document.addEventListener('visibilitychange',function(){
-    if(document.visibilityState==='visible'){setTimeout(function(){syncPull();setTimeout(syncPush,1800)},1200)}
+    if(document.visibilityState==='visible'){setTimeout(syncPull,1200)}
   });
+}
+// 手动上传当前数据到云端（防止默认模板/空数据覆盖真实数据）
+function wbSyncUpload(){
+  try{localStorage.setItem('wb_sync_ts_global',String(Date.now()))}catch(e){}
+  syncPush();
+  wbToast('已上传当前数据到云端');
 }
 function pad2(n){return (n<10?'0':'')+n}
 // 完成状态统一模型：周期条目（每日/每月等）按当天记录，单次条目永久记录
