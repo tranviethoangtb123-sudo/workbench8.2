@@ -1370,7 +1370,10 @@ function syncCollect(){
 function syncPush(){
   _syncTimer=null;
   if(typeof navigator!=='undefined'&&navigator.onLine===false)return;
-  try{fetch(WB_SYNC_URL,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(syncCollect())}).catch(function(){})}catch(e){}
+  var p=syncCollect();
+  // 本地没有任何数据时不上传（避免空数据覆盖云端）
+  if(!Object.keys(p.sections).length&&!Object.keys(p.extra).length)return;
+  try{fetch(WB_SYNC_URL,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(p)}).catch(function(){})}catch(e){}
 }
 function syncPull(){
   if(typeof navigator!=='undefined'&&navigator.onLine===false)return;
@@ -1389,6 +1392,13 @@ function syncPull(){
       });
       localStorage.setItem('wb_sync_ts_global',String(remTs));
       if(changed){
+        // 拉取到的数据同步给 App 小组件镜像
+        try{
+          if(j.sections)Object.keys(j.sections).forEach(function(k){
+            if(typeof j.sections[k]==='string'){try{bridgePush(k,JSON.parse(j.sections[k]))}catch(e2){}}
+          });
+          if(j.extra&&typeof j.extra['wb_travel_cards']==='string'){try{bridgePush('travel_cards',JSON.parse(j.extra['wb_travel_cards']))}catch(e3){}}
+        }catch(e4){}
         var ae=document.activeElement;
         var typing=ae&&(ae.tagName==='TEXTAREA'||ae.tagName==='INPUT');
         if(!typing){setTimeout(function(){location.reload()},400)}
