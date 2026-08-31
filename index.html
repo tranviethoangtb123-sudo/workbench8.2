@@ -956,7 +956,7 @@ function renderOtherSection(id){
           var iid=item.getAttribute('data-id');
           var d2=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
           var it2=d2.items.find(function(x){return String(x.id)===iid});
-          if(it2){setMgrItemDone(it2,done);localStorage.setItem('wb_'+id,JSON.stringify(d2));bridgePush(id,d2);}
+          if(it2){setMgrItemDone(it2,done);localStorage.setItem('wb_'+id,JSON.stringify(d2));bridgePush(id,d2);syncDirty(id);}
         }catch(e){};
         if(id==='study'||id==='work'||id==='workext'||id==='books'||id==='tmplife'||id==='med'||id==='bday'){
           if(done){
@@ -1051,7 +1051,7 @@ function initNews(){renderNewsCards();fetchAllNews()}
 var tmData={parcels:[],memos:[]};
 var tmManageMode=false;
 function tmLoad(){var r=localStorage.getItem('wb_tmpmemo');if(r)tmData=JSON.parse(r);tmRender()}
-function tmSave(){localStorage.setItem('wb_tmpmemo',JSON.stringify(tmData));bridgePush('tmpmemo',tmData)}
+function tmSave(){localStorage.setItem('wb_tmpmemo',JSON.stringify(tmData));bridgePush('tmpmemo',tmData);syncDirty('tmpmemo')}
 function tmToggle(btn){var b=btn.parentElement.nextElementSibling;b.classList.toggle('collapsed');var o=!b.classList.contains('collapsed');btn.classList.toggle('open',o);btn.textContent=o?'⌃':'⌄'}
 function tmAddParcel(){
   var s=document.getElementById('memoParcelStation')?.value.trim()||'';
@@ -1311,7 +1311,7 @@ function loadMgrData(){
   var raw=localStorage.getItem('wb_'+currentSection);
   return raw?JSON.parse(raw):{items:[]};
 }
-function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data));bridgePush(currentSection,data)}
+function saveMgrData(data){localStorage.setItem('wb_'+currentSection,JSON.stringify(data));bridgePush(currentSection,data);syncDirty(currentSection)}
 // App 数据桥接：在安卓 App（WebView）内时，把各板块数据镜像给桌面/锁屏小组件
 function bridgePush(section,data){
   try{if(window.AndroidBridge&&typeof AndroidBridge.saveSectionData==='function')AndroidBridge.saveSectionData(section,JSON.stringify(data))}catch(e){}
@@ -1349,6 +1349,73 @@ function wbDoImport(){
   var dm=document.getElementById('dataModal');if(dm)dm.remove();
   wbToast('导入完成（'+ok+' 个板块），即将刷新');
   setTimeout(function(){location.reload()},800);
+}
+// ===== 云端自动同步（网页/App/小组件三端一致）=====
+var WB_SYNC_URL='https://1469524635-k1tgwcowbh.ap-guangzhou.tencentscf.com/data';
+var WB_SYNC_SECTIONS=['life','study','work','workext','books','tmplife','med','bday','tmpmemo'];
+var WB_SYNC_EXTRA=['wb_travel_cards','wb_travel_v2','wb_travel_bg','wb_news','wb_section'];
+var _syncTimer=null;
+function syncDirty(key){
+  try{localStorage.setItem('wb_sync_ts_'+key,String(Date.now()))}catch(e){}
+  if(_syncTimer)clearTimeout(_syncTimer);
+  _syncTimer=setTimeout(syncPush,1500);
+}
+function syncCollect(){
+  var out={updated:new Date().toISOString(),sections:{},extra:{}};
+  WB_SYNC_SECTIONS.forEach(function(k){
+    var r=localStorage.getItem('wb_'+k);if(r==null)return;
+    out.sections[k]={updated:Number(localStorage.getItem('wb_sync_ts_'+k))||Date.now(),data:JSON.parse(r)};
+  });
+  WB_SYNC_EXTRA.forEach(function(k){
+    var r=localStorage.getItem(k);if(r!=null)out.extra[k]={updated:Number(localStorage.getItem('wb_sync_ts_'+k))||Date.now(),data:r};
+  });
+  return out;
+}
+function syncPush(){
+  _syncTimer=null;
+  if(typeof navigator!=='undefined'&&navigator.onLine===false)return;
+  try{fetch(WB_SYNC_URL,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(syncCollect())}).catch(function(){})}catch(e){}
+}
+function syncPull(){
+  if(typeof navigator!=='undefined'&&navigator.onLine===false)return;
+  try{
+    fetch(WB_SYNC_URL).then(function(r){return r.json()}).then(function(j){
+      if(!j||!j.sections)return;
+      var changed=false;
+      Object.keys(j.sections).forEach(function(k){
+        var rs=j.sections[k];
+        var cur=localStorage.getItem('wb_'+k);
+        var locTs=Number(localStorage.getItem('wb_sync_ts_'+k))||0;
+        var remTs=Number(rs.updated)||0;
+        if(cur==null||remTs>locTs){
+          localStorage.setItem('wb_'+k,JSON.stringify(rs.data));
+          localStorage.setItem('wb_sync_ts_'+k,String(remTs));
+          changed=true;
+        }
+      });
+      if(j.extra)Object.keys(j.extra).forEach(function(k){
+        var re=j.extra[k];
+        var locTs=Number(localStorage.getItem('wb_sync_ts_'+k))||0;
+        var remTs=Number(re.updated)||0;
+        if(localStorage.getItem(k)==null||remTs>locTs){
+          localStorage.setItem(k,re.data);
+          localStorage.setItem('wb_sync_ts_'+k,String(remTs));
+          changed=true;
+        }
+      });
+      if(changed){
+        var ae=document.activeElement;
+        var typing=ae&&(ae.tagName==='TEXTAREA'||ae.tagName==='INPUT');
+        if(!typing){setTimeout(function(){location.reload()},400)}
+      }
+    }).catch(function(){});
+  }catch(e){}
+}
+function syncInit(){
+  setTimeout(syncPull,900);
+  if(typeof document!=='undefined')document.addEventListener('visibilitychange',function(){
+    if(document.visibilityState==='visible'){setTimeout(syncPull,1200)}
+  });
 }
 function pad2(n){return (n<10?'0':'')+n}
 // 完成状态统一模型：周期条目（每日/每月等）按当天记录，单次条目永久记录
@@ -1723,7 +1790,7 @@ function loadTravelCards(){
   localStorage.removeItem('wb_travel_v2');
   saveTravelCards();
 }
-function saveTravelCards(){localStorage.setItem('wb_travel_cards',JSON.stringify(travelCards))}
+function saveTravelCards(){localStorage.setItem('wb_travel_cards',JSON.stringify(travelCards));syncDirty('wb_travel_cards')}
 var TRAVEL_GEAR_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>';
 function renderTravelCards(){
   var canvas=document.getElementById('travelCanvas');
@@ -2203,7 +2270,7 @@ function renderHabits(){
         var iid = item.getAttribute('data-id');
         var d2 = JSON.parse(localStorage.getItem('wb_life') || '{"items":[]}');
         var it2 = d2.items.find(function(x){ return String(x.id) === iid; });
-        if (it2) { setMgrItemDone(it2, done); localStorage.setItem('wb_life', JSON.stringify(d2)); bridgePush('life', d2); }
+        if (it2) { setMgrItemDone(it2, done); localStorage.setItem('wb_life', JSON.stringify(d2)); bridgePush('life', d2); syncDirty('life'); }
       }catch(e){}
       if (done) {
         list.appendChild(item);
@@ -2240,6 +2307,7 @@ function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace
 
 // Render on load
 renderHabits();
+syncInit();
 
 </script>
 </body>
