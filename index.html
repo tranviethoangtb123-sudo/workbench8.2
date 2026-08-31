@@ -1354,7 +1354,7 @@ function wbDoImport(){
 // ===== 云端自动同步（网页/App/小组件三端一致，整库版本号模型）=====
 var WB_SYNC_URL='https://1469524635-k1tgwcowbh.ap-guangzhou.tencentscf.com/data';
 var WB_SYNC_SECTIONS=['life','study','work','workext','books','tmplife','med','bday','tmpmemo'];
-var WB_SYNC_EXTRA=['wb_travel_cards','wb_travel_v2','wb_travel_bg','wb_news','wb_section'];
+var WB_SYNC_EXTRA=['wb_travel_cards','wb_travel_v2','wb_travel_bg'];
 var _syncTimer=null;
 function syncGlobalTs(){return Number(localStorage.getItem('wb_sync_ts_global'))||0}
 function syncDirty(){
@@ -1757,19 +1757,7 @@ function showMgrCalPopup(btn,cb,cv){
   localStorage.setItem("wb_news",JSON.stringify({items:items}));
 })();
 
-// ── Seed study data ──
-(function(){
-  if(localStorage.getItem("wb_study_seeded"))return;
-  localStorage.setItem("wb_study_seeded","1");
-  var items=[
-    {id:"s1",text:"浏览新闻",recurrence:"daily"},
-    {id:"s2",text:"看完1篇英语新闻",recurrence:"daily"},
-    {id:"s3",text:"背单词",recurrence:"daily"},
-    {id:"s4",text:"1轮英语对话",recurrence:"daily"},
-    {id:"s5",text:"2H园林/国考网课",recurrence:"daily"}
-  ];
-  localStorage.setItem("wb_study",JSON.stringify({items:items}));
-})();
+// ── 学习板块不再自动生成默认内容（个人数据只来自用户自己或同步）──
 
 
 
@@ -1787,10 +1775,12 @@ function loadTravelCards(){
       if(raw2){var c=JSON.parse(raw2);if(c&&typeof c==='object'&&!Array.isArray(c))arr=[c];}
     }catch(e){}
   }
+  var hadData=!!(arr&&arr.length);
   if(!arr||!arr.length){arr=[{id:'default',name:'',target:'',saved:'',img:''}];}
   travelCards=arr;
   localStorage.removeItem('wb_travel_v2');
-  saveTravelCards();
+  // 仅当用户确实有数据时才保存（避免框架占位模板写入个人数据）
+  if(hadData)saveTravelCards();
 }
 function saveTravelCards(){localStorage.setItem('wb_travel_cards',JSON.stringify(travelCards));syncDirty('wb_travel_cards')}
 var TRAVEL_GEAR_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>';
@@ -2143,26 +2133,8 @@ function buildDlg(lang,topic){
   }).join('');
 }
 
-// ── Seed life data ──
-(function(){
-  if(localStorage.getItem("wb_seeded_v3"))return;
-  localStorage.setItem("wb_seeded_v3","1");
-  localStorage.setItem("wb_seeded_v2","1");
-  var items=[
-    {id:"d1",text:"补充维生素D",recurrence:"daily"},
-    {id:"d2",text:"餐后1粒鱼油",recurrence:"daily"},
-    {id:"d3",text:"吃1颗黄精",recurrence:"daily"},
-    {id:"d4",text:"吃1粒黑巧",recurrence:"daily"},
-    {id:"d5",text:"喝1盅红枣桂圆茶",recurrence:"daily"},
-    {id:"d6",text:"补充便携包",recurrence:"daily"},
-    {id:"d7",text:"登陆workbuddy-pc端领每日积分",recurrence:"daily"},
-    {id:"d8",text:"支付宝小荷包转存2000元",recurrence:"monthDay",day:1},
-    {id:"d9",text:"更换隐形眼镜",recurrence:"monthDay",day:10},
-    {id:"d10",text:"转账：上海银行：生活费1392；民生银行：蚂蚁保16.58+健身房149",recurrence:"monthDay",day:27},
-    {id:"d11",text:"剪手脚指甲、修眉毛、修鼻毛",recurrence:"monthWeekDay",week:"last",dayOfWeek:"sun"}
-  ];
-  localStorage.setItem("wb_life",JSON.stringify({items:items}));
-})();
+// ── 个人数据不再自动生成：生活/学习等板块内容只来自用户自己或云端同步 ──
+// （原默认模板已移除，避免"框架内容"混入"个人内容"）
 
 // ── Stats update ──
 var lifeData=JSON.parse(localStorage.getItem("wb_life")||'{"items":[]}');
