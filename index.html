@@ -1350,25 +1350,21 @@ function wbDoImport(){
   wbToast('导入完成（'+ok+' 个板块），即将刷新');
   setTimeout(function(){location.reload()},800);
 }
-// ===== 云端自动同步（网页/App/小组件三端一致）=====
+// ===== 云端自动同步（网页/App/小组件三端一致，整库版本号模型）=====
 var WB_SYNC_URL='https://1469524635-k1tgwcowbh.ap-guangzhou.tencentscf.com/data';
 var WB_SYNC_SECTIONS=['life','study','work','workext','books','tmplife','med','bday','tmpmemo'];
 var WB_SYNC_EXTRA=['wb_travel_cards','wb_travel_v2','wb_travel_bg','wb_news','wb_section'];
 var _syncTimer=null;
-function syncDirty(key){
-  try{localStorage.setItem('wb_sync_ts_'+key,String(Date.now()))}catch(e){}
+function syncGlobalTs(){return Number(localStorage.getItem('wb_sync_ts_global'))||0}
+function syncDirty(){
+  try{localStorage.setItem('wb_sync_ts_global',String(Date.now()))}catch(e){}
   if(_syncTimer)clearTimeout(_syncTimer);
   _syncTimer=setTimeout(syncPush,1500);
 }
 function syncCollect(){
-  var out={updated:new Date().toISOString(),sections:{},extra:{}};
-  WB_SYNC_SECTIONS.forEach(function(k){
-    var r=localStorage.getItem('wb_'+k);if(r==null)return;
-    out.sections[k]={updated:Number(localStorage.getItem('wb_sync_ts_'+k))||Date.now(),data:JSON.parse(r)};
-  });
-  WB_SYNC_EXTRA.forEach(function(k){
-    var r=localStorage.getItem(k);if(r!=null)out.extra[k]={updated:Number(localStorage.getItem('wb_sync_ts_'+k))||Date.now(),data:r};
-  });
+  var out={updated:syncGlobalTs()||Date.now(),sections:{},extra:{}};
+  WB_SYNC_SECTIONS.forEach(function(k){var r=localStorage.getItem('wb_'+k);if(r!=null)out.sections[k]=r});
+  WB_SYNC_EXTRA.forEach(function(k){var r=localStorage.getItem(k);if(r!=null)out.extra[k]=r});
   return out;
 }
 function syncPush(){
@@ -1380,29 +1376,18 @@ function syncPull(){
   if(typeof navigator!=='undefined'&&navigator.onLine===false)return;
   try{
     fetch(WB_SYNC_URL).then(function(r){return r.json()}).then(function(j){
-      if(!j||!j.sections)return;
+      if(!j||!j.updated)return;
+      var locTs=syncGlobalTs();
+      var remTs=Number(j.updated)||0;
+      if(remTs<=locTs)return;
       var changed=false;
-      Object.keys(j.sections).forEach(function(k){
-        var rs=j.sections[k];
-        var cur=localStorage.getItem('wb_'+k);
-        var locTs=Number(localStorage.getItem('wb_sync_ts_'+k))||0;
-        var remTs=Number(rs.updated)||0;
-        if(cur==null||remTs>locTs){
-          localStorage.setItem('wb_'+k,JSON.stringify(rs.data));
-          localStorage.setItem('wb_sync_ts_'+k,String(remTs));
-          changed=true;
-        }
+      if(j.sections)Object.keys(j.sections).forEach(function(k){
+        if(typeof j.sections[k]==='string'){localStorage.setItem('wb_'+k,j.sections[k]);changed=true;}
       });
       if(j.extra)Object.keys(j.extra).forEach(function(k){
-        var re=j.extra[k];
-        var locTs=Number(localStorage.getItem('wb_sync_ts_'+k))||0;
-        var remTs=Number(re.updated)||0;
-        if(localStorage.getItem(k)==null||remTs>locTs){
-          localStorage.setItem(k,re.data);
-          localStorage.setItem('wb_sync_ts_'+k,String(remTs));
-          changed=true;
-        }
+        if(typeof j.extra[k]==='string'){localStorage.setItem(k,j.extra[k]);changed=true;}
       });
+      localStorage.setItem('wb_sync_ts_global',String(remTs));
       if(changed){
         var ae=document.activeElement;
         var typing=ae&&(ae.tagName==='TEXTAREA'||ae.tagName==='INPUT');
@@ -1412,9 +1397,9 @@ function syncPull(){
   }catch(e){}
 }
 function syncInit(){
-  setTimeout(syncPull,900);
+  setTimeout(function(){syncPull();setTimeout(syncPush,2200)},900);
   if(typeof document!=='undefined')document.addEventListener('visibilitychange',function(){
-    if(document.visibilityState==='visible'){setTimeout(syncPull,1200)}
+    if(document.visibilityState==='visible'){setTimeout(function(){syncPull();setTimeout(syncPush,1800)},1200)}
   });
 }
 function pad2(n){return (n<10?'0':'')+n}
