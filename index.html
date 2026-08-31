@@ -1408,9 +1408,9 @@ function syncPull(){
   }catch(e){}
 }
 function syncInit(){
-  setTimeout(syncPull,900);
+  setTimeout(function(){syncPull();setTimeout(syncPush,2500)},900);
   if(typeof document!=='undefined')document.addEventListener('visibilitychange',function(){
-    if(document.visibilityState==='visible'){setTimeout(syncPull,1200)}
+    if(document.visibilityState==='visible'){setTimeout(function(){syncPull();setTimeout(syncPush,2000)},1200)}
   });
 }
 // 手动上传当前数据到云端（防止默认模板/空数据覆盖真实数据）
