@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T08:22:19.536Z",
+  "updated": "2026-09-03T12:36:01.630Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,6 +48,11 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+        "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 03 Sep 2026 11:51:36 GMT"
+      },
+      {
         "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
         "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 03 Sep 2026 05:00:04 GMT"
@@ -58,79 +63,79 @@
         "date": "Thu, 03 Sep 2026 06:21:09 GMT"
       },
       {
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 03 Sep 2026 11:45:22 GMT"
+      },
+      {
         "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
         "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 03 Sep 2026 06:01:54 GMT"
       },
       {
+        "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
+        "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 03 Sep 2026 12:19:47 GMT"
+      },
+      {
+        "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
+        "link": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 03 Sep 2026 11:47:51 GMT"
+      },
+      {
         "title": "Watch: Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
         "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 03 Sep 2026 07:20:23 GMT"
-      },
-      {
-        "title": "The overlooked factor driving the childhood obesity crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 03 Sep 2026 00:47:45 GMT"
-      },
-      {
-        "title": "Zack Polanksi seeks to stand for by-election in former PM Starmer's seat",
-        "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 03 Sep 2026 08:14:29 GMT"
-      },
-      {
-        "title": "US sailors go shopping and bar-hopping in Thailand after 250-day voyage",
-        "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 03 Sep 2026 05:17:04 GMT"
-      },
-      {
-        "title": "Chris Mason: Reform face headwinds as they gather for conference",
-        "link": "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 03 Sep 2026 01:55:46 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-        "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-        "date": "Wed, 02 Sep 2026 19:56:53 +0000"
+        "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+        "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+        "date": "Thu, 03 Sep 2026 11:35:44 +0000"
       },
       {
-        "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-        "link": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-        "date": "Thu, 03 Sep 2026 00:03:43 +0000"
+        "title": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
+        "link": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
+        "date": "Thu, 03 Sep 2026 10:44:22 +0000"
       },
       {
-        "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
-        "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
-        "date": "Wed, 02 Sep 2026 09:32:29 +0000"
+        "title": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
+        "link": "https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html",
+        "date": "Thu, 03 Sep 2026 11:17:01 +0000"
       },
       {
-        "title": "Trump Puts Tariffs of Up to 100% on Foreign-Made Drones",
-        "link": "https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html",
-        "date": "Thu, 03 Sep 2026 04:01:05 +0000"
+        "title": "Gloria Steinem, Personification of the Women’s Movement, Dies at 92",
+        "link": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+        "date": "Thu, 03 Sep 2026 10:55:34 +0000"
+      },
+      {
+        "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+        "link": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
+        "date": "Thu, 03 Sep 2026 12:14:28 +0000"
+      },
+      {
+        "title": "Gloria Steinem’s Glamour Was a Means to an End",
+        "link": "https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html",
+        "date": "Thu, 03 Sep 2026 12:30:54 +0000"
+      },
+      {
+        "title": "ICE Skipped Basic Checks in Rush for Recruits, Whistle-Blower Says",
+        "link": "https://www.nytimes.com/2026/09/03/us/ice-recruits-national-security-risk-whistleblower.html",
+        "date": "Thu, 03 Sep 2026 09:00:24 +0000"
       },
       {
         "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
         "link": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html",
         "date": "Thu, 03 Sep 2026 00:26:49 +0000"
-      },
-      {
-        "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
-        "link": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html",
-        "date": "Thu, 03 Sep 2026 01:08:35 +0000"
-      },
-      {
-        "title": "How the Met’s Galliano Show Fell Apart",
-        "link": "https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html",
-        "date": "Wed, 02 Sep 2026 20:15:48 +0000"
-      },
-      {
-        "title": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
-        "link": "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html",
-        "date": "Thu, 03 Sep 2026 02:17:04 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Victims sue South African government over 1961 Sharpeville massacre that left 91 dead",
+        "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+        "date": "Thu, 03 Sep 2026 10:11:37 GMT"
+      },
       {
         "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
         "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
@@ -152,73 +157,68 @@
         "date": "Mon, 31 Aug 2026 11:54:16 GMT"
       },
       {
-        "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-        "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-        "date": "Mon, 31 Aug 2026 10:21:56 GMT"
+        "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
+        "link": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
+        "date": "Thu, 03 Sep 2026 12:00:29 GMT"
+      },
+      {
+        "title": "The US and Venezuela: a century-old relationship drenched in oil",
+        "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
+        "date": "Thu, 03 Sep 2026 10:00:50 GMT"
       },
       {
         "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
         "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
         "date": "Wed, 02 Sep 2026 21:15:12 GMT"
-      },
-      {
-        "title": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
-        "link": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
-        "date": "Wed, 02 Sep 2026 14:44:39 GMT"
-      },
-      {
-        "title": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
-        "link": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
-        "date": "Wed, 02 Sep 2026 14:44:31 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Alcaraz, Sabalenka ease into US Open third round; American players shine",
-        "link": "https://www.aljazeera.com/sports/2026/9/3/alcaraz-sabalenka-ease-into-us-open-third-round-american-players-shine?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 07:46:21 +0000"
+        "title": "Families perform symbolic funerals for missing Nepal flood victims",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:58:26 +0000"
       },
       {
-        "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-        "link": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 07:41:45 +0000"
+        "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+        "link": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:55:28 +0000"
       },
       {
-        "title": "Pakistan’s Punjab allows ‘secret’ terrorism trials: Why it’s controversial",
-        "link": "https://www.aljazeera.com/news/2026/9/3/pakistans-punjab-allows-secret-terrorism-trials-why-its-controversial?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 07:25:51 +0000"
+        "title": "UN warns El Nino could be ‘off the charts’, strongest in decades",
+        "link": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:49:13 +0000"
       },
       {
-        "title": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
-        "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 06:48:46 +0000"
+        "title": "Faith leaders say they were ‘duped’ into attending RSS-linked event",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/faith-leaders-say-they-were-duped-into-attending-rss-linked-event?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:30:10 +0000"
       },
       {
-        "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
-        "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 06:35:18 +0000"
+        "title": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+        "link": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:21:59 +0000"
       },
       {
-        "title": "Eto’o calls on African football federations to support FIFA chief Infantino",
-        "link": "https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 06:15:01 +0000"
+        "title": "Legendary Bosnian striker Edin Dzeko to retire from international football",
+        "link": "https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 11:10:41 +0000"
       },
       {
-        "title": "Ghana reappoints Queiroz to lead Black Stars two months after stepping down",
-        "link": "https://www.aljazeera.com/sports/2026/9/3/ghana-reappoints-queiroz-to-lead-black-stars-two-months-after-stepping-down?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 05:36:52 +0000"
+        "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+        "link": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 10:45:16 +0000"
       },
       {
-        "title": "Floodwaters sweep cars away in eastern China",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss",
-        "date": "Thu, 03 Sep 2026 05:20:37 +0000"
+        "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+        "link": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
+        "date": "Thu, 03 Sep 2026 09:57:25 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "KPMG warned Guggenheim unit over deficiencies in internal controls",
-        "link": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
-        "date": "Thu, 03 Sep 2026 04:00:22 GMT"
+        "title": "Lloyd’s of London faces £1.4bn losses from US-Iran war",
+        "link": "https://www.ft.com/content/83bdebe3-8f65-44e2-81b7-ecf133ca2929?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 10:35:59 GMT"
       },
       {
         "title": "James Orr and the gospel of the new British right",
@@ -226,165 +226,170 @@
         "date": "Thu, 03 Sep 2026 04:00:30 GMT"
       },
       {
+        "title": "Britain tests the unproven ‘politics of trying’",
+        "link": "https://www.ft.com/content/093fd039-d71e-424c-ab56-c37b2a5afdc7?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 11:42:21 GMT"
+      },
+      {
         "title": "Europe’s seven fantasy M&A deals",
         "link": "https://www.ft.com/content/d4e5956a-200c-47d1-9241-f15f495c2cf2?syn-25a6b1a6=1",
         "date": "Thu, 03 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "The port that built Dubai: war exposes a dangerous dependence",
-        "link": "https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1",
-        "date": "Thu, 03 Sep 2026 04:00:12 GMT"
+        "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
+        "link": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 12:00:01 GMT"
       },
       {
-        "title": "‘Exit tax’ on UK entrepreneurs ruled out by business department",
-        "link": "https://www.ft.com/content/0dac70dc-1098-478d-aa30-cf6c59f86c70?syn-25a6b1a6=1",
-        "date": "Thu, 03 Sep 2026 04:00:29 GMT"
+        "title": "Todd Boehly-linked group donates £75,000 to Reform UK",
+        "link": "https://www.ft.com/content/c8fb5709-cb84-42f6-89db-53e234412f21?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 09:59:13 GMT"
       },
       {
-        "title": "JPMorgan curbed lending to Jane Street as trading firm muscled into bonds",
-        "link": "https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1",
-        "date": "Wed, 02 Sep 2026 20:44:30 GMT"
+        "title": "Greens leader Polanski to stand in seat vacated by Starmer",
+        "link": "https://www.ft.com/content/65c80957-5b37-4ec5-863d-386865796092?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 09:42:04 GMT"
       },
       {
-        "title": "Yen strengthens as traders bet on Japan interest rate rises",
-        "link": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-        "date": "Thu, 03 Sep 2026 07:24:31 GMT"
-      },
-      {
-        "title": "VW, Amazon and others name blacklisted groups among potential suppliers",
-        "link": "https://www.ft.com/content/70fdf5c3-6b3a-494d-a141-85aba60d14d5?syn-25a6b1a6=1",
-        "date": "Thu, 03 Sep 2026 04:00:12 GMT"
+        "title": "Missed flight connections double under EU smart border system",
+        "link": "https://www.ft.com/content/24ab2170-3db3-4898-ad30-55c0898ab666?syn-25a6b1a6=1",
+        "date": "Thu, 03 Sep 2026 09:24:10 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:display ad 78",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883501?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:52 GMT"
+        "title": "ProQuest:Germany Calls Out Putin's 'Hybrid' War",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235981?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:18:45 GMT"
       },
       {
-        "title": "ProQuest:CORRECTIONS & AMPLIFICATIONS",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883500?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:45 GMT"
+        "title": "ProQuest:Jersey Mike's Needs to Win Over Gen Z: The chain's affluent, older base gives it an edge, but to grow it also needs young customers",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235979?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:17:36 GMT"
       },
       {
-        "title": "ProQuest:'Survivor' Host Says He's an Introvert: The 64-year-old TV star and producer reflects On getting dogs, what's next for the reality show and his iconic khaki shorts",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883499?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:57 GMT"
+        "title": "ProQuest:stock quote 95",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235977?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:19:46 GMT"
       },
       {
-        "title": "ProQuest:Summer Scorches urope's Economy: Record heat strained businesses",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883498?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:22 GMT"
+        "title": "ProQuest:OpenAI Restricts Cyber Capabilities of Risky New Model",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235975?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:19:09 GMT"
       },
       {
-        "title": "ProQuest:Pepper... And Salt",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883497?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:21 GMT"
+        "title": "ProQuest:other 48",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235973?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:18:45 GMT"
       },
       {
-        "title": "ProQuest:The Forget Who Started The War",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883496?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:22:29 GMT"
+        "title": "ProQuest:The 'Segal Issue' and U.S.-Canada Trade",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235971?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:17:36 GMT"
       },
       {
-        "title": "ProQuest:Kalshi Hits Santos With Lifetime Ban",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883495?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:23 GMT"
+        "title": "ProQuest:Shein Makes Low-Key Debut",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235970?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:17:49 GMT"
       },
       {
-        "title": "ProQuest:Star Steps Away From International Play",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3380883494?accountid=37826",
-        "date": "Wed, 02 Sep 2026 09:21:57 GMT"
+        "title": "ProQuest:Miami Condo Standoff Ends With a Deal: Some owners had blocked new luxury tower by refusing to sell their units",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3381235969?accountid=37826",
+        "date": "Thu, 03 Sep 2026 09:19:46 GMT"
       }
     ],
     "Bloomberg": [],
     "The Economist": [],
     "Wired": [
       {
-        "title": "The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen",
-        "link": "https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/",
-        "date": "Thu, 03 Sep 2026 06:00:00 +0000"
+        "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
+        "link": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
+        "date": "Thu, 03 Sep 2026 11:30:00 +0000"
       },
       {
-        "title": "HBO Max Promo Code: 50% Off | September 2026",
-        "link": "https://www.wired.com/story/max-promo-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "Ugly AI Food Photos Are Only the Beginning",
+        "link": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
+        "date": "Thu, 03 Sep 2026 11:00:00 +0000"
       },
       {
-        "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-        "link": "https://www.wired.com/story/we-vibe-discount-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism",
+        "link": "https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/",
+        "date": "Thu, 03 Sep 2026 10:45:00 +0000"
       },
       {
-        "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-        "link": "https://www.wired.com/story/total-wireless-promo-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "The Best Air Quality Monitor for Outdoors and Indoors in 2026",
+        "link": "https://www.wired.com/story/best-air-quality-monitors/",
+        "date": "Thu, 03 Sep 2026 10:31:00 +0000"
       },
       {
-        "title": "Instacart Promo Code: $15 Off | September 2026",
-        "link": "https://www.wired.com/story/instacart-promo/code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "DOGE Affiliate Asked for College Credits for Participating in Takeover",
+        "link": "https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/",
+        "date": "Thu, 03 Sep 2026 10:30:00 +0000"
       },
       {
-        "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-        "link": "https://www.wired.com/story/lovehoney-discount-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "Is It Even Possible to Understand Quantum Mechanics?",
+        "link": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+        "date": "Thu, 03 Sep 2026 10:00:00 +0000"
       },
       {
-        "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-        "link": "https://www.wired.com/story/lowes-promo-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "This Is Flock’s AI Search Tool for Cops",
+        "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+        "date": "Thu, 03 Sep 2026 10:00:00 +0000"
       },
       {
-        "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This September 2026",
-        "link": "https://www.wired.com/story/vimeo-promo-code/",
-        "date": "Thu, 03 Sep 2026 05:00:00 +0000"
+        "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+        "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+        "date": "Thu, 03 Sep 2026 09:30:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Uber beats Waymo as first to launch robotaxis in London",
-        "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-        "date": "2026-09-02 23:00:00"
+        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+        "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+        "date": "2026-09-03 08:59:09"
       },
       {
-        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-        "date": "2026-09-02 20:11:40"
+        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+        "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+        "date": "2026-09-03 08:30:00"
       },
       {
-        "title": "Here are some of REI’s best Labor Day sale deals",
-        "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-        "date": "2026-09-02 18:56:59"
+        "title": "Belkin’s first trackers come ready to attach to your gear.",
+        "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+        "date": "2026-09-03 08:00:00"
       },
       {
-        "title": "1Password wades into a right-wing mess after funding a Linux project",
-        "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-        "date": "2026-09-02 18:48:14"
+        "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+        "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+        "date": "2026-09-03 08:00:00"
       },
       {
-        "title": "Amazon’s AI assistant can now spot fake emails from the company",
-        "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-        "date": "2026-09-02 17:52:56"
+        "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+        "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+        "date": "2026-09-03 07:30:00"
       },
       {
-        "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-        "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-        "date": "2026-09-02 17:01:08"
+        "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+        "link": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+        "date": "2026-09-03 07:30:00"
       },
       {
-        "title": "The best tech and gadgets announced at IFA so far",
-        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "date": "2026-09-02 16:43:50"
+        "title": "Anker announces its first over-the-counter hearing aids",
+        "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+        "date": "2026-09-03 07:30:00"
       },
       {
-        "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-        "date": "2026-09-02 16:40:50"
+        "title": "Anker’s new printer works directly on fabrics",
+        "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+        "date": "2026-09-03 07:30:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Amazon&#8217;s Zoox expands its robotaxi service to Las Vegas airport",
+        "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+        "date": "Thu, 03 Sep 2026 12:12:56 +0000"
+      },
       {
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -419,16 +424,41 @@
         "title": "It sure looks like hackers breached a major ID card verification service",
         "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
         "date": "Wed, 02 Sep 2026 19:35:09 +0000"
-      },
-      {
-        "title": "Delivery Hero board backs Uber&#8217;s $15B takeover bid",
-        "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-        "date": "Wed, 02 Sep 2026 19:25:35 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts",
+        "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+        "link": "https://9mothers.com/careers",
+        "date": "Thu, 03 Sep 2026 12:00:52 +0000"
+      },
+      {
+        "title": "4.5B Posts Scraped from TikTok",
+        "link": "https://tiktok-api.seeksocial.io/",
+        "date": "Thu, 03 Sep 2026 11:25:49 +0000"
+      },
+      {
+        "title": "A dark horse enters China's AI race: StartLux",
+        "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+        "date": "Thu, 03 Sep 2026 11:12:57 +0000"
+      },
+      {
+        "title": "Mark Cuban: Why US hospitals \"don't know their costs\"",
+        "link": "https://www.beckershospitalreview.com/finance/mark-cuban-why-us-hospitals-dont-know-their-costs/",
+        "date": "Thu, 03 Sep 2026 11:07:10 +0000"
+      },
+      {
+        "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+        "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+        "date": "Thu, 03 Sep 2026 11:01:04 +0000"
+      },
+      {
+        "title": "Audacity 4.0",
+        "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "date": "Thu, 03 Sep 2026 10:53:08 +0000"
+      },
+      {
+        "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
         "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
         "date": "Thu, 03 Sep 2026 07:04:13 +0000"
       },
@@ -436,36 +466,6 @@
         "title": "Pre-Release of Polars 2.0",
         "link": "https://pola.rs/posts/announcing-polars-2/",
         "date": "Thu, 03 Sep 2026 06:59:08 +0000"
-      },
-      {
-        "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-        "link": "https://news.ycombinator.com/item?id=49543530",
-        "date": "Wed, 02 Sep 2026 22:36:04 +0000"
-      },
-      {
-        "title": "Reasons robotics is hard",
-        "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-        "date": "Wed, 02 Sep 2026 22:02:30 +0000"
-      },
-      {
-        "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-        "link": "https://nango.dev/careers",
-        "date": "Wed, 02 Sep 2026 21:00:04 +0000"
-      },
-      {
-        "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-        "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-        "date": "Wed, 02 Sep 2026 20:08:22 +0000"
-      },
-      {
-        "title": "Fable 5.1 World Modeling",
-        "link": "https://github.com/PhiloLabs/fable51-worlds",
-        "date": "Wed, 02 Sep 2026 19:49:01 +0000"
-      },
-      {
-        "title": "Muse Spark 1.3",
-        "link": "https://developer.meta.com/ai/models/muse-spark/",
-        "date": "Wed, 02 Sep 2026 19:35:04 +0000"
       }
     ],
     "Reddit": [
@@ -480,19 +480,24 @@
         "date": "2026-07-23T21:27:34+00:00"
       },
       {
-        "title": "Norway considers ban on camera-enabled wearable 'pervert glasses'",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w5g9n2/norway_considers_ban_on_cameraenabled_wearable/",
-        "date": "2026-09-02T17:03:53+00:00"
+        "title": "Moscow Airports Go Dark for Second Straight Night After Zelenskyy Warns Airlines to Stay Away From Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w61f56/moscow_airports_go_dark_for_second_straight_night/",
+        "date": "2026-09-03T08:26:42+00:00"
       },
       {
-        "title": "Dutch central bank moves €10 billion in gold out of U.S., Canada, citing \"instability\"",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w5hl3m/dutch_central_bank_moves_10_billion_in_gold_out/",
-        "date": "2026-09-02T17:49:16+00:00"
+        "title": "About 80 confirmed dead after migrant boat gets into difficulty off Gran Canaria",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w64qlk/about_80_confirmed_dead_after_migrant_boat_gets/",
+        "date": "2026-09-03T11:30:07+00:00"
       },
       {
-        "title": "Climate change past the point of no return, UN says, as worst impacts are now unavoidable",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w5h3ix/climate_change_past_the_point_of_no_return_un/",
-        "date": "2026-09-02T17:32:17+00:00"
+        "title": "FBI investigates breach exposing 153 million driving licences in US and Canada: Report",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w5zdij/fbi_investigates_breach_exposing_153_million/",
+        "date": "2026-09-03T06:27:09+00:00"
+      },
+      {
+        "title": "Norway seizes Russian vessel to enforce $4.22B Ukrainian arbitration claim",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w626ib/norway_seizes_russian_vessel_to_enforce_422b/",
+        "date": "2026-09-03T09:12:21+00:00"
       },
       {
         "title": "Israel ‘organised and prepared’ to remove Gaza population if US gives green light, Katz says",
@@ -500,14 +505,9 @@
         "date": "2026-09-03T02:03:49+00:00"
       },
       {
-        "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w5yz4o/dutch_central_bank_moves_86_tonnes_of_gold_to_uk/",
-        "date": "2026-09-03T06:04:59+00:00"
-      },
-      {
-        "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w5w4f1/iran_attacks_kuwait_as_trump_says_renewed_mideast/",
-        "date": "2026-09-03T03:33:12+00:00"
+        "title": "Russian Strategic Bomber Chief Reportedly Shot in Engels, Home to Tu-95 and Tu-160 Fleet",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w63off/russian_strategic_bomber_chief_reportedly_shot_in/",
+        "date": "2026-09-03T10:35:47+00:00"
       }
     ],
     "PCMag": [],
