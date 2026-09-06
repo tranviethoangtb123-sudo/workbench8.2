@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:23:16.619Z",
+  "updated": "2026-09-06T08:12:02.552Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,24 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 05 Sep 2026 21:39:02 GMT"
+        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 06 Sep 2026 02:24:16 GMT"
       },
       {
-        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-        "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 05 Sep 2026 21:29:02 GMT"
+        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 06 Sep 2026 08:05:22 GMT"
       },
       {
-        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 05 Sep 2026 14:26:37 GMT"
-      },
-      {
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 05 Sep 2026 22:44:07 GMT"
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 06 Sep 2026 04:08:41 GMT"
       },
       {
         "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
@@ -78,14 +73,19 @@
         "date": "Sat, 05 Sep 2026 21:00:02 GMT"
       },
       {
-        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
-        "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 05 Sep 2026 21:22:31 GMT"
+        "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 06 Sep 2026 07:06:50 GMT"
       },
       {
         "title": "Why more women carry the 'mental load' - and how couples can share it",
         "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 05 Sep 2026 23:31:14 GMT"
+      },
+      {
+        "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+        "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 05 Sep 2026 23:54:07 GMT"
       }
     ],
     "The New York Times": [
@@ -102,12 +102,12 @@
       {
         "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
         "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-        "date": "Sat, 05 Sep 2026 21:08:44 +0000"
+        "date": "Sun, 06 Sep 2026 02:49:50 +0000"
       },
       {
         "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
         "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-        "date": "Sat, 05 Sep 2026 23:47:37 +0000"
+        "date": "Sat, 05 Sep 2026 23:47:38 +0000"
       },
       {
         "title": "What the War in Iran Has Cost One Gold Star Family",
@@ -117,12 +117,12 @@
       {
         "title": "A Sympathetic Defendant and Well-Crafted Defense Dominated Clancy Trial",
         "link": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html",
-        "date": "Sat, 05 Sep 2026 23:51:47 +0000"
+        "date": "Sun, 06 Sep 2026 06:23:37 +0000"
       },
       {
         "title": "What Will Happen to Lindsay Clancy in the Long Term?",
         "link": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html",
-        "date": "Sat, 05 Sep 2026 09:04:11 +0000"
+        "date": "Sat, 05 Sep 2026 09:04:12 +0000"
       },
       {
         "title": "Will Lindsay Clancy Be Retried? The Decision Now Facing Prosecutor Timothy Cruz.",
@@ -157,6 +157,11 @@
         "date": "Wed, 02 Sep 2026 09:20:55 GMT"
       },
       {
+        "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+        "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
+        "date": "Sun, 06 Sep 2026 06:00:58 GMT"
+      },
+      {
         "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
         "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
         "date": "Sat, 05 Sep 2026 22:19:40 GMT"
@@ -165,95 +170,90 @@
         "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
         "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
         "date": "Sat, 05 Sep 2026 22:16:55 GMT"
-      },
-      {
-        "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-        "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-        "date": "Sat, 05 Sep 2026 10:00:34 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 00:00:00 +0000"
+        "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
+        "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 07:59:04 +0000"
       },
       {
-        "title": "Fuel tanker blast in western Iran kills at least 10",
-        "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 23:07:48 +0000"
+        "title": "How do you arrest 50,000 people quietly?",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 07:45:08 +0000"
       },
       {
-        "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-        "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 22:58:33 +0000"
+        "title": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
+        "link": "https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 07:37:00 +0000"
       },
       {
-        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 21:23:06 +0000"
+        "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
+        "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 07:20:37 +0000"
       },
       {
-        "title": "Building collapses after heavy rain in northern India",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 21:11:25 +0000"
+        "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+        "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 07:10:33 +0000"
       },
       {
-        "title": "Why is Argentina reigniting the Falklands dispute?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 20:14:55 +0000"
+        "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 06:52:23 +0000"
       },
       {
-        "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 20:04:30 +0000"
+        "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 05:02:23 +0000"
       },
       {
-        "title": "Colombian government reports three killed in rebel attack on military post",
-        "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-        "date": "Sat, 05 Sep 2026 20:03:29 +0000"
+        "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+        "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+        "date": "Sun, 06 Sep 2026 05:02:17 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "How nationalists, theocrats and tech titans turned their backs on the future",
-        "link": "https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed",
-        "date": "Sat, 05 Sep 2026 04:00:23 GMT"
+        "title": "Russian gold floods through Hong Kong in wake of western sanctions",
+        "link": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "The other side of the 1990s",
-        "link": "https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1",
-        "date": "Sat, 05 Sep 2026 04:00:33 GMT"
+        "title": "The risky mission to de-mine the Strait of Hormuz",
+        "link": "https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "Is Keynesianism dead?",
-        "link": "https://www.ft.com/content/e1afdbf1-eb21-45c0-ad88-1ec0913b1f7c?syn-25a6b1a6=1",
-        "date": "Sat, 05 Sep 2026 04:00:33 GMT"
+        "title": "Iceland’s ‘no’ exposes EU complacency",
+        "link": "https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:00:20 GMT"
       },
       {
-        "title": "Masked protesters block Dover port roads",
-        "link": "https://www.ft.com/content/53751b68-5af6-42ec-9d93-bf3daee6acdd?syn-25a6b1a6=1",
-        "date": "Sat, 05 Sep 2026 15:30:29 GMT"
+        "title": "Trump’s approval rating falls to all-time low in FT poll",
+        "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:01:09 GMT"
       },
       {
-        "title": "EU counterterror envoy urges pressure on social platforms over youth extremism",
-        "link": "https://www.ft.com/content/18900164-fa33-4d6d-a39e-6898043cd62f?syn-25a6b1a6=1",
-        "date": "Sat, 05 Sep 2026 04:00:13 GMT"
+        "title": "Trump and Musk Super Pacs boost spending on midterm elections",
+        "link": "https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1",
+        "date": "Sat, 05 Sep 2026 17:37:49 GMT"
+      },
+      {
+        "title": "UBS demands new junior bankers show AI proficiency",
+        "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:00:12 GMT"
+      },
+      {
+        "title": "Inside John Lewis’s secret turnaround plan",
+        "link": "https://www.ft.com/content/99695d52-8a79-45cc-b646-d2d1e06f099c?syn-25a6b1a6=1",
+        "date": "Sun, 06 Sep 2026 04:00:20 GMT"
       },
       {
         "title": "Jenrick seeks to get Reform back on track with tax pledge",
         "link": "https://www.ft.com/content/82c20c2f-a3d2-45c0-be50-2bed0bfb52b0?syn-25a6b1a6=1",
         "date": "Sat, 05 Sep 2026 15:42:36 GMT"
-      },
-      {
-        "title": "Russia-Ukraine peace talks could begin next year, ex-MI6 chief says",
-        "link": "https://www.ft.com/content/4826a106-9cd4-45bc-8436-69e2519d0205",
-        "date": "Sat, 05 Sep 2026 15:50:30 GMT"
-      },
-      {
-        "title": "Trump envoys take Ukraine peace proposal to meeting with Putin",
-        "link": "https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1",
-        "date": "Sat, 05 Sep 2026 22:22:12 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -428,14 +428,34 @@
     ],
     "Hacker News": [
       {
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "link": "https://github.com/okf-memory/okf-agent-memory",
-        "date": "Sat, 05 Sep 2026 22:15:52 +0000"
+        "title": "Site Is Closed on Sundays",
+        "link": "https://v7.robweychert.com/",
+        "date": "Sun, 06 Sep 2026 06:23:05 +0000"
       },
       {
-        "title": "America's two largest school districts impose AI moratoriums",
-        "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "date": "Sat, 05 Sep 2026 21:43:22 +0000"
+        "title": "AMD Based FreeBSD Desktop Reloaded",
+        "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+        "date": "Sun, 06 Sep 2026 02:24:57 +0000"
+      },
+      {
+        "title": "AI, Tools and Transformation",
+        "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "date": "Sun, 06 Sep 2026 02:12:46 +0000"
+      },
+      {
+        "title": "GPT-6 Astra on robot arms",
+        "link": "https://openai.robocurve.org/gpt-6-astra/",
+        "date": "Sun, 06 Sep 2026 01:52:45 +0000"
+      },
+      {
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "link": "https://cloudinabottle.org/blog/launch-post",
+        "date": "Sun, 06 Sep 2026 00:03:29 +0000"
+      },
+      {
+        "title": "Chrome again exempts Google from user site data settings",
+        "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+        "date": "Sat, 05 Sep 2026 23:39:47 +0000"
       },
       {
         "title": "The revolt of the reader",
@@ -443,36 +463,16 @@
         "date": "Sat, 05 Sep 2026 21:37:49 +0000"
       },
       {
-        "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
-        "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-        "date": "Sat, 05 Sep 2026 21:17:00 +0000"
-      },
-      {
-        "title": "How AI is breaking the British state",
-        "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-        "date": "Sat, 05 Sep 2026 21:05:35 +0000"
-      },
-      {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
         "date": "Sat, 05 Sep 2026 20:31:38 +0000"
-      },
-      {
-        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-        "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "date": "Sat, 05 Sep 2026 20:25:59 +0000"
-      },
-      {
-        "title": "Isar Aerospace launch into orbit [video]",
-        "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-        "date": "Sat, 05 Sep 2026 20:25:30 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1655, Part 1 (Thread #1802)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w7q3lq/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-05T04:02:59+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1656, Part 1 (Thread #1803)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8lmei/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-06T04:02:57+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -480,38 +480,48 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "TV presenter Sarah Khalifa sentenced to death in Egypt drugs case",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8hy85/tv_presenter_sarah_khalifa_sentenced_to_death_in/",
+        "date": "2026-09-06T01:02:31+00:00"
+      },
+      {
+        "title": "Social media platforms to be forced to offer algorithm opt-out",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8jplf/social_media_platforms_to_be_forced_to_offer/",
+        "date": "2026-09-06T02:29:18+00:00"
+      },
+      {
         "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
         "link": "https://www.reddit.com/r/worldnews/comments/1w81zci/the_venezuelan_billionaire_the_us_investigated/",
         "date": "2026-09-05T14:18:06+00:00"
       },
       {
+        "title": "Japan's Prince Hisahito turns 20 as government reinforces male-only succession",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8m7tm/japans_prince_hisahito_turns_20_as_government/",
+        "date": "2026-09-06T04:34:11+00:00"
+      },
+      {
+        "title": "Ukraine is running short of its best missiles for hunting Russia's jet drones. Now MiG-29s are firing 1970s weapons",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8noqp/ukraine_is_running_short_of_its_best_missiles_for/",
+        "date": "2026-09-06T05:53:25+00:00"
+      },
+      {
         "title": "‘Extremely rare event:’ Miles-long microalgae bloom knocks out most of Israel’s desalination plants",
         "link": "https://www.reddit.com/r/worldnews/comments/1w7vi2c/extremely_rare_event_mileslong_microalgae_bloom/",
         "date": "2026-09-05T08:59:10+00:00"
-      },
-      {
-        "title": "Putin orders 3-day halt to strikes on Kyiv during US envoys' visit, Kremlin says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w7zid7/putin_orders_3day_halt_to_strikes_on_kyiv_during/",
-        "date": "2026-09-05T12:31:30+00:00"
-      },
-      {
-        "title": "Chinese Shipper COSCO Collects Intel for Beijing With Concealed Equipment, US Officials Say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w89ma3/chinese_shipper_cosco_collects_intel_for_beijing/",
-        "date": "2026-09-05T19:11:28+00:00"
-      },
-      {
-        "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w85h9p/us_ambassador_calls_violent_israeli_settlers/",
-        "date": "2026-09-05T16:35:40+00:00"
-      },
-      {
-        "title": "Putin and Zelenskyy agree to pause strikes on Kyiv and Moscow during talks with US envoys",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w86urj/putin_and_zelenskyy_agree_to_pause_strikes_on/",
-        "date": "2026-09-05T17:27:38+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "This Interactive Tool Visually Compares Your Vaccine vs. Disease Risk",
+        "link": "https://www.cnet.com/health/medical/interactive-tool-visually-compares-vaccine-vs-disease-risk/",
+        "date": "2026-08-24 23:21:50"
+      },
+      {
+        "title": "Orbitals Review: The Perfect Couples Co-op Game for the Switch 2",
+        "link": "https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/",
+        "date": "2026-09-05 21:44:05"
+      },
       {
         "title": "We Rated the Weird Tech at IFA 2026 to Find the Wackiest Products",
         "link": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/",
@@ -541,16 +551,6 @@
         "title": "Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now",
         "link": "https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/",
         "date": "2026-09-05 13:08:37"
-      },
-      {
-        "title": "I Can’t Put the Galaxy Z Fold 8 Down. Can Apple’s Foldable Change That?",
-        "link": "https://www.cnet.com/tech/mobile/i-cant-put-the-galaxy-z-fold-8-down-can-apples-foldable-change-that/",
-        "date": "2026-09-05 13:00:00"
-      },
-      {
-        "title": "Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products",
-        "link": "https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/",
-        "date": "2026-09-05 11:23:18"
       }
     ],
     "AP": [],
