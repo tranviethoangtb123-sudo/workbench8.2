@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:29:51.681Z",
+  "updated": "2026-09-07T08:43:38.460Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,24 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
+        "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 07 Sep 2026 05:57:30 GMT"
+      },
+      {
+        "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 07 Sep 2026 05:31:06 GMT"
+      },
+      {
+        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
         "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 23:02:45 GMT"
+        "date": "Mon, 07 Sep 2026 06:17:08 GMT"
       },
       {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 20:41:58 GMT"
-      },
-      {
-        "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
-        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 23:34:18 GMT"
+        "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+        "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 07 Sep 2026 04:07:23 GMT"
       },
       {
         "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
@@ -68,36 +73,31 @@
         "date": "Sun, 06 Sep 2026 22:00:36 GMT"
       },
       {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 22:42:56 GMT"
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 07 Sep 2026 07:03:44 GMT"
       },
       {
-        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-        "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 16:32:59 GMT"
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 07 Sep 2026 06:59:57 GMT"
       },
       {
-        "title": "Jamaica to bring slavery reparations petition to King Charles",
-        "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 16:39:45 GMT"
-      },
-      {
-        "title": "Dozens feared trapped in collapsed building in Delhi",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 06 Sep 2026 16:54:34 GMT"
+        "title": "The £70 refund letter that isn't a scam",
+        "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 06 Sep 2026 23:16:05 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Germany’s Far Right Just Misses Majority in Crucial State Election",
         "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
-        "date": "Sun, 06 Sep 2026 23:00:08 +0000"
+        "date": "Sun, 06 Sep 2026 23:00:09 +0000"
       },
       {
         "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
         "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
-        "date": "Sun, 06 Sep 2026 23:15:46 +0000"
+        "date": "Mon, 07 Sep 2026 05:14:55 +0000"
       },
       {
         "title": "The Battle to Save General Donahue From Hegseth’s Army Purge",
@@ -110,11 +110,6 @@
         "date": "Sun, 06 Sep 2026 23:14:43 +0000"
       },
       {
-        "title": "For Fired DeSantis Campaign Staff Member, a Second Chance at State Dept.",
-        "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
-        "date": "Sun, 06 Sep 2026 16:22:22 +0000"
-      },
-      {
         "title": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
         "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
         "date": "Sun, 06 Sep 2026 18:01:21 +0000"
@@ -125,12 +120,22 @@
         "date": "Sun, 06 Sep 2026 16:22:43 +0000"
       },
       {
-        "title": "Man Arrested After Pushing Toward Democratic Candidate for Ohio Governor",
+        "title": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor",
         "link": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html",
-        "date": "Sun, 06 Sep 2026 23:12:45 +0000"
+        "date": "Mon, 07 Sep 2026 02:03:31 +0000"
+      },
+      {
+        "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
+        "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
+        "date": "Mon, 07 Sep 2026 03:40:30 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "date": "Mon, 07 Sep 2026 08:27:08 GMT"
+      },
       {
         "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
         "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
@@ -152,11 +157,6 @@
         "date": "Thu, 03 Sep 2026 10:11:37 GMT"
       },
       {
-        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-        "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-        "date": "Wed, 02 Sep 2026 09:20:55 GMT"
-      },
-      {
         "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
         "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
         "date": "Sun, 06 Sep 2026 17:05:11 GMT"
@@ -174,76 +174,76 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-        "date": "Mon, 07 Sep 2026 00:00:00 +0000"
+        "title": "India teams search for survivors after Delhi building collapse kills six",
+        "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 07:04:20 +0000"
       },
       {
-        "title": "Alcaraz breezes into last eight at US Open",
-        "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 21:46:08 +0000"
+        "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 06:58:28 +0000"
       },
       {
-        "title": "At least five killed after Amazon cargo plane crash in Miami airport",
-        "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 21:11:01 +0000"
+        "title": "Six children among 11 people killed in Indonesian market fire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 05:37:32 +0000"
       },
       {
-        "title": "At least 10 killed in central Mexico fireworks blast during festival",
-        "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 21:08:30 +0000"
+        "title": "Ten killed and dozens injured in Mexico fireworks blast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 04:56:51 +0000"
       },
       {
-        "title": "Amazon Prime plane overruns runway at Miami Airport",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 21:08:24 +0000"
+        "title": "Anti-immigration protesters clash with police in UK after boat arrival",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 04:55:34 +0000"
       },
       {
-        "title": "Can AfD form Germany’s first far-right state government since World War II?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 20:52:01 +0000"
+        "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
+        "link": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 04:53:41 +0000"
       },
       {
-        "title": "Susan Sarandon says she still loses film roles over support for Palestine",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 20:40:52 +0000"
+        "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+        "link": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 03:59:39 +0000"
       },
       {
-        "title": "Will Israelis re-elect Benjamin Netanyahu?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
-        "date": "Sun, 06 Sep 2026 20:20:47 +0000"
+        "title": "Iran to announce restricted zone outside Strait of Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+        "date": "Mon, 07 Sep 2026 02:41:56 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Far-right AfD surges to first place in German state elections",
+        "title": "Far-right AfD surges to victory in German state election",
         "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 22:06:25 GMT"
+        "date": "Mon, 07 Sep 2026 06:28:06 GMT"
       },
       {
-        "title": "Germany’s Merz on the ropes after far right delivers devastating blow",
+        "title": "Merz on the ropes after far right delivers devastating blow",
         "link": "https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1",
         "date": "Sun, 06 Sep 2026 21:53:22 GMT"
       },
       {
-        "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
-        "link": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 20:00:05 GMT"
+        "title": "Sweden’s fightback against the gangs",
+        "link": "https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1",
+        "date": "Mon, 07 Sep 2026 04:00:19 GMT"
       },
       {
-        "title": "Britain is a factory for ideas applied elsewhere",
-        "link": "https://www.ft.com/content/87167087-e472-44fe-bfa5-3f13a782e889?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 11:00:02 GMT"
+        "title": "Bonds have become bonds again",
+        "link": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9",
+        "date": "Mon, 07 Sep 2026 04:00:19 GMT"
       },
       {
-        "title": "Inside John Lewis’s secret turnaround plan",
-        "link": "https://www.ft.com/content/99695d52-8a79-45cc-b646-d2d1e06f099c?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 04:00:20 GMT"
+        "title": "Why America’s debt binge is starting to matter",
+        "link": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+        "date": "Mon, 07 Sep 2026 04:00:19 GMT"
       },
       {
-        "title": "Police face questions over anti-migrant protests by masked protesters",
+        "title": "UK police face questions over anti-migrant protests by masked demonstrators",
         "link": "https://www.ft.com/content/f244770a-27ba-42b1-8cd5-7631b2c8412b?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 23:14:41 GMT"
+        "date": "Mon, 07 Sep 2026 07:49:08 GMT"
       },
       {
         "title": "UK hiring picks up in latest hint of improving economic confidence",
@@ -251,9 +251,9 @@
         "date": "Sun, 06 Sep 2026 23:01:06 GMT"
       },
       {
-        "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-        "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
-        "date": "Sun, 06 Sep 2026 23:05:00 GMT"
+        "title": "Healey to urge state-owned bodies to boost investment",
+        "link": "https://www.ft.com/content/4d8d12a0-ed3c-4955-be63-d15225b105b6?syn-25a6b1a6=1",
+        "date": "Mon, 07 Sep 2026 07:17:06 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -344,6 +344,11 @@
     ],
     "The Verge": [
       {
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "date": "2026-09-06 23:36:04"
+      },
+      {
         "title": "An Amazon cargo plane crashed at Miami International Airport",
         "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
         "date": "2026-09-06 20:56:38"
@@ -377,11 +382,6 @@
         "title": "Explore the globe in field recordings",
         "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
         "date": "2026-09-05 21:31:34"
-      },
-      {
-        "title": "iPhone Handoff will seamlessly share one number between two phones",
-        "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "date": "2026-09-05 20:53:58"
       }
     ],
     "TechCrunch": [
@@ -428,51 +428,51 @@
     ],
     "Hacker News": [
       {
-        "title": "Making a Python interpreter in 1024 bytes",
-        "link": "https://austinhenley.com/blog/python1024.html",
-        "date": "Sun, 06 Sep 2026 23:14:08 +0000"
+        "title": "It's time for Mark Zuckerberg to resign from Meta",
+        "link": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
+        "date": "Mon, 07 Sep 2026 07:59:21 +0000"
       },
       {
-        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-        "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-        "date": "Sun, 06 Sep 2026 22:43:25 +0000"
+        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+        "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+        "date": "Mon, 07 Sep 2026 05:33:25 +0000"
       },
       {
-        "title": "Political meddling at the Census Bureau damages the US statistical system",
-        "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-        "date": "Sun, 06 Sep 2026 22:36:07 +0000"
+        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "link": "https://github.com/timgordontg/engrim",
+        "date": "Mon, 07 Sep 2026 04:49:36 +0000"
       },
       {
-        "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-        "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-        "date": "Sun, 06 Sep 2026 21:16:10 +0000"
+        "title": "TiVo to charge money for skipping commercials in your own recordings",
+        "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+        "date": "Mon, 07 Sep 2026 04:41:01 +0000"
       },
       {
-        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "link": "https://github.com/marsbos/mador",
-        "date": "Sun, 06 Sep 2026 20:45:13 +0000"
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "link": "https://github.com/trailofbits/coop",
+        "date": "Mon, 07 Sep 2026 04:18:28 +0000"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "date": "Sun, 06 Sep 2026 20:32:38 +0000"
+        "title": "Keep Our Servers Running",
+        "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "date": "Mon, 07 Sep 2026 03:29:51 +0000"
       },
       {
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "link": "https://arxiv.org/abs/2505.12540",
-        "date": "Sun, 06 Sep 2026 20:31:20 +0000"
+        "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+        "link": "https://rfd.shared.oxide.computer/rfd/0301",
+        "date": "Mon, 07 Sep 2026 02:14:59 +0000"
       },
       {
-        "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-        "link": "https://github.com/FulltimeFeline/Sol",
-        "date": "Sun, 06 Sep 2026 20:24:56 +0000"
+        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "link": "https://gettogether.dev",
+        "date": "Mon, 07 Sep 2026 01:41:11 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1656, Part 1 (Thread #1803)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w8lmei/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-06T04:02:57+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1657, Part 1 (Thread #1804)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w9hg5v/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-07T04:02:49+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -485,9 +485,9 @@
         "date": "2026-09-06T17:10:19+00:00"
       },
       {
-        "title": "Trump Says Canada’s Dollar ‘Imbalance’ With US Is Unacceptable",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w8y0fn/trump_says_canadas_dollar_imbalance_with_us_is/",
-        "date": "2026-09-06T14:42:17+00:00"
+        "title": "China to pump $54bn into state banks and insurers to boost economy",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w9ivmq/china_to_pump_54bn_into_state_banks_and_insurers/",
+        "date": "2026-09-07T05:16:00+00:00"
       },
       {
         "title": "Japan PM Takaichi urges removal of Russia war victory statue",
@@ -495,19 +495,19 @@
         "date": "2026-09-06T19:11:54+00:00"
       },
       {
-        "title": "Putin Insists on Own Terms for Peace, Vows 2026 Donbas Capture",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w8q4l8/putin_insists_on_own_terms_for_peace_vows_2026/",
-        "date": "2026-09-06T08:11:07+00:00"
+        "title": "North Korea’s Kim launches second nuclear destroyer as US-South Korea-Japan drills start",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w9f3gb/north_koreas_kim_launches_second_nuclear/",
+        "date": "2026-09-07T02:07:26+00:00"
+      },
+      {
+        "title": "Trump Says Canada’s Dollar ‘Imbalance’ With US Is Unacceptable",
+        "link": "https://www.reddit.com/r/worldnews/comments/1w8y0fn/trump_says_canadas_dollar_imbalance_with_us_is/",
+        "date": "2026-09-06T14:42:17+00:00"
       },
       {
         "title": "S.Korea on track to become fourth country to hit $1 trillion in annual exports",
         "link": "https://www.reddit.com/r/worldnews/comments/1w91csr/skorea_on_track_to_become_fourth_country_to_hit_1/",
         "date": "2026-09-06T16:50:55+00:00"
-      },
-      {
-        "title": "NATO will not tolerate deliberate actions of hybrid war, and the ​United States will stand by countries as they ‌deal with these incidents, US envoy says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w8wn74/nato_will_not_tolerate_deliberate_actions_of/",
-        "date": "2026-09-06T13:46:11+00:00"
       }
     ],
     "PCMag": [],
