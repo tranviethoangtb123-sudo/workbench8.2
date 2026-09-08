@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T08:24:48.050Z",
+  "updated": "2026-09-08T12:37:01.267Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,44 +48,44 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-        "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 06:58:02 GMT"
+        "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+        "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 09:43:53 GMT"
       },
       {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 03:49:39 GMT"
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
+        "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 12:28:20 GMT"
+      },
+      {
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 11:43:32 GMT"
+      },
+      {
+        "title": "Prince George begins first day at a rainy Eton College",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 11:52:40 GMT"
+      },
+      {
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 11:09:54 GMT"
       },
       {
         "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
         "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 04:39:14 GMT"
+        "date": "Tue, 08 Sep 2026 12:23:22 GMT"
       },
       {
-        "title": "Prince George set for first day at Eton College",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 06:15:16 GMT"
+        "title": "At least two people dead after Russian strikes on Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 08 Sep 2026 10:23:01 GMT"
       },
       {
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "link": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 01:05:08 GMT"
-      },
-      {
-        "title": "UK pupils rank highly again in international reading, maths and science tests",
+        "title": "English pupils ahead of rest of UK in international school tests",
         "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 07:31:45 GMT"
-      },
-      {
-        "title": "'Good to have choice': Australians on opting out of social media algorithms",
-        "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 08 Sep 2026 06:20:10 GMT"
-      },
-      {
-        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-        "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 07 Sep 2026 23:46:44 GMT"
+        "date": "Tue, 08 Sep 2026 11:28:31 GMT"
       }
     ],
     "The New York Times": [
@@ -95,39 +95,39 @@
         "date": "Tue, 08 Sep 2026 06:56:41 +0000"
       },
       {
-        "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality",
+        "title": "Near the Border, Americans Fear Losing Ties With Canadians",
+        "link": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html",
+        "date": "Tue, 08 Sep 2026 09:04:51 +0000"
+      },
+      {
+        "title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
+        "link": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
+        "date": "Tue, 08 Sep 2026 12:03:06 +0000"
+      },
+      {
+        "title": "Why the Pentagon Is Doing Polygraphs, and Officials Prepare to Release Huge Set of 9/11 Documents",
+        "link": "https://www.nytimes.com/2026/09/08/podcasts/the-headlines/pentagon-polygraphs-9-11-documents-crushable-concrete.html",
+        "date": "Tue, 08 Sep 2026 10:00:15 +0000"
+      },
+      {
+        "title": "After 9/11, Documents Suggest, New Yorkers Were Misled About Air Quality",
         "link": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html",
-        "date": "Tue, 08 Sep 2026 02:03:58 +0000"
+        "date": "Tue, 08 Sep 2026 12:22:23 +0000"
       },
       {
-        "title": "There Is Still a Void at Ground Zero. Here’s How We Fill It.",
-        "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
-        "date": "Mon, 07 Sep 2026 09:03:49 +0000"
+        "title": "9/11’s Dust and Ash Coated Their Childhood. Is It Still Making Them Ill?",
+        "link": "https://www.nytimes.com/2026/09/08/nyregion/9-11-children-health.html",
+        "date": "Tue, 08 Sep 2026 07:00:07 +0000"
       },
       {
-        "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
-        "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
-        "date": "Tue, 08 Sep 2026 01:06:19 +0000"
+        "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+        "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+        "date": "Tue, 08 Sep 2026 10:54:53 +0000"
       },
       {
-        "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
-        "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
-        "date": "Tue, 08 Sep 2026 06:53:14 +0000"
-      },
-      {
-        "title": "As War Grinds On, Trump Relishes Renovation Projects",
-        "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
-        "date": "Mon, 07 Sep 2026 09:04:10 +0000"
-      },
-      {
-        "title": "Ousted Kennedy Center Chairman Buys Dismantled ‘Blue’ Sculpture",
-        "link": "https://www.nytimes.com/2026/09/07/arts/design/blue-sculpture-kennedy-center-rubenstein.html",
-        "date": "Mon, 07 Sep 2026 19:28:45 +0000"
-      },
-      {
-        "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
-        "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html",
-        "date": "Mon, 07 Sep 2026 13:26:01 +0000"
+        "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
+        "link": "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html",
+        "date": "Tue, 08 Sep 2026 12:25:10 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 07:40:56 +0000"
+        "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
+        "link": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 12:12:16 +0000"
       },
       {
-        "title": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 07:35:29 +0000"
+        "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+        "link": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 12:00:16 +0000"
       },
       {
-        "title": "Eiffel Tower to reopen after protest over removing women staff",
-        "link": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 07:12:37 +0000"
+        "title": "Former Philippines lawmaker arrested for pocketing millions in flood aid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 11:58:32 +0000"
       },
       {
-        "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 06:58:00 +0000"
+        "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+        "link": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 11:40:21 +0000"
       },
       {
-        "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-        "link": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 05:34:30 +0000"
+        "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+        "link": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 11:29:35 +0000"
       },
       {
-        "title": "Forest fires force evacuations near resorts in Antalya",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 04:55:59 +0000"
+        "title": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+        "link": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 11:21:13 +0000"
       },
       {
-        "title": "Mladic’s funeral: Were no lessons learned?",
-        "link": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 04:47:56 +0000"
+        "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 11:01:21 +0000"
       },
       {
-        "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-        "date": "Tue, 08 Sep 2026 04:29:33 +0000"
+        "title": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
+        "link": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
+        "date": "Tue, 08 Sep 2026 10:58:21 +0000"
       }
     ],
     "Financial Times": [
@@ -231,29 +231,29 @@
         "date": "Tue, 08 Sep 2026 04:00:09 GMT"
       },
       {
+        "title": "Innovation is the answer to Britain’s elusive growth problem",
+        "link": "https://www.ft.com/content/53d6b648-ea21-43a9-ba89-f1102462ff9b",
+        "date": "Tue, 08 Sep 2026 10:41:41 GMT"
+      },
+      {
         "title": "AI is ushering in an era of mass toe-treading at work",
         "link": "https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1",
         "date": "Tue, 08 Sep 2026 04:00:27 GMT"
       },
       {
-        "title": "Labour’s muddled migration policy won’t stop thuggery",
-        "link": "https://www.ft.com/content/22792fd1-e089-4e56-9ece-171c56ffe422?syn-25a6b1a6=1",
-        "date": "Tue, 08 Sep 2026 04:00:27 GMT"
+        "title": "UK pays highest borrowing cost since 1998 at gilt sale",
+        "link": "https://www.ft.com/content/b23151c3-b4c1-4f96-a801-f3507d907cc7?syn-25a6b1a6=1",
+        "date": "Tue, 08 Sep 2026 10:33:49 GMT"
+      },
+      {
+        "title": "Healey vows to maintain fiscal credibility as pressure on public finances mounts",
+        "link": "https://www.ft.com/content/359e9dac-cc19-4a93-8155-3d087adf4103",
+        "date": "Tue, 08 Sep 2026 11:53:55 GMT"
       },
       {
         "title": "Britain’s grid operator gave Palantir contract without inviting rival bids",
         "link": "https://www.ft.com/content/f6a26a17-985f-4283-99c4-ba5d54e94e7f?syn-25a6b1a6=1",
         "date": "Tue, 08 Sep 2026 04:00:17 GMT"
-      },
-      {
-        "title": "‘Apollo premium’ drives up debt costs for group’s portfolio companies",
-        "link": "https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1",
-        "date": "Tue, 08 Sep 2026 04:00:26 GMT"
-      },
-      {
-        "title": "Singapore raises prime minister’s pay by $1mn",
-        "link": "https://www.ft.com/content/f06ee0ea-adcf-44ec-80c9-bb616885d8de?syn-25a6b1a6=1",
-        "date": "Tue, 08 Sep 2026 07:29:42 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,7 +302,32 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+        "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+        "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+        "date": "Tue, 08 Sep 2026 12:00:00 +0000"
+      },
+      {
+        "title": "How NASA Testing Changed US Food Inspection Forever",
+        "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+        "date": "Tue, 08 Sep 2026 11:00:00 +0000"
+      },
+      {
+        "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+        "link": "https://www.wired.com/story/best-smart-speakers/",
+        "date": "Tue, 08 Sep 2026 10:35:00 +0000"
+      },
+      {
+        "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
+        "link": "https://www.wired.com/review/insta360-x6-camera/",
+        "date": "Tue, 08 Sep 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+        "link": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+        "date": "Tue, 08 Sep 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Le Creuset x Star Trek Collection: Prices, Availability, Release Date",
         "link": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
         "date": "Mon, 07 Sep 2026 23:00:00 +0000"
       },
@@ -315,34 +340,19 @@
         "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
         "link": "https://www.wired.com/story/tech-labor-day-sales-2026/",
         "date": "Mon, 07 Sep 2026 16:33:37 +0000"
-      },
-      {
-        "title": "The 57 Best Deals From the REI Labor Day Sale",
-        "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-        "date": "Mon, 07 Sep 2026 13:33:30 +0000"
-      },
-      {
-        "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
-        "link": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
-        "date": "Mon, 07 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-        "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-        "date": "Mon, 07 Sep 2026 11:30:00 +0000"
-      },
-      {
-        "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
-        "link": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
-        "date": "Mon, 07 Sep 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-        "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-        "date": "Mon, 07 Sep 2026 10:30:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "LG TVs caught spying even when offline or on standby",
+        "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+        "date": "2026-09-08 11:30:05"
+      },
+      {
+        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+        "date": "2026-09-08 07:00:00"
+      },
       {
         "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
         "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
@@ -372,19 +382,14 @@
         "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
         "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
         "date": "2026-09-07 11:00:00"
-      },
-      {
-        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-        "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-        "date": "2026-09-07 10:09:42"
-      },
-      {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "date": "2026-09-06 23:36:04"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+        "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+        "date": "Tue, 08 Sep 2026 09:00:00 +0000"
+      },
       {
         "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
         "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
@@ -419,53 +424,48 @@
         "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
         "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
         "date": "Sun, 06 Sep 2026 16:45:00 +0000"
-      },
-      {
-        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-        "date": "Sun, 06 Sep 2026 16:08:00 +0000"
       }
     ],
     "Hacker News": [
       {
         "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
         "link": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-        "date": "Tue, 08 Sep 2026 06:39:20 +0000"
+        "date": "2026-09-08 06:39:20"
       },
       {
         "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
         "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "date": "Tue, 08 Sep 2026 05:42:28 +0000"
+        "date": "2026-09-08 05:42:28"
       },
       {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "link": "https://github.com/TauricResearch/TradingAgents",
-        "date": "Tue, 08 Sep 2026 05:20:23 +0000"
+        "date": "2026-09-08 05:20:23"
       },
       {
         "title": "My Feed, My Way",
         "link": "https://www.pm.gov.au/media/my-feed-my-way",
-        "date": "Tue, 08 Sep 2026 05:10:36 +0000"
+        "date": "2026-09-08 05:10:36"
       },
       {
         "title": "Mistral raises €3B",
         "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-        "date": "Tue, 08 Sep 2026 05:06:23 +0000"
+        "date": "2026-09-08 05:06:23"
       },
       {
         "title": "We have a year to fix security everywhere",
         "link": "https://jyn.dev/a-year-to-fix-security/",
-        "date": "Tue, 08 Sep 2026 04:48:10 +0000"
+        "date": "2026-09-08 04:48:10"
       },
       {
         "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
         "link": "https://rohanadwankar.github.io/posts/platforms.html",
-        "date": "Tue, 08 Sep 2026 04:36:26 +0000"
+        "date": "2026-09-08 04:36:26"
       },
       {
         "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
         "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-        "date": "Tue, 08 Sep 2026 04:06:20 +0000"
+        "date": "2026-09-08 04:06:20"
       }
     ],
     "Reddit": [
@@ -480,38 +480,48 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "Thailand Presses Israeli Ambassador Over Badly Behaved Tourists",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wahoeo/thailand_presses_israeli_ambassador_over_badly/",
+        "date": "2026-09-08T07:37:40+00:00"
+      },
+      {
+        "title": "Russia Burns Through $29 Million Every Hour to Fund Its War Against Ukraine",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wal936/russia_burns_through_29_million_every_hour_to/",
+        "date": "2026-09-08T11:03:25+00:00"
+      },
+      {
+        "title": "US Recognizes Ukraine’s Stronger Battlefield and Negotiating Position, Zelenskyy Says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wajp01/us_recognizes_ukraines_stronger_battlefield_and/",
+        "date": "2026-09-08T09:38:33+00:00"
+      },
+      {
         "title": "Andy Burnham informed President Trump earlier today that the UK will ban trade with illegal Israeli settlements in the West Bank. The White House are unhappy with Burnham’s decision and will attack it in statement tomorrow",
         "link": "https://www.reddit.com/r/worldnews/comments/1wa3pdi/andy_burnham_informed_president_trump_earlier/",
         "date": "2026-09-07T20:36:35+00:00"
       },
       {
-        "title": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wa0hsn/eiffel_tower_workers_go_on_strike_after_female/",
-        "date": "2026-09-07T18:38:43+00:00"
+        "title": "Ukrainian foreign minister: Putin attacked Kyiv and killed people as soon as Trump's envoys left",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wake8r/ukrainian_foreign_minister_putin_attacked_kyiv/",
+        "date": "2026-09-08T10:17:38+00:00"
       },
       {
         "title": "Canadian tariffs on U.S. milk, perfume, golf clubs and other goods take effect as trade war grinds on",
         "link": "https://www.reddit.com/r/worldnews/comments/1wadu8a/canadian_tariffs_on_us_milk_perfume_golf_clubs/",
         "date": "2026-09-08T04:05:03+00:00"
-      },
-      {
-        "title": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
-        "link": "https://www.reddit.com/r/worldnews/comments/1w9zca1/trump_says_canadas_bombardier_cannot_sell_in_us/",
-        "date": "2026-09-07T17:57:44+00:00"
-      },
-      {
-        "title": "North Korea cracks down on teens' K-pop-inspired finger heart gesture",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wadkhb/north_korea_cracks_down_on_teens_kpopinspired/",
-        "date": "2026-09-08T03:51:17+00:00"
-      },
-      {
-        "title": "Carney prepared to tell Putin to 'get out of Ukraine' if Russia welcomed to G20 summit",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wa2xqo/carney_prepared_to_tell_putin_to_get_out_of/",
-        "date": "2026-09-07T20:07:43+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "How to Watch Apple’s ‘Surprise and Shine’ Event Tomorrow",
+        "link": "https://www.cnet.com/tech/mobile/how-to-watch-apples-surprise-and-shine-event-in-september/",
+        "date": "2026-08-26 16:39:51"
+      },
+      {
+        "title": "I Actually Really Like Xiaomi’s Folding iPhone Ultra Rival",
+        "link": "https://www.cnet.com/tech/mobile/i-actually-really-like-xiaomis-folding-iphone-ultra-rival/",
+        "date": "2026-09-08 08:24:12"
+      },
       {
         "title": "We Rated the Weird Tech at IFA 2026 to Find the Wackiest Products",
         "link": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026-2/",
@@ -541,16 +551,6 @@
         "title": "I Went Eyes-On With the Aurzen Zip Pro Foldable, Portable Projector. It’s Ready to Shine Your Entertainment Anywhere",
         "link": "https://www.cnet.com/tech/home-entertainment/aurzen-zip-pro-foldable-portable-projector-entertainment-anywhere/",
         "date": "2026-09-07 17:33:39"
-      },
-      {
-        "title": "Xgimi’s New Aura 3 UST Projectors Get Bright and Look Classy",
-        "link": "https://www.cnet.com/tech/home-entertainment/xgimis-new-aura-3-ust-projectors-get-bright-and-look-classy/",
-        "date": "2026-09-07 16:49:59"
-      },
-      {
-        "title": "Over Half of US Adults Want Better Battery Life, but Can Apple Deliver with its New iPhone Lineup?",
-        "link": "https://www.cnet.com/tech/mobile/smartphone-upgrade-survey-spring-2026-2/",
-        "date": "2026-05-12 16:00:00"
       }
     ],
     "AP": [],
