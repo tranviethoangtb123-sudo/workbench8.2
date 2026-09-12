@@ -76,9 +76,6 @@ body,.topnav,#otherSections,#dashboard,.app-wrap,.main-content,.card,.task-card,
 #otherSections:not(.travel-section) .subtask-check,#otherSections:not(.travel-section) .mgr-check,#otherSections:not(.travel-section) .tm-check,#dashboard .subtask-check{border:1px solid #000!important;background:transparent!important}
 #otherSections:not(.travel-section) .subtask-check.done,#otherSections:not(.travel-section) .mgr-check.checked,#otherSections:not(.travel-section) .tm-check.checked,#dashboard .subtask-check.done{background:#000!important;border-color:#000!important}
 #otherSections.news-section .task-card-body{padding:10px 16px!important}
-#otherSections.tmpmemo-section .task-card-body{padding:10px 16px!important}
-#otherSections.tmpmemo-section .task-card-header{padding:12px 16px!important;background:#fff!important}
-#otherSections.tmpmemo-section .tm-item{padding:4px 0!important;background:transparent!important;border-bottom:1px solid #f3f4f6!important}
 .section-divider{position:relative;overflow:visible!important}
 .section-divider::after{content:'';position:absolute;left:1em;right:1em;bottom:-1px;height:1px;background:#C8CACC;z-index:5}
 .section-divider:has(.collapse-body.collapsed)::after{display:none!important}
@@ -550,16 +547,6 @@ body{margin:0;padding:0;font-family:'AppZH','AppEN','AppNum',-apple-system,Blink
 #otherSections.bday-section .subtask-check{width:12px;height:12px;border:none!important;background:#000!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
 #otherSections.bday-section .subtask-check.done{background:transparent!important;border:none!important}
 #otherSections.bday-section .subtask-check.done::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)),
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .task-card-header,
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .collapse-body,
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .task-card-body,
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item{background:#CBCDD1!important;border:none!important;box-shadow:none!important}
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-text,
-#otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item span{background:transparent!important}
-html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check{width:12px;height:12px;border:none!important;background:#000!important;background-color:#000!important;background-image:none!important;border-radius:0!important;display:flex!important;align-items:center!important;justify-content:center!important;box-shadow:none!important}
-html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked{background:transparent!important;background-color:transparent!important;border:none!important}
-html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-body:not(.collapsed)) .tm-item .tm-check.checked::after{content:'✓'!important;color:#414445!important;background:transparent!important;position:static!important;width:auto!important;height:auto!important;border:none!important;transform:none!important;left:auto!important;top:auto!important;margin:0!important;display:block!important;font-size:12px;line-height:1}
 #otherSections.diet-section .diet-module:has(.diet-mod-bd.open),
 #otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-mod-hd,
 #otherSections.diet-section .diet-module:has(.diet-mod-bd.open) .diet-mod-bd,
@@ -653,31 +640,6 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 
 
 </div><div id="otherSections" style="display:none"><div class="card task-card" style="padding:0"><div class="task-card-header" style="display:flex;align-items:center;justify-content:space-between"><div><div class="card-title" style="font-size:.85rem;color:#1f2937;text-transform:none;letter-spacing:0;margin-bottom:0" id="otherTitle">板块</div></div><button class="collapse-toggle open" id="toggleOther" onclick="toggleCollapse('otherBody',this)">⌃</button></div><div class="collapse-body" id="otherBody" style="max-height:none"><div class="task-card-body"><ul id="otherList" style="list-style:none"></ul></div></div></div>
-<div id="tmpmemoTemplate" style="display:none">
-
-<div class="card" style="padding:0">
-<div class="task-card-header" style="display:flex;align-items:center;justify-content:space-between">
-<span style="font-size:.8rem;font-weight:600;color:#1f2937">📦 快递</span>
-<button class="collapse-toggle" onclick="tmToggle(this)">⌄</button>
-</div>
-<div class="collapse-body collapsed" style="max-height:400px">
-<div class="task-card-body">
-<ul id="tmParcelList" style="list-style:none;font-size:.75rem;margin-bottom:8px"></ul>
-</div></div>
-</div>
-
-<div class="card" style="padding:0">
-<div class="task-card-header" style="display:flex;align-items:center;justify-content:space-between">
-<span style="font-size:.8rem;font-weight:600;color:#1f2937">📝 备忘一</span>
-<button class="collapse-toggle" onclick="tmToggle(this)">⌄</button>
-</div>
-<div class="collapse-body collapsed" style="max-height:400px">
-<div class="task-card-body">
-<ul id="tmMemoList" style="list-style:none;font-size:.75rem;margin-bottom:8px"></ul>
-</div></div>
-</div>
-
-</div>
 <div id="travelTemplate" style="display:none">
 <div class="travel-canvas" id="travelCanvas"></div>
 </div>
@@ -832,7 +794,7 @@ html body #otherSections.tmpmemo-section .card:not(.task-card):has(.collapse-bod
 <script>
 
 var SECTIONS=[{id:"life",name:"生活事务",icon:"life"},{id:"work",name:"工作任务",icon:"work"},{id:"workext",name:"工作拓展",icon:"workext"},{id:"study",name:"学习事务",icon:"study"},{id:"tmplife",name:"临时事务",icon:"tmplife"},{id:"lang",name:"语言",icon:"lang"},{id:"books",name:"书架",icon:"books"},{id:"med",name:"医药箱",icon:"med"},{id:"diet",name:"膳食平衡",icon:"diet"},{id:"bday",name:"生日",icon:"bday"},{id:"travel",name:"旅行",icon:"travel"}];
-var ICONS={life:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><polyline points="9 21 9 12 15 12 15 21"/></svg>',study:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/><line x1="8" y1="7" x2="16" y2="7"/><line x1="8" y1="11" x2="14" y2="11"/></svg>',lang:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>',work:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v2"/></svg>',workext:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>',books:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M4 4.5A2.5 2.5 0 016.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15z"/></svg>',news:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 4h16v16H4z"/><path d="M4 10h16M8 4v16M4 16h16"/></svg>',tmplife:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="9" x2="15" y2="9"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="12" y2="17"/></svg>',tmpmemo:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 013 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>',med:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>',diet:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 8.5c0 3.6-5 10.5-5 10.5S7 12.1 7 8.5a5 5 0 0110 0z"/><circle cx="12" cy="8" r="2"/></svg>',bday:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 12v8H4v-8"/><path d="M22 7H2v5h20V7z"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 010-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 000-5C13 2 12 7 12 7z"/></svg>',travel:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17.8 19.2L22 15l-4.2-4.2"/><path d="M22 15H10a7 7 0 01-7-7V4"/><path d="M6.2 4.8L2 9l4.2 4.2"/></svg>'};
+var ICONS={life:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><polyline points="9 21 9 12 15 12 15 21"/></svg>',study:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/><line x1="8" y1="7" x2="16" y2="7"/><line x1="8" y1="11" x2="14" y2="11"/></svg>',lang:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>',work:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v2"/></svg>',workext:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>',books:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M4 4.5A2.5 2.5 0 016.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15z"/></svg>',news:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 4h16v16H4z"/><path d="M4 10h16M8 4v16M4 16h16"/></svg>',tmplife:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="9" x2="15" y2="9"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="12" y2="17"/></svg>',med:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>',diet:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 8.5c0 3.6-5 10.5-5 10.5S7 12.1 7 8.5a5 5 0 0110 0z"/><circle cx="12" cy="8" r="2"/></svg>',bday:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 12v8H4v-8"/><path d="M22 7H2v5h20V7z"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 010-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 000-5C13 2 12 7 12 7z"/></svg>',travel:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17.8 19.2L22 15l-4.2-4.2"/><path d="M22 15H10a7 7 0 01-7-7V4"/><path d="M6.2 4.8L2 9l4.2 4.2"/></svg>'};
 var cd=new Date,DAYS=["日","一","二","三","四","五","六"];
 
 // ── Sidebar ──
@@ -876,7 +838,6 @@ function renderOtherSection(id){
   var data=JSON.parse(localStorage.getItem('wb_'+id)||'{"items":[]}');
   var os=document.getElementById('otherSections');if(os)os.classList.toggle('travel-section',id==='travel');
   if(os)os.classList.toggle('news-section',id==='news');
-  if(os)os.classList.toggle('tmpmemo-section',id==='tmpmemo');
   if(os)os.classList.toggle('study-section',id==='study');
   if(os)os.classList.toggle('lang-section',id==='lang');
   if(os)os.classList.toggle('work-section',id==='work');
@@ -889,16 +850,11 @@ function renderOtherSection(id){
   var secCard=document.querySelector('#otherSections .card.task-card');
   var divSections=['study','work','workext','books','tmplife','med','bday'];
   if(secCard)secCard.classList.toggle('section-divider',divSections.indexOf(id)>=0);
-  if(secCard)secCard.classList.toggle('no-section-title',id==='lang'||id==='tmpmemo'||id==='diet'||id==='travel');
+  if(secCard)secCard.classList.toggle('no-section-title',id==='lang'||id==='diet'||id==='travel');
   var list=document.getElementById('otherList');
   if(id==='lang'){
     var langTpl=document.getElementById('langTemplate');
     if(langTpl){list.innerHTML=langTpl.innerHTML;setTimeout(renderLang,50);}
-    return;
-  }
-  if(id==='tmpmemo'){
-    var tmTpl=document.getElementById('tmpmemoTemplate');
-    if(tmTpl){list.innerHTML=tmTpl.innerHTML;setTimeout(tmLoad,50);}
     return;
   }
   if(id==='travel'){
@@ -1046,142 +1002,6 @@ scheduleNewsRefresh();
 function initNews(){renderNewsCards();fetchAllNews()}
 
 
-var tmData={parcels:[],memos:[]};
-var tmManageMode=false;
-function tmLoad(){var r=localStorage.getItem('wb_tmpmemo');if(r)tmData=JSON.parse(r);tmRender()}
-function tmSave(){localStorage.setItem('wb_tmpmemo',JSON.stringify(tmData));bridgePush('tmpmemo',tmData);syncDirty('tmpmemo')}
-function tmToggle(btn){var b=btn.parentElement.nextElementSibling;b.classList.toggle('collapsed');var o=!b.classList.contains('collapsed');btn.classList.toggle('open',o);btn.textContent=o?'⌃':'⌄'}
-function tmAddParcel(){
-  var s=document.getElementById('memoParcelStation')?.value.trim()||'';
-  var c=document.getElementById('memoParcelCode')?.value.trim()||'';
-  var i=document.getElementById('memoParcelItem')?.value.trim()||'';
-  var d=document.getElementById('memoParcelDate')?.value||'';
-  var t=document.getElementById('memoParcelTime')?.value||'';
-  if(!s&&!c&&!i&&!d)return;
-  tmData.parcels.push({station:s,code:c,item:i,date:d,time:t,done:false});
-  tmSave();tmRender();
-  document.getElementById('memoParcelStation').value='';
-  document.getElementById('memoParcelCode').value='';
-  document.getElementById('memoParcelItem').value='';
-  document.getElementById('memoParcelDate').value='';
-  document.getElementById('memoParcelTime').value='';
-}
-function tmAddMemo(){
-  var n=document.getElementById('memoNote1')?.value.trim()||'';
-  var d=document.getElementById('memoDate1')?.value||'';
-  var t=document.getElementById('memoTime1')?.value||'';
-  if(!n&&!d)return;
-  tmData.memos.push({note:n,date:d,time:t,done:false});
-  tmSave();tmRender();
-  document.getElementById('memoNote1').value='';
-  document.getElementById('memoDate1').value='';
-  document.getElementById('memoTime1').value='';
-}
-function tmRender(){
-  var pl=document.getElementById('tmParcelList');if(!pl)return;
-  var ml=document.getElementById('tmMemoList');if(!ml)return;
-  pl.innerHTML='';ml.innerHTML='';
-  if(!tmData.parcels.length){var li=document.createElement('li');li.style.cssText='color:#9ca3af;padding:4px 0';li.textContent='暂无';pl.appendChild(li)}
-  else tmData.parcels.forEach(function(p){
-    var li=document.createElement('li');li.className='tm-item';
-    var ck=document.createElement('span');ck.className='tm-check';if(p.done)ck.classList.add('checked');
-    var sp=document.createElement('span');sp.className='tm-text';sp.textContent=(p.station||'-')+' / '+(p.code||'-')+' / '+(p.item||'-');if(p.done)sp.classList.add('done');
-    ck.onclick=function(e){e.stopPropagation();var checked=!this.classList.contains('checked');this.classList.toggle('checked');if(!tmManageMode){p.done=checked;sp.classList.toggle('done',checked);tmSave();}};
-    li.appendChild(ck);li.appendChild(sp);
-    if(p.date){var ds=document.createElement('span');ds.style.cssText='font-size:.65rem;color:#9ca3af;margin-left:6px';ds.textContent=p.date+(p.time?' '+p.time:'');li.appendChild(ds)}
-    if(p.date){var cb=document.createElement('button');cb.className='mgr-ics-btn';cb.textContent='📅';cb.title='同步到日历提醒';cb.style.cssText='margin-left:6px;flex-shrink:0';cb.onclick=function(e){e.stopPropagation();tmSyncParcel(p)};li.appendChild(cb)}
-    pl.appendChild(li);
-  });
-  if(!tmData.memos.length){var li=document.createElement('li');li.style.cssText='color:#9ca3af;padding:4px 0';li.textContent='暂无';ml.appendChild(li)}
-  else tmData.memos.forEach(function(m){
-    var li=document.createElement('li');li.className='tm-item';
-    var ck=document.createElement('span');ck.className='tm-check';if(m.done)ck.classList.add('checked');
-    var sp=document.createElement('span');sp.className='tm-text';sp.textContent=m.note||'-';if(m.done)sp.classList.add('done');
-    ck.onclick=function(e){e.stopPropagation();var checked=!this.classList.contains('checked');this.classList.toggle('checked');if(!tmManageMode){m.done=checked;sp.classList.toggle('done',checked);tmSave();}};
-    li.appendChild(ck);li.appendChild(sp);
-    if(m.date){var ds=document.createElement('span');ds.style.cssText='font-size:.65rem;color:#9ca3af;margin-left:6px';ds.textContent=m.date+(m.time?' '+m.time:'');li.appendChild(ds)}
-    if(m.date){var cb=document.createElement('button');cb.className='mgr-ics-btn';cb.textContent='📅';cb.title='同步到日历提醒';cb.style.cssText='margin-left:6px;flex-shrink:0';cb.onclick=function(e){e.stopPropagation();tmSyncMemo(m)};li.appendChild(cb)}
-    ml.appendChild(li);
-  });
-}
-function tmSyncMemo(m){
-  if(!m||!m.date){wbToast('该备忘没有日期');return}
-  syncToCalendar((m.note||'备忘'), m.date+'T'+(m.time||'09:00'));
-}
-function tmSyncParcel(p){
-  if(!p||!p.date){wbToast('该快递没有日期');return}
-  syncToCalendar(((p.station||'')+(p.code?' 取件码'+p.code:'')+(p.item?' '+p.item:'')).trim()||'取快递', p.date+'T'+(p.time||'09:00'));
-}
-function tmSyncParcelDraft(){
-  var s=document.getElementById('memoParcelStation')?document.getElementById('memoParcelStation').value.trim():'';
-  var c=document.getElementById('memoParcelCode')?document.getElementById('memoParcelCode').value.trim():'';
-  var i=document.getElementById('memoParcelItem')?document.getElementById('memoParcelItem').value.trim():'';
-  var date=document.getElementById('memoParcelDate')?document.getElementById('memoParcelDate').value:'';
-  var time=document.getElementById('memoParcelTime')?document.getElementById('memoParcelTime').value:'';
-  if(!date){wbToast('请先选择日期');return}
-  syncToCalendar(((s||'')+(c?' 取件码'+c:'')+(i?' '+i:'')).trim()||'取快递', date+'T'+(time||'09:00'));
-}
-function tmSyncDraft(){
-  var note=document.getElementById('memoNote1')?document.getElementById('memoNote1').value.trim():'';
-  var date=document.getElementById('memoDate1')?document.getElementById('memoDate1').value:'';
-  var time=document.getElementById('memoTime1')?document.getElementById('memoTime1').value:'';
-  if(!date){wbToast('请先选择日期');return}
-  syncToCalendar(note||'备忘', date+'T'+(time||'09:00'));
-}function openTmManage(){
-  tmManageMode=true;
-  document.getElementById('mgrFab').classList.add('active');
-  document.getElementById('mgrFab').textContent='退出管理';
-  var panel=document.getElementById('mgrSheet');
-  panel.innerHTML=''
-    +'<h3>管理 - 临时备忘</h3>'
-    +'<div class="tm-mgr-block"><div class="tm-mgr-title">快递</div>'
-    +'<div class="mgr-add-row">'
-    +'<input class="mgr-input" id="memoParcelStation" placeholder="驿站" style="flex:1">'
-    +'<input class="mgr-input" id="memoParcelCode" placeholder="取件码" style="flex:1">'
-    +'<input class="mgr-input" id="memoParcelItem" placeholder="物品" style="flex:1">'
-    +'</div>'
-    +'<div class="mgr-add-row">'
-    +'<input type="date" id="memoParcelDate" style="flex:1;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
-    +'<input type="time" id="memoParcelTime" style="width:100px;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
-    +'</div>'
-    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddParcel()">保存</button><button class="mgr-btn-del" onclick="tmSyncParcelDraft()">📅同步日历</button></div>'
-    +'</div>'
-    +'<div class="tm-mgr-block"><div class="tm-mgr-title">备忘一</div>'
-    +'<input class="mgr-input" id="memoNote1" placeholder="输入备注..." style="width:100%;margin-bottom:6px">'
-    +'<div class="mgr-add-row">'
-    +'<input type="date" id="memoDate1" style="flex:1;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
-    +'<input type="time" id="memoTime1" style="width:100px;padding:7px 10px;border-radius:7px;border:1px solid #d1d5db;font-size:.75rem;color:#1f2937;font-family:inherit;background:#f9fafb;outline:none">'
-    +'</div>'
-    +'<div class="tm-mgr-actions"><button class="mgr-btn-del" onclick="tmAddMemo()">保存</button><button class="mgr-btn-del" onclick="tmSyncDraft()">📅同步日历</button></div>'
-    +'</div>'
-    +'<div class="mgr-actions" style="display:flex;margin-top:12px"><button class="mgr-btn-del" onclick="tmDeleteChecked()">删除选中</button><button class="mgr-btn-done" onclick="closeTmManage()">完成</button></div>';
-  document.getElementById('mgrSheet').classList.add('open');
-  document.getElementById('mgrBackdrop').classList.add('show');
-  document.getElementById('mgrBackdrop').onclick=closeTmManage;
-  tmRender();
-}
-function closeTmManage(){
-  tmManageMode=false;
-  document.getElementById('mgrFab').classList.remove('active');
-  document.getElementById('mgrFab').textContent='管理';
-  document.getElementById('mgrSheet').classList.remove('open');
-  document.getElementById('mgrBackdrop').classList.remove('show');
-  document.getElementById('mgrSheet').innerHTML=MGR_SHEET_HTML;
-  tmRender();
-}
-function tmDeleteChecked(){
-  var checks=document.querySelectorAll('#tmParcelList .tm-check.checked, #tmMemoList .tm-check.checked');
-  if(!checks.length)return;
-  var parcelIdxs=[],memoIdxs=[];
-  checks.forEach(function(c){
-    var li=c.parentElement;var idx=Array.from(li.parentElement.children).indexOf(li);
-    if(li.parentElement.id==='tmParcelList')parcelIdxs.push(idx);
-    else memoIdxs.push(idx);
-  });
-  parcelIdxs.sort(function(a,b){return b-a}).forEach(function(i){tmData.parcels.splice(i,1)});
-  memoIdxs.sort(function(a,b){return b-a}).forEach(function(i){tmData.memos.splice(i,1)});
-  tmSave();tmRender();
-}
 function addHeadlineByIdx(idx){
   var inp=document.getElementById('hlInp'+idx);if(!inp)return;
   var t=inp.value.trim();if(!t)return;
@@ -1276,7 +1096,6 @@ function updateMgrCalBtn(){
 }
 var MGR_SHEET_HTML=document.getElementById('mgrSheet').innerHTML;
 function toggleManage(){if(currentSection==='travel'){var sheet=document.getElementById('mgrSheet');sheet.classList.contains('open')?closeTravelManage():openTravelManage();return}
-  if(currentSection==='tmpmemo'){var ts=document.getElementById('mgrSheet');if(ts.classList.contains('open')){closeTmManage()}else{openTmManage()}return}
   var sheet=document.getElementById('mgrSheet');
   var open=sheet.classList.contains('open');
   if(open){closeManage()}else{openManage()}
