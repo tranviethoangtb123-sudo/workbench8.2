@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:30:04.795Z",
+  "updated": "2026-09-13T08:36:43.600Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,9 +48,14 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 12 Sep 2026 21:16:47 GMT"
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 13 Sep 2026 07:06:41 GMT"
+      },
+      {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 12 Sep 2026 17:28:53 GMT"
       },
       {
         "title": "Will the Thirlwall report change the debate about Lucy Letby?",
@@ -58,9 +63,9 @@
         "date": "Sat, 12 Sep 2026 23:15:54 GMT"
       },
       {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 12 Sep 2026 21:25:28 GMT"
+        "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+        "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 13 Sep 2026 06:21:12 GMT"
       },
       {
         "title": "Student loan terms to be made clearer in England",
@@ -68,24 +73,19 @@
         "date": "Sat, 12 Sep 2026 23:20:29 GMT"
       },
       {
-        "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 12 Sep 2026 23:46:52 GMT"
-      },
-      {
-        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-        "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 12 Sep 2026 17:36:45 GMT"
-      },
-      {
         "title": "Diljit Dosanjh makes history under the famous Wembley arch",
         "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 12 Sep 2026 23:06:08 GMT"
       },
       {
+        "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 12 Sep 2026 23:41:52 GMT"
+      },
+      {
         "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
         "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 12 Sep 2026 23:43:52 GMT"
+        "date": "Sun, 13 Sep 2026 05:55:19 GMT"
       }
     ],
     "The New York Times": [
@@ -100,14 +100,19 @@
         "date": "Sat, 12 Sep 2026 22:57:38 +0000"
       },
       {
-        "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
-        "link": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
-        "date": "Sat, 12 Sep 2026 16:18:06 +0000"
+        "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
+        "link": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+        "date": "Sun, 13 Sep 2026 04:03:58 +0000"
       },
       {
         "title": "How Trump Is Wielding Power to Stifle Speech",
         "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-        "date": "Sat, 12 Sep 2026 21:02:01 +0000"
+        "date": "Sat, 12 Sep 2026 21:02:02 +0000"
+      },
+      {
+        "title": "Judge Rules Homeland Security Plan to Cut FEMA Staff in Half Is Unlawful",
+        "link": "https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html",
+        "date": "Sun, 13 Sep 2026 04:06:27 +0000"
       },
       {
         "title": "Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue",
@@ -122,12 +127,7 @@
       {
         "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
         "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-        "date": "Sat, 12 Sep 2026 18:02:40 +0000"
-      },
-      {
-        "title": "Republican Campaign Aide Is Fired Over Nazi Photo",
-        "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-        "date": "Sat, 12 Sep 2026 18:21:01 +0000"
+        "date": "Sat, 12 Sep 2026 18:02:41 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-        "date": "Sun, 13 Sep 2026 00:00:40 +0000"
+        "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 08:13:56 +0000"
       },
       {
-        "title": "Teen rescued after clinging to boat for two days off Alaska",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 23:56:58 +0000"
+        "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 07:48:22 +0000"
       },
       {
-        "title": "Death toll from Philippine ferry fire rises to 76",
-        "link": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 23:50:03 +0000"
+        "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
+        "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 07:00:59 +0000"
       },
       {
-        "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 23:43:32 +0000"
+        "title": "Rescuers search for 140 people after Indonesian passenger ship sinks",
+        "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 06:36:40 +0000"
       },
       {
-        "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 23:25:22 +0000"
+        "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+        "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 04:40:18 +0000"
       },
       {
-        "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 23:14:28 +0000"
+        "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 04:22:41 +0000"
       },
       {
-        "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
-        "link": "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 22:51:28 +0000"
+        "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+        "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 03:41:14 +0000"
       },
       {
-        "title": "Tens of thousands march across Germany to protest far-right party AfD",
-        "link": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-        "date": "Sat, 12 Sep 2026 22:37:03 +0000"
+        "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+        "date": "Sun, 13 Sep 2026 02:44:32 +0000"
       }
     ],
     "Financial Times": [
@@ -221,34 +221,39 @@
         "date": "Sat, 12 Sep 2026 18:14:06 GMT"
       },
       {
-        "title": "We are setting up a generation to fail at school",
-        "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 04:00:42 GMT"
+        "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
+        "link": "https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1",
+        "date": "Sun, 13 Sep 2026 04:00:03 GMT"
       },
       {
-        "title": "Why I, a non-billionaire, am not leaving the UK",
-        "link": "https://www.ft.com/content/b7a64635-2dcd-4d07-be75-47cd682b59e1?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 04:00:33 GMT"
+        "title": "As Europe’s memory fades, radicalism is returning",
+        "link": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
+        "date": "Sun, 13 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "Reuben brothers donated office space to Reform candidate for London mayor",
-        "link": "https://www.ft.com/content/2a37eff5-43bd-42c4-822b-af03f8fe4788?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 04:00:13 GMT"
+        "title": "The OBR needs to give us more clarity on migration",
+        "link": "https://www.ft.com/content/3efbd9a2-ccd0-4c98-8e97-8ab3358fd2f3",
+        "date": "Sun, 13 Sep 2026 04:00:03 GMT"
       },
       {
-        "title": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
-        "link": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 12:56:24 GMT"
+        "title": "Boom-era PE funds will fall short on promises, executives warn",
+        "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
+        "date": "Sun, 13 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "Chinese crypto investor was seller of £190mn London mansion",
-        "link": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 04:00:23 GMT"
+        "title": "CVC faces shareholder revolt over €10.7bn Recordati take-private",
+        "link": "https://www.ft.com/content/a4a22443-2082-409b-96e1-650c44a40f44?syn-25a6b1a6=1",
+        "date": "Sun, 13 Sep 2026 04:00:12 GMT"
       },
       {
-        "title": "US limits air defence time slots for tankers sailing through Hormuz",
-        "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
-        "date": "Sat, 12 Sep 2026 04:00:22 GMT"
+        "title": "Why Britain’s super-rich are looking for the exit",
+        "link": "https://www.ft.com/content/f3ecfe7f-25df-434f-a61d-a9ce0ac1e611?syn-25a6b1a6=1",
+        "date": "Sun, 13 Sep 2026 04:00:03 GMT"
+      },
+      {
+        "title": "Musk’s secretive backer builds $40bn SpaceX stake",
+        "link": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
+        "date": "Sun, 13 Sep 2026 04:00:03 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -423,51 +428,51 @@
     ],
     "Hacker News": [
       {
-        "title": "StarCraft returns in 2030 as an open-world shooter",
-        "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-        "date": "Sat, 12 Sep 2026 22:07:19 +0000"
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "date": "Sun, 13 Sep 2026 08:07:36 +0000"
       },
       {
-        "title": "Financial Times' 404 Page not Found",
-        "link": "https://www.ft.com/article/404",
-        "date": "Sat, 12 Sep 2026 21:28:08 +0000"
+        "title": "JetKVM Mini",
+        "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+        "date": "Sun, 13 Sep 2026 07:49:46 +0000"
       },
       {
-        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-        "link": "https://withspecific.com/benchmarks/real-swe",
-        "date": "Sat, 12 Sep 2026 20:25:48 +0000"
+        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "date": "Sun, 13 Sep 2026 07:02:40 +0000"
       },
       {
-        "title": "LG Says We're Fake News [video]",
-        "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-        "date": "Sat, 12 Sep 2026 19:35:36 +0000"
+        "title": "When anyone can build software, who decides what not to build?",
+        "link": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4",
+        "date": "Sun, 13 Sep 2026 05:59:26 +0000"
       },
       {
-        "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-        "link": "https://hachyderm.io/@simontatham/117201594980991062",
-        "date": "Sat, 12 Sep 2026 18:58:57 +0000"
+        "title": "A wandering black hole caught feeding on the run",
+        "link": "https://phys.org/news/2026-08-black-hole-caught.html",
+        "date": "Sun, 13 Sep 2026 03:34:53 +0000"
       },
       {
-        "title": "Will There Be a 7G?",
-        "link": "https://arxiv.org/abs/2609.01877",
-        "date": "Sat, 12 Sep 2026 17:05:31 +0000"
+        "title": "A succession crisis that tore England apart (2023)",
+        "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+        "date": "Sun, 13 Sep 2026 03:18:29 +0000"
       },
       {
-        "title": "Make your first edit to OpenStreetMap",
-        "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-        "date": "Sat, 12 Sep 2026 16:25:08 +0000"
+        "title": "Aligned to whom?",
+        "link": "https://hyperbo.la/w/aligned-to-whom/",
+        "date": "Sun, 13 Sep 2026 03:17:18 +0000"
       },
       {
-        "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-        "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-        "date": "Sat, 12 Sep 2026 15:49:52 +0000"
+        "title": "After Math",
+        "link": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+        "date": "Sun, 13 Sep 2026 03:16:41 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1662, Part 1 (Thread #1809)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1we23x7/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-12T04:02:27+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1663, Part 1 (Thread #1810)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wex9zv/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-13T04:02:33+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -475,19 +480,14 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "France has banned advertising for ultra fast fashion and prohibited influencers from promoting it, with fines of up to €100,000 for violations. The new law also requires major platforms to disclose where clothing is made and makes polluting fashion producers pay more toward textile recycling.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
-        "date": "2026-09-12T16:59:36+00:00"
-      },
-      {
         "title": "Tens of thousands protest against far-right AfD party in Germany",
         "link": "https://www.reddit.com/r/worldnews/comments/1weoy88/tens_of_thousands_protest_against_farright_afd/",
         "date": "2026-09-12T21:33:50+00:00"
       },
       {
-        "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wenkap/canadian_boycott_of_us_products_pushes_grocers_to/",
-        "date": "2026-09-12T20:37:55+00:00"
+        "title": "France has banned advertising for ultra fast fashion and prohibited influencers from promoting it, with fines of up to €100,000 for violations. The new law also requires major platforms to disclose where clothing is made and makes polluting fashion producers pay more toward textile recycling.",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
+        "date": "2026-09-12T16:59:36+00:00"
       },
       {
         "title": "'Immoral and self-destructive' — Zelensky blasts EU for considering lifting sanctions on Russian oligarchs",
@@ -495,21 +495,26 @@
         "date": "2026-09-12T21:08:16+00:00"
       },
       {
-        "title": "Putin threatens Europe with war if European troops are deployed to Ukraine",
-        "link": "https://www.reddit.com/r/worldnews/comments/1we9d19/putin_threatens_europe_with_war_if_european/",
-        "date": "2026-09-12T10:47:32+00:00"
+        "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wenkap/canadian_boycott_of_us_products_pushes_grocers_to/",
+        "date": "2026-09-12T20:37:55+00:00"
       },
       {
-        "title": "Anthropic CEO calls for the AI industry to slow down",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wefhb0/anthropic_ceo_calls_for_the_ai_industry_to_slow/",
-        "date": "2026-09-12T15:25:31+00:00"
+        "title": "Putin Rejects Zelensky’s Proposal for Miamí G20 Talks",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wf0wdn/putin_rejects_zelenskys_proposal_for_miamí_g20/",
+        "date": "2026-09-13T07:21:31+00:00"
+      },
+      {
+        "title": "Russia refuses to stop attacking Ukraine during peace negotiations, Lavrov says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1weznqs/russia_refuses_to_stop_attacking_ukraine_during/",
+        "date": "2026-09-13T06:11:17+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
         "title": "Today’s NYT Strands Hints, Answers and Help for Sept. 13, #924",
-        "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/",
+        "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924-2/",
         "date": "2026-09-12 20:00:00"
       },
       {
