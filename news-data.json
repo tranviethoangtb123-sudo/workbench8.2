@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T00:53:35.939Z",
+  "updated": "2026-09-16T08:55:25.388Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,14 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
         "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 16 Sep 2026 00:13:09 GMT"
+        "date": "Wed, 16 Sep 2026 06:57:32 GMT"
       },
       {
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
         "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 15 Sep 2026 21:07:13 GMT"
-      },
-      {
-        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 16 Sep 2026 00:25:34 GMT"
+        "date": "Wed, 16 Sep 2026 08:35:56 GMT"
       },
       {
         "title": "UK in talks about joining global defence bank led by Canada",
@@ -68,31 +63,36 @@
         "date": "Tue, 15 Sep 2026 23:50:55 GMT"
       },
       {
-        "title": "Complaints to watchdog about water firms jump 84%",
-        "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 15 Sep 2026 23:14:08 GMT"
+        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+        "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 15 Sep 2026 22:04:38 GMT"
       },
       {
-        "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 15 Sep 2026 23:27:17 GMT"
+        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 16 Sep 2026 00:25:34 GMT"
       },
       {
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 15 Sep 2026 20:34:12 GMT"
+        "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+        "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 16 Sep 2026 08:39:27 GMT"
       },
       {
-        "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-        "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 16 Sep 2026 00:05:51 GMT"
+        "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+        "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 15 Sep 2026 23:39:55 GMT"
+      },
+      {
+        "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 16 Sep 2026 07:00:58 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
         "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
-        "date": "Tue, 15 Sep 2026 23:17:15 +0000"
+        "date": "Wed, 16 Sep 2026 01:20:59 +0000"
       },
       {
         "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
@@ -100,9 +100,9 @@
         "date": "Wed, 16 Sep 2026 00:19:23 +0000"
       },
       {
-        "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-        "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-        "date": "Tue, 15 Sep 2026 22:17:56 +0000"
+        "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+        "link": "https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html",
+        "date": "Wed, 16 Sep 2026 04:01:30 +0000"
       },
       {
         "title": "Kennedy Center Closes Its Doors Despite a Judge’s Order",
@@ -110,27 +110,42 @@
         "date": "Tue, 15 Sep 2026 23:08:55 +0000"
       },
       {
-        "title": "Kash Patel Suggests FBI Agents Could Go to Election Polling Sites",
-        "link": "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html",
-        "date": "Tue, 15 Sep 2026 19:58:44 +0000"
-      },
-      {
-        "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
-        "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
-        "date": "Tue, 15 Sep 2026 20:06:21 +0000"
-      },
-      {
         "title": "Federal Employees Were Paid $9.5 Billion Not to Work in 2025 Under DOGE Effort",
         "link": "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html",
         "date": "Tue, 15 Sep 2026 23:47:02 +0000"
       },
       {
-        "title": "Trump Threatens to Cancel Kennedy Center Renovation",
-        "link": "https://www.nytimes.com/2026/09/15/briefing/trump-kennedy-center-crypto-bill.html",
-        "date": "Tue, 15 Sep 2026 21:48:20 +0000"
+        "title": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval",
+        "link": "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html",
+        "date": "Wed, 16 Sep 2026 03:01:01 +0000"
+      },
+      {
+        "title": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
+        "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+        "date": "Wed, 16 Sep 2026 00:12:57 +0000"
+      },
+      {
+        "title": "Houthis Say They Downed a Saudi Fighter Jet and Deny Targeting Mecca",
+        "link": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+        "date": "Wed, 16 Sep 2026 08:25:55 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+        "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+        "date": "Wed, 16 Sep 2026 07:00:14 GMT"
+      },
+      {
+        "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+        "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+        "date": "Wed, 16 Sep 2026 06:00:12 GMT"
+      },
+      {
+        "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
+        "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
+        "date": "Wed, 16 Sep 2026 05:00:12 GMT"
+      },
       {
         "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
         "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
@@ -142,19 +157,9 @@
         "date": "Tue, 15 Sep 2026 04:00:26 GMT"
       },
       {
-        "title": "The London hospital funded by donors who invested in the slave trade",
-        "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-        "date": "Mon, 14 Sep 2026 13:00:58 GMT"
-      },
-      {
-        "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-        "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-        "date": "Mon, 14 Sep 2026 12:38:51 GMT"
-      },
-      {
-        "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-        "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-        "date": "Sat, 12 Sep 2026 15:09:05 GMT"
+        "title": "People protecting nature and land set up self-defence units amid threat of murder",
+        "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+        "date": "Wed, 16 Sep 2026 05:00:10 GMT"
       },
       {
         "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
@@ -165,95 +170,90 @@
         "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
         "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
         "date": "Tue, 15 Sep 2026 19:08:37 GMT"
-      },
-      {
-        "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
-        "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-        "date": "Tue, 15 Sep 2026 02:43:18 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-        "date": "Wed, 16 Sep 2026 00:00:00 +0000"
+        "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
+        "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 07:49:30 +0000"
       },
       {
-        "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 23:47:56 +0000"
+        "title": "US charges five people over alleged Russian plots",
+        "link": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 06:57:10 +0000"
       },
       {
-        "title": "Argentina intensifies campaign against Falklands oil companies",
-        "link": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 23:03:52 +0000"
+        "title": "Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb",
+        "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 06:25:35 +0000"
       },
       {
-        "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-        "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 22:38:08 +0000"
+        "title": "US House votes to end Iran war, 7 Republicans join in favour",
+        "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 05:36:53 +0000"
       },
       {
-        "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-        "link": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 22:21:44 +0000"
+        "title": "Seoul court orders North Korea to pay $32.5m for blowing up office",
+        "link": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 05:31:34 +0000"
       },
       {
-        "title": "Why is the far-right embracing crypto?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 22:09:02 +0000"
+        "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
+        "link": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 05:24:50 +0000"
       },
       {
-        "title": "Algeria faces calls to drop death penalty plans after wildfires",
-        "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 22:01:27 +0000"
+        "title": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 05:21:18 +0000"
       },
       {
-        "title": "US Senate crypto bill collapses in blow to industry",
-        "link": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
-        "date": "Tue, 15 Sep 2026 21:31:48 +0000"
+        "title": "News helicopter crash in Los Angeles kills three, injures one",
+        "link": "https://www.aljazeera.com/news/2026/9/16/news-helicopter-crash-in-los-angeles-kills-three-injures-one?traffic_source=rss",
+        "date": "Wed, 16 Sep 2026 05:07:47 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
-        "link": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 21:54:39 GMT"
+        "title": "UK inflation rose to 3.1% in August",
+        "link": "https://www.ft.com/content/57c085c9-741e-4202-8be7-812ea7bd6d19?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 07:27:43 GMT"
       },
       {
-        "title": "Jensen Huang says battle over AI innovation and safety is ‘false choice’",
-        "link": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 20:55:21 GMT"
+        "title": "Fed should defy Trump with rate rise, top economists say",
+        "link": "https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 04:00:23 GMT"
       },
       {
-        "title": "Trump’s Iran war has cost US $38bn and caused munitions ‘shortfall’",
-        "link": "https://www.ft.com/content/e89bfb29-2aef-40ec-9c9d-b9c1afa783a8?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 19:47:50 GMT"
+        "title": "Why the US and China are at odds on AI threats",
+        "link": "https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 01:18:40 GMT"
       },
       {
-        "title": "Scott Bessent’s wobbly house",
-        "link": "https://www.ft.com/content/608a9f4e-0beb-4840-a37c-831a5265d7da?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 10:59:05 GMT"
+        "title": "With AI, ‘I told you so’ will be too late",
+        "link": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 04:00:23 GMT"
       },
       {
-        "title": "The ex-JPMorgan banker facing Wall Street’s toughest turnaround job",
-        "link": "https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 10:00:10 GMT"
+        "title": "How Switzerland turned tax competition into a national sport",
+        "link": "https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 04:00:05 GMT"
       },
       {
-        "title": "UK state pension will surpass income tax threshold next year",
-        "link": "https://www.ft.com/content/2374a71b-1a31-444f-8221-6c73c7c1c251?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 11:38:29 GMT"
+        "title": "US billionaires line up to bankroll Republicans’ election push",
+        "link": "https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 04:00:06 GMT"
       },
       {
-        "title": "Britain, Burnham and tax: the walls close in",
-        "link": "https://www.ft.com/content/59a0cd3e-62cf-45f5-9377-43429db5aefa?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 04:00:18 GMT"
+        "title": "Von der Leyen backs Canada’s ‘associate membership’ bid",
+        "link": "https://www.ft.com/content/8fed428e-7bcc-435c-9487-cb4e6a795328?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 08:38:57 GMT"
       },
       {
-        "title": "Landmark US crypto bill fails as Senate splits over Trump ethics concerns",
-        "link": "https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1",
-        "date": "Tue, 15 Sep 2026 21:31:07 GMT"
+        "title": "EU to restrict social media and chatbots for children under 15",
+        "link": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8?syn-25a6b1a6=1",
+        "date": "Wed, 16 Sep 2026 08:27:43 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,49 +302,59 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-        "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-        "date": "Tue, 15 Sep 2026 18:00:09 +0000"
+        "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
+        "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
+        "date": "Wed, 16 Sep 2026 08:30:00 +0000"
       },
       {
-        "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
-        "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
-        "date": "Tue, 15 Sep 2026 17:50:40 +0000"
+        "title": "Bose Promo Code: 40% Off for September 2026",
+        "link": "https://www.wired.com/story/bose-coupon-code/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-        "link": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
-        "date": "Tue, 15 Sep 2026 17:16:01 +0000"
+        "title": "OnePlus Promo Codes: 30% Off September 2026",
+        "link": "https://www.wired.com/story/oneplus-promo-code/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power",
-        "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-        "date": "Tue, 15 Sep 2026 16:00:00 +0000"
+        "title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
+        "link": "https://www.wired.com/story/chegg-coupon-code/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-        "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
-        "date": "Tue, 15 Sep 2026 13:06:00 +0000"
+        "title": "Rover Promo Codes and Referral Deals for 2026",
+        "link": "https://www.wired.com/story/rover-promo-code/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
-        "link": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
-        "date": "Tue, 15 Sep 2026 11:00:00 +0000"
+        "title": "Walmart Promo Codes: 20% Off for September 2026",
+        "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
-        "link": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
-        "date": "Tue, 15 Sep 2026 10:45:00 +0000"
+        "title": "Sam's Club Promo Codes and Membership Deals for September 2026",
+        "link": "https://www.wired.com/story/sams-club-coupon/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       },
       {
-        "title": "Those Viral Bodega Peptides Aren’t Actually Peptides",
-        "link": "https://www.wired.com/story/viral-bodega-peptides-tests-show-they-arent-peptides-oops/",
-        "date": "Tue, 15 Sep 2026 10:30:00 +0000"
+        "title": "Office Depot Coupons: $20 Off September 2026",
+        "link": "https://www.wired.com/story/office-depot-promo-codes/",
+        "date": "Wed, 16 Sep 2026 05:00:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+        "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+        "date": "2026-09-16 02:00:00"
+      },
+      {
+        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+        "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+        "date": "2026-09-16 01:00:00"
+      },
+      {
+        "title": "AI and data centers are incredibly unpopular in every poll",
         "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
         "date": "2026-09-15 23:34:25"
       },
@@ -372,16 +382,6 @@
         "title": "How The Oregon Trail became a generational icon",
         "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
         "date": "2026-09-15 16:18:10"
-      },
-      {
-        "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
-        "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-        "date": "2026-09-15 16:00:00"
-      },
-      {
-        "title": "Now Light’s minimalist phone can easily call an Uber",
-        "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
-        "date": "2026-09-15 15:00:00"
       }
     ],
     "TechCrunch": [
@@ -428,51 +428,51 @@
     ],
     "Hacker News": [
       {
+        "title": "EU Floats Canada Becoming the Bloc's First 'Associate Member'",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-16/eu-proposes-canada-become-the-bloc-s-first-associate-member",
+        "date": "Wed, 16 Sep 2026 08:11:16 +0000"
+      },
+      {
+        "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+        "link": "https://github.com/dbalsom/martypc",
+        "date": "Wed, 16 Sep 2026 05:56:02 +0000"
+      },
+      {
+        "title": "A software thing I built: GPS on a 25MHz 486-SX",
+        "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+        "date": "Wed, 16 Sep 2026 05:43:44 +0000"
+      },
+      {
+        "title": "Datamimic – don't let your coding agent invent its own test world",
+        "link": "https://github.com/rapiddweller/datamimic",
+        "date": "Wed, 16 Sep 2026 04:58:36 +0000"
+      },
+      {
+        "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+        "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+        "date": "Wed, 16 Sep 2026 02:46:06 +0000"
+      },
+      {
+        "title": "Stay discoverable in search while disallowing AI training",
+        "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "date": "Wed, 16 Sep 2026 02:25:18 +0000"
+      },
+      {
+        "title": "Apple Reference Image: A New Approach for Verified Photography",
+        "link": "https://security.apple.com/blog/apple-reference-image/",
+        "date": "Wed, 16 Sep 2026 02:07:31 +0000"
+      },
+      {
         "title": "Saving Jet Fuel",
         "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
         "date": "Tue, 15 Sep 2026 23:17:20 +0000"
-      },
-      {
-        "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-        "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-        "date": "Tue, 15 Sep 2026 22:50:55 +0000"
-      },
-      {
-        "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-        "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "date": "Tue, 15 Sep 2026 21:07:47 +0000"
-      },
-      {
-        "title": "Jean-Pierre Serre is 100 years old today",
-        "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-        "date": "Tue, 15 Sep 2026 20:57:18 +0000"
-      },
-      {
-        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "link": "https://codyho.dev/blog/gpu-driver/",
-        "date": "Tue, 15 Sep 2026 19:30:03 +0000"
-      },
-      {
-        "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-        "link": "https://github.com/GraafHenk/numberwang",
-        "date": "Tue, 15 Sep 2026 19:27:35 +0000"
-      },
-      {
-        "title": "Introducing System One Models and Jev",
-        "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "date": "Tue, 15 Sep 2026 19:25:03 +0000"
-      },
-      {
-        "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-        "link": "https://mnoukhov.github.io/posts/ngu/",
-        "date": "Tue, 15 Sep 2026 19:07:38 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1665, Part 1 (Thread #1812)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wgpmw3/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-15T04:02:33+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1666, Part 1 (Thread #1813)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whmhfu/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-16T04:02:35+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -480,41 +480,46 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "The Trump administration is preparing a $2.8 billion sale of 2,000-pound bombs to Israel, the largest single sale of the controversial munitions in recent years, a U.S. official told The Post.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
-        "date": "2026-09-15T19:49:35+00:00"
-      },
-      {
-        "title": "'Space Must Be Free Of Weapons': Russia, China Slam US For 'Preparing For War In Space'.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wh0ttb/space_must_be_free_of_weapons_russia_china_slam/",
-        "date": "2026-09-15T13:44:51+00:00"
-      },
-      {
         "title": "Skyrocketing fuel prices spark protests around the globe",
         "link": "https://www.reddit.com/r/worldnews/comments/1whf4zi/skyrocketing_fuel_prices_spark_protests_around/",
         "date": "2026-09-15T22:33:44+00:00"
       },
       {
-        "title": "EU prepares sweeping sanctions against Russia and considers military entry ban",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wh3tvr/eu_prepares_sweeping_sanctions_against_russia_and/",
-        "date": "2026-09-15T15:38:50+00:00"
+        "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whnsjz/iranian_strikes_damaged_hundreds_of_us_military/",
+        "date": "2026-09-16T05:10:32+00:00"
       },
       {
-        "title": "Prime Minister Mark Carney says Canada will pursue a “unique security and economic alliance” with Europe as it looks to reduce its reliance on trade with the US",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wha1i0/prime_minister_mark_carney_says_canada_will/",
-        "date": "2026-09-15T19:20:30+00:00"
+        "title": "The Trump administration is preparing a $2.8 billion sale of 2,000-pound bombs to Israel, the largest single sale of the controversial munitions in recent years, a U.S. official told The Post.",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
+        "date": "2026-09-15T19:49:35+00:00"
       },
       {
-        "title": "Zelenskyy Reveals Repeated Aerial Targeting During Recent European Travels, CBS Reports",
-        "link": "https://www.reddit.com/r/worldnews/comments/1whbzvi/zelenskyy_reveals_repeated_aerial_targeting/",
-        "date": "2026-09-15T20:31:32+00:00"
+        "title": "Another Russian general killed in war against Ukraine",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whqp1l/another_russian_general_killed_in_war_against/",
+        "date": "2026-09-16T07:51:38+00:00"
+      },
+      {
+        "title": "Zelensky Says Putin Wants All of Ukraine, Rejects ‘Win-Win’ Peace Concept",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whpag8/zelensky_says_putin_wants_all_of_ukraine_rejects/",
+        "date": "2026-09-16T06:32:10+00:00"
+      },
+      {
+        "title": "International students to be effectively barred from bringing family to Australia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1whp31d/international_students_to_be_effectively_barred/",
+        "date": "2026-09-16T06:20:56+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
+        "title": "Samsung Goes to Couples Therapy to Unpack iPhone-to-Android Tension",
+        "link": "https://www.cnet.com/tech/mobile/samsung-goes-couples-therapy-unpack-iphone-android-tension/",
+        "date": "2026-09-16 04:15:35"
+      },
+      {
         "title": "Today’s NYT Strands Hints, Answers and Help for Sept. 16, #927",
-        "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-927-2/",
+        "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-927/",
         "date": "2026-09-15 23:47:04"
       },
       {
@@ -546,11 +551,6 @@
         "title": "Before You Install iOS 27, Make Sure You Have the Right iPhone Backup",
         "link": "https://www.cnet.com/tech/mobile/back-up-iphone-the-right-way/",
         "date": "2024-07-28 11:00:16"
-      },
-      {
-        "title": "Walt Disney World Brings AI Into Its Booking Site",
-        "link": "https://www.cnet.com/tech/services-and-software/walt-disney-world-brings-ai-into-its-booking-site-2/",
-        "date": "2026-09-15 18:19:47"
       }
     ],
     "AP": [],
