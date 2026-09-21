@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T00:39:44.621Z",
+  "updated": "2026-09-21T09:24:01.631Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,51 +48,56 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+        "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 04:00:05 GMT"
+      },
+      {
+        "title": "Specialist courts for rape cases to be rolled out in England and Wales",
+        "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 08:46:30 GMT"
+      },
+      {
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 20:21:40 GMT"
+        "date": "Mon, 21 Sep 2026 08:56:27 GMT"
       },
       {
-        "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-        "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 15:21:19 GMT"
+        "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+        "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 05:00:34 GMT"
       },
       {
-        "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-        "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 22:43:31 GMT"
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 00:05:11 GMT"
       },
       {
-        "title": "Union calls for halt to graded Ofsted inspections over health concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 23:02:05 GMT"
+        "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 07:01:25 GMT"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 10:45:39 GMT"
+        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 04:00:38 GMT"
       },
       {
-        "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-        "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 17:25:49 GMT"
-      },
-      {
-        "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
-        "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 17:04:51 GMT"
-      },
-      {
-        "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 20 Sep 2026 23:12:31 GMT"
+        "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 21 Sep 2026 05:52:57 GMT"
       }
     ],
     "The New York Times": [
       {
+        "title": "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help",
+        "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html",
+        "date": "Mon, 21 Sep 2026 02:36:46 +0000"
+      },
+      {
         "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
         "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html",
-        "date": "Sun, 20 Sep 2026 21:10:07 +0000"
+        "date": "Mon, 21 Sep 2026 05:23:51 +0000"
       },
       {
         "title": "How President Trump Broke the Kennedy Center",
@@ -102,7 +107,7 @@
       {
         "title": "White House Moves to Take Control of N.I.H. Grants",
         "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html",
-        "date": "Sun, 20 Sep 2026 23:59:05 +0000"
+        "date": "Mon, 21 Sep 2026 03:33:03 +0000"
       },
       {
         "title": "In Fighting for Every Black Child, Did I Betray My Own?",
@@ -115,22 +120,22 @@
         "date": "Sun, 20 Sep 2026 11:42:18 +0000"
       },
       {
-        "title": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
-        "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
-        "date": "Sun, 20 Sep 2026 21:47:00 +0000"
+        "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+        "link": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+        "date": "Mon, 21 Sep 2026 04:01:07 +0000"
       },
       {
-        "title": "Republican Who Runs South Dakota Elections Backs Democrat to Succeed Her",
-        "link": "https://www.nytimes.com/2026/09/20/us/south-dakota-secretary-state-endorse-democrat.html",
-        "date": "Sun, 20 Sep 2026 23:01:18 +0000"
-      },
-      {
-        "title": "The Day Before The Times Began",
-        "link": "https://www.nytimes.com/2026/09/17/nyregion/new-york-newspaper-world-19th-century.html",
-        "date": "Fri, 18 Sep 2026 20:51:35 +0000"
+        "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+        "link": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+        "date": "Mon, 21 Sep 2026 01:07:08 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Banished to alien lands: Trump’s secret deportation deals",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
+        "date": "Mon, 21 Sep 2026 05:00:38 GMT"
+      },
       {
         "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
         "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
@@ -152,9 +157,9 @@
         "date": "Fri, 18 Sep 2026 10:00:15 GMT"
       },
       {
-        "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
-        "link": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
-        "date": "Fri, 18 Sep 2026 08:30:12 GMT"
+        "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "date": "Mon, 21 Sep 2026 01:09:23 GMT"
       },
       {
         "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
@@ -165,95 +170,90 @@
         "title": "Michelle Bachelet withdraws from race to become UN secretary general",
         "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
         "date": "Sun, 20 Sep 2026 12:04:08 GMT"
-      },
-      {
-        "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-        "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
-        "date": "Fri, 18 Sep 2026 17:10:37 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-        "date": "Mon, 21 Sep 2026 00:00:47 +0000"
+        "title": "Australia’s deaths to outnumber births by 2060s, report says",
+        "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 08:53:31 +0000"
       },
       {
-        "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
-        "link": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 23:59:28 +0000"
+        "title": "Russia election results show Putin’s party winning: What we know",
+        "link": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 08:47:06 +0000"
       },
       {
-        "title": "Polls close in Russian wartime election with ruling party set to dominate",
-        "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 22:54:00 +0000"
+        "title": "Three South Korean military officers wounded in explosion near border",
+        "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 07:45:12 +0000"
       },
       {
-        "title": "France to summon Iran envoy after language centre closure in Tehran",
-        "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 22:06:22 +0000"
+        "title": "Afghanistan says three killed in Pakistani air attacks",
+        "link": "https://www.aljazeera.com/news/2026/9/21/afghanistan-says-three-killed-in-pakistani-air-attacks?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 07:30:10 +0000"
       },
       {
-        "title": "Qatar PM urges Gulf security framework with Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 21:00:15 +0000"
+        "title": "Mourinho fumes at referees in news conference after Madrid derby defeat",
+        "link": "https://www.aljazeera.com/sports/2026/9/21/mourinho-fumes-at-referees-in-news-conference-after-madrid-derby-defeat?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 06:32:22 +0000"
       },
       {
-        "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 20:58:01 +0000"
+        "title": "Why can’t the UN stop wars?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 06:17:27 +0000"
       },
       {
-        "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-        "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 20:31:15 +0000"
+        "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 05:56:27 +0000"
       },
       {
-        "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-        "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-        "date": "Sun, 20 Sep 2026 20:13:18 +0000"
+        "title": "Iran’s military says US preparing to resume strikes",
+        "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+        "date": "Mon, 21 Sep 2026 05:21:41 +0000"
       }
     ],
     "Financial Times": [
       {
         "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
         "link": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 21:47:35 GMT"
+        "date": "Mon, 21 Sep 2026 02:08:18 GMT"
       },
       {
         "title": "Germany’s Merz stands his ground but for how long?",
         "link": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 20:58:21 GMT"
+        "date": "Mon, 21 Sep 2026 02:05:53 GMT"
       },
       {
-        "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-        "link": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 07:00:12 GMT"
+        "title": "Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’",
+        "link": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 03:00:08 GMT"
       },
       {
-        "title": "Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity",
-        "link": "https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2",
-        "date": "Sun, 20 Sep 2026 17:00:04 GMT"
+        "title": "Why the world’s hottest stock market is a national liability",
+        "link": "https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 04:00:18 GMT"
       },
       {
-        "title": "Freedom in adulthood isn’t what you think",
-        "link": "https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 04:00:11 GMT"
+        "title": "Lex in depth: the challenging maths of Anthropic’s IPO",
+        "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 04:00:11 GMT"
       },
       {
-        "title": "Trump says 250ft arch will be ‘military complex’ with drones and snipers",
-        "link": "https://www.ft.com/content/33b317b4-cd7b-486a-8707-4d65db837c6d?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 15:43:07 GMT"
+        "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+        "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 04:00:11 GMT"
       },
       {
-        "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
-        "link": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 15:00:04 GMT"
+        "title": "VW ejected from European blue-chip index in blow to crisis-hit carmaker",
+        "link": "https://www.ft.com/content/188611f3-2536-4bed-a2c0-bbc074e6f783?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 04:00:18 GMT"
       },
       {
-        "title": "Ukraine hits Moscow with ‘largest ever’ drone attack",
-        "link": "https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae?syn-25a6b1a6=1",
-        "date": "Sun, 20 Sep 2026 11:32:27 GMT"
+        "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
+        "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 04:11:57 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+        "link": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
+        "date": "Mon, 21 Sep 2026 09:00:00 +0000"
+      },
+      {
         "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
         "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
         "date": "Sun, 20 Sep 2026 11:07:00 +0000"
@@ -335,11 +340,6 @@
         "title": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
         "link": "https://www.wired.com/story/how-shop-safe-amazon/",
         "date": "Sun, 20 Sep 2026 09:38:00 +0000"
-      },
-      {
-        "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-        "link": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-        "date": "Sun, 20 Sep 2026 09:30:00 +0000"
       }
     ],
     "The Verge": [
@@ -428,56 +428,66 @@
     ],
     "Hacker News": [
       {
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "link": "https://github.com/jaredpalmer/kev/tree/main",
+        "date": "Mon, 21 Sep 2026 07:11:55 +0000"
+      },
+      {
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "date": "Mon, 21 Sep 2026 05:55:22 +0000"
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "link": "https://github.com/volotat/mini-AGI/",
+        "date": "Mon, 21 Sep 2026 04:42:37 +0000"
+      },
+      {
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "date": "Mon, 21 Sep 2026 04:28:44 +0000"
+      },
+      {
+        "title": "Deterministic Core, Non-Deterministic Shell",
+        "link": "https://outdata.net/blog/260803",
+        "date": "Mon, 21 Sep 2026 02:02:45 +0000"
+      },
+      {
+        "title": "Why Backprop Goes Backward (2018)",
+        "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+        "date": "Mon, 21 Sep 2026 00:42:14 +0000"
+      },
+      {
         "title": "Amiga Unix, Again",
         "link": "https://amigaux.org/",
         "date": "Sun, 20 Sep 2026 23:57:10 +0000"
       },
       {
-        "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
-        "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-        "date": "Sun, 20 Sep 2026 23:19:04 +0000"
-      },
-      {
         "title": "What happened to the Snowden archive",
         "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
         "date": "Sun, 20 Sep 2026 22:35:49 +0000"
-      },
-      {
-        "title": "Google's Open Agentic Orchestrator",
-        "link": "https://agentexecutor.io",
-        "date": "Sun, 20 Sep 2026 22:32:43 +0000"
-      },
-      {
-        "title": "Not all AI workers think the tech could kill everyone",
-        "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-        "date": "Sun, 20 Sep 2026 22:22:16 +0000"
-      },
-      {
-        "title": "Bill to Ban Private Equity from Owning Medical Practices",
-        "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-        "date": "Sun, 20 Sep 2026 22:13:46 +0000"
-      },
-      {
-        "title": "Nobody pays for FOSS, we can force them to",
-        "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-        "date": "Sun, 20 Sep 2026 21:04:32 +0000"
-      },
-      {
-        "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-        "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-        "date": "Sun, 20 Sep 2026 20:59:02 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1670, Part 1 (Thread #1817)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wl6kqj/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-20T04:02:53+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1671, Part 1 (Thread #1818)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wm25kw/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-21T04:02:26+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
         "link": "https://www.reddit.com/r/worldnews/comments/1w7agwp/rworldnews_discussion_thread_us_and_israel_launch/",
         "date": "2026-09-04T17:12:36+00:00"
+      },
+      {
+        "title": "Far-left party wins Berlin election, pledging to nationalise housing",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wlvrfp/farleft_party_wins_berlin_election_pledging_to/",
+        "date": "2026-09-20T23:03:28+00:00"
+      },
+      {
+        "title": "More than 100,000 people in Japan are now aged 100 or older",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wm4bh9/more_than_100000_people_in_japan_are_now_aged_100/",
+        "date": "2026-09-21T05:57:51+00:00"
       },
       {
         "title": "Trump on Iran: ‘My question is, if and when do I blow the entire nation up?’",
@@ -490,30 +500,20 @@
         "date": "2026-09-20T15:06:44+00:00"
       },
       {
-        "title": "Far-left party wins Berlin election, pledging to nationalise housing",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wlvrfp/farleft_party_wins_berlin_election_pledging_to/",
-        "date": "2026-09-20T23:03:28+00:00"
+        "title": "India finds Nestle baby food sample substandard, takes legal action",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wltwkm/india_finds_nestle_baby_food_sample_substandard/",
+        "date": "2026-09-20T21:44:58+00:00"
       },
       {
-        "title": "Ukraine uses Pelican ballistic missile for first time in strikes on Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wlkw3m/ukraine_uses_pelican_ballistic_missile_for_first/",
-        "date": "2026-09-20T16:01:56+00:00"
-      },
-      {
-        "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wlm5gm/italy_to_ban_veils_in_schools_limit_foreign/",
-        "date": "2026-09-20T16:50:10+00:00"
-      },
-      {
-        "title": "Canada, France to Develop Shared Space Launch Infrastructure",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wlpemq/canada_france_to_develop_shared_space_launch/",
-        "date": "2026-09-20T18:53:22+00:00"
+        "title": "Iran economy shrinks 10.1% during US-Israel war, official data shows",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wlzkx5/iran_economy_shrinks_101_during_usisrael_war/",
+        "date": "2026-09-21T01:56:03+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "The iPhone 18 Pro Is Tricky to Repair According to an iFixIt Teardown",
+        "title": "The iPhone 18 Pro Is Tricky to Repair, According to an iFixIt Teardown",
         "link": "https://www.cnet.com/tech/mobile/the-iphone-18-pro-is-tricky-to-repair-according-to-an-ifixit-teardown/",
         "date": "2026-09-20 22:53:17"
       },
