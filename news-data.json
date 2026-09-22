@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:52:55.808Z",
+  "updated": "2026-09-22T13:04:38.595Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,6 +48,11 @@
     "Reuters": [],
     "BBC News": [
       {
+        "title": "PM to warn EU chief of 'damage' posed by Made in Europe scheme",
+        "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 22 Sep 2026 11:24:27 GMT"
+      },
+      {
         "title": "Martha's Rule rolled out at every A&E department in England",
         "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
         "date": "Tue, 22 Sep 2026 08:32:32 GMT"
@@ -58,19 +63,9 @@
         "date": "Tue, 22 Sep 2026 08:52:12 GMT"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 22 Sep 2026 06:03:22 GMT"
-      },
-      {
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 22 Sep 2026 04:05:58 GMT"
-      },
-      {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 22 Sep 2026 07:48:21 GMT"
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 22 Sep 2026 11:34:11 GMT"
       },
       {
         "title": "Scientists discover why Kent meningitis outbreak was so severe",
@@ -83,51 +78,56 @@
         "date": "Tue, 22 Sep 2026 02:43:52 GMT"
       },
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 22 Sep 2026 07:39:35 GMT"
+        "title": "Father admits causing death of his son in hotel fall",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 22 Sep 2026 11:18:27 GMT"
+      },
+      {
+        "title": "How Trump's media ban sparked a broadcaster boycott",
+        "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 22 Sep 2026 12:26:31 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
         "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
-        "date": "Tue, 22 Sep 2026 02:00:10 +0000"
+        "date": "Tue, 22 Sep 2026 11:08:43 +0000"
       },
       {
         "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
         "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html",
-        "date": "Tue, 22 Sep 2026 02:00:06 +0000"
+        "date": "Tue, 22 Sep 2026 12:55:00 +0000"
       },
       {
         "title": "Japan Meets With Trump, Hoping to Get His Help on China",
         "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-        "date": "Tue, 22 Sep 2026 07:58:46 +0000"
+        "date": "Tue, 22 Sep 2026 12:28:42 +0000"
       },
       {
-        "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-        "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-        "date": "Mon, 21 Sep 2026 20:04:39 +0000"
+        "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
+        "link": "https://www.nytimes.com/2026/09/22/podcasts/the-headlines/xi-jinping-dc-white-house-press-ban.html",
+        "date": "Tue, 22 Sep 2026 10:00:10 +0000"
       },
       {
-        "title": "Are A.I. Models Being Misled to Act Too Human?",
-        "link": "https://www.nytimes.com/2026/09/21/science/ai-anthropomorphism-consciousness.html",
-        "date": "Mon, 21 Sep 2026 17:00:07 +0000"
+        "title": "How Trump Has Cracked Down on Dissent Since the Killing of Charlie Kirk",
+        "link": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html",
+        "date": "Tue, 22 Sep 2026 09:01:48 +0000"
       },
       {
-        "title": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-        "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
-        "date": "Tue, 22 Sep 2026 08:31:59 +0000"
+        "title": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
+        "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
+        "date": "Tue, 22 Sep 2026 12:30:23 +0000"
       },
       {
-        "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
-        "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
-        "date": "Tue, 22 Sep 2026 01:47:47 +0000"
+        "title": "Many Democrats Are Avoiding Kamala Harris. Abdul El-Sayed Is Welcoming Her.",
+        "link": "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html",
+        "date": "Tue, 22 Sep 2026 09:02:37 +0000"
       },
       {
-        "title": "Trump and Mamdani Show Their Unlikely Rapport, This Time in New York",
-        "link": "https://www.nytimes.com/2026/09/21/nyregion/trump-mamdani-meeting-nyc.html",
-        "date": "Tue, 22 Sep 2026 00:10:51 +0000"
+        "title": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election",
+        "link": "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html",
+        "date": "Tue, 22 Sep 2026 09:01:33 +0000"
       }
     ],
     "The Guardian": [
@@ -174,61 +174,71 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-        "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 08:07:13 +0000"
+        "title": "White House launches ‘Trump TV’ after press bans",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 12:57:24 +0000"
       },
       {
-        "title": "Why young people are paying to get hired",
-        "link": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 08:02:37 +0000"
+        "title": "Iran president heads to UNGA, vows to highlight US ‘oppression’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 12:51:53 +0000"
       },
       {
-        "title": "Undermining the UN is not a new US policy",
-        "link": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:42:37 +0000"
+        "title": "Sri Lanka court convicts 14 over deadly Easter bombings",
+        "link": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 12:48:42 +0000"
       },
       {
-        "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
-        "link": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:33:24 +0000"
+        "title": "La Liga President Tebas slams Real Madrid refereeing ‘conspiracy’ claims",
+        "link": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 12:11:18 +0000"
       },
       {
-        "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
-        "link": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:27:07 +0000"
+        "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 12:00:00 +0000"
       },
       {
-        "title": "Palestinians turn to communal ovens to bake bread in Gaza",
-        "link": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:26:16 +0000"
+        "title": "Who actually has power at the United Nations?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 11:51:07 +0000"
       },
       {
-        "title": "The most memorable moments at UNGA",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/the-most-memorable-moments-at-unga?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:23:04 +0000"
+        "title": "Afghan cyclist who escaped Taliban wins Asian Games silver medal",
+        "link": "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 11:48:57 +0000"
       },
       {
-        "title": "ISIL-linked detainees report night raids, extortion, violence at Roj camp",
-        "link": "https://www.aljazeera.com/features/2026/9/22/isil-linked-detainees-report-night-raids-extortion-violence-at-roj-camp?traffic_source=rss",
-        "date": "Tue, 22 Sep 2026 07:13:01 +0000"
+        "title": "Trump-GCC Summit in New York: What does each side want?",
+        "link": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+        "date": "Tue, 22 Sep 2026 11:33:56 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Oil falls to $98 as Saudi Arabia signals East-West pipeline reopening",
+        "link": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+        "date": "Tue, 22 Sep 2026 12:08:07 GMT"
+      },
+      {
+        "title": "‘MBS will not forget’: Trump’s reluctance to fight Houthis rattles Saudi Arabia",
+        "link": "https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7?syn-25a6b1a6=1",
+        "date": "Tue, 22 Sep 2026 11:00:02 GMT"
+      },
+      {
+        "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
+        "link": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
+        "date": "Mon, 21 Sep 2026 23:28:40 GMT"
+      },
       {
         "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
         "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
         "date": "Mon, 21 Sep 2026 20:00:08 GMT"
       },
       {
-        "title": "How the cost of Japan’s money shapes the world",
-        "link": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
-        "date": "Tue, 22 Sep 2026 04:00:02 GMT"
-      },
-      {
-        "title": "Are we developing a distaste for effort?",
-        "link": "https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1",
-        "date": "Tue, 22 Sep 2026 04:00:12 GMT"
+        "title": "Trump is checking out of his presidency",
+        "link": "https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1",
+        "date": "Tue, 22 Sep 2026 10:35:30 GMT"
       },
       {
         "title": "Why Blackstone’s latest plans at Lloyd’s of London have sparked a firestorm",
@@ -238,17 +248,7 @@
       {
         "title": "UK government borrowing surges in blow to Healey ahead of Budget",
         "link": "https://www.ft.com/content/a17b2217-e49f-432c-8fdb-31e9bc3a4361?syn-25a6b1a6=1",
-        "date": "Tue, 22 Sep 2026 07:43:42 GMT"
-      },
-      {
-        "title": "AI staff complain of mental toll over fears of threat to society",
-        "link": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
-        "date": "Tue, 22 Sep 2026 04:00:02 GMT"
-      },
-      {
-        "title": "Burnham to call for global effort to control threats posed by AI",
-        "link": "https://www.ft.com/content/697c5196-3aa4-4c59-bad9-a455bcc1858f?syn-25a6b1a6=1",
-        "date": "Mon, 21 Sep 2026 21:30:12 GMT"
+        "date": "Tue, 22 Sep 2026 11:32:13 GMT"
       },
       {
         "title": "Homeowners take £840-a-year mortgage hit from Iran war",
@@ -302,47 +302,57 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Layla Sleep Coupon: Save Up to $600 in September 2026",
-        "link": "https://www.wired.com/story/layla-sleep-coupon/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+        "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+        "date": "Tue, 22 Sep 2026 13:00:00 +0000"
       },
       {
-        "title": "Loop Earplugs Discount Codes: 40% Off",
-        "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
+        "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+        "date": "Tue, 22 Sep 2026 13:00:00 +0000"
       },
       {
-        "title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
-        "link": "https://www.wired.com/story/ruggable-discount-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam",
+        "link": "https://www.wired.com/review/gopro-mission-1-ils-camera/",
+        "date": "Tue, 22 Sep 2026 11:30:00 +0000"
       },
       {
-        "title": "1Password Coupon: Score a Free Trial in September 2026",
-        "link": "https://www.wired.com/story/1password-coupon/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "The UK Government Faces a Reckoning Over Palantir",
+        "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+        "date": "Tue, 22 Sep 2026 11:00:00 +0000"
       },
       {
-        "title": "Meta Quest Promo Codes and Coupons for September 2026",
-        "link": "https://www.wired.com/story/meta-quest-promo-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "Everything You Know About Political Violence Is Probably Wrong",
+        "link": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
+        "date": "Tue, 22 Sep 2026 11:00:00 +0000"
       },
       {
-        "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
-        "link": "https://www.wired.com/story/select-blinds-promo-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "Is a Home Security System Subscription Worth It? (2026)",
+        "link": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+        "date": "Tue, 22 Sep 2026 10:36:00 +0000"
       },
       {
-        "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-        "link": "https://www.wired.com/story/logitech-promo-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+        "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+        "date": "Tue, 22 Sep 2026 10:30:00 +0000"
       },
       {
-        "title": "Western Digital Promo Code: 15% Off",
-        "link": "https://www.wired.com/story/western-digital-promo-code/",
-        "date": "Tue, 22 Sep 2026 05:00:00 +0000"
+        "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+        "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+        "date": "Tue, 22 Sep 2026 10:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Can you forget how you feel about Meta?",
+        "link": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+        "date": "2026-09-22 10:00:01"
+      },
+      {
+        "title": "Apple’s first live music venue is opening beneath its UK headquarters",
+        "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+        "date": "2026-09-22 08:35:54"
+      },
       {
         "title": "A cut cable disrupted hundreds of flights across the US",
         "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
@@ -372,19 +382,29 @@
         "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
         "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
         "date": "2026-09-21 16:35:59"
-      },
-      {
-        "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-        "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-        "date": "2026-09-21 15:13:32"
-      },
-      {
-        "title": "Can John Ternus find Apple’s next big thing?",
-        "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-        "date": "2026-09-21 14:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+        "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+        "date": "Tue, 22 Sep 2026 13:00:00 +0000"
+      },
+      {
+        "title": "Everyone can find a reason to dislike data center construction",
+        "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+        "date": "Tue, 22 Sep 2026 13:00:00 +0000"
+      },
+      {
+        "title": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets once again",
+        "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+        "date": "Tue, 22 Sep 2026 12:23:05 +0000"
+      },
+      {
+        "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+        "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+        "date": "Tue, 22 Sep 2026 11:00:00 +0000"
+      },
       {
         "title": "Morphotonics raises €40M to expand its display tech into data centers",
         "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
@@ -404,68 +424,48 @@
         "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
         "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
         "date": "Mon, 21 Sep 2026 19:25:00 +0000"
-      },
-      {
-        "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-        "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-        "date": "Mon, 21 Sep 2026 19:19:21 +0000"
-      },
-      {
-        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-        "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-        "date": "Mon, 21 Sep 2026 18:23:05 +0000"
-      },
-      {
-        "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
-        "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-        "date": "Mon, 21 Sep 2026 17:55:18 +0000"
-      },
-      {
-        "title": "X will now tell users when governments have forced it to limit their posts",
-        "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-        "date": "Mon, 21 Sep 2026 17:45:35 +0000"
       }
     ],
     "Hacker News": [
       {
+        "title": "AI Has No Wisdom and Neither Will You",
+        "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "date": "Tue, 22 Sep 2026 12:11:09 +0000"
+      },
+      {
+        "title": "Will Open Source Survive the Agents That Replaced It?",
+        "link": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
+        "date": "Tue, 22 Sep 2026 12:05:17 +0000"
+      },
+      {
+        "title": "Type Punning in C and C++",
+        "link": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+        "date": "Tue, 22 Sep 2026 11:29:47 +0000"
+      },
+      {
+        "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+        "link": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+        "date": "Tue, 22 Sep 2026 10:36:44 +0000"
+      },
+      {
+        "title": "Verda (Finland) raises $189M in Series B",
+        "link": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+        "date": "Tue, 22 Sep 2026 09:36:31 +0000"
+      },
+      {
+        "title": "AMD's random number generator can't generate a 0?",
+        "link": "https://board.flatassembler.net/topic.php?t=24261",
+        "date": "Tue, 22 Sep 2026 08:39:43 +0000"
+      },
+      {
+        "title": "I said no and Apple said yes",
+        "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+        "date": "Tue, 22 Sep 2026 08:04:55 +0000"
+      },
+      {
         "title": "Can gzip be a language model?",
         "link": "https://nathan.rs/posts/gzip-lm/",
         "date": "Tue, 22 Sep 2026 06:08:39 +0000"
-      },
-      {
-        "title": "Used ThinkPad Buyer's Guide (2019)",
-        "link": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-        "date": "Tue, 22 Sep 2026 04:14:47 +0000"
-      },
-      {
-        "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-        "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-        "date": "Tue, 22 Sep 2026 04:02:09 +0000"
-      },
-      {
-        "title": "Claude Status – Elevated errors for multiple models",
-        "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-        "date": "Tue, 22 Sep 2026 01:05:19 +0000"
-      },
-      {
-        "title": "Socrates vs. the Written Word (2011)",
-        "link": "https://wondermark.com/socrates-vs-writing/",
-        "date": "Tue, 22 Sep 2026 00:06:55 +0000"
-      },
-      {
-        "title": "Looking forward to Git 2.56 – and 3.0",
-        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-        "date": "Mon, 21 Sep 2026 23:16:51 +0000"
-      },
-      {
-        "title": "Spymarks, Not Watermarks",
-        "link": "https://brand.io/article/spymarks/",
-        "date": "Mon, 21 Sep 2026 23:03:49 +0000"
-      },
-      {
-        "title": "I don't want to read what you didn't write",
-        "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-        "date": "Mon, 21 Sep 2026 22:30:41 +0000"
       }
     ],
     "Reddit": [
@@ -480,9 +480,24 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "British PM Andy Burnham refuses to rule out rejoining EU",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wn55w3/british_pm_andy_burnham_refuses_to_rule_out/",
+        "date": "2026-09-22T09:56:38+00:00"
+      },
+      {
         "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
         "link": "https://www.reddit.com/r/worldnews/comments/1wmz9i0/houthis_move_to_seize_strategic_terrain_after/",
         "date": "2026-09-22T04:15:15+00:00"
+      },
+      {
+        "title": "Iran offers to reopen Hormuz within seven days if US eases pressure",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wn4vro/iran_offers_to_reopen_hormuz_within_seven_days_if/",
+        "date": "2026-09-22T09:40:29+00:00"
+      },
+      {
+        "title": "Trump administration attacks Australia's 'opt-out' algorithm law in rare intervention",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wn5ma9/trump_administration_attacks_australias_optout/",
+        "date": "2026-09-22T10:22:04+00:00"
       },
       {
         "title": "Belarus says no potash left after Trump claims massive deal for fertilizer",
@@ -490,24 +505,9 @@
         "date": "2026-09-21T20:28:58+00:00"
       },
       {
-        "title": "Moscow Oil Refinery has halted operations after Ukrainian drone attack, Reuters reports",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wmtm14/moscow_oil_refinery_has_halted_operations_after/",
-        "date": "2026-09-21T23:53:12+00:00"
-      },
-      {
-        "title": "Ukraine Knocks Out Over 45% of Russia’s Projected Refining Capacity",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wmfxfs/ukraine_knocks_out_over_45_of_russias_projected/",
-        "date": "2026-09-21T15:25:29+00:00"
-      },
-      {
-        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wmxgcs/trump_administration_prepares_sanctions_against/",
-        "date": "2026-09-22T02:46:42+00:00"
-      },
-      {
-        "title": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wmvo7y/unions_hammer_carney_governments_revamp_of_labour/",
-        "date": "2026-09-22T01:24:10+00:00"
+        "title": "Türkiye's Erdoğan proposes stripping permanent UN Security Council members of veto power",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wn75d2/türkiyes_erdoğan_proposes_stripping_permanent_un/",
+        "date": "2026-09-22T11:42:06+00:00"
       }
     ],
     "PCMag": [],
