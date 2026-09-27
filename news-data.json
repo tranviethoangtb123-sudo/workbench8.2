@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T09:38:17.901Z",
+  "updated": "2026-09-27T13:31:13.193Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,29 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Ten NHS staff removed over Noah Woods data breach",
-        "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 08:28:49 GMT"
+        "title": "Burnham proposes NHS-style social care system for England",
+        "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 27 Sep 2026 12:27:02 GMT"
       },
       {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 07:44:11 GMT"
+        "title": "'Broken social care will in the end break the NHS,' says Burnham",
+        "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 27 Sep 2026 09:52:49 GMT"
+      },
+      {
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 27 Sep 2026 13:25:27 GMT"
       },
       {
         "title": "Two mass shootings in South Africa leave 27 dead",
         "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 08:40:02 GMT"
+        "date": "Sun, 27 Sep 2026 10:00:36 GMT"
+      },
+      {
+        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 27 Sep 2026 11:38:03 GMT"
       },
       {
         "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
@@ -68,51 +78,21 @@
         "date": "Sat, 26 Sep 2026 23:01:47 GMT"
       },
       {
-        "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
-        "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 26 Sep 2026 23:03:39 GMT"
-      },
-      {
-        "title": "Why families are being urged to look closer on autumn walks",
-        "link": "https://www.bbc.co.uk/news/articles/cvlylxxp3xg9o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 06:25:05 GMT"
-      },
-      {
-        "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+        "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
         "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 26 Sep 2026 23:04:08 GMT"
       },
       {
-        "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+        "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
         "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 27 Sep 2026 08:51:23 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
-        "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
-        "date": "Sun, 27 Sep 2026 05:38:02 +0000"
-      },
-      {
-        "title": "How El Niño Is Shaping Storms on Two Sides of the U.S.",
-        "link": "https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html",
-        "date": "Sat, 26 Sep 2026 17:23:22 +0000"
-      },
-      {
-        "title": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
-        "link": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html",
-        "date": "Sun, 27 Sep 2026 01:04:42 +0000"
-      },
-      {
-        "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-        "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
-        "date": "Sun, 27 Sep 2026 02:40:41 +0000"
-      },
-      {
-        "title": "Trump Administration Plans to Gut Clean Car Rules",
-        "link": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html",
-        "date": "Sat, 26 Sep 2026 22:55:14 +0000"
+        "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+        "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+        "date": "Sun, 27 Sep 2026 11:22:48 +0000"
       },
       {
         "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
@@ -120,17 +100,42 @@
         "date": "Sun, 27 Sep 2026 04:01:24 +0000"
       },
       {
-        "title": "How China’s Leader Plans to Win the Future With A.I.",
-        "link": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
-        "date": "Wed, 23 Sep 2026 09:00:09 +0000"
+        "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+        "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+        "date": "Sun, 27 Sep 2026 09:01:36 +0000"
       },
       {
-        "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-        "date": "Sat, 26 Sep 2026 21:02:42 +0000"
+        "title": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+        "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
+        "date": "Sun, 27 Sep 2026 09:01:33 +0000"
+      },
+      {
+        "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+        "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
+        "date": "Sun, 27 Sep 2026 09:00:47 +0000"
+      },
+      {
+        "title": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
+        "link": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html",
+        "date": "Sun, 27 Sep 2026 01:04:43 +0000"
+      },
+      {
+        "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
+        "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html",
+        "date": "Sun, 27 Sep 2026 09:01:11 +0000"
+      },
+      {
+        "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+        "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+        "date": "Sun, 27 Sep 2026 02:40:41 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+        "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+        "date": "Sun, 27 Sep 2026 11:00:03 GMT"
+      },
       {
         "title": "At least 27 dead after two mass shootings in South Africa, police say",
         "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
@@ -152,11 +157,6 @@
         "date": "Wed, 23 Sep 2026 09:38:06 GMT"
       },
       {
-        "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-        "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-        "date": "Mon, 21 Sep 2026 22:33:40 GMT"
-      },
-      {
         "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
         "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
         "date": "Sat, 26 Sep 2026 16:00:39 GMT"
@@ -174,47 +174,52 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 09:19:37 +0000"
+        "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+        "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 12:45:42 +0000"
       },
       {
-        "title": "UK police evacuate homes near airbase used by US",
-        "link": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:59:38 +0000"
+        "title": "Political rallies fill Brazil’s streets a week before elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 12:34:13 +0000"
       },
       {
-        "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:49:47 +0000"
+        "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
+        "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 12:02:50 +0000"
       },
       {
-        "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
-        "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:49:32 +0000"
+        "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+        "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 11:04:30 +0000"
       },
       {
-        "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:35:25 +0000"
+        "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+        "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 10:26:21 +0000"
       },
       {
-        "title": "Suicide bombing in northwest Pakistan kills at least 12",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:26:24 +0000"
+        "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 10:01:33 +0000"
       },
       {
-        "title": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-        "link": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:22:01 +0000"
+        "title": "Yemen government forces widen attacks against Houthis: What we know",
+        "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 09:59:21 +0000"
       },
       {
-        "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
-        "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 08:10:22 +0000"
+        "title": "Plane carrying DR Congo military delegation crashes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+        "date": "Sun, 27 Sep 2026 09:44:00 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Burnham signals he will fight election on tax rises to fund social care reform",
+        "link": "https://www.ft.com/content/23cd91df-80c5-45c0-9175-d61b74404f12?syn-25a6b1a6=1",
+        "date": "Sun, 27 Sep 2026 13:02:44 GMT"
+      },
       {
         "title": "Burnham to revive Help to Buy scheme in bid to aid first-time buyers",
         "link": "https://www.ft.com/content/e23be690-2cc2-4847-aed7-ceda7f94c1c0?syn-25a6b1a6=1",
@@ -236,24 +241,19 @@
         "date": "Sun, 27 Sep 2026 04:00:20 GMT"
       },
       {
-        "title": "De Beers bets on a taste for the real to restore diamonds’ sparkle",
-        "link": "https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 04:00:11 GMT"
-      },
-      {
-        "title": "Appeal court rules Northern Ireland parade can go ahead",
+        "title": "Northern Ireland in tense stand-off as protests stall Orange Order parade",
         "link": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 03:23:56 GMT"
+        "date": "Sun, 27 Sep 2026 11:52:36 GMT"
       },
       {
-        "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
-        "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 04:00:11 GMT"
+        "title": "Explosives arrests made in ‘major incident’ near RAF Fairford",
+        "link": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+        "date": "Sun, 27 Sep 2026 11:10:50 GMT"
       },
       {
-        "title": "South Korea bets big on AI for all",
-        "link": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
-        "date": "Sun, 27 Sep 2026 04:00:11 GMT"
+        "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+        "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+        "date": "Sat, 26 Sep 2026 18:42:28 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,26 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
+        "link": "https://www.wired.com/story/best-party-speaker/",
+        "date": "Sun, 27 Sep 2026 11:30:00 +0000"
+      },
+      {
+        "title": "What’s the Best Pet DNA Test? We Tested the Most Popular Ones",
+        "link": "https://www.wired.com/story/best-pet-dna-test-kits/",
+        "date": "Sun, 27 Sep 2026 11:02:00 +0000"
+      },
+      {
+        "title": "You Don’t Need to Pay for Distraction-Blocking Software",
+        "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
+        "date": "Sun, 27 Sep 2026 10:15:00 +0000"
+      },
+      {
+        "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+        "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+        "date": "Sun, 27 Sep 2026 10:00:00 +0000"
+      },
+      {
         "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
         "link": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
         "date": "Sun, 27 Sep 2026 09:30:00 +0000"
@@ -320,29 +340,19 @@
         "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
         "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
         "date": "Sat, 26 Sep 2026 11:36:00 +0000"
-      },
-      {
-        "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
-        "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
-        "date": "Sat, 26 Sep 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-        "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-        "date": "Sat, 26 Sep 2026 10:30:00 +0000"
-      },
-      {
-        "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
-        "link": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
-        "date": "Sat, 26 Sep 2026 10:00:00 +0000"
-      },
-      {
-        "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
-        "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
-        "date": "Sat, 26 Sep 2026 09:30:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Googlebooks might be the real deal",
+        "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+        "date": "2026-09-27 12:00:00"
+      },
+      {
+        "title": "The smart home graveyard is getting crowded",
+        "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+        "date": "2026-09-27 12:00:00"
+      },
       {
         "title": "Apple hit with $5.7 billion in damages over haptic patents",
         "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
@@ -372,16 +382,6 @@
         "title": "Control Resonant is a great game — it’s even better when you read everything",
         "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
         "date": "2026-09-26 13:00:00"
-      },
-      {
-        "title": "Pokémon card resellers have turned collecting into an online blood sport",
-        "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-        "date": "2026-09-26 12:00:00"
-      },
-      {
-        "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
-        "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-        "date": "2026-09-26 07:00:00"
       }
     ],
     "TechCrunch": [
@@ -428,51 +428,51 @@
     ],
     "Hacker News": [
       {
-        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-        "date": "Sun, 27 Sep 2026 08:44:04 +0000"
-      },
-      {
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "date": "Sun, 27 Sep 2026 06:19:33 +0000"
-      },
-      {
-        "title": "The internet discovers TLA+. Now what?",
-        "link": "https://reasonable.io/blog/tla-tutorial/",
-        "date": "Sun, 27 Sep 2026 05:26:15 +0000"
-      },
-      {
         "title": "What is the size of Yemen? (2024)",
         "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-        "date": "Sun, 27 Sep 2026 02:40:26 +0000"
+        "date": "2026-09-27 02:40:26"
+      },
+      {
+        "title": "Real-time feedback: My closing move in every interview",
+        "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+        "date": "2026-09-27 01:01:18"
+      },
+      {
+        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+        "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+        "date": "2026-09-26 20:08:50"
       },
       {
         "title": "DeepSeek Elastic Compute (DSec)",
         "link": "https://arxiv.org/abs/2609.22978",
-        "date": "Sat, 26 Sep 2026 18:22:41 +0000"
+        "date": "2026-09-26 18:22:41"
       },
       {
         "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
         "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-        "date": "Sat, 26 Sep 2026 17:26:54 +0000"
+        "date": "2026-09-26 17:26:54"
       },
       {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "link": "https://github.com/reladraw/reladraw",
-        "date": "Sat, 26 Sep 2026 17:10:40 +0000"
+        "date": "2026-09-26 17:10:40"
+      },
+      {
+        "title": "The Evolution of Vending Machines",
+        "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+        "date": "2026-09-26 17:01:45"
       },
       {
         "title": "Drawgent: Coding agent on a live Excalidraw canvas",
         "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "date": "Sat, 26 Sep 2026 15:56:34 +0000"
+        "date": "2026-09-26 15:56:34"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1676, Part 1 (Thread #1823)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wqgp9v/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-26T04:02:27+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1677, Part 1 (Thread #1824)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wrjsi7/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-27T13:07:18+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -485,9 +485,9 @@
         "date": "2026-09-27T02:43:08+00:00"
       },
       {
-        "title": "Japan Confused by Trump Calling China WWII Ally",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wr09a9/japan_confused_by_trump_calling_china_wwii_ally/",
-        "date": "2026-09-26T20:08:02+00:00"
+        "title": "Argentina poverty rate jumps to 32.3% in first half of 2026 in setback for Milei",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wrf9hy/argentina_poverty_rate_jumps_to_323_in_first_half/",
+        "date": "2026-09-27T08:54:45+00:00"
       },
       {
         "title": "Meta Blocks President Lula’s Facebook Page and Campaign Ads Two Weeks from Election",
@@ -495,19 +495,19 @@
         "date": "2026-09-26T22:28:47+00:00"
       },
       {
-        "title": "X Blocks Account of National Conference of Bishops of Brasil As Catholics Back Lula",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wr6cx7/x_blocks_account_of_national_conference_of/",
-        "date": "2026-09-27T00:43:21+00:00"
-      },
-      {
-        "title": "Terrorist who kidnapped Noa Argamani on Oct. 7 killed in Gaza",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrcvna/terrorist_who_kidnapped_noa_argamani_on_oct_7/",
-        "date": "2026-09-27T06:30:55+00:00"
+        "title": "Japan Confused by Trump Calling China WWII Ally",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wr09a9/japan_confused_by_trump_calling_china_wwii_ally/",
+        "date": "2026-09-26T20:08:02+00:00"
       },
       {
         "title": "Major incident declared in Whelford | Gloucestershire Constabulary",
         "link": "https://www.reddit.com/r/worldnews/comments/1wrdyr6/major_incident_declared_in_whelford/",
         "date": "2026-09-27T07:34:57+00:00"
+      },
+      {
+        "title": "Hamas chief’s ex-guard got asylum in UK, then hatched terror plot against Jews – report",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wrfpso/hamas_chiefs_exguard_got_asylum_in_uk_then/",
+        "date": "2026-09-27T09:21:56+00:00"
       }
     ],
     "PCMag": [],
