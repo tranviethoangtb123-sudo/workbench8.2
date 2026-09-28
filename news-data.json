@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T10:16:56.655Z",
+  "updated": "2026-09-28T16:26:12.133Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,12 +48,17 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "What we know about RAF Fairford counter-terror probe and the five men arrested",
+        "title": "What we know about RAF Fairford counter-terror probe",
         "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 28 Sep 2026 09:37:33 GMT"
+        "date": "Mon, 28 Sep 2026 15:40:24 GMT"
       },
       {
-        "title": "UK diesel price hits all-time high, RAC says",
+        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+        "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 15:37:59 GMT"
+      },
+      {
+        "title": "UK diesel price hits all-time high, the RAC says",
         "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 28 Sep 2026 10:00:18 GMT"
       },
@@ -65,17 +70,12 @@
       {
         "title": "Police block Protestant Orange Order from controversial parade route",
         "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 28 Sep 2026 10:13:19 GMT"
-      },
-      {
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 21:16:31 GMT"
+        "date": "Mon, 28 Sep 2026 16:01:14 GMT"
       },
       {
         "title": "Three dead, including child, in Channel crossing attempt",
         "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 28 Sep 2026 10:02:56 GMT"
+        "date": "Mon, 28 Sep 2026 12:06:52 GMT"
       },
       {
         "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
@@ -90,34 +90,24 @@
     ],
     "The New York Times": [
       {
-        "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+        "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
         "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
-        "date": "Mon, 28 Sep 2026 09:00:51 +0000"
+        "date": "Mon, 28 Sep 2026 13:01:56 +0000"
       },
       {
         "title": "What We Saw in One Venezuelan Gold Town",
         "link": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html",
-        "date": "Mon, 28 Sep 2026 09:02:29 +0000"
+        "date": "Mon, 28 Sep 2026 14:08:00 +0000"
       },
       {
-        "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
-        "link": "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html",
-        "date": "Mon, 28 Sep 2026 10:00:16 +0000"
+        "title": "Possible Terrorist Plot at R.A.F. Fairford Air Base in U.K.: What We Know",
+        "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+        "date": "Mon, 28 Sep 2026 13:24:01 +0000"
       },
       {
-        "title": "Who’s Winning the Race for Congress?",
-        "link": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
-        "date": "Mon, 28 Sep 2026 10:04:08 +0000"
-      },
-      {
-        "title": "Black Voters Are Warming to Talarico in Texas. Turnout Is the Bigger Test.",
-        "link": "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html",
-        "date": "Mon, 28 Sep 2026 09:00:32 +0000"
-      },
-      {
-        "title": "Tom Kean Jr. Backs Trump on Iran and Tariffs, if Not Local Issues",
-        "link": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html",
-        "date": "Mon, 28 Sep 2026 04:31:38 +0000"
+        "title": "Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job",
+        "link": "https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html",
+        "date": "Mon, 28 Sep 2026 16:23:22 +0000"
       },
       {
         "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
@@ -125,12 +115,27 @@
         "date": "Mon, 28 Sep 2026 09:02:22 +0000"
       },
       {
-        "title": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
-        "link": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html",
-        "date": "Mon, 28 Sep 2026 09:03:13 +0000"
+        "title": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+        "link": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+        "date": "Mon, 28 Sep 2026 16:17:51 +0000"
+      },
+      {
+        "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+        "link": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+        "date": "Mon, 28 Sep 2026 12:05:38 +0000"
+      },
+      {
+        "title": "‘Showgirls’: The Gratuitous, Surreal Bomb That Was Maybe Brilliant",
+        "link": "https://www.nytimes.com/2026/09/28/movies/showgirls-elizabeth-berkley-verhoeven.html",
+        "date": "Mon, 28 Sep 2026 09:02:40 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+        "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+        "date": "Mon, 28 Sep 2026 15:54:25 GMT"
+      },
       {
         "title": "At least 27 dead after two mass shootings in South Africa, police say",
         "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
@@ -152,17 +157,12 @@
         "date": "Wed, 23 Sep 2026 11:08:01 GMT"
       },
       {
-        "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-        "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-        "date": "Wed, 23 Sep 2026 09:38:06 GMT"
-      },
-      {
         "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
         "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
         "date": "Sun, 27 Sep 2026 23:24:10 GMT"
       },
       {
-        "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
+        "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
         "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
         "date": "Sun, 27 Sep 2026 22:59:25 GMT"
       },
@@ -174,61 +174,61 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 09:44:14 +0000"
+        "title": "At least 33 killed after Myanmar military air strike hits market",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 15:38:16 +0000"
       },
       {
-        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-        "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 09:17:29 +0000"
+        "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+        "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 15:35:21 +0000"
       },
       {
-        "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
-        "link": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 09:12:45 +0000"
+        "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+        "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 15:29:48 +0000"
       },
       {
-        "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
-        "link": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 08:50:37 +0000"
+        "title": "SpaceX’s showpiece Starship rocket reaches orbit for first time",
+        "link": "https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 15:25:38 +0000"
       },
       {
-        "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-        "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 08:44:16 +0000"
+        "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+        "link": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 14:03:55 +0000"
       },
       {
-        "title": "Iran’s children return to school under the shadow of war",
-        "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 08:25:49 +0000"
+        "title": "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
+        "link": "https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 14:03:47 +0000"
       },
       {
-        "title": "France’s far-right National Rally gains ground in Senate vote",
-        "link": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 08:10:17 +0000"
+        "title": "Cattle to feed: Why a global meat crisis is looming",
+        "link": "https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 13:56:03 +0000"
       },
       {
-        "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
-        "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 08:02:30 +0000"
+        "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 13:53:28 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Shares in UK housebuilders surge on new Help to Buy scheme",
-        "link": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 08:58:18 GMT"
+        "title": "Five men arrested over alleged RAF Fairford terror plot released on bail",
+        "link": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 16:13:23 GMT"
       },
       {
-        "title": "Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan",
-        "link": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 23:01:05 GMT"
+        "title": "Blair-era money is ‘not there now’, Healey warns Labour",
+        "link": "https://www.ft.com/content/8840071d-3867-45e2-bf25-ce24655e69ba?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 16:06:38 GMT"
       },
       {
-        "title": "AI hyperscalers are transforming debt",
-        "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 04:00:10 GMT"
+        "title": "Why Europe’s centre will hold",
+        "link": "https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 11:01:31 GMT"
       },
       {
         "title": "How London became the property market’s black sheep",
@@ -236,24 +236,24 @@
         "date": "Mon, 28 Sep 2026 04:00:10 GMT"
       },
       {
-        "title": "A message for the chancellor: the time is now ripe for tax reform",
-        "link": "https://www.ft.com/content/aa0a3458-b69d-423d-9654-9ad45c8432d9?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 04:00:19 GMT"
+        "title": "Nvidia launches record $150bn share buyback",
+        "link": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 11:23:16 GMT"
       },
       {
-        "title": "Investigators focus on Iran link to arrests near UK air base",
-        "link": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 08:42:28 GMT"
+        "title": "What is the AI capex breakeven rate?",
+        "link": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
+        "date": "Mon, 28 Sep 2026 11:00:42 GMT"
       },
       {
-        "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
-        "link": "https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 04:00:19 GMT"
+        "title": "Bond sell-off deepens as oil prices rise",
+        "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 15:54:12 GMT"
       },
       {
-        "title": "Glencore says HMRC was 18 months late with £264mn tax bill",
-        "link": "https://www.ft.com/content/1d7d2bc0-7721-4c4e-a8a6-e859bad9c13a?syn-25a6b1a6=1",
-        "date": "Mon, 28 Sep 2026 04:00:18 GMT"
+        "title": "World’s worst-performing market slashes minimum price for stocks",
+        "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 02:51:26 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,47 +302,57 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "These Extremists Are Running for Election in November",
+        "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
+        "date": "Mon, 28 Sep 2026 14:41:08 +0000"
+      },
+      {
+        "title": "Best External Hard Drives (2026): SanDisk, Samsung, and More",
+        "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
+        "date": "Mon, 28 Sep 2026 13:15:00 +0000"
+      },
+      {
+        "title": "Bose Launches New Wired Earbuds After More Than a Decade",
+        "link": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
+        "date": "Mon, 28 Sep 2026 13:00:00 +0000"
+      },
+      {
+        "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+        "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+        "date": "Mon, 28 Sep 2026 11:32:19 +0000"
+      },
+      {
+        "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+        "link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+        "date": "Mon, 28 Sep 2026 11:00:00 +0000"
+      },
+      {
+        "title": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
+        "link": "https://www.wired.com/story/best-apple-watch/",
+        "date": "Mon, 28 Sep 2026 10:36:00 +0000"
+      },
+      {
+        "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+        "link": "https://www.wired.com/story/best-security-cameras/",
+        "date": "Mon, 28 Sep 2026 10:30:00 +0000"
+      },
+      {
         "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
         "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
         "date": "Mon, 28 Sep 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-        "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-        "date": "Mon, 28 Sep 2026 09:30:00 +0000"
-      },
-      {
-        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-        "date": "Mon, 28 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-        "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-        "date": "Mon, 28 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
-        "link": "https://www.wired.com/story/best-party-speaker/",
-        "date": "Sun, 27 Sep 2026 11:30:00 +0000"
-      },
-      {
-        "title": "What’s the Best Pet DNA Test? We Tested the Most Popular Ones",
-        "link": "https://www.wired.com/story/best-pet-dna-test-kits/",
-        "date": "Sun, 27 Sep 2026 11:02:00 +0000"
-      },
-      {
-        "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-        "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
-        "date": "Sun, 27 Sep 2026 10:15:00 +0000"
-      },
-      {
-        "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
-        "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
-        "date": "Sun, 27 Sep 2026 10:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+        "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+        "date": "2026-09-28 12:09:17"
+      },
+      {
+        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+        "date": "2026-09-28 08:00:36"
+      },
       {
         "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
         "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
@@ -372,100 +382,90 @@
         "title": "The smart home graveyard is getting crowded",
         "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
         "date": "2026-09-27 12:00:00"
-      },
-      {
-        "title": "Apple hit with $5.7 billion in damages over haptic patents",
-        "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-        "date": "2026-09-26 21:30:01"
-      },
-      {
-        "title": "Decap is the man behind the drums behind your favorite song",
-        "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-        "date": "2026-09-26 19:30:00"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-        "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-        "date": "Mon, 28 Sep 2026 04:30:00 +0000"
+        "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+        "date": "Mon, 28 Sep 2026 15:30:00 +0000"
       },
       {
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "date": "Sun, 27 Sep 2026 20:34:28 +0000"
+        "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+        "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+        "date": "Mon, 28 Sep 2026 15:29:21 +0000"
       },
       {
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-        "date": "Sun, 27 Sep 2026 19:57:30 +0000"
+        "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+        "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+        "date": "Mon, 28 Sep 2026 15:26:46 +0000"
       },
       {
-        "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-        "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-        "date": "Sun, 27 Sep 2026 16:30:00 +0000"
+        "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+        "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+        "date": "Mon, 28 Sep 2026 15:00:00 +0000"
       },
       {
-        "title": "TechCrunch Mobility: AV companies pick their lanes",
-        "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-        "date": "Sun, 27 Sep 2026 16:02:00 +0000"
+        "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+        "date": "Mon, 28 Sep 2026 15:00:00 +0000"
       },
       {
-        "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-        "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-        "date": "Sun, 27 Sep 2026 15:00:00 +0000"
+        "title": "FBI reportedly declares &#8216;cyber security incident&#8217; after hackers steal agents&#8217; personal data",
+        "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+        "date": "Mon, 28 Sep 2026 14:50:30 +0000"
       },
       {
-        "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-        "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-        "date": "Sun, 27 Sep 2026 01:40:30 +0000"
+        "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+        "date": "Mon, 28 Sep 2026 14:30:00 +0000"
       },
       {
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-        "date": "Sun, 27 Sep 2026 01:30:00 +0000"
+        "title": "Modulate raises $25M for its voice models and analysis suite",
+        "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+        "date": "Mon, 28 Sep 2026 14:05:00 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
-        "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-        "date": "Mon, 28 Sep 2026 09:23:37 +0000"
+        "title": "The problem is not the AI code, but nobody knows anything anymore",
+        "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+        "date": "Mon, 28 Sep 2026 16:11:42 +0000"
       },
       {
-        "title": "Maybe don't let Muse run your Facebook Marketplace account",
-        "link": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
-        "date": "Mon, 28 Sep 2026 08:15:22 +0000"
+        "title": "Pirating the Pirates",
+        "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "date": "Mon, 28 Sep 2026 15:54:15 +0000"
       },
       {
-        "title": "Prompting Claude Opus 5.5",
-        "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "date": "Mon, 28 Sep 2026 07:33:29 +0000"
+        "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+        "link": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+        "date": "Mon, 28 Sep 2026 15:46:36 +0000"
       },
       {
-        "title": "Made by Mechanical Means",
-        "link": "https://felixrieseberg.com/made-by-mechanical-means/",
-        "date": "Mon, 28 Sep 2026 07:06:06 +0000"
+        "title": "Hijacking the PS5's RTMP Stream",
+        "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+        "date": "Mon, 28 Sep 2026 15:35:23 +0000"
       },
       {
-        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-        "link": "https://arxiv.org/abs/2110.01834",
-        "date": "Mon, 28 Sep 2026 03:23:53 +0000"
+        "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+        "link": "https://www.thisamericanlife.org/897/transcript",
+        "date": "Mon, 28 Sep 2026 15:35:09 +0000"
       },
       {
-        "title": "Nissan's third generation e-POWER powertrain",
-        "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-        "date": "Mon, 28 Sep 2026 02:31:23 +0000"
+        "title": "Updated Google Maps shows destruction of the city of Rafah",
+        "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+        "date": "Mon, 28 Sep 2026 15:32:18 +0000"
       },
       {
-        "title": "Owed a billion dollars in Nvidia stock",
-        "link": "https://colo.to/nvidia-stock-narrative.html",
-        "date": "Mon, 28 Sep 2026 02:05:13 +0000"
+        "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
+        "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+        "date": "Mon, 28 Sep 2026 14:54:21 +0000"
       },
       {
-        "title": "Packing Binary Is Fun",
-        "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
-        "date": "Mon, 28 Sep 2026 01:33:51 +0000"
+        "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+        "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+        "date": "Mon, 28 Sep 2026 14:48:44 +0000"
       }
     ],
     "Reddit": [
@@ -485,33 +485,38 @@
         "date": "2026-09-28T08:23:27+00:00"
       },
       {
-        "title": "Russia offers US$20 million reward for information on Unmanned Systems Forces commander Magyar",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ws70jl/russia_offers_us20_million_reward_for_information/",
-        "date": "2026-09-28T06:25:59+00:00"
+        "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wsezhs/trump_brought_venezuelan_gold_to_the_us_but/",
+        "date": "2026-09-28T13:42:58+00:00"
       },
       {
-        "title": "Former VP Al Gore: A clean Earth is within world's grasp even as climate dangers accelerate",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ws5s55/former_vp_al_gore_a_clean_earth_is_within_worlds/",
-        "date": "2026-09-28T05:14:19+00:00"
+        "title": "Russia under Putin lost nearly half its schools",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wsahrl/russia_under_putin_lost_nearly_half_its_schools/",
+        "date": "2026-09-28T10:00:31+00:00"
       },
       {
-        "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrz064/south_korea_demands_apology_from_ukraine_over/",
-        "date": "2026-09-27T23:30:48+00:00"
+        "title": "Trump wants Zelensky to ease strikes on Russian refineries, Ukraine official says deal must go both ways",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wsb4tn/trump_wants_zelensky_to_ease_strikes_on_russian/",
+        "date": "2026-09-28T10:38:26+00:00"
       },
       {
-        "title": "Viktor Orbán was behind decision to detain Ukrainian cash couriers, newly surfaced document suggests",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ws83tf/viktor_orbán_was_behind_decision_to_detain/",
-        "date": "2026-09-28T07:32:23+00:00"
+        "title": "Australian Muslim preacher calls to take up arms against enemies including Jews, Christians",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wsh35e/australian_muslim_preacher_calls_to_take_up_arms/",
+        "date": "2026-09-28T15:05:38+00:00"
       },
       {
-        "title": "Russian troops in Kharkiv Oblast used civilians as human shields and forced them through gas pipeline to Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ws8mou/russian_troops_in_kharkiv_oblast_used_civilians/",
-        "date": "2026-09-28T08:05:30+00:00"
+        "title": "Netanyahu asked UAE leader to deny Haaretz Oct. 7 warning report in secret visit",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wsg8qx/netanyahu_asked_uae_leader_to_deny_haaretz_oct_7/",
+        "date": "2026-09-28T14:32:39+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "AeroPress Unveils a Coffee Press Made of Luscious Walnut Wood",
+        "link": "https://www.cnet.com/home/kitchen-and-household/aeropress-unveils-coffee-press-luscious-walnut-wood/",
+        "date": "2026-09-28 12:00:00"
+      },
       {
         "title": "Original Nintendo Switch Owners Should Apply the Latest Firmware Update Now",
         "link": "https://www.cnet.com/tech/gaming/nintendo-switch-exploit-fixable-with-update-2/",
@@ -546,11 +551,6 @@
         "title": "iOS 27 Lets You Do Check Splitting and Custom Cards in Apple Wallet",
         "link": "https://www.cnet.com/tech/services-and-software/apple-wallet-ios27-features-check-splitting-custom-cards/",
         "date": "2026-09-25 18:59:41"
-      },
-      {
-        "title": "You Might See Prime as a Shipping Option on Sites Other Than Amazon. How It Works",
-        "link": "https://www.cnet.com/tech/amazon-prime-shipping-independent-merchants/",
-        "date": "2026-09-25 19:44:04"
       }
     ],
     "AP": [],
