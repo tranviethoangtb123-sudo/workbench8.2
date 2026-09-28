@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:18:56.747Z",
+  "updated": "2026-09-28T10:16:56.655Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,19 +48,24 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 20:10:51 GMT"
-      },
-      {
-        "title": "What we know about RAF Fairford counter-terror probe",
+        "title": "What we know about RAF Fairford counter-terror probe and the five men arrested",
         "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 19:47:44 GMT"
+        "date": "Mon, 28 Sep 2026 09:37:33 GMT"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 28 Sep 2026 01:09:19 GMT"
+        "title": "UK diesel price hits all-time high, RAC says",
+        "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 10:00:18 GMT"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 05:02:30 GMT"
+      },
+      {
+        "title": "Police block Protestant Orange Order from controversial parade route",
+        "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 10:13:19 GMT"
       },
       {
         "title": "Inside Yemen's front-line city as Houthis battle for control",
@@ -68,66 +73,61 @@
         "date": "Sun, 27 Sep 2026 21:16:31 GMT"
       },
       {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-        "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 21:00:06 GMT"
+        "title": "Three dead, including child, in Channel crossing attempt",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 10:02:56 GMT"
       },
       {
-        "title": "My hometown shows that high streets have to change or die",
-        "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 23:05:53 GMT"
+        "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
+        "link": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 05:18:57 GMT"
       },
       {
-        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 22:20:17 GMT"
-      },
-      {
-        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-        "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 27 Sep 2026 23:01:47 GMT"
+        "title": "Felled Sycamore Gap stump has 'encouraging' growth",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgyxrlve46o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 28 Sep 2026 05:01:06 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
-        "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
-        "date": "Sun, 27 Sep 2026 15:16:23 +0000"
+        "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+        "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+        "date": "Mon, 28 Sep 2026 09:00:51 +0000"
       },
       {
-        "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-        "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-        "date": "Sun, 27 Sep 2026 17:17:43 +0000"
+        "title": "What We Saw in One Venezuelan Gold Town",
+        "link": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html",
+        "date": "Mon, 28 Sep 2026 09:02:29 +0000"
       },
       {
-        "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
-        "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
-        "date": "Sun, 27 Sep 2026 23:02:12 +0000"
+        "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+        "link": "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html",
+        "date": "Mon, 28 Sep 2026 10:00:16 +0000"
       },
       {
-        "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-        "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
-        "date": "Sun, 27 Sep 2026 22:12:22 +0000"
+        "title": "Who’s Winning the Race for Congress?",
+        "link": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
+        "date": "Mon, 28 Sep 2026 10:04:08 +0000"
       },
       {
-        "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-        "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-        "date": "Sun, 27 Sep 2026 23:33:39 +0000"
+        "title": "Black Voters Are Warming to Talarico in Texas. Turnout Is the Bigger Test.",
+        "link": "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html",
+        "date": "Mon, 28 Sep 2026 09:00:32 +0000"
       },
       {
-        "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-        "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-        "date": "Sun, 27 Sep 2026 20:20:19 +0000"
+        "title": "Tom Kean Jr. Backs Trump on Iran and Tariffs, if Not Local Issues",
+        "link": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html",
+        "date": "Mon, 28 Sep 2026 04:31:38 +0000"
       },
       {
-        "title": "Kyle MacLachlan: David Lynch’s Singular Weirdo Is Secretly a Normie",
-        "link": "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html",
-        "date": "Sun, 27 Sep 2026 09:00:58 +0000"
+        "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
+        "link": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html",
+        "date": "Mon, 28 Sep 2026 09:02:22 +0000"
       },
       {
-        "title": "Nor’easter Weakens but Remains a Threat",
-        "link": "https://www.nytimes.com/2026/09/27/well/noreaster-weakens-but-remains-a-threat.html",
-        "date": "Mon, 28 Sep 2026 00:05:55 +0000"
+        "title": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
+        "link": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html",
+        "date": "Mon, 28 Sep 2026 09:03:13 +0000"
       }
     ],
     "The Guardian": [
@@ -174,86 +174,86 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-        "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 00:29:25 +0000"
+        "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 09:44:14 +0000"
       },
       {
-        "title": "South African police discover body of 11th woman near Johannesburg",
-        "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 00:25:12 +0000"
+        "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 09:17:29 +0000"
       },
       {
-        "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-        "date": "Mon, 28 Sep 2026 00:00:00 +0000"
+        "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
+        "link": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 09:12:45 +0000"
       },
       {
-        "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
-        "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 23:14:15 +0000"
+        "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
+        "link": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 08:50:37 +0000"
       },
       {
-        "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 23:09:48 +0000"
+        "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+        "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 08:44:16 +0000"
       },
       {
-        "title": "Powerful storm floods US Northeast, causes power outages",
-        "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 22:51:29 +0000"
+        "title": "Iran’s children return to school under the shadow of war",
+        "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 08:25:49 +0000"
       },
       {
-        "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-        "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 21:41:59 +0000"
+        "title": "France’s far-right National Rally gains ground in Senate vote",
+        "link": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 08:10:17 +0000"
       },
       {
-        "title": "Alleged rape on campus sparks violent protest at Indian university",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-        "date": "Sun, 27 Sep 2026 21:17:05 +0000"
+        "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
+        "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss",
+        "date": "Mon, 28 Sep 2026 08:02:30 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Shares in UK housebuilders surge on new Help to Buy scheme",
+        "link": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 08:58:18 GMT"
+      },
       {
         "title": "Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan",
         "link": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
         "date": "Sun, 27 Sep 2026 23:01:05 GMT"
       },
       {
-        "title": "Burnham signals he will fight election on tax rises to fund social care reform",
-        "link": "https://www.ft.com/content/23cd91df-80c5-45c0-9175-d61b74404f12?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 17:27:27 GMT"
+        "title": "AI hyperscalers are transforming debt",
+        "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 04:00:10 GMT"
       },
       {
-        "title": "World’s worst-performing market slashes minimum price for stocks",
-        "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 21:00:05 GMT"
+        "title": "How London became the property market’s black sheep",
+        "link": "https://www.ft.com/content/f9c197e8-e163-4ffe-8563-3fe4e9c76f89?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 04:00:10 GMT"
       },
       {
-        "title": "The real lesson from the Man City affair",
-        "link": "https://www.ft.com/content/b15849ac-fa14-43cc-af96-fb9980158693",
-        "date": "Sun, 27 Sep 2026 16:58:00 GMT"
+        "title": "A message for the chancellor: the time is now ripe for tax reform",
+        "link": "https://www.ft.com/content/aa0a3458-b69d-423d-9654-9ad45c8432d9?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 04:00:19 GMT"
       },
       {
-        "title": "The UK’s IMF bailout has things to teach us 50 years on",
-        "link": "https://www.ft.com/content/8cd07ef8-1578-4697-9f8b-d1a6f5b60883?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 04:00:20 GMT"
+        "title": "Investigators focus on Iran link to arrests near UK air base",
+        "link": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 08:42:28 GMT"
       },
       {
-        "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
-        "link": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 20:31:48 GMT"
+        "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
+        "link": "https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 04:00:19 GMT"
       },
       {
-        "title": "UK to restart resettlement scheme, Mahmood to tell Labour conference",
-        "link": "https://www.ft.com/content/878402a7-eeac-453e-b9db-92156107c5ce?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 21:43:40 GMT"
-      },
-      {
-        "title": "‘Hope again’: Burnham returns to Labour conference to sell his vision",
-        "link": "https://www.ft.com/content/6c9db7fb-e213-43ca-b4d9-1e809dcfd39a?syn-25a6b1a6=1",
-        "date": "Sun, 27 Sep 2026 19:36:29 GMT"
+        "title": "Glencore says HMRC was 18 months late with £264mn tax bill",
+        "link": "https://www.ft.com/content/1d7d2bc0-7721-4c4e-a8a6-e859bad9c13a?syn-25a6b1a6=1",
+        "date": "Mon, 28 Sep 2026 04:00:18 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,26 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+        "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+        "date": "Mon, 28 Sep 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+        "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+        "date": "Mon, 28 Sep 2026 09:30:00 +0000"
+      },
+      {
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+        "date": "Mon, 28 Sep 2026 09:00:00 +0000"
+      },
+      {
+        "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+        "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+        "date": "Mon, 28 Sep 2026 09:00:00 +0000"
+      },
+      {
         "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
         "link": "https://www.wired.com/story/best-party-speaker/",
         "date": "Sun, 27 Sep 2026 11:30:00 +0000"
@@ -320,26 +340,6 @@
         "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
         "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
         "date": "Sun, 27 Sep 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
-        "link": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
-        "date": "Sun, 27 Sep 2026 09:30:00 +0000"
-      },
-      {
-        "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
-        "link": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
-        "date": "Sun, 27 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Old-School Credit Card Scams Are Far From Dead",
-        "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
-        "date": "Sat, 26 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
-        "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
-        "date": "Sat, 26 Sep 2026 11:36:00 +0000"
       }
     ],
     "The Verge": [
@@ -386,6 +386,11 @@
     ],
     "TechCrunch": [
       {
+        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+        "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+        "date": "Mon, 28 Sep 2026 04:30:00 +0000"
+      },
+      {
         "title": "Anthropic’s CEO is about to have dinner with President Trump",
         "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
         "date": "Sun, 27 Sep 2026 20:34:28 +0000"
@@ -419,60 +424,55 @@
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
         "date": "Sun, 27 Sep 2026 01:30:00 +0000"
-      },
-      {
-        "title": "Insurers claim AI is already increasing healthcare costs",
-        "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-        "date": "Sat, 26 Sep 2026 21:02:06 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "The Great Crime Decline Is Happening All Across the Country",
-        "link": "https://www.theatlantic.com/ideas/2026/01/great-crime-decline/685695/",
-        "date": "Sun, 27 Sep 2026 23:26:17 +0000"
+        "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
+        "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+        "date": "Mon, 28 Sep 2026 09:23:37 +0000"
       },
       {
-        "title": "Lunar Terminator Paradox",
-        "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-        "date": "Sun, 27 Sep 2026 21:06:17 +0000"
+        "title": "Maybe don't let Muse run your Facebook Marketplace account",
+        "link": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
+        "date": "Mon, 28 Sep 2026 08:15:22 +0000"
       },
       {
-        "title": "My Recent Woodworking Projects",
-        "link": "https://notoriousbfg.com/recent-woodworking-projects/",
-        "date": "Sun, 27 Sep 2026 20:33:55 +0000"
+        "title": "Prompting Claude Opus 5.5",
+        "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "date": "Mon, 28 Sep 2026 07:33:29 +0000"
       },
       {
-        "title": "When did Google get so weird?",
-        "link": "https://sancho.bearblog.dev/google-weird/",
-        "date": "Sun, 27 Sep 2026 20:12:54 +0000"
+        "title": "Made by Mechanical Means",
+        "link": "https://felixrieseberg.com/made-by-mechanical-means/",
+        "date": "Mon, 28 Sep 2026 07:06:06 +0000"
       },
       {
-        "title": "Have an LLC",
-        "link": "https://zachholman.com/posts/you-should-have-an-llc",
-        "date": "Sun, 27 Sep 2026 20:04:37 +0000"
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+        "link": "https://arxiv.org/abs/2110.01834",
+        "date": "Mon, 28 Sep 2026 03:23:53 +0000"
       },
       {
-        "title": "Self-Hosting on the Dark Web",
-        "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-        "date": "Sun, 27 Sep 2026 20:03:36 +0000"
+        "title": "Nissan's third generation e-POWER powertrain",
+        "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+        "date": "Mon, 28 Sep 2026 02:31:23 +0000"
       },
       {
-        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-        "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-        "date": "Sun, 27 Sep 2026 19:37:05 +0000"
+        "title": "Owed a billion dollars in Nvidia stock",
+        "link": "https://colo.to/nvidia-stock-narrative.html",
+        "date": "Mon, 28 Sep 2026 02:05:13 +0000"
       },
       {
-        "title": "Imp is a full port of DSPy to the BEAM",
-        "link": "https://github.com/deepfates/imp",
-        "date": "Sun, 27 Sep 2026 19:28:23 +0000"
+        "title": "Packing Binary Is Fun",
+        "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+        "date": "Mon, 28 Sep 2026 01:33:51 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1677, Part 1 (Thread #1824)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrjsi7/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-09-27T13:07:18+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1678, Part 1 (Thread #1825)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws519n/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-09-28T04:32:30+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -480,34 +480,34 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Hungary to impose wealth tax on the richest people starting next year",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrkb8f/hungary_to_impose_wealth_tax_on_the_richest/",
-        "date": "2026-09-27T13:31:17+00:00"
+        "title": "Ukraine Retakes 51 Sq Km in Third Phase of Operation Vivaldi, With Russia Losing 2,000 Troops and 250 Captured",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws8wwo/ukraine_retakes_51_sq_km_in_third_phase_of/",
+        "date": "2026-09-28T08:23:27+00:00"
       },
       {
-        "title": "Ukraine Flies 4 Tons of Food by Drone Into Occupied Oleshky, Reaching 100 Locations",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrlu7w/ukraine_flies_4_tons_of_food_by_drone_into/",
-        "date": "2026-09-27T14:37:42+00:00"
+        "title": "Russia offers US$20 million reward for information on Unmanned Systems Forces commander Magyar",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws70jl/russia_offers_us20_million_reward_for_information/",
+        "date": "2026-09-28T06:25:59+00:00"
       },
       {
-        "title": "Trump asked China’s president if he wants to buy US arms, ambassador says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/",
-        "date": "2026-09-28T00:49:54+00:00"
+        "title": "Former VP Al Gore: A clean Earth is within world's grasp even as climate dangers accelerate",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws5s55/former_vp_al_gore_a_clean_earth_is_within_worlds/",
+        "date": "2026-09-28T05:14:19+00:00"
       },
       {
-        "title": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrwvwb/israel_revokes_credentials_of_dutch_diplomats_in/",
-        "date": "2026-09-27T21:56:19+00:00"
+        "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wrz064/south_korea_demands_apology_from_ukraine_over/",
+        "date": "2026-09-27T23:30:48+00:00"
       },
       {
-        "title": "Far right gains ground in French Senate: France's far-right National Rally (RN) party and its allies emerged from Sunday polls with a record 14 seats in the right-wing dominated Senate",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrxxo9/far_right_gains_ground_in_french_senate_frances/",
-        "date": "2026-09-27T22:42:12+00:00"
+        "title": "Viktor Orbán was behind decision to detain Ukrainian cash couriers, newly surfaced document suggests",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws83tf/viktor_orbán_was_behind_decision_to_detain/",
+        "date": "2026-09-28T07:32:23+00:00"
       },
       {
-        "title": "Iran’s foreign minister says Tehran ready for ‘doomsday’ war with U.S., but leaves diplomacy on the table",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wrqfkr/irans_foreign_minister_says_tehran_ready_for/",
-        "date": "2026-09-27T17:41:02+00:00"
+        "title": "Russian troops in Kharkiv Oblast used civilians as human shields and forced them through gas pipeline to Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ws8mou/russian_troops_in_kharkiv_oblast_used_civilians/",
+        "date": "2026-09-28T08:05:30+00:00"
       }
     ],
     "PCMag": [],
