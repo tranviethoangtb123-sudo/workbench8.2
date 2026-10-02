@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T10:07:59.763Z",
+  "updated": "2026-10-02T14:26:23.117Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,61 +48,56 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 09:08:06 GMT"
+        "title": "School protests send shivers down French government's spine",
+        "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 12:43:02 GMT"
       },
       {
-        "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+        "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
         "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 02 Oct 2026 08:46:37 GMT"
       },
       {
-        "title": "Man City verdict has 'significant implications for integrity of the game', says FA",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 08:50:24 GMT"
+        "title": "Woman who killed abusive partner has murder conviction overturned",
+        "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 11:52:00 GMT"
+      },
+      {
+        "title": "Tories aim to be election-ready ahead of party conference",
+        "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 14:09:25 GMT"
+      },
+      {
+        "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+        "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 14:00:38 GMT"
+      },
+      {
+        "title": "What does Man City guilty verdict mean for their squad?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 09:00:51 GMT"
       },
       {
         "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
         "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 01 Oct 2026 22:28:45 GMT"
+        "date": "Fri, 02 Oct 2026 11:06:10 GMT"
       },
       {
-        "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-        "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 09:28:32 GMT"
-      },
-      {
-        "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 01 Oct 2026 23:45:06 GMT"
-      },
-      {
-        "title": "'I was terrified': Alex Ferguson on brain haemorrhage and games that shaped his life",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 05:25:13 GMT"
-      },
-      {
-        "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
-        "link": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 09:51:23 GMT"
+        "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
+        "link": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 02 Oct 2026 12:28:59 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Hochul Names Letitia James as Special Prosecutor in Cornell Case",
-        "link": "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html",
-        "date": "Fri, 02 Oct 2026 02:21:54 +0000"
-      },
-      {
         "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
         "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html",
-        "date": "Fri, 02 Oct 2026 07:00:15 +0000"
+        "date": "Fri, 02 Oct 2026 13:41:12 +0000"
       },
       {
-        "title": "Cornell Students Call for Change at Fiery Public Meeting",
-        "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-public-hearing.html",
-        "date": "Fri, 02 Oct 2026 08:47:30 +0000"
+        "title": "How The New York Times Is Reporting on the Cornell Rape Investigation",
+        "link": "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html",
+        "date": "Thu, 01 Oct 2026 22:27:44 +0000"
       },
       {
         "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
@@ -110,9 +105,19 @@
         "date": "Fri, 02 Oct 2026 10:00:14 +0000"
       },
       {
+        "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+        "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
+        "date": "Fri, 02 Oct 2026 09:03:43 +0000"
+      },
+      {
+        "title": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
+        "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
+        "date": "Fri, 02 Oct 2026 09:00:39 +0000"
+      },
+      {
         "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
         "link": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
-        "date": "Fri, 02 Oct 2026 04:00:49 +0000"
+        "date": "Fri, 02 Oct 2026 11:25:29 +0000"
       },
       {
         "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
@@ -120,14 +125,9 @@
         "date": "Fri, 02 Oct 2026 04:01:10 +0000"
       },
       {
-        "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
-        "link": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
-        "date": "Fri, 02 Oct 2026 09:04:05 +0000"
-      },
-      {
-        "title": "Congress Leaves With a Whimper, as the G.O.P. Braces for Midterm Pain",
-        "link": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html",
-        "date": "Thu, 01 Oct 2026 19:48:38 +0000"
+        "title": "Truckers Are ‘Just Trying to Hang On’ When a Fill-Up Tops $1,000",
+        "link": "https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html",
+        "date": "Fri, 02 Oct 2026 09:01:09 +0000"
       }
     ],
     "The Guardian": [
@@ -174,66 +174,71 @@
     ],
     "Al Jazeera": [
       {
-        "title": "NBA closes sole Africa training academy in blow to young players",
-        "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 09:26:14 +0000"
+        "title": "Trump says Europe agrees to release ‘massive amount’ diesel stockpile",
+        "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 14:14:18 +0000"
       },
       {
-        "title": "Arab party leader forced to withdraw from Israeli elections",
-        "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 09:25:23 +0000"
+        "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+        "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:53:24 +0000"
       },
       {
-        "title": "Manchester City to launch appeal as financial breach fallout grows",
-        "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 09:24:48 +0000"
+        "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+        "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:50:06 +0000"
       },
       {
-        "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 09:24:39 +0000"
+        "title": "Man City lodge appeal after guilty finding in financial breach scandal",
+        "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:17:42 +0000"
       },
       {
-        "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
-        "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 09:03:21 +0000"
+        "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+        "link": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:16:44 +0000"
       },
       {
-        "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
-        "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 08:26:22 +0000"
+        "title": "Wolf encounter: A photographer on what humans have lost",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:13:05 +0000"
       },
       {
-        "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
-        "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 08:14:18 +0000"
+        "title": "Protests shutter hundreds of French schools as violence flares",
+        "link": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 13:12:45 +0000"
       },
       {
-        "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
-        "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
-        "date": "Fri, 02 Oct 2026 08:03:02 +0000"
+        "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
+        "link": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
+        "date": "Fri, 02 Oct 2026 12:56:18 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
-        "link": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1",
-        "date": "Fri, 02 Oct 2026 06:58:26 GMT"
+        "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+        "link": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 13:51:15 GMT"
       },
       {
-        "title": "AI got smarter. The bills got harder to control",
-        "link": "https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1",
-        "date": "Fri, 02 Oct 2026 04:00:05 GMT"
+        "title": "Investors seek refuge from bond rout in haven German debt",
+        "link": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 13:03:12 GMT"
       },
       {
-        "title": "Trump’s short-sighted diesel gamble",
-        "link": "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1",
-        "date": "Fri, 02 Oct 2026 04:00:23 GMT"
+        "title": "Kemi Badenoch: ‘I refuse to play by Westminster rules’",
+        "link": "https://www.ft.com/content/267c7c7e-6596-4ee9-85eb-a0dce1c26f5e?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 11:30:03 GMT"
       },
       {
-        "title": "No, AI is not similar to the Manhattan Project",
-        "link": "https://www.ft.com/content/7b8336a1-6ac4-4f55-a987-b5f7cf6f4983",
-        "date": "Fri, 02 Oct 2026 04:00:23 GMT"
+        "title": "My mortgage is a problem for the Fed, and for America",
+        "link": "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 11:09:56 GMT"
+      },
+      {
+        "title": "I’m even more bullish about stocks than a year ago",
+        "link": "https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 12:52:21 GMT"
       },
       {
         "title": "Quant hedge funds reap big gains from global bond sell-off",
@@ -241,19 +246,14 @@
         "date": "Fri, 02 Oct 2026 04:00:23 GMT"
       },
       {
-        "title": "Amazon seeks to offload $8bn of Nvidia chips to investors",
-        "link": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
-        "date": "Fri, 02 Oct 2026 04:00:33 GMT"
+        "title": "Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump",
+        "link": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
+        "date": "Fri, 02 Oct 2026 10:59:36 GMT"
       },
       {
-        "title": "Eurozone inflation hits three-year high of 3.8%",
-        "link": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
-        "date": "Fri, 02 Oct 2026 09:01:36 GMT"
-      },
-      {
-        "title": "Burnham searches for UK alternative to Palantir",
-        "link": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1",
-        "date": "Thu, 01 Oct 2026 22:26:19 GMT"
+        "title": "Europe should take Trump’s diesel ban seriously, if not literally",
+        "link": "https://www.ft.com/content/a357ac2d-fead-4df2-a5cf-cf1aa94cf7a9?syn-25a6b1a6=1",
+        "date": "Thu, 01 Oct 2026 17:25:03 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,21 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
+        "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+        "date": "Fri, 02 Oct 2026 11:47:58 +0000"
+      },
+      {
+        "title": "Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive",
+        "link": "https://www.wired.com/story/best-smart-cat-tracker/",
+        "date": "Fri, 02 Oct 2026 11:35:00 +0000"
+      },
+      {
+        "title": "Your Driverless Cab Is Spying on You",
+        "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
+        "date": "Fri, 02 Oct 2026 10:30:00 +0000"
+      },
+      {
         "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
         "link": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
         "date": "Fri, 02 Oct 2026 10:00:00 +0000"
@@ -325,24 +340,34 @@
         "title": "Columbia Promo Codes: 15% Off | October 2026",
         "link": "https://www.wired.com/story/columbia-promo-code/",
         "date": "Fri, 02 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Uber Eats Promo Codes: $15 Off│October 2026",
-        "link": "https://www.wired.com/story/uber-eats-promo-code/",
-        "date": "Fri, 02 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Peacock Promo Codes: 40% Off October 2026",
-        "link": "https://www.wired.com/story/peacock-promo-code/",
-        "date": "Fri, 02 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Wayfair Coupons: Up to 80% Off October 2026",
-        "link": "https://www.wired.com/story/wayfair-promo-code/",
-        "date": "Fri, 02 Oct 2026 05:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+        "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+        "date": "2026-10-02 12:00:00"
+      },
+      {
+        "title": "AI hallucinations are making entitled customers even worse",
+        "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+        "date": "2026-10-02 12:00:00"
+      },
+      {
+        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+        "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+        "date": "2026-10-02 12:00:00"
+      },
+      {
+        "title": "Amazon writes scary blog warning communities not to block data centers",
+        "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+        "date": "2026-10-02 11:52:20"
+      },
+      {
+        "title": "AI music maker Suno now generates spoken words",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "date": "2026-10-02 09:42:19"
+      },
       {
         "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
         "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
@@ -357,34 +382,39 @@
         "title": "Android Central ‘will continue’ despite laying off its staff",
         "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
         "date": "2026-10-01 19:20:29"
-      },
-      {
-        "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-        "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-        "date": "2026-10-01 18:52:58"
-      },
-      {
-        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-        "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-        "date": "2026-10-01 17:12:21"
-      },
-      {
-        "title": "Sony brings AI graphics upscaling to the regular PS5",
-        "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-        "date": "2026-10-01 16:53:39"
-      },
-      {
-        "title": "Can VR glasses save VR?",
-        "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-        "date": "2026-10-01 16:10:32"
-      },
-      {
-        "title": "Microsoft’s Office and Teams chief is leaving",
-        "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
-        "date": "2026-10-01 16:02:37"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+        "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+        "date": "Fri, 02 Oct 2026 14:00:00 +0000"
+      },
+      {
+        "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+        "date": "Fri, 02 Oct 2026 14:00:00 +0000"
+      },
+      {
+        "title": "Tesla sustains its EV sales momentum despite US troubles",
+        "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+        "date": "Fri, 02 Oct 2026 13:39:23 +0000"
+      },
+      {
+        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data",
+        "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+        "date": "Fri, 02 Oct 2026 13:23:09 +0000"
+      },
+      {
+        "title": "Rivian&#8217;s R2 just helped it set a new sales record",
+        "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+        "date": "Fri, 02 Oct 2026 13:17:05 +0000"
+      },
+      {
+        "title": "Rivian issues R2 recall for poorly tightened battery packs",
+        "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+        "date": "Fri, 02 Oct 2026 12:50:11 +0000"
+      },
       {
         "title": "Robotaxi operators will face fines for blocking first responders",
         "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
@@ -394,39 +424,24 @@
         "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
         "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
         "date": "Fri, 02 Oct 2026 00:03:23 +0000"
-      },
-      {
-        "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-        "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-        "date": "Thu, 01 Oct 2026 21:57:08 +0000"
-      },
-      {
-        "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
-        "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-        "date": "Thu, 01 Oct 2026 21:55:22 +0000"
-      },
-      {
-        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-        "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-        "date": "Thu, 01 Oct 2026 21:08:11 +0000"
-      },
-      {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-        "date": "Thu, 01 Oct 2026 19:21:53 +0000"
-      },
-      {
-        "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
-        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-        "date": "Thu, 01 Oct 2026 19:18:03 +0000"
-      },
-      {
-        "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-        "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-        "date": "Thu, 01 Oct 2026 18:35:55 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Don't be fooled–LLMs don't reason",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "date": "Fri, 02 Oct 2026 13:45:42 +0000"
+      },
+      {
+        "title": "The Legend of von Neumann [pdf]",
+        "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+        "date": "Fri, 02 Oct 2026 13:18:32 +0000"
+      },
+      {
+        "title": "Memory executives expect RAM shortage to continue through 2028",
+        "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+        "date": "Fri, 02 Oct 2026 11:58:33 +0000"
+      },
       {
         "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
         "link": "https://github.com/kvoltmer/Audionaut",
@@ -451,21 +466,6 @@
         "title": "Butterflies use optical illusions to dodge predators",
         "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
         "date": "Thu, 01 Oct 2026 23:15:24 +0000"
-      },
-      {
-        "title": "Several vulnerabilities have been discovered in the Linux kernel",
-        "link": "https://lwn.net/Articles/1097401/",
-        "date": "Thu, 01 Oct 2026 23:10:44 +0000"
-      },
-      {
-        "title": "Frog and Toad and the Increasingly Capable Machines",
-        "link": "https://www.frogandtoad.ai/",
-        "date": "Thu, 01 Oct 2026 22:23:38 +0000"
-      },
-      {
-        "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-        "link": "https://www.cssbed.com",
-        "date": "Thu, 01 Oct 2026 21:21:32 +0000"
       }
     ],
     "Reddit": [
@@ -480,6 +480,26 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "EU ‘fully rejects’ US threat to ban diesel exports unless bloc releases more fuel stocks",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wvs25x/eu_fully_rejects_us_threat_to_ban_diesel_exports/",
+        "date": "2026-10-02T12:05:42+00:00"
+      },
+      {
+        "title": "US sending 9,000 troops aboard ships to Middle East",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wvol3h/us_sending_9000_troops_aboard_ships_to_middle_east/",
+        "date": "2026-10-02T08:40:00+00:00"
+      },
+      {
+        "title": "Seoul warns of 'further measures' if Kyiv refuses public apology",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wvnxt7/seoul_warns_of_further_measures_if_kyiv_refuses/",
+        "date": "2026-10-02T07:56:42+00:00"
+      },
+      {
+        "title": "IDF documents terror affiliations of 170 Palestinian journalists killed in Gaza war",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wvq0vg/idf_documents_terror_affiliations_of_170/",
+        "date": "2026-10-02T10:11:57+00:00"
+      },
+      {
         "title": "Japan Has Provided Ukraine With $20 Billion In Aid Since Start Of War — Zelenskyy",
         "link": "https://www.reddit.com/r/worldnews/comments/1wva5qw/japan_has_provided_ukraine_with_20_billion_in_aid/",
         "date": "2026-10-01T20:19:42+00:00"
@@ -488,26 +508,6 @@
         "title": "European Union and Canada plan new undersea cables and fuel shipments as part of “Alliance for the Future” to counterbalance the US and China",
         "link": "https://www.reddit.com/r/worldnews/comments/1wvew50/european_union_and_canada_plan_new_undersea/",
         "date": "2026-10-01T23:44:22+00:00"
-      },
-      {
-        "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wvi5km/crude_oil_exports_from_strait_of_hormuz_largely/",
-        "date": "2026-10-02T02:20:38+00:00"
-      },
-      {
-        "title": "Seoul warns of 'further measures' if Kyiv refuses public apology",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wvnxt7/seoul_warns_of_further_measures_if_kyiv_refuses/",
-        "date": "2026-10-02T07:56:42+00:00"
-      },
-      {
-        "title": "US sending 9,000 troops aboard ships to Middle East",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wvol3h/us_sending_9000_troops_aboard_ships_to_middle_east/",
-        "date": "2026-10-02T08:40:00+00:00"
-      },
-      {
-        "title": "Russia Lost Record 46,230 Troops in September as Moscow Prepares 120,000 Conscripts for Fall",
-        "link": "https://www.reddit.com/r/worldnews/comments/1wuxagy/russia_lost_record_46230_troops_in_september_as/",
-        "date": "2026-10-01T11:46:16+00:00"
       }
     ],
     "PCMag": [],
