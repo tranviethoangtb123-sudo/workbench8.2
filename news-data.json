@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:30:25.155Z",
+  "updated": "2026-10-03T13:01:28.336Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,61 +48,76 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Widdecombe suspect charged with planning terror act against Farage",
-        "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 08:44:29 GMT"
-      },
-      {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 09:23:31 GMT"
+        "date": "Sat, 03 Oct 2026 11:20:21 GMT"
       },
       {
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+        "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 10:58:51 GMT"
+      },
+      {
+        "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+        "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 10:27:57 GMT"
+      },
+      {
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
         "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 07:25:09 GMT"
+        "date": "Sat, 03 Oct 2026 12:59:10 GMT"
       },
       {
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 04:38:31 GMT"
+        "title": "Protesters across Spain demand action over housing crisis",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 12:16:15 GMT"
       },
       {
-        "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
-        "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 04:07:58 GMT"
-      },
-      {
-        "title": "Suppliers pile pressure on government over energy bills",
-        "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 03 Oct 2026 08:58:44 GMT"
+        "title": "Homemade bombs part of alleged plot on Manchester's Jewish community, court told",
+        "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 12:51:08 GMT"
       },
       {
         "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
         "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 23:31:37 GMT"
+        "date": "Sat, 03 Oct 2026 11:07:52 GMT"
       },
       {
-        "title": "Why electric cars might be making some passengers feel sick",
+        "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
         "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 03 Oct 2026 02:36:19 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
-        "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
-        "date": "Fri, 02 Oct 2026 21:28:50 +0000"
+        "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+        "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+        "date": "Sat, 03 Oct 2026 12:40:16 +0000"
       },
       {
-        "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
-        "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
-        "date": "Fri, 02 Oct 2026 18:41:42 +0000"
+        "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
+        "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html",
+        "date": "Sat, 03 Oct 2026 09:03:58 +0000"
       },
       {
-        "title": "Judge Blocks Border Wall Construction in Big Bend in Texas",
-        "link": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html",
-        "date": "Fri, 02 Oct 2026 23:06:16 +0000"
+        "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+        "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+        "date": "Sat, 03 Oct 2026 11:59:06 +0000"
+      },
+      {
+        "title": "Senate Races in Republican States Tilt Toward Democrats, Polls Find",
+        "link": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+        "date": "Sat, 03 Oct 2026 09:02:26 +0000"
+      },
+      {
+        "title": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
+        "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
+        "date": "Sat, 03 Oct 2026 11:29:57 +0000"
+      },
+      {
+        "title": "In Texas, Talarico Inspires a Recurring Blue-Tinted Dream",
+        "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
+        "date": "Sat, 03 Oct 2026 09:45:14 +0000"
       },
       {
         "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
@@ -110,24 +125,9 @@
         "date": "Sat, 03 Oct 2026 01:13:51 +0000"
       },
       {
-        "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
-        "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html",
-        "date": "Sat, 03 Oct 2026 00:12:29 +0000"
-      },
-      {
-        "title": "Letitia James Is in Charge of the Cornell Rape Inquiry. What Comes Next?",
-        "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-university-jane-doe-investigation.html",
-        "date": "Fri, 02 Oct 2026 22:44:21 +0000"
-      },
-      {
-        "title": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
-        "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
-        "date": "Fri, 02 Oct 2026 19:12:31 +0000"
-      },
-      {
-        "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-        "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-        "date": "Sat, 03 Oct 2026 00:15:12 +0000"
+        "title": "Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases",
+        "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html",
+        "date": "Sat, 03 Oct 2026 09:02:40 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
-        "link": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:36:17 +0000"
+        "title": "Defining consent and the psychology behind the ‘Cornell 7’ rape case",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 12:39:59 +0000"
       },
       {
-        "title": "Polls open in Latvia against backdrop of perceived Russia threat",
-        "link": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:21:23 +0000"
+        "title": "South Africa’s Pretorius smashes Gayle’s T20 cricket record score",
+        "link": "https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 12:19:29 +0000"
       },
       {
-        "title": "Turkish court detains football refereeing chief pending corruption trial",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:19:33 +0000"
+        "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+        "link": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 12:18:24 +0000"
       },
       {
-        "title": "India beat archrivals Pakistan to win Asian Games T20 cricket gold",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:18:40 +0000"
+        "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+        "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 11:51:22 +0000"
       },
       {
-        "title": "Floods sweep cars through streets after intense rain in Spain",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:17:40 +0000"
+        "title": "The double standards of a failed execution",
+        "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 11:32:42 +0000"
       },
       {
-        "title": "Man City whistleblower Pinto to lose witness protection amid death threats",
-        "link": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 08:05:28 +0000"
+        "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+        "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 11:16:43 +0000"
       },
       {
-        "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 07:57:53 +0000"
+        "title": "Palestinians gather for football amid Gaza’s ruins",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 11:08:17 +0000"
       },
       {
-        "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
-        "date": "Sat, 03 Oct 2026 07:57:47 +0000"
+        "title": "How AI is helping Mexico detect breast cancer earlier",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
+        "date": "Sat, 03 Oct 2026 10:55:32 +0000"
       }
     ],
     "Financial Times": [
@@ -231,14 +231,14 @@
         "date": "Sat, 03 Oct 2026 04:00:39 GMT"
       },
       {
+        "title": "The right and wrong lessons to learn from Spain’s housing crisis",
+        "link": "https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1",
+        "date": "Sat, 03 Oct 2026 04:00:48 GMT"
+      },
+      {
         "title": "A Londoner’s guide to hating London",
         "link": "https://www.ft.com/content/c8407fb6-6134-4b2c-a428-d3a998873383",
         "date": "Sat, 03 Oct 2026 04:00:10 GMT"
-      },
-      {
-        "title": "Protests from the City about bank tax ring hollow",
-        "link": "https://www.ft.com/content/b50f39c6-4484-4c06-89cb-2884f9e58bd7",
-        "date": "Sat, 03 Oct 2026 04:00:29 GMT"
       },
       {
         "title": "Healey set to delay difficult choices with ‘breathing space’ UK Budget",
@@ -251,9 +251,9 @@
         "date": "Sat, 03 Oct 2026 04:23:59 GMT"
       },
       {
-        "title": "Zelenskyy asked Trump to block Russia and China’s Starlink rival",
-        "link": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
-        "date": "Sat, 03 Oct 2026 04:00:39 GMT"
+        "title": "Students turn to lawyers to fight AI misconduct accusations",
+        "link": "https://www.ft.com/content/7e34e5c1-e841-4d0d-abc1-40f98ba4da01?syn-25a6b1a6=1",
+        "date": "Sat, 03 Oct 2026 04:00:11 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,26 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+        "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+        "date": "Sat, 03 Oct 2026 12:00:00 +0000"
+      },
+      {
+        "title": "How to Collect CDs",
+        "link": "https://www.wired.com/story/how-to-collect-cds/",
+        "date": "Sat, 03 Oct 2026 11:30:00 +0000"
+      },
+      {
+        "title": "The Best E-Readers That Aren't a Kindle (2026): Kobo, Boox",
+        "link": "https://www.wired.com/gallery/best-ereaders/",
+        "date": "Sat, 03 Oct 2026 11:05:00 +0000"
+      },
+      {
+        "title": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
+        "link": "https://www.wired.com/story/best-mosquito-repellents/",
+        "date": "Sat, 03 Oct 2026 10:03:00 +0000"
+      },
+      {
         "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
         "link": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
         "date": "Sat, 03 Oct 2026 09:00:00 +0000"
@@ -320,29 +340,14 @@
         "title": "Surfshark Promo Codes: 87% Off | October 2026",
         "link": "https://www.wired.com/story/surfshark-coupon/",
         "date": "Sat, 03 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Klook Promo Code: 25% Off October 2026",
-        "link": "https://www.wired.com/story/klook-promo-code/",
-        "date": "Sat, 03 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Hoka Coupon Codes: 30% Off in October 2026",
-        "link": "https://www.wired.com/story/hoka-coupon-code/",
-        "date": "Sat, 03 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Chewy Promo Codes: $20 Off October 2026",
-        "link": "https://www.wired.com/story/chewy-promo-code/",
-        "date": "Sat, 03 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
-        "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
-        "date": "Fri, 02 Oct 2026 19:52:36 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "3D movies are finally worth watching",
+        "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+        "date": "2026-10-03 12:00:00"
+      },
       {
         "title": "Meta open sources code to let you make Muse AI gadgets",
         "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
@@ -377,11 +382,6 @@
         "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
         "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
         "date": "2026-10-02 17:15:03"
-      },
-      {
-        "title": "Beehiiv creators are buzzing about a new price increase",
-        "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-        "date": "2026-10-02 16:51:49"
       }
     ],
     "TechCrunch": [
@@ -428,19 +428,24 @@
     ],
     "Hacker News": [
       {
-        "title": "U.S. may have overthrown Venezuela due to chat with Grok",
-        "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
-        "date": "Sat, 03 Oct 2026 08:40:38 +0000"
+        "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+        "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+        "date": "Sat, 03 Oct 2026 12:02:10 +0000"
       },
       {
-        "title": "Why should I have to pay more for buses if I don't use a smartphone?",
-        "link": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
-        "date": "Sat, 03 Oct 2026 07:48:11 +0000"
+        "title": "Show HN: Germany's new sovereign AI model Kolibri",
+        "link": "https://tej.as/blog/aleph-alpha-kolibri",
+        "date": "Sat, 03 Oct 2026 10:43:51 +0000"
       },
       {
-        "title": "Understanding Frontier Artificial Intelligence",
-        "link": "https://casp.ac/reports/intelligence-explosion",
-        "date": "Sat, 03 Oct 2026 07:06:02 +0000"
+        "title": "GitHub's new dashboard experience now the default",
+        "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "date": "Sat, 03 Oct 2026 09:59:01 +0000"
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "link": "https://offrun.dev/",
+        "date": "Sat, 03 Oct 2026 08:40:17 +0000"
       },
       {
         "title": "An Update on Orion for Linux and Windows",
@@ -461,11 +466,6 @@
         "title": "Newgrounds.com – A community of games, music, and art",
         "link": "https://www.newgrounds.com/",
         "date": "Sat, 03 Oct 2026 00:55:25 +0000"
-      },
-      {
-        "title": "Barcodes are about to go extinct",
-        "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-        "date": "Fri, 02 Oct 2026 20:37:07 +0000"
       }
     ],
     "Reddit": [
@@ -480,14 +480,14 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "Russia rehearses invasion and occupation of Central Asian country during military exercises",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wwizly/russia_rehearses_invasion_and_occupation_of/",
+        "date": "2026-10-03T09:28:25+00:00"
+      },
+      {
         "title": "European Union and Canada plan to link next-gen payment systems, easing transactions",
         "link": "https://www.reddit.com/r/worldnews/comments/1ww6zgo/european_union_and_canada_plan_to_link_nextgen/",
         "date": "2026-10-02T22:21:51+00:00"
-      },
-      {
-        "title": "Saudi Arabia plans 100,000-troop Yemen offensive to retake Bab el-Mandeb from Houthis",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ww7zl2/saudi_arabia_plans_100000troop_yemen_offensive_to/",
-        "date": "2026-10-02T23:09:05+00:00"
       },
       {
         "title": "5 European nations follow U.S. with plans for third-country deportations as EU approves migrant \"return hubs\"",
@@ -495,23 +495,28 @@
         "date": "2026-10-03T03:57:47+00:00"
       },
       {
-        "title": "Japan to Consider Transferring Patriot Missiles to Ukraine",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ww8qqk/japan_to_consider_transferring_patriot_missiles/",
-        "date": "2026-10-02T23:44:51+00:00"
-      },
-      {
-        "title": "Argentina announces it will give passports for €311.000 contribution",
-        "link": "https://www.reddit.com/r/worldnews/comments/1ww7r62/argentina_announces_it_will_give_passports_for/",
-        "date": "2026-10-02T22:58:07+00:00"
+        "title": "Saudi Arabia plans 100,000-troop Yemen offensive to retake Bab el-Mandeb from Houthis",
+        "link": "https://www.reddit.com/r/worldnews/comments/1ww7zl2/saudi_arabia_plans_100000troop_yemen_offensive_to/",
+        "date": "2026-10-02T23:09:05+00:00"
       },
       {
         "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
         "link": "https://www.reddit.com/r/worldnews/comments/1wwde07/an_ebola_treatment_center_was_burned_down_as_the/",
         "date": "2026-10-03T03:48:24+00:00"
+      },
+      {
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1wwi8ld/russia_strikes_second_major_bridge_in_kyiv_mayor/",
+        "date": "2026-10-03T08:40:26+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Download iOS 27.0.1 Now to Fix These 3 iPhone Bugs",
+        "link": "https://www.cnet.com/tech/services-and-software/you-should-download-ios-27-0-1-now-for-these-iphone-fixes/",
+        "date": "2026-09-28 21:10:53"
+      },
       {
         "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
         "link": "https://www.cnet.com/tech/paramount-skydance-warner-bros-discovery-media-empire/",
@@ -546,11 +551,6 @@
         "title": "Can AI Fix Your Chaotic Inbox? I Unleashed It On 200,000 Unread Emails",
         "link": "https://www.cnet.com/tech/services-and-software/ai-fix-your-inbox-unread-emails/",
         "date": "2026-10-02 19:43:32"
-      },
-      {
-        "title": "Most of Us Have Been Cyberattack Targets, Consumer Reports Finds. AI Isn’t Helping",
-        "link": "https://www.cnet.com/tech/services-and-software/most-of-us-have-been-cyber-attack-targets-consumer-reports-finds-ai-isnt-helping/",
-        "date": "2026-10-02 16:53:34"
       }
     ],
     "AP": [],
