@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:37:03.327Z",
+  "updated": "2026-10-12T01:54:50.208Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,14 +48,19 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 11 Oct 2026 11:32:50 GMT"
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 21:36:40 GMT"
       },
       {
-        "title": "Buildings swept away as flash floods hit central Nepal",
-        "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 11 Oct 2026 10:34:02 GMT"
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 22:45:58 GMT"
+      },
+      {
+        "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+        "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 18:00:30 GMT"
       },
       {
         "title": "Wildlife park remains closed after fatal tiger attack",
@@ -63,36 +68,46 @@
         "date": "Sun, 11 Oct 2026 12:38:02 GMT"
       },
       {
-        "title": "UK does not support Trump's Russia diesel deal, says Streeting",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 11 Oct 2026 11:00:49 GMT"
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 17:27:24 GMT"
       },
       {
-        "title": "Pope Leo to have surgery after lump found on lung",
-        "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 11 Oct 2026 13:38:55 GMT"
+        "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+        "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 10:43:17 GMT"
       },
       {
-        "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-        "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 10 Oct 2026 23:17:03 GMT"
+        "title": "Orangutans released back into Borneo forest after devastating fires",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 19:08:04 GMT"
       },
       {
-        "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-        "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 10 Oct 2026 23:31:35 GMT"
-      },
-      {
-        "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
-        "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 10 Oct 2026 23:18:16 GMT"
+        "title": "Iran war threatens Healey's Budget plans, think tank warns",
+        "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 11 Oct 2026 23:04:07 GMT"
       }
     ],
     "The New York Times": [
       {
+        "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+        "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+        "date": "Sun, 11 Oct 2026 23:45:12 +0000"
+      },
+      {
+        "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+        "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+        "date": "Sun, 11 Oct 2026 19:57:48 +0000"
+      },
+      {
+        "title": "An Israeli Election Like No Other",
+        "link": "https://www.nytimes.com/2026/10/11/world/israel-election-india-protests-riyadh.html",
+        "date": "Sun, 11 Oct 2026 20:57:39 +0000"
+      },
+      {
         "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
         "link": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html",
-        "date": "Sun, 11 Oct 2026 13:55:50 +0000"
+        "date": "Sun, 11 Oct 2026 16:28:59 +0000"
       },
       {
         "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
@@ -100,34 +115,19 @@
         "date": "Sun, 11 Oct 2026 09:00:53 +0000"
       },
       {
-        "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-        "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-        "date": "Sun, 11 Oct 2026 13:23:37 +0000"
-      },
-      {
-        "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-        "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-        "date": "Sun, 11 Oct 2026 09:00:12 +0000"
-      },
-      {
-        "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-        "link": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
-        "date": "Sun, 11 Oct 2026 09:01:26 +0000"
-      },
-      {
-        "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
-        "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-        "date": "Sun, 11 Oct 2026 02:40:52 +0000"
-      },
-      {
-        "title": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
-        "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
-        "date": "Sun, 11 Oct 2026 00:11:51 +0000"
-      },
-      {
         "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
         "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-        "date": "Sun, 11 Oct 2026 14:19:44 +0000"
+        "date": "Sun, 11 Oct 2026 17:59:30 +0000"
+      },
+      {
+        "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+        "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+        "date": "Sun, 11 Oct 2026 09:00:28 +0000"
+      },
+      {
+        "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+        "link": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+        "date": "Sun, 11 Oct 2026 22:22:16 +0000"
       }
     ],
     "The Guardian": [
@@ -157,6 +157,11 @@
         "date": "Thu, 08 Oct 2026 20:20:31 GMT"
       },
       {
+        "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+        "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+        "date": "Sun, 11 Oct 2026 13:45:27 GMT"
+      },
+      {
         "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
         "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
         "date": "Sun, 11 Oct 2026 07:45:31 GMT"
@@ -165,70 +170,70 @@
         "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
         "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
         "date": "Sun, 11 Oct 2026 06:56:08 GMT"
-      },
-      {
-        "title": "Candidate named Hitler Mussolini elected mayor in Peru",
-        "link": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
-        "date": "Sat, 10 Oct 2026 12:00:10 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-        "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 14:25:03 +0000"
+        "title": "Bridge washed away by torrent of water in Nepal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 01:24:26 +0000"
       },
       {
-        "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-        "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 14:09:12 +0000"
+        "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+        "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 01:12:35 +0000"
       },
       {
-        "title": "The Mafia Football Murders | True Crime Reports",
-        "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 14:05:14 +0000"
+        "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 00:39:08 +0000"
       },
       {
-        "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-        "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 14:04:32 +0000"
+        "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+        "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 00:21:46 +0000"
       },
       {
-        "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-        "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 13:41:57 +0000"
+        "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+        "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 00:14:46 +0000"
       },
       {
-        "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 13:34:07 +0000"
+        "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "date": "Mon, 12 Oct 2026 00:00:00 +0000"
       },
       {
-        "title": "India’s crackdown on youth protesters: What next?",
-        "link": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 13:06:00 +0000"
+        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+        "date": "Sun, 11 Oct 2026 23:20:46 +0000"
       },
       {
-        "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
-        "date": "Sun, 11 Oct 2026 12:40:35 +0000"
+        "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+        "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+        "date": "Sun, 11 Oct 2026 23:17:05 +0000"
       }
     ],
     "Financial Times": [
       {
+        "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+        "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 18:40:51 GMT"
+      },
+      {
+        "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
+        "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 18:01:02 GMT"
+      },
+      {
+        "title": "Can Russia meet Trump’s diesel demands?",
+        "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 17:13:56 GMT"
+      },
+      {
         "title": "Houthis show military reach with deadly missile strikes on Riyadh",
         "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
         "date": "Sun, 11 Oct 2026 13:04:47 GMT"
-      },
-      {
-        "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-        "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 09:48:24 GMT"
-      },
-      {
-        "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
-        "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 05:26:18 GMT"
       },
       {
         "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
@@ -236,24 +241,19 @@
         "date": "Sun, 11 Oct 2026 04:00:06 GMT"
       },
       {
-        "title": "The problem with your AI therapist",
-        "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 04:00:16 GMT"
+        "title": "Democrats need a foreign policy",
+        "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 15:13:30 GMT"
       },
       {
-        "title": "Europe can fight the ‘China shock’",
-        "link": "https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 11:00:08 GMT"
+        "title": "Healey’s Budget will be ‘fiction’ without plan for £35bn hole in spending, IFS warns",
+        "link": "https://www.ft.com/content/619800ae-b2f2-46e3-b34e-23f0525637da?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 23:01:03 GMT"
       },
       {
-        "title": "Ukraine’s allies vow to pressure Moscow after Trump-Putin diesel deal",
-        "link": "https://www.ft.com/content/724ef0e2-4d50-49fd-aef8-abc0534f2f84?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 12:45:06 GMT"
-      },
-      {
-        "title": "The fall of Germany’s ex-spymaster",
-        "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
-        "date": "Sun, 11 Oct 2026 04:00:15 GMT"
+        "title": "Burnham to step up UK business outreach amid fears of Budget tax rises",
+        "link": "https://www.ft.com/content/b00db29e-4334-4e04-8f09-a140aafd4b05?syn-25a6b1a6=1",
+        "date": "Sun, 11 Oct 2026 23:01:03 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -344,128 +344,128 @@
     ],
     "The Verge": [
       {
+        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+        "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+        "date": "2026-10-11 20:06:43"
+      },
+      {
+        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+        "date": "2026-10-11 18:33:56"
+      },
+      {
+        "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+        "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+        "date": "2026-10-11 17:31:07"
+      },
+      {
+        "title": "NASA dumped over 800GB of Artemis II data online",
+        "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+        "date": "2026-10-11 15:34:40"
+      },
+      {
+        "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+        "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+        "date": "2026-10-11 15:15:00"
+      },
+      {
+        "title": "Vurt wants you to look at vertical videos as a genre of their own",
+        "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+        "date": "2026-10-11 13:00:00"
+      },
+      {
+        "title": "What to expect from Apple’s ‘Welcome Home’ event",
+        "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+        "date": "2026-10-11 13:00:00"
+      },
+      {
         "title": "Horror is big business",
         "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
         "date": "2026-10-11 12:00:00"
-      },
-      {
-        "title": "Why the LeapPad couldn’t survive the iPad",
-        "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-        "date": "2026-10-11 12:00:00"
-      },
-      {
-        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "date": "2026-10-11 11:00:00"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "date": "2026-10-10 22:10:17"
-      },
-      {
-        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-        "date": "2026-10-10 18:52:07"
-      },
-      {
-        "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-        "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-        "date": "2026-10-10 16:36:44"
-      },
-      {
-        "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-        "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-        "date": "2026-10-10 15:00:00"
-      },
-      {
-        "title": "Anthropic is cutting off its internal evaluations from the internet",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-        "date": "2026-10-10 14:41:16"
       }
     ],
     "TechCrunch": [
       {
-        "title": "What to know about the landmark Warner Bros. Discovery sale",
-        "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-        "date": "Sun, 11 Oct 2026 14:15:00 +0000"
+        "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "date": "Mon, 12 Oct 2026 00:59:01 +0000"
       },
       {
-        "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
-        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "date": "Sun, 11 Oct 2026 14:00:00 +0000"
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "date": "Sun, 11 Oct 2026 21:14:40 +0000"
       },
       {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "date": "Sat, 10 Oct 2026 21:47:51 +0000"
+        "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+        "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+        "date": "Sun, 11 Oct 2026 20:51:47 +0000"
       },
       {
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "date": "Sat, 10 Oct 2026 19:50:00 +0000"
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+        "date": "Sun, 11 Oct 2026 19:00:00 +0000"
       },
       {
-        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-        "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-        "date": "Sat, 10 Oct 2026 17:00:00 +0000"
+        "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "date": "Sun, 11 Oct 2026 17:53:37 +0000"
       },
       {
-        "title": "Cloudflare acquires Deno to improve its Workers programming model",
-        "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-        "date": "Sat, 10 Oct 2026 16:25:42 +0000"
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "date": "Sun, 11 Oct 2026 16:52:33 +0000"
       },
       {
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "date": "Sat, 10 Oct 2026 15:00:00 +0000"
+        "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+        "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+        "date": "Sun, 11 Oct 2026 16:02:00 +0000"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "date": "Sat, 10 Oct 2026 14:00:00 +0000"
+        "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+        "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+        "date": "Sun, 11 Oct 2026 16:00:00 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
-        "link": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-        "date": "Sun, 11 Oct 2026 13:28:03 +0000"
+        "title": "Local Indexing to reduce tool calling and token usage",
+        "link": "https://tedhaley.ca/pensieve/",
+        "date": "Mon, 12 Oct 2026 00:03:53 +0000"
       },
       {
-        "title": "Terence Tao: Math 2.0 [pdf]",
-        "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-        "date": "Sun, 11 Oct 2026 13:16:45 +0000"
+        "title": "HashiCorp archives the Boundary open source repo",
+        "link": "https://github.com/hashicorp/boundary",
+        "date": "Mon, 12 Oct 2026 00:02:45 +0000"
       },
       {
-        "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
-        "link": "https://github.com/go-dev-auth/go-dev-auth",
-        "date": "Sun, 11 Oct 2026 13:06:36 +0000"
+        "title": "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM",
+        "link": "https://github.com/moral666/QT",
+        "date": "Sun, 11 Oct 2026 23:52:23 +0000"
       },
       {
-        "title": "Don't Put Tilde In Your Path",
-        "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-        "date": "Sun, 11 Oct 2026 12:13:13 +0000"
+        "title": "Whatever became of holography? (2011)",
+        "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+        "date": "Sun, 11 Oct 2026 23:50:34 +0000"
       },
       {
-        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-        "link": "https://verdagon.dev/blog/valen-group-borrowing",
-        "date": "Sun, 11 Oct 2026 12:06:22 +0000"
+        "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "link": "https://github.com/plimsollmark/plimsoll",
+        "date": "Sun, 11 Oct 2026 23:47:59 +0000"
       },
       {
-        "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-        "link": "https://jobs.ashbyhq.com/weave-os",
-        "date": "Sun, 11 Oct 2026 12:01:08 +0000"
+        "title": "Governments are mishandling the affordability crisis",
+        "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+        "date": "Sun, 11 Oct 2026 23:40:06 +0000"
       },
       {
-        "title": "I paid people to try and follow my README",
-        "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-        "date": "Sun, 11 Oct 2026 11:47:29 +0000"
+        "title": "Illustration Beyond Proof",
+        "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+        "date": "Sun, 11 Oct 2026 23:22:36 +0000"
       },
       {
-        "title": "Nitter: Update Oct 10th seeking funding and legal help",
-        "link": "https://nitter.net",
-        "date": "Sun, 11 Oct 2026 10:37:55 +0000"
+        "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+        "link": "https://github.com/swimmingbrain/brainotes",
+        "date": "Sun, 11 Oct 2026 23:22:29 +0000"
       }
     ],
     "Reddit": [
@@ -480,38 +480,43 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Polish PM ‘target of assassination plot’",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x35sm4/polish_pm_target_of_assassination_plot/",
-        "date": "2026-10-11T11:24:54+00:00"
-      },
-      {
-        "title": "US destroys 10 tankers worth billions of dollars linked to Iran",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x37y6s/us_destroys_10_tankers_worth_billions_of_dollars/",
-        "date": "2026-10-11T13:15:04+00:00"
-      },
-      {
-        "title": "Estonia's PM urges EU to help 'smash Russian oil refineries to smithereens'",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x31v05/estonias_pm_urges_eu_to_help_smash_russian_oil/",
-        "date": "2026-10-11T07:26:17+00:00"
-      },
-      {
         "title": "Russia behind Britain's Brexit vote, UK prime minister admits for first time",
         "link": "https://www.reddit.com/r/worldnews/comments/1x394xq/russia_behind_britains_brexit_vote_uk_prime/",
         "date": "2026-10-11T14:08:43+00:00"
       },
       {
-        "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x349x4/twelve_killed_and_300_injured_in_attack_on/",
-        "date": "2026-10-11T09:56:31+00:00"
+        "title": "US threatens to stop the procurement system that ​provides Ukraine with weapons in order to press ‌Kyiv to halt its deep strikes on Russian energy infrastructure, FT reports",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x3fgte/us_threatens_to_stop_the_procurement_system_that/",
+        "date": "2026-10-11T18:23:12+00:00"
       },
       {
-        "title": "Finnish PM Petteri Orpo calls on EU to end tourist visa issuance to Russian citizens",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x2xppp/finnish_pm_petteri_orpo_calls_on_eu_to_end/",
-        "date": "2026-10-11T03:24:27+00:00"
+        "title": "Russia Strikes Ukrainian Power Plant After Trump Claims Energy Ceasefire",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x3hlcu/russia_strikes_ukrainian_power_plant_after_trump/",
+        "date": "2026-10-11T19:47:52+00:00"
+      },
+      {
+        "title": "Europeans back Zelenskyy after Trump calls for new Ukrainian leader",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x3edpc/europeans_back_zelenskyy_after_trump_calls_for/",
+        "date": "2026-10-11T17:41:17+00:00"
+      },
+      {
+        "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x3jl0l/trump_announces_partial_ceasefire_in_ukraine_war/",
+        "date": "2026-10-11T21:08:25+00:00"
+      },
+      {
+        "title": "US destroys 10 tankers worth billions of dollars linked to Iran",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x37y6s/us_destroys_10_tankers_worth_billions_of_dollars/",
+        "date": "2026-10-11T13:15:04+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "New Apple Smart Home Hub Reportedly Called HomeView and Will Ship in November",
+        "link": "https://www.cnet.com/home/new-apple-homeview-smart-home-hub/",
+        "date": "2026-10-11 17:35:39"
+      },
       {
         "title": "‘Dragon Ball Super: Beerus’: How to Stream the New Anime Today",
         "link": "https://www.cnet.com/tech/services-and-software/dragon-ball-super-beerus-how-to-stream-the-new-anime-today/",
@@ -546,11 +551,6 @@
         "title": "The iPhone Duo’s Unfolding Animation Is Giving Z Fold 8 Owners FOMO, but Not Me",
         "link": "https://www.cnet.com/tech/mobile/iphone-duo-unfolding-animation-giving-z-fold-8-owners-fomo-but-not-me/",
         "date": "2026-10-10 09:00:00"
-      },
-      {
-        "title": "Move Over ‘Carrie’: Mike Flanagan Teases ‘The Exorcist: Martyrs’ at NYCC 2026",
-        "link": "https://www.cnet.com/culture/entertainment/mike-flanagan-exorcist-nycc-blumhouse/",
-        "date": "2026-10-09 23:19:10"
       }
     ],
     "AP": [],
