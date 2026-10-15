@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:40:20.598Z",
+  "updated": "2026-10-15T13:03:29.870Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,47 +48,67 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+        "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 12:45:22 GMT"
+      },
+      {
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 08:36:55 GMT"
+        "date": "Thu, 15 Oct 2026 12:03:51 GMT"
       },
       {
         "title": "UK threatens to ban Eritreans over migrant return policy",
         "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 07:28:32 GMT"
+        "date": "Thu, 15 Oct 2026 09:17:57 GMT"
       },
       {
-        "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+        "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
+        "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 10:56:25 GMT"
+      },
+      {
+        "title": "Severe drought declared in parts of southern England",
+        "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 13:00:06 GMT"
+      },
+      {
+        "title": "Watch: Harry and Meghan at first joint engagement since UK return",
+        "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 11:10:59 GMT"
+      },
+      {
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 12:28:26 GMT"
+      },
+      {
+        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
         "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 07:40:27 GMT"
-      },
-      {
-        "title": "Reform faces criticism after councillors filmed making racist comments",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 14 Oct 2026 22:34:47 GMT"
-      },
-      {
-        "title": "Hundreds of IDF investigations into killings without public outcome, BBC Verify finds",
-        "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 05:00:23 GMT"
-      },
-      {
-        "title": "White House defends new press secretary after questions about her legal credentials",
-        "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 03:03:16 GMT"
-      },
-      {
-        "title": "PM launches brain cancer review after meeting 'inspirational' patient",
-        "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 14 Oct 2026 19:04:46 GMT"
-      },
-      {
-        "title": "UK temperatures to rise to 23C before autumn chill sets in",
-        "link": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 04:27:23 GMT"
+        "date": "Thu, 15 Oct 2026 09:29:54 GMT"
       }
     ],
     "The New York Times": [
+      {
+        "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
+        "link": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
+        "date": "Thu, 15 Oct 2026 12:45:36 +0000"
+      },
+      {
+        "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+        "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+        "date": "Thu, 15 Oct 2026 11:54:08 +0000"
+      },
+      {
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "date": "Thu, 15 Oct 2026 09:03:54 +0000"
+      },
+      {
+        "title": "Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet-Powered Drones",
+        "link": "https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html",
+        "date": "Thu, 15 Oct 2026 10:00:08 +0000"
+      },
       {
         "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
         "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
@@ -100,34 +120,14 @@
         "date": "Thu, 15 Oct 2026 08:00:08 +0000"
       },
       {
-        "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
-        "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
-        "date": "Thu, 15 Oct 2026 02:08:59 +0000"
+        "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+        "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+        "date": "Thu, 15 Oct 2026 11:53:53 +0000"
       },
       {
-        "title": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
-        "link": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
-        "date": "Wed, 14 Oct 2026 22:56:22 +0000"
-      },
-      {
-        "title": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
-        "link": "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html",
-        "date": "Thu, 15 Oct 2026 04:01:15 +0000"
-      },
-      {
-        "title": "A New World of Lung Cancer Therapy Awaits Pope Leo",
-        "link": "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html",
-        "date": "Wed, 14 Oct 2026 17:02:22 +0000"
-      },
-      {
-        "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
-        "link": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
-        "date": "Wed, 14 Oct 2026 17:35:24 +0000"
-      },
-      {
-        "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
-        "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
-        "date": "Wed, 14 Oct 2026 23:57:26 +0000"
+        "title": "Families of Sailors Killed in Gulf Struggle for Compensation and Closure",
+        "link": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
+        "date": "Thu, 15 Oct 2026 10:54:39 +0000"
       }
     ],
     "The Guardian": [
@@ -174,76 +174,56 @@
     ],
     "Al Jazeera": [
       {
-        "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
-        "link": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 08:30:41 +0000"
+        "title": "West Indies’ Hope jokes India series record role a problem as finale looms",
+        "link": "https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 12:33:04 +0000"
       },
       {
-        "title": "Man United’s Martinez takes to social media to defend his criticism of club",
-        "link": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 08:27:32 +0000"
+        "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+        "link": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 11:45:39 +0000"
       },
       {
-        "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
-        "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 08:24:35 +0000"
+        "title": "US-Iran stalemate: What are Trump’s next military options?",
+        "link": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 11:41:05 +0000"
       },
       {
-        "title": "Containers and debris captured floating around the Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 08:06:06 +0000"
+        "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+        "link": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 11:12:00 +0000"
       },
       {
-        "title": "Police arrest US teen in alleged Illinois Hindu temple mass shooting plot",
-        "link": "https://www.aljazeera.com/news/2026/10/15/us-police-arrest-illinois-teen-in-alleged-hindu-temple-mass-shooting-plot?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 07:54:50 +0000"
+        "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+        "link": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 10:52:12 +0000"
       },
       {
-        "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 07:44:35 +0000"
+        "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+        "link": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 10:46:08 +0000"
       },
       {
-        "title": "Backlash in Kashmir over proposal for uniform Friday sermons across mosques",
-        "link": "https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 07:21:36 +0000"
+        "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+        "link": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 10:44:03 +0000"
       },
       {
-        "title": "Clock ticking for leap second: Why timekeeping could change forever",
-        "link": "https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 07:16:50 +0000"
+        "title": "Dozens of children killed after roof collapses in Pakistani school",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+        "date": "Thu, 15 Oct 2026 10:21:43 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
-        "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 04:00:39 GMT"
-      },
-      {
-        "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
-        "link": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
-        "date": "Wed, 14 Oct 2026 23:09:30 GMT"
-      },
-      {
-        "title": "The man who would lead McKinsey",
-        "link": "https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 04:00:29 GMT"
-      },
-      {
-        "title": "Is the K-shaped economy really more of an E?",
-        "link": "https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 04:00:29 GMT"
-      },
-      {
-        "title": "London’s gold market enjoys the Trump effect",
-        "link": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 04:00:39 GMT"
-      },
-      {
-        "title": "Global stocks sell-off deepens as chipmakers tumble",
+        "title": "Global chip stocks sink as AI debt fears intensify",
         "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 07:30:00 GMT"
+        "date": "Thu, 15 Oct 2026 12:51:58 GMT"
+      },
+      {
+        "title": "CoreWeave’s bonds scream financial distress",
+        "link": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
+        "date": "Thu, 15 Oct 2026 09:17:23 GMT"
       },
       {
         "title": "French debt worries spill into stocks, driving biggest underperformance since 2010",
@@ -251,56 +231,106 @@
         "date": "Thu, 15 Oct 2026 04:00:29 GMT"
       },
       {
-        "title": "UK economy grew 0.1 per cent in August",
-        "link": "https://www.ft.com/content/46708b2a-0392-43f9-b378-de7117febd16?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 06:44:57 GMT"
+        "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
+        "link": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
+        "date": "Thu, 15 Oct 2026 12:00:08 GMT"
+      },
+      {
+        "title": "How the Greens lost their party to the hard left",
+        "link": "https://www.ft.com/content/b76da86e-2087-48de-bab7-7344457af340?syn-25a6b1a6=1",
+        "date": "Thu, 15 Oct 2026 11:48:13 GMT"
+      },
+      {
+        "title": "Inheritance tax toll is mounting on UK family companies",
+        "link": "https://www.ft.com/content/ed713df4-92b3-45bc-9cf4-bb5c9ea72673?syn-25a6b1a6=1",
+        "date": "Thu, 15 Oct 2026 04:00:29 GMT"
+      },
+      {
+        "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
+        "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
+        "date": "Thu, 15 Oct 2026 10:32:33 GMT"
+      },
+      {
+        "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
+        "link": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
+        "date": "Thu, 15 Oct 2026 10:05:55 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:Federal Agents Search Omar's Home: Homeland Security immigration probe is cited; she attacks 'abuse of power'",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352756?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:04 GMT"
-      },
-      {
-        "title": "ProQuest:WORLD WATCH",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352752?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:51 GMT"
-      },
-      {
-        "title": "ProQuest:tbl of contents 3",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352748?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:03 GMT"
+        "title": "ProQuest:other 28",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783303?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:37:32 GMT"
       },
       {
         "title": "ProQuest:tbl of contents 10",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352744?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:51 GMT"
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783296?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:07 GMT"
       },
       {
-        "title": "ProQuest:Judge Blasts Administration For Felling Golf-Course Trees",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352736?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:51 GMT"
+        "title": "ProQuest:The Mystery of the Sailor Shaking Up the Navy: President says 'catapulter' named Bill Jones convinced him to overhaul aircraft carriers",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783279?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:57 GMT"
       },
       {
-        "title": "ProQuest:Federal Agents Search Congresswoman's Home",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352732?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:03 GMT"
+        "title": "ProQuest:Car-Free Oasis Drives San Francisco Backlash",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783278?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:06 GMT"
       },
       {
-        "title": "ProQuest:Trust Used by Trump, Allies Lands Windfall",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352729?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:25:43 GMT"
+        "title": "ProQuest:display ad 27",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783277?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:39 GMT"
       },
       {
-        "title": "ProQuest:Hope Swells in Venezuela For Oil Industry's Revival",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399352722?accountid=37826",
-        "date": "Wed, 14 Oct 2026 08:24:53 GMT"
+        "title": "ProQuest:tbl of contents 3",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783276?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:35 GMT"
+      },
+      {
+        "title": "ProQuest:Home Sales Rise for First Time Since May: Despite 1.5% bump in September, further rise in mortgage rates shrinks pool of buyers",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783275?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:37:40 GMT"
+      },
+      {
+        "title": "ProQuest:Trump Spokeswoman Has Rough Debut: Zacharia shows her nerves in briefing, leaves allies asking about readiness",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3399783274?accountid=37826",
+        "date": "Thu, 15 Oct 2026 10:36:46 GMT"
       }
     ],
     "Bloomberg": [],
     "The Economist": [],
     "Wired": [
+      {
+        "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
+        "link": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+        "date": "Thu, 15 Oct 2026 11:00:00 +0000"
+      },
+      {
+        "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
+        "link": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
+        "date": "Thu, 15 Oct 2026 10:30:00 +0000"
+      },
+      {
+        "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+        "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+        "date": "Thu, 15 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
+        "link": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+        "date": "Thu, 15 Oct 2026 09:36:00 +0000"
+      },
+      {
+        "title": "Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission",
+        "link": "https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/",
+        "date": "Thu, 15 Oct 2026 09:15:00 +0000"
+      },
+      {
+        "title": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended",
+        "link": "https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/",
+        "date": "Thu, 15 Oct 2026 09:00:00 +0000"
+      },
       {
         "title": "Walmart Promo Codes: 20% Off for October 2026",
         "link": "https://www.wired.com/story/top-walmart-promo-codes/",
@@ -310,40 +340,61 @@
         "title": "Hotels.com Coupon Codes for October 2026",
         "link": "https://www.wired.com/story/hotels-com-coupon/",
         "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Lenovo Coupon Codes: 15% Off in October 2026",
-        "link": "https://www.wired.com/story/lenovo-coupon-code/",
-        "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "ABT Promo Codes & Discounts for October 2026",
-        "link": "https://www.wired.com/story/abt-promo-code/",
-        "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Groupon Promo Codes: 60% Off in October 2026",
-        "link": "https://www.wired.com/story/groupon-promo-code/",
-        "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
-        "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-        "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Ancestry Coupons│50% Off│October 2026",
-        "link": "https://www.wired.com/story/ancestry-coupon-codes/",
-        "date": "Thu, 15 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Trump Aides Admit the House Is a Lost Cause",
-        "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
-        "date": "Wed, 14 Oct 2026 21:00:00 +0000"
       }
     ],
-    "The Verge": [],
+    "The Verge": [
+      {
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "date": "2026-10-14 22:53:31"
+      },
+      {
+        "title": "The best feature of Apple’s HomeView might be its simplicity",
+        "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+        "date": "2026-10-14 22:00:02"
+      },
+      {
+        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "date": "2026-10-14 21:11:28"
+      },
+      {
+        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+        "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+        "date": "2026-10-14 20:03:43"
+      },
+      {
+        "title": "The AI race is back on",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+        "date": "2026-10-14 19:06:03"
+      },
+      {
+        "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+        "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "date": "2026-10-14 18:47:54"
+      },
+      {
+        "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+        "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+        "date": "2026-10-14 18:38:59"
+      },
+      {
+        "title": "YouTube sticks new labels on AI-generated songs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+        "date": "2026-10-14 18:22:56"
+      }
+    ],
     "TechCrunch": [
+      {
+        "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+        "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+      },
+      {
+        "title": "Citizen Lab says governments are abusing online ads to hack people with &#8216;zero-click&#8217; spyware",
+        "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+        "date": "Thu, 15 Oct 2026 10:00:00 +0000"
+      },
       {
         "title": "Figma announces new features to define how agents work on its platform",
         "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -373,19 +424,29 @@
         "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
         "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
         "date": "Wed, 14 Oct 2026 23:00:00 +0000"
-      },
-      {
-        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-        "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-        "date": "Wed, 14 Oct 2026 22:00:00 +0000"
-      },
-      {
-        "title": "Ambani&#8217;s Jio seeks to raise $3.2B in what could be India&#8217;s biggest IPO",
-        "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-        "date": "Wed, 14 Oct 2026 21:48:20 +0000"
       }
     ],
     "Hacker News": [
+      {
+        "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+        "link": "https://libreboot.org/news/libreboot2610.html",
+        "date": "Thu, 15 Oct 2026 12:52:16 +0000"
+      },
+      {
+        "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
+        "link": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
+        "date": "Thu, 15 Oct 2026 12:45:59 +0000"
+      },
+      {
+        "title": "Ubuntu 26.10 (Stonking Stingray) released",
+        "link": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+        "date": "Thu, 15 Oct 2026 11:59:09 +0000"
+      },
+      {
+        "title": "Show HN: Unfenced – Land for sale that borders public land",
+        "link": "https://unfenced.land/",
+        "date": "Thu, 15 Oct 2026 11:38:57 +0000"
+      },
       {
         "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
         "link": "https://github.com/awslabs/aidlc-workflows",
@@ -405,26 +466,6 @@
         "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
         "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
         "date": "Wed, 14 Oct 2026 23:59:37 +0000"
-      },
-      {
-        "title": "Show HN: Ito – Build Terminal UIs in Lua",
-        "link": "https://uji.sh/ito/",
-        "date": "Wed, 14 Oct 2026 22:23:53 +0000"
-      },
-      {
-        "title": "Tiny Little Office",
-        "link": "https://tinylittleoffice.com/",
-        "date": "Wed, 14 Oct 2026 22:10:08 +0000"
-      },
-      {
-        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-        "link": "https://typesafe.ai/blog/jev-1-14",
-        "date": "Wed, 14 Oct 2026 21:11:03 +0000"
-      },
-      {
-        "title": "OpenCode 2.0",
-        "link": "https://anoma.ly/notes/opencode-2-0/",
-        "date": "Wed, 14 Oct 2026 20:48:24 +0000"
       }
     ],
     "Reddit": [
@@ -439,9 +480,19 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "Zelenskyy Says Ukraine Is Done Holding Back on Russian Oil Refineries",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x6gpei/zelenskyy_says_ukraine_is_done_holding_back_on/",
+        "date": "2026-10-15T09:03:42+00:00"
+      },
+      {
         "title": "“We’re done”: Zelensky turns on Trump",
         "link": "https://www.reddit.com/r/worldnews/comments/1x6f10q/were_done_zelensky_turns_on_trump/",
         "date": "2026-10-15T07:14:24+00:00"
+      },
+      {
+        "title": "Ukraine Takes Out 6 Russian Su-34M Bombers With a Single Airbase Strike, Navy Says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x6g79a/ukraine_takes_out_6_russian_su34m_bombers_with_a/",
+        "date": "2026-10-15T08:31:08+00:00"
       },
       {
         "title": "Zelenskiy says Ukraine will resume strikes on Russian refineries, FT reports",
@@ -449,28 +500,59 @@
         "date": "2026-10-15T06:49:38+00:00"
       },
       {
-        "title": "Musk Says US Military and Trump Decide Starshield Limits as Zelensky Accuses Russia of Exploiting Outage",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x62uq4/musk_says_us_military_and_trump_decide_starshield/",
-        "date": "2026-10-14T20:55:58+00:00"
-      },
-      {
-        "title": "Zelensky says he feels betrayed over Trump-Russia deal",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x5xqec/zelensky_says_he_feels_betrayed_over_trumprussia/",
-        "date": "2026-10-14T17:39:37+00:00"
+        "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x6j7r7/were_done_ukraine_resumes_strikes_on_russian_oil/",
+        "date": "2026-10-15T11:32:07+00:00"
       },
       {
         "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
         "link": "https://www.reddit.com/r/worldnews/comments/1x6c3gr/musk_says_us_government_may_be_behind_slowdown_of/",
         "date": "2026-10-15T04:17:12+00:00"
-      },
-      {
-        "title": "Eutelsat stock surges 23% as is rumored to be a possible star link replacement for Ukraine",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x699uq/eutelsat_stock_surges_23_as_is_rumored_to_be_a/",
-        "date": "2026-10-15T01:49:03+00:00"
       }
     ],
     "PCMag": [],
-    "CNET": [],
+    "CNET": [
+      {
+        "title": "Apple Maps Gets a Ticket to Austin for the F1 Grand Prix",
+        "link": "https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/",
+        "date": "2026-10-15 01:01:12"
+      },
+      {
+        "title": "YouTube Rolls Out New Labeling System for AI-Generated Music",
+        "link": "https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/",
+        "date": "2026-10-14 23:18:37"
+      },
+      {
+        "title": "Android Strengthens Scam Defenses for Calls and Texts",
+        "link": "https://www.cnet.com/news/privacy/calls-and-messaging-android-security-options/",
+        "date": "2026-10-14 22:55:04"
+      },
+      {
+        "title": "iPhone Duo Repair Prices Will Fold Your Bank Account Without AppleCare",
+        "link": "https://www.cnet.com/tech/mobile/iphone-duo-repair-prices-foldable-applecare/",
+        "date": "2026-10-14 22:41:44"
+      },
+      {
+        "title": "Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon",
+        "link": "https://www.cnet.com/tech/gaming/mafia-horizon-forbidden-west-ps-plus-games/",
+        "date": "2026-10-14 22:19:58"
+      },
+      {
+        "title": "DirecTV’s New Multiview Feature Lets You Watch Up to 4 Events at Once",
+        "link": "https://www.cnet.com/tech/services-and-software/directvs-new-multiview-feature-lets-you-watch-up-to-4-events-at-once/",
+        "date": "2026-10-14 22:15:31"
+      },
+      {
+        "title": "OpenAI Sued Over Children’s Data Used to Train ChatGPT",
+        "link": "https://www.cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data/",
+        "date": "2026-10-14 22:01:25"
+      },
+      {
+        "title": "The Midterms Are Just Weeks Away: How to Spot Election Deepfakes and Scams",
+        "link": "https://www.cnet.com/tech/services-and-software/spot-2026-midterm-election-deepfakes-scams/",
+        "date": "2026-10-14 21:42:11"
+      }
+    ],
     "AP": [],
     "雪球": [],
     "MENA": [],
