@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:54:04.389Z",
+  "updated": "2026-10-16T08:35:12.069Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,14 +48,14 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 22:37:21 GMT"
+        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+        "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 16 Oct 2026 03:45:09 GMT"
       },
       {
-        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-        "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 17:47:22 GMT"
+        "title": "Banks say Healey planning to increase tax on their profits in Budget",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 16 Oct 2026 07:13:42 GMT"
       },
       {
         "title": "Same-day test helps doctors detect hidden infections in critically ill children",
@@ -63,51 +63,51 @@
         "date": "Fri, 16 Oct 2026 00:34:45 GMT"
       },
       {
-        "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 23:01:49 GMT"
-      },
-      {
         "title": "Porn showing choking or incest to be banned from early November, government says",
         "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 15 Oct 2026 23:27:57 GMT"
       },
       {
-        "title": "Banks say Healey is planning Budget tax raid on their profits",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 17:14:36 GMT"
+        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 22:37:21 GMT"
       },
       {
-        "title": "Reform faces questions over candidate vetting after undercover filming",
-        "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 23:52:27 GMT"
+        "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 23:01:49 GMT"
       },
       {
-        "title": "London housing project wins top architecture award",
-        "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 15 Oct 2026 20:36:32 GMT"
+        "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+        "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 16 Oct 2026 04:16:31 GMT"
+      },
+      {
+        "title": "Mother of Henry Nowak killer could be deported",
+        "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 15 Oct 2026 19:43:07 GMT"
       }
     ],
     "The New York Times": [
+      {
+        "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
+        "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
+        "date": "Fri, 16 Oct 2026 01:55:49 +0000"
+      },
+      {
+        "title": "Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas",
+        "link": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
+        "date": "Fri, 16 Oct 2026 04:51:17 +0000"
+      },
       {
         "title": "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says",
         "link": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html",
         "date": "Thu, 15 Oct 2026 23:41:02 +0000"
       },
       {
-        "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-        "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-        "date": "Thu, 15 Oct 2026 21:37:34 +0000"
-      },
-      {
-        "title": "Trump Administration Sues California Over Voter Rolls",
-        "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
-        "date": "Thu, 15 Oct 2026 21:05:29 +0000"
-      },
-      {
         "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
         "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
-        "date": "Thu, 15 Oct 2026 23:26:45 +0000"
+        "date": "Fri, 16 Oct 2026 01:02:09 +0000"
       },
       {
         "title": "How U.S. Support to Ukraine Has Evolved Under Trump",
@@ -120,14 +120,14 @@
         "date": "Thu, 15 Oct 2026 21:13:45 +0000"
       },
       {
-        "title": "Is the Fox Collie the Perfect Dog for Our Aimless Era?",
-        "link": "https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html",
-        "date": "Thu, 15 Oct 2026 09:00:41 +0000"
+        "title": "5 Takeaways From the Senate Debate in Maine",
+        "link": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
+        "date": "Fri, 16 Oct 2026 03:05:19 +0000"
       },
       {
-        "title": "ICE Agents Who Rammed a Worker in Houston Were Chasing a Dead Man, Family Says",
-        "link": "https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html",
-        "date": "Thu, 15 Oct 2026 22:21:55 +0000"
+        "title": "At High-Powered Dinner, Lots of Love for Tisch, Less for Mayor",
+        "link": "https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html",
+        "date": "Fri, 16 Oct 2026 03:53:43 +0000"
       }
     ],
     "The Guardian": [
@@ -174,66 +174,76 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-        "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-        "date": "Fri, 16 Oct 2026 00:31:18 +0000"
+        "title": "Tesla unveils car that can drive upside down and jump through the air",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 07:10:42 +0000"
       },
       {
-        "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-        "date": "Fri, 16 Oct 2026 00:02:37 +0000"
+        "title": "How Israel’s elections will affect Palestinians",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 07:04:54 +0000"
       },
       {
-        "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-        "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 23:35:26 +0000"
+        "title": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+        "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 06:41:15 +0000"
       },
       {
-        "title": "At least 4, including 3 children, killed in US elementary school shooting",
-        "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 22:51:56 +0000"
+        "title": "Which countries waste the most food, and how to reduce waste at home",
+        "link": "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 06:31:57 +0000"
       },
       {
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 21:57:58 +0000"
+        "title": "Vibe coding: Game-changer or risky business?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 06:01:34 +0000"
       },
       {
-        "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
-        "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 21:54:26 +0000"
+        "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+        "link": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 05:55:23 +0000"
       },
       {
-        "title": "Trump administration sues California over noncitizens on voter rolls",
-        "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 21:44:59 +0000"
+        "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+        "link": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 05:51:40 +0000"
       },
       {
-        "title": "Several people dead or missing after Istanbul floods",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-        "date": "Thu, 15 Oct 2026 21:15:46 +0000"
+        "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+        "link": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+        "date": "Fri, 16 Oct 2026 05:28:29 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Healey signals tax raid on banks in UK Budget",
+        "title": "UK tried to persuade UBS to move to London",
+        "link": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
+        "date": "Fri, 16 Oct 2026 04:00:17 GMT"
+      },
+      {
+        "title": "Healey signals tax raid on banks in Budget",
         "link": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 17:53:10 GMT"
+        "date": "Fri, 16 Oct 2026 07:08:49 GMT"
       },
       {
-        "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
-        "link": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 12:00:08 GMT"
+        "title": "Fight night for Trump’s America",
+        "link": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
+        "date": "Fri, 16 Oct 2026 04:00:17 GMT"
       },
       {
-        "title": "Risk of an AI crunch for stock markets is rising",
-        "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 16:53:57 GMT"
+        "title": "US business leaders are waking up to the perils of plutopopulism",
+        "link": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
+        "date": "Fri, 16 Oct 2026 04:00:17 GMT"
       },
       {
-        "title": "How the Greens lost their party to the hard left",
-        "link": "https://www.ft.com/content/b76da86e-2087-48de-bab7-7344457af340?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 11:48:13 GMT"
+        "title": "The secret fight around financial flows",
+        "link": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
+        "date": "Fri, 16 Oct 2026 04:00:17 GMT"
+      },
+      {
+        "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+        "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+        "date": "Fri, 16 Oct 2026 07:36:24 GMT"
       },
       {
         "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
@@ -241,19 +251,9 @@
         "date": "Thu, 15 Oct 2026 21:10:51 GMT"
       },
       {
-        "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
-        "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 10:32:33 GMT"
-      },
-      {
-        "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
-        "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 18:27:55 GMT"
-      },
-      {
-        "title": "Treasuries rally as investors seek shelter from AI turbulence",
-        "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-        "date": "Thu, 15 Oct 2026 20:20:36 GMT"
+        "title": "Young people to receive less cash under proposed welfare reforms",
+        "link": "https://www.ft.com/content/c6e911dd-440b-4852-925c-448faeb52d98?syn-25a6b1a6=1",
+        "date": "Fri, 16 Oct 2026 04:00:27 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,36 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+        "link": "https://www.wired.com/story/total-wireless-promo-code/",
+        "date": "Fri, 16 Oct 2026 05:00:00 +0000"
+      },
+      {
+        "title": "Skechers Coupon Codes 20% Off",
+        "link": "https://www.wired.com/story/skechers-coupon-codes/",
+        "date": "Fri, 16 Oct 2026 05:00:00 +0000"
+      },
+      {
+        "title": "Surfshark Promo Codes: 87% Off | October 2026",
+        "link": "https://www.wired.com/story/surfshark-coupon/",
+        "date": "Fri, 16 Oct 2026 05:00:00 +0000"
+      },
+      {
+        "title": "HP Coupon Codes and Deals October 2026",
+        "link": "https://www.wired.com/story/hp-coupon-code/",
+        "date": "Fri, 16 Oct 2026 05:00:00 +0000"
+      },
+      {
+        "title": "A Tesla Flying Car? I Don’t Know, Man",
+        "link": "https://www.wired.com/story/tesla-flying-car-faa/",
+        "date": "Fri, 16 Oct 2026 03:18:30 +0000"
+      },
+      {
+        "title": "The Tesla Roadster 2 Is Here—and It Flies",
+        "link": "https://www.wired.com/story/tesla-roadster-2-launch/",
+        "date": "Fri, 16 Oct 2026 01:22:51 +0000"
+      },
+      {
         "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
         "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
         "date": "Thu, 15 Oct 2026 21:18:15 +0000"
@@ -310,39 +340,29 @@
         "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
         "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
         "date": "Thu, 15 Oct 2026 21:00:28 +0000"
-      },
-      {
-        "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
-        "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
-        "date": "Thu, 15 Oct 2026 19:00:49 +0000"
-      },
-      {
-        "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
-        "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
-        "date": "Thu, 15 Oct 2026 17:05:19 +0000"
-      },
-      {
-        "title": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
-        "link": "https://www.wired.com/story/new-york-comic-con-panel-2/",
-        "date": "Thu, 15 Oct 2026 13:30:00 +0000"
-      },
-      {
-        "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
-        "link": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
-        "date": "Thu, 15 Oct 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
-        "link": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
-        "date": "Thu, 15 Oct 2026 10:30:00 +0000"
-      },
-      {
-        "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-        "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-        "date": "Thu, 15 Oct 2026 10:00:00 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "date": "2026-10-16 01:28:27"
+      },
+      {
+        "title": "Steam can now show game achievements in separate ‘sets’",
+        "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+        "date": "2026-10-15 23:18:28"
+      },
+      {
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "date": "2026-10-15 22:43:23"
+      },
+      {
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "date": "2026-10-15 22:35:55"
+      },
       {
         "title": "The tech backlash is now in theaters",
         "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
@@ -362,29 +382,19 @@
         "title": "Withings now charges $100 per year to sync your data to other apps",
         "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
         "date": "2026-10-15 19:52:13"
-      },
-      {
-        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-        "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-        "date": "2026-10-15 18:15:36"
-      },
-      {
-        "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-        "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-        "date": "2026-10-15 17:48:57"
-      },
-      {
-        "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-        "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-        "date": "2026-10-15 17:30:00"
-      },
-      {
-        "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
-        "link": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
-        "date": "2026-10-15 17:30:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+        "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+        "date": "Fri, 16 Oct 2026 05:16:46 +0000"
+      },
+      {
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "date": "Fri, 16 Oct 2026 01:17:43 +0000"
+      },
       {
         "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
         "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
@@ -414,65 +424,55 @@
         "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
         "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
         "date": "Thu, 15 Oct 2026 19:29:05 +0000"
-      },
-      {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "date": "Thu, 15 Oct 2026 19:14:26 +0000"
-      },
-      {
-        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-        "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-        "date": "Thu, 15 Oct 2026 18:56:46 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-        "link": "https://github.com/johnrash/bebox",
-        "date": "Thu, 15 Oct 2026 23:22:53 +0000"
+        "title": "The insider trading you're allowed to do",
+        "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+        "date": "Fri, 16 Oct 2026 07:12:09 +0000"
       },
       {
-        "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-        "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-        "date": "Thu, 15 Oct 2026 23:17:50 +0000"
+        "title": "Last rites for Gentoo's Chromium package",
+        "link": "https://lwn.net/Articles/1097760/",
+        "date": "Fri, 16 Oct 2026 05:14:42 +0000"
       },
       {
-        "title": "What I Self-Host",
-        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-        "date": "Thu, 15 Oct 2026 20:23:25 +0000"
+        "title": "The Folders Programming Language",
+        "link": "https://danieltemkin.com/esolangs/folders",
+        "date": "Fri, 16 Oct 2026 05:11:28 +0000"
       },
       {
-        "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-        "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-        "date": "Thu, 15 Oct 2026 19:55:49 +0000"
+        "title": "Porsche Mission S",
+        "link": "https://www.porsche.com/international/models/mission-s/",
+        "date": "Fri, 16 Oct 2026 03:09:14 +0000"
       },
       {
-        "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-        "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-        "date": "Thu, 15 Oct 2026 19:21:38 +0000"
+        "title": "Comparing Chromium Development at Google and Igalia",
+        "link": "https://lwn.net/Articles/1094721/",
+        "date": "Fri, 16 Oct 2026 01:56:37 +0000"
       },
       {
-        "title": "E Ink Kaleido 4",
-        "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-        "date": "Thu, 15 Oct 2026 18:38:16 +0000"
+        "title": "Any window from your Mac, on your iPhone and iPad",
+        "link": "https://github.com/Saffsanity/sill",
+        "date": "Fri, 16 Oct 2026 01:43:17 +0000"
       },
       {
-        "title": "Muse Spark Open",
-        "link": "https://research.meta.ai/blog/muse-spark-open",
-        "date": "Thu, 15 Oct 2026 17:47:39 +0000"
+        "title": "Thank You, Deno",
+        "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+        "date": "Fri, 16 Oct 2026 00:52:40 +0000"
       },
       {
-        "title": "Jev meets the Trolley Problem",
-        "link": "https://zachlandes.com/trolley-problem/",
-        "date": "Thu, 15 Oct 2026 16:24:52 +0000"
+        "title": "RPKI now protects 70% of internet routes",
+        "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+        "date": "Fri, 16 Oct 2026 00:52:35 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1695, Part 1 (Thread #1842)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x6bu21/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-10-15T04:02:32+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1696, Part 1 (Thread #1843)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x76bo5/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-10-16T04:03:03+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -485,33 +485,48 @@
         "date": "2026-10-15T23:59:48+00:00"
       },
       {
+        "title": "Ukrаinian drоnes reportedly strike Yаndeх dаta center, wаrehouses in overnight attаck on Russiа",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x79702/ukrаinian_drоnes_reportedly_strike_yаndeх_dаta/",
+        "date": "2026-10-16T06:52:23+00:00"
+      },
+      {
+        "title": "US president Donald Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x78s33/us_president_donald_trump_calls_ukraines/",
+        "date": "2026-10-16T06:26:51+00:00"
+      },
+      {
+        "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x74lcu/prime_minister_mark_carney_says_us_is_trying_to/",
+        "date": "2026-10-16T02:31:23+00:00"
+      },
+      {
         "title": "“This is a Serious Mistake”: Zelenskyy Slams Starlink Restrictions",
         "link": "https://www.reddit.com/r/worldnews/comments/1x6uf7j/this_is_a_serious_mistake_zelenskyy_slams/",
         "date": "2026-10-15T19:02:13+00:00"
       },
       {
-        "title": "Europe shuts US out of Russian assets conversation",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x6msed/europe_shuts_us_out_of_russian_assets_conversation/",
-        "date": "2026-10-15T14:14:30+00:00"
-      },
-      {
-        "title": "UK Sends Ukraine More Storm Shadow Missiles to Hit Russian Sites",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x6qw82/uk_sends_ukraine_more_storm_shadow_missiles_to/",
-        "date": "2026-10-15T16:49:42+00:00"
-      },
-      {
         "title": "It is crucial to give Ukraine all the means it needs ​to defend and protect ​its civilian population and its ⁠infrastructure, says France's President Macron",
         "link": "https://www.reddit.com/r/worldnews/comments/1x6y7v4/it_is_crucial_to_give_ukraine_all_the_means_it/",
         "date": "2026-10-15T21:31:07+00:00"
-      },
-      {
-        "title": "'Time for Zelensky to go': Elon Musk calls for Ukrainian president to step down amid Starlink dispute",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x6lie2/time_for_zelensky_to_go_elon_musk_calls_for/",
-        "date": "2026-10-15T13:22:40+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Did AI Just Erase an Entire Swedish TV Show?",
+        "link": "https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/",
+        "date": "2026-10-16 00:00:21"
+      },
+      {
+        "title": "World Timekeepers Decide to Kill the Leap Second",
+        "link": "https://www.cnet.com/science/world-timekeepers-kill-the-leap-second/",
+        "date": "2026-10-15 22:39:14"
+      },
+      {
+        "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
+        "link": "https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/",
+        "date": "2026-10-15 21:52:43"
+      },
       {
         "title": "Supreme Court Weighs Major Video Privacy Case",
         "link": "https://www.cnet.com/news/privacy/supreme-court-video-privacy-case-salazar-paramount/",
@@ -536,21 +551,6 @@
         "title": "You Can Now Play Battlefield 6 and More on Xbox Game Pass",
         "link": "https://www.cnet.com/tech/gaming/bf6-reports-for-duty-on-xbox-game-pass-while-clair-obscur-gets-gommaged-in-october/",
         "date": "2026-10-07 21:04:13"
-      },
-      {
-        "title": "I’ve Tested Echo Shows and Nest Hubs. Here’s How Apple’s HomeView Display Stacks Up",
-        "link": "https://www.cnet.com/home/smart-home/apple-homeview-vs-amazon-echo-show-google-nest-hub/",
-        "date": "2026-10-15 16:00:00"
-      },
-      {
-        "title": "Can the Shark Tank Water Bottle Really Keep Drinks Cold for 36 Hours? I Tested One to Find Out",
-        "link": "https://www.cnet.com/home/kitchen-and-household/can-the-shark-tank-water-bottle-really-keep-drinks-cold-for-36-hours-i-tested-one-to-find-out/",
-        "date": "2026-10-15 14:18:34"
-      },
-      {
-        "title": "Europe’s Largest Airline Wants Predictive AI Models to Nip Airport Meltdowns in the Bud",
-        "link": "https://www.cnet.com/tech/services-and-software/international-ai-summit-ryanair-airline/",
-        "date": "2026-10-15 13:20:00"
       }
     ],
     "AP": [],
