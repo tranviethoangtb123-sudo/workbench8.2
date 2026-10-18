@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:30:17.919Z",
+  "updated": "2026-10-18T08:23:56.892Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
@@ -48,44 +48,44 @@
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
         "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 20:52:17 GMT"
+        "date": "Sun, 18 Oct 2026 05:56:20 GMT"
       },
       {
-        "title": "How day of protests unfolded as disorder breaks out across France",
-        "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 21:33:17 GMT"
+        "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+        "link": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 00:49:42 GMT"
       },
       {
-        "title": "More NHS staff sacked over attacks victims' records",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 16:34:39 GMT"
+        "title": "Several dead or injured in major fire at Canada military base",
+        "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 08:05:49 GMT"
       },
       {
-        "title": "Anti-government protesters battle with police in Albania",
-        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 20:53:00 GMT"
+        "title": "NHS faces more challenging winter than normal, health secretary warns",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 07:05:37 GMT"
       },
       {
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 23:52:38 GMT"
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 05:04:31 GMT"
       },
       {
-        "title": "Swinney's emotional explanation for his commitment to independence",
-        "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 18:11:42 GMT"
-      },
-      {
-        "title": "Dubois destroys Wardley in two rounds to retain title",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 22:27:49 GMT"
+        "title": "Police officer in hospital after being shot in Nottingham",
+        "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 08:00:26 GMT"
       },
       {
         "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
         "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 17 Oct 2026 22:09:50 GMT"
+      },
+      {
+        "title": "There's a crackdown on sports piracy - but is it already out of control?",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 00:11:09 GMT"
       }
     ],
     "The New York Times": [
@@ -105,6 +105,11 @@
         "date": "Sun, 18 Oct 2026 00:19:59 +0000"
       },
       {
+        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+        "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+        "date": "Sun, 18 Oct 2026 06:59:38 +0000"
+      },
+      {
         "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
         "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
         "date": "Sat, 17 Oct 2026 23:54:30 +0000"
@@ -112,12 +117,7 @@
       {
         "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
         "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-        "date": "Sat, 17 Oct 2026 22:54:25 +0000"
-      },
-      {
-        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-        "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-        "date": "Sat, 17 Oct 2026 22:06:44 +0000"
+        "date": "Sun, 18 Oct 2026 05:42:51 +0000"
       },
       {
         "title": "After School Shooting in Bend, Ore., a Community Tries to Recapture Its Identity",
@@ -125,12 +125,17 @@
         "date": "Sat, 17 Oct 2026 22:29:23 +0000"
       },
       {
-        "title": "Weak Links Start to Show in A.I. Borrowing",
-        "link": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-        "date": "Sat, 17 Oct 2026 18:00:06 +0000"
+        "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+        "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+        "date": "Sun, 18 Oct 2026 08:04:51 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+        "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+        "date": "Sun, 18 Oct 2026 07:00:53 GMT"
+      },
       {
         "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
         "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
@@ -152,93 +157,93 @@
         "date": "Fri, 09 Oct 2026 21:36:18 GMT"
       },
       {
-        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-        "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-        "date": "Fri, 09 Oct 2026 16:30:09 GMT"
+        "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+        "date": "Sun, 18 Oct 2026 04:00:49 GMT"
+      },
+      {
+        "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+        "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+        "date": "Sun, 18 Oct 2026 02:50:29 GMT"
       },
       {
         "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
         "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
         "date": "Sat, 17 Oct 2026 02:52:59 GMT"
-      },
-      {
-        "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-        "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-        "date": "Fri, 16 Oct 2026 19:37:53 GMT"
-      },
-      {
-        "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-        "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
-        "date": "Fri, 16 Oct 2026 16:47:35 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-        "date": "Sun, 18 Oct 2026 00:00:11 +0000"
+        "title": "Why Iran-US negotiations keep failing",
+        "link": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 07:32:59 +0000"
       },
       {
-        "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-        "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 23:40:59 +0000"
+        "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+        "link": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 07:08:33 +0000"
       },
       {
-        "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-        "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 23:21:57 +0000"
+        "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+        "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 07:05:00 +0000"
       },
       {
-        "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-        "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 21:08:10 +0000"
+        "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+        "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 06:34:02 +0000"
       },
       {
-        "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-        "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 21:02:26 +0000"
+        "title": "Guatemalan former prosecutor shot dead at sports centre",
+        "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 05:53:33 +0000"
       },
       {
-        "title": "Ten killed in fire at beach resort in Bangladesh",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 20:50:01 +0000"
+        "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+        "link": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 05:37:36 +0000"
       },
       {
-        "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 20:40:38 +0000"
+        "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+        "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 05:16:49 +0000"
       },
       {
-        "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-        "date": "Sat, 17 Oct 2026 20:20:25 +0000"
+        "title": "‘Serious incident’ at Canada military base causes deaths, injuries",
+        "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+        "date": "Sun, 18 Oct 2026 04:59:29 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-        "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 12:53:53 GMT"
+        "title": "America’s $10tn AI infrastructure boom is starting to fray",
+        "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:18 GMT"
       },
       {
-        "title": "Trump exempts Russia from further sanctions mandated by new law",
-        "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 09:53:31 GMT"
+        "title": "Global economy set for AI-driven surge, FT survey suggests",
+        "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:09 GMT"
       },
       {
-        "title": "Are we sleepwalking into World War III?",
-        "link": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 04:00:11 GMT"
+        "title": "Anthropic turns to lawyers to help AI agents strike deals",
+        "link": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:09 GMT"
       },
       {
-        "title": "The Man City theory of politics",
-        "link": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 04:00:21 GMT"
+        "title": "The world’s fastest-growing cities are not where you think",
+        "link": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:09 GMT"
       },
       {
-        "title": "Why have screens replaced socialising?",
-        "link": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 04:00:21 GMT"
+        "title": "The Trump administration has entered its utter shambles era",
+        "link": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:18 GMT"
+      },
+      {
+        "title": "She’s been tasked with overhauling Britain’s bureaucracy. Can Antonia Romeo succeed?",
+        "link": "https://www.ft.com/content/9d2970fb-215f-4eff-8b68-59ef8589a7f6?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:18 GMT"
       },
       {
         "title": "Protests across France spiral into riots and looting",
@@ -246,14 +251,9 @@
         "date": "Sat, 17 Oct 2026 22:49:57 GMT"
       },
       {
-        "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-        "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 00:47:25 GMT"
-      },
-      {
-        "title": "The dress rehearsal for an AI reckoning",
-        "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-        "date": "Sat, 17 Oct 2026 04:00:21 GMT"
+        "title": "Russian ‘shadow fleet’ fakes locations to appear in two places at once",
+        "link": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
+        "date": "Sun, 18 Oct 2026 04:00:18 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -428,51 +428,51 @@
     ],
     "Hacker News": [
       {
-        "title": "JDK 28",
-        "link": "https://openjdk.org/projects/jdk/28/",
-        "date": "Sat, 17 Oct 2026 21:37:07 +0000"
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "link": "https://api-docs.deepseek.com/guides/search/",
+        "date": "Sun, 18 Oct 2026 06:50:36 +0000"
       },
       {
-        "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-        "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-        "date": "Sat, 17 Oct 2026 20:07:33 +0000"
+        "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+        "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+        "date": "Sun, 18 Oct 2026 06:36:48 +0000"
       },
       {
-        "title": "Microsoft and CMU team up to train early career software engineers",
-        "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-        "date": "Sat, 17 Oct 2026 18:45:07 +0000"
+        "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+        "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "date": "Sun, 18 Oct 2026 05:09:14 +0000"
       },
       {
-        "title": "OpenCode Hacked: User credentials leaked",
-        "link": "https://twitter.com/opencode/status/2111516673953935833",
-        "date": "Sat, 17 Oct 2026 18:01:41 +0000"
+        "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+        "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+        "date": "Sun, 18 Oct 2026 04:59:24 +0000"
       },
       {
-        "title": "Codex Desktop continuously generates Crashpad pending dumps",
-        "link": "https://github.com/openai/codex/issues/25921",
-        "date": "Sat, 17 Oct 2026 17:45:08 +0000"
+        "title": "Notes on the Complex Roots of Unity",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "date": "Sun, 18 Oct 2026 04:49:31 +0000"
       },
       {
-        "title": "I Became a Citizen of Japan",
-        "link": "https://www.derekwessman.com/blog-1/natural",
-        "date": "Sat, 17 Oct 2026 17:36:17 +0000"
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "link": "https://sphinx-six-theta.vercel.app/",
+        "date": "Sun, 18 Oct 2026 04:33:49 +0000"
       },
       {
-        "title": "Gold is now the top U.S. export",
-        "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "date": "Sat, 17 Oct 2026 17:06:07 +0000"
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "date": "Sun, 18 Oct 2026 03:19:49 +0000"
       },
       {
-        "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-        "link": "https://www.artie.com/careers",
-        "date": "Sat, 17 Oct 2026 17:02:50 +0000"
+        "title": "NY announces game ownership bill requiring ownership rather than licensing",
+        "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+        "date": "Sun, 18 Oct 2026 00:14:22 +0000"
       }
     ],
     "Reddit": [
       {
-        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1697, Part 1 (Thread #1844)",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x80kdj/rworldnews_live_thread_russian_invasion_of/",
-        "date": "2026-10-17T04:03:03+00:00"
+        "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1698, Part 1 (Thread #1845)",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8tkig/rworldnews_live_thread_russian_invasion_of/",
+        "date": "2026-10-18T04:02:12+00:00"
       },
       {
         "title": "/r/WorldNews Discussion Thread: US and Israel launch attack on Iran; Iran retaliates (Thread #22)",
@@ -480,34 +480,34 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Zelensky: Starlink Capped at 161 km/h, Disabling Interceptors",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x8a37b/zelensky_starlink_capped_at_161_kmh_disabling/",
-        "date": "2026-10-17T13:19:56+00:00"
+        "title": "Flames, explosions reported amid large Ukrainian drone attack on St. Petersburg",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8rvj5/flames_explosions_reported_amid_large_ukrainian/",
+        "date": "2026-10-18T02:29:10+00:00"
       },
       {
-        "title": "Russia nears U.S. satellite, raising alarm about intent",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x8havj/russia_nears_us_satellite_raising_alarm_about/",
-        "date": "2026-10-17T18:21:39+00:00"
+        "title": "Zelenskyy Says Starlink Restrictions Apply Only in Ukraine While SpaceX Ignores Kyiv’s Inquiries",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8w7d2/zelenskyy_says_starlink_restrictions_apply_only/",
+        "date": "2026-10-18T06:37:17+00:00"
       },
       {
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x8idjr/european_diplomats_attacked_by_israeli_settlers/",
-        "date": "2026-10-17T19:05:32+00:00"
+        "title": "Canada's prime minister says 'serious incident' caused a major fire at a military base in Alberta",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8rajy/canadas_prime_minister_says_serious_incident/",
+        "date": "2026-10-18T01:58:18+00:00"
       },
       {
-        "title": "Italy calls US weakening of Ukraine a \"major mistake\", says Putin cannot be stopped this way",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x874p2/italy_calls_us_weakening_of_ukraine_a_major/",
-        "date": "2026-10-17T10:41:37+00:00"
+        "title": "UK and EU agree to hold Brexit ‘reset’ summit on Nov. 20",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8s4ek/uk_and_eu_agree_to_hold_brexit_reset_summit_on/",
+        "date": "2026-10-18T02:42:31+00:00"
       },
       {
-        "title": "Russia and US May Announce Joint Data Center Projects, Kremlin Envoy Says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x85fq1/russia_and_us_may_announce_joint_data_center/",
-        "date": "2026-10-17T08:55:58+00:00"
+        "title": "France protests: Violent clashes, looting and buildings ablaze as over 1,000 arrested",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8tf0j/france_protests_violent_clashes_looting_and/",
+        "date": "2026-10-18T03:54:11+00:00"
       },
       {
-        "title": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1x8kwa9/romanian_f16s_shoot_down_two_drones_over_black/",
-        "date": "2026-10-17T20:51:22+00:00"
+        "title": "Ukraine resumes drone strikes on Russian oil refineries following collapse of energy infrastructure ceasefire",
+        "link": "https://www.reddit.com/r/worldnews/comments/1x8w6aa/ukraine_resumes_drone_strikes_on_russian_oil/",
+        "date": "2026-10-18T06:35:27+00:00"
       }
     ],
     "PCMag": [],
