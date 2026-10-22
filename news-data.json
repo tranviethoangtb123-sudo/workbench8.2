@@ -1,71 +1,81 @@
 {
-  "updated": "2026-10-22T09:00:24.700Z",
+  "updated": "2026-10-22T13:26:09.728Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
       {
+        "title": "中国驳斥“胡塞使用中国零件制造导弹”说法毫无根据",
+        "link": "https://www.zaobao.com/news/china/story20261022-9878037",
+        "date": "Thu, 22 Oct 2026 11:11:00 GMT"
+      },
+      {
+        "title": "相声演员遭大陆人士买凶攻击 台湾国安局：已掌握黑帮名单",
+        "link": "https://www.zaobao.com/news/china/story20261022-9876960",
+        "date": "Thu, 22 Oct 2026 11:02:58 GMT"
+      },
+      {
+        "title": "盘石公司涉诈骗被立案侦查 创始人田宁被采取刑事强制措施",
+        "link": "https://www.zaobao.com/news/china/story20261022-9877673",
+        "date": "Thu, 22 Oct 2026 10:13:00 GMT"
+      },
+      {
+        "title": "中国前三季自然灾害直接经济损失近2000亿人民币",
+        "link": "https://www.zaobao.com/news/china/story20261022-9878592",
+        "date": "Thu, 22 Oct 2026 09:53:01 GMT"
+      },
+      {
+        "title": "台时政评论人吴子嘉住处被搜索 据报或与绿营参选人控告有关",
+        "link": "https://www.zaobao.com/news/china/story20261022-9878422",
+        "date": "Thu, 22 Oct 2026 09:25:21 GMT"
+      },
+      {
+        "title": "欧盟忧中俄扩大北极影响力 北京批冷战思维挑动对抗",
+        "link": "https://www.zaobao.com/news/china/story20261022-9878420",
+        "date": "Thu, 22 Oct 2026 09:24:41 GMT"
+      },
+      {
+        "title": "大陆外交部：台湾问题上无灰色地带 菲应恪守一中原则",
+        "link": "https://www.zaobao.com/news/china/story20261022-9877974",
+        "date": "Thu, 22 Oct 2026 08:45:51 GMT"
+      },
+      {
         "title": "震传媒民调：沈伯洋领先蒋万安近四个百分点",
         "link": "https://www.zaobao.com/news/china/story20261022-9877553",
         "date": "Thu, 22 Oct 2026 08:27:21 GMT"
-      },
-      {
-        "title": "北京副市长夏林茂任上被查",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877781",
-        "date": "Thu, 22 Oct 2026 08:26:01 GMT"
-      },
-      {
-        "title": "宇树王兴兴：具身智能最快明年迎ChatGPT时刻",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877525",
-        "date": "Thu, 22 Oct 2026 08:02:34 GMT"
-      },
-      {
-        "title": "中国首九个月居民用电十年来首现负增长",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877442",
-        "date": "Thu, 22 Oct 2026 07:52:38 GMT"
-      },
-      {
-        "title": "中国监管部门要求电商平台加强质量管理 阿里港股跌逾6%",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877306",
-        "date": "Thu, 22 Oct 2026 07:37:08 GMT"
-      },
-      {
-        "title": "广东一小区出现大量骨灰房？官方通报：未发现骨灰",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877259",
-        "date": "Thu, 22 Oct 2026 07:36:49 GMT"
-      },
-      {
-        "title": "长实再澄清李嘉诚身体健康状况良好",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877182",
-        "date": "Thu, 22 Oct 2026 07:25:02 GMT"
-      },
-      {
-        "title": "中国工信部预警PHP超危漏洞 吁立即升级防范攻击",
-        "link": "https://www.zaobao.com/news/china/story20261022-9877030",
-        "date": "Thu, 22 Oct 2026 07:06:20 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "What is PHP and why did it spark an international cyber-security alert?",
-        "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 22 Oct 2026 06:24:59 GMT"
+        "title": "How did AI discover the internet's massive cyber-security risk?",
+        "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 12:17:44 GMT"
       },
       {
         "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
         "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 22 Oct 2026 08:58:08 GMT"
+        "date": "Thu, 22 Oct 2026 12:54:36 GMT"
       },
       {
-        "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-        "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 21 Oct 2026 19:58:06 GMT"
+        "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 12:34:36 GMT"
       },
       {
-        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-        "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 21 Oct 2026 23:02:30 GMT"
+        "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+        "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 09:28:04 GMT"
+      },
+      {
+        "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+        "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 09:47:54 GMT"
+      },
+      {
+        "title": "Two storms in two days as Austen and Boelo head for UK",
+        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 10:34:17 GMT"
       },
       {
         "title": "How Arab parties could hold critical balance of power in Israeli election",
@@ -73,61 +83,51 @@
         "date": "Thu, 22 Oct 2026 05:30:22 GMT"
       },
       {
-        "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 22 Oct 2026 06:41:29 GMT"
-      },
-      {
-        "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
-        "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 22 Oct 2026 06:09:44 GMT"
-      },
-      {
-        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-        "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 22 Oct 2026 07:17:39 GMT"
+        "title": "Moment man rescued from sinking car by Australian TV reporter",
+        "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 22 Oct 2026 11:08:33 GMT"
       }
     ],
     "The New York Times": [
+      {
+        "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+        "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+        "date": "Thu, 22 Oct 2026 11:11:44 +0000"
+      },
+      {
+        "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
+        "link": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
+        "date": "Thu, 22 Oct 2026 10:02:49 +0000"
+      },
+      {
+        "title": "James Talarico’s Texas House Record: Partisan Fights, Bipartisan Laws",
+        "link": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
+        "date": "Thu, 22 Oct 2026 09:00:40 +0000"
+      },
+      {
+        "title": "Just How Much Are Young Voters Backing Democrats Now? See the Shift.",
+        "link": "https://www.nytimes.com/2026/10/22/upshot/young-voters-polls-midterms.html",
+        "date": "Thu, 22 Oct 2026 09:01:30 +0000"
+      },
+      {
+        "title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
+        "link": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
+        "date": "Thu, 22 Oct 2026 05:55:57 +0000"
+      },
+      {
+        "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+        "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+        "date": "Thu, 22 Oct 2026 12:06:25 +0000"
+      },
       {
         "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
         "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
         "date": "Thu, 22 Oct 2026 00:58:22 +0000"
       },
       {
-        "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
-        "link": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
-        "date": "Thu, 22 Oct 2026 08:03:31 +0000"
-      },
-      {
-        "title": "Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate",
-        "link": "https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html",
-        "date": "Thu, 22 Oct 2026 02:54:55 +0000"
-      },
-      {
-        "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-        "link": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-        "date": "Wed, 21 Oct 2026 22:20:05 +0000"
-      },
-      {
-        "title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
-        "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
-        "date": "Thu, 22 Oct 2026 02:41:56 +0000"
-      },
-      {
-        "title": "In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
-        "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
-        "date": "Thu, 22 Oct 2026 02:29:48 +0000"
-      },
-      {
-        "title": "What Putin Gains From Releasing an American Prisoner",
-        "link": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
-        "date": "Wed, 21 Oct 2026 16:45:07 +0000"
-      },
-      {
-        "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-        "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-        "date": "Wed, 21 Oct 2026 17:11:32 +0000"
+        "title": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+        "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+        "date": "Thu, 22 Oct 2026 11:10:02 +0000"
       }
     ],
     "The Guardian": [
@@ -174,49 +174,49 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Israeli elections: Is it just right wing versus right?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 08:55:18 +0000"
+        "title": "Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told",
+        "link": "https://www.aljazeera.com/sports/2026/10/22/maradona-doctor-was-made-scapegoat-for-his-death-argentinian-court-told?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 13:10:22 +0000"
       },
       {
-        "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 08:33:01 +0000"
+        "title": "Shark returns to South Korea canal after failed rescue attempt",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/shark-returns-to-south-korea-canal-after-failed-rescue-attempt?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 13:05:42 +0000"
       },
       {
-        "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-        "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 08:18:39 +0000"
+        "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
+        "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 12:37:34 +0000"
       },
       {
-        "title": "Can Russia broker a new US-Iran deal?",
-        "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 08:00:48 +0000"
+        "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+        "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 12:12:32 +0000"
       },
       {
-        "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 07:53:55 +0000"
+        "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+        "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 11:36:02 +0000"
       },
       {
-        "title": "Meta faces Australian lawsuit over alleged social media harm to children",
-        "link": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 07:23:12 +0000"
+        "title": "France reports first human Shamonda virus case, says no health risk",
+        "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 11:28:05 +0000"
       },
       {
-        "title": "Wrong national anthems played three times at Asian Para Games in Japan",
-        "link": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 07:10:55 +0000"
+        "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+        "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 11:19:38 +0000"
       },
       {
-        "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-        "link": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
-        "date": "Thu, 22 Oct 2026 07:02:10 +0000"
+        "title": "Trump praises man who punched protester at rally in South Carolina",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+        "date": "Thu, 22 Oct 2026 10:58:20 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Barclays plans 5,000 job cuts as bank steps up AI adoption",
+        "title": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
         "link": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
         "date": "Thu, 22 Oct 2026 07:40:31 GMT"
       },
@@ -231,29 +231,29 @@
         "date": "Thu, 22 Oct 2026 04:00:11 GMT"
       },
       {
-        "title": "Which G7 economy is the profligacy poster child?",
-        "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
-        "date": "Thu, 22 Oct 2026 04:00:21 GMT"
+        "title": "The tentative return of the old politics",
+        "link": "https://www.ft.com/content/1ca7e612-9a1a-4f26-a31a-651675ee67bb?syn-25a6b1a6=1",
+        "date": "Thu, 22 Oct 2026 11:14:41 GMT"
       },
       {
-        "title": "The battle for Israel’s future",
-        "link": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1",
-        "date": "Thu, 22 Oct 2026 04:00:11 GMT"
-      },
-      {
-        "title": "Politico and Telegraph owner pitched deal to buy European arm of TikTok",
-        "link": "https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb?syn-25a6b1a6=1",
-        "date": "Thu, 22 Oct 2026 04:00:12 GMT"
+        "title": "Europe’s moderates must stop treating politics as a spectator sport",
+        "link": "https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e",
+        "date": "Thu, 22 Oct 2026 12:22:36 GMT"
       },
       {
         "title": "Global stocks tumble as oil prices rise",
         "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-        "date": "Thu, 22 Oct 2026 08:46:32 GMT"
+        "date": "Thu, 22 Oct 2026 13:03:38 GMT"
       },
       {
-        "title": "Websites taken offline in race to patch PHP security flaw",
-        "link": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
-        "date": "Thu, 22 Oct 2026 07:06:12 GMT"
+        "title": "Europe’s bracing reality on US bond yields",
+        "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+        "date": "Thu, 22 Oct 2026 10:07:31 GMT"
+      },
+      {
+        "title": "Blackstone cuts property valuations as higher rates hit returns",
+        "link": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
+        "date": "Thu, 22 Oct 2026 11:03:21 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,48 +302,53 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-        "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-        "date": "Thu, 22 Oct 2026 02:24:17 +0000"
+        "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+        "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+        "date": "Thu, 22 Oct 2026 13:00:00 +0000"
       },
       {
-        "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-        "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-        "date": "Wed, 21 Oct 2026 22:39:50 +0000"
+        "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+        "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+        "date": "Thu, 22 Oct 2026 11:00:00 +0000"
       },
       {
-        "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
-        "link": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
-        "date": "Wed, 21 Oct 2026 21:57:22 +0000"
+        "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+        "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+        "date": "Thu, 22 Oct 2026 10:43:13 +0000"
       },
       {
-        "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
-        "link": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
-        "date": "Wed, 21 Oct 2026 21:00:00 +0000"
+        "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+        "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+        "date": "Thu, 22 Oct 2026 10:30:00 +0000"
       },
       {
-        "title": "Trump Isn’t Even Good at TV Anymore",
-        "link": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
-        "date": "Wed, 21 Oct 2026 20:38:01 +0000"
+        "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+        "link": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+        "date": "Thu, 22 Oct 2026 10:15:00 +0000"
       },
       {
-        "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
-        "link": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
-        "date": "Wed, 21 Oct 2026 20:15:00 +0000"
+        "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+        "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+        "date": "Thu, 22 Oct 2026 10:01:00 +0000"
       },
       {
-        "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
-        "link": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
-        "date": "Wed, 21 Oct 2026 18:46:49 +0000"
+        "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+        "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+        "date": "Thu, 22 Oct 2026 10:00:00 +0000"
       },
       {
-        "title": "Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)",
-        "link": "https://www.wired.com/story/ruggable-october-hosting-sale-2026/",
-        "date": "Wed, 21 Oct 2026 18:43:42 +0000"
+        "title": "This Preamp Costs More Than a Fancy Sports Car",
+        "link": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+        "date": "Thu, 22 Oct 2026 09:30:00 +0000"
       }
     ],
     "The Verge": [],
     "TechCrunch": [
+      {
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+        "date": "Thu, 22 Oct 2026 13:11:13 +0000"
+      },
       {
         "title": "Tesla says it will start selling Cybercabs by end of year",
         "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
@@ -378,14 +383,50 @@
         "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
         "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
         "date": "Wed, 21 Oct 2026 20:57:40 +0000"
-      },
-      {
-        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-        "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-        "date": "Wed, 21 Oct 2026 20:33:09 +0000"
       }
     ],
-    "Hacker News": [],
+    "Hacker News": [
+      {
+        "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+        "date": "Thu, 22 Oct 2026 11:50:36 +0000"
+      },
+      {
+        "title": "\"Flying Tesla is just another Lie\" [TopCars TV] [video]",
+        "link": "https://www.youtube.com/watch?v=SY6OhPs3ltM",
+        "date": "Thu, 22 Oct 2026 11:50:00 +0000"
+      },
+      {
+        "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+        "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+        "date": "Thu, 22 Oct 2026 11:12:37 +0000"
+      },
+      {
+        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "date": "Thu, 22 Oct 2026 09:31:18 +0000"
+      },
+      {
+        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+        "date": "Thu, 22 Oct 2026 08:51:31 +0000"
+      },
+      {
+        "title": "Jailbreaking the Switch 2",
+        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "date": "Thu, 22 Oct 2026 08:01:52 +0000"
+      },
+      {
+        "title": "OpenAI CLI",
+        "link": "https://github.com/openai/openai-cli",
+        "date": "Thu, 22 Oct 2026 05:23:11 +0000"
+      },
+      {
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "date": "Thu, 22 Oct 2026 02:30:52 +0000"
+      }
+    ],
     "Reddit": [
       {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1702, Part 1 (Thread #1849)",
@@ -398,34 +439,34 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "US orders embassy staff and families to leave Saudi Arabia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xc4dnv/us_orders_embassy_staff_and_families_to_leave/",
-        "date": "2026-10-22T00:40:04+00:00"
-      },
-      {
         "title": "Zelenskyy: “If the Russians attack us and we cannot retaliate, it is unfair. But if you cannot stop Putin, at least give us the interceptor missiles”",
         "link": "https://www.reddit.com/r/worldnews/comments/1xcavf2/zelenskyy_if_the_russians_attack_us_and_we_cannot/",
         "date": "2026-10-22T06:17:29+00:00"
       },
       {
+        "title": "Russia launched covert influence campaign to undermine US candidates supportive of Ukraine. Moscow is using AI to spread disinformation faster, sow distrust in US institutions and question voting-machine results.",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xcdt6l/russia_launched_covert_influence_campaign_to/",
+        "date": "2026-10-22T09:24:00+00:00"
+      },
+      {
+        "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xcgqul/pure_arrogance_anger_in_finland_as_google/",
+        "date": "2026-10-22T12:06:11+00:00"
+      },
+      {
+        "title": "US orders embassy staff and families to leave Saudi Arabia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xc4dnv/us_orders_embassy_staff_and_families_to_leave/",
+        "date": "2026-10-22T00:40:04+00:00"
+      },
+      {
+        "title": "Russia Bombards Ukraine Hours After Donald Trump Says 'Closest We've Been' To Ending War",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xcciom/russia_bombards_ukraine_hours_after_donald_trump/",
+        "date": "2026-10-22T08:00:51+00:00"
+      },
+      {
         "title": "Russia attacks Kyiv with ballistic missiles, damaging medical facility and Pivdennyi Bridge",
         "link": "https://www.reddit.com/r/worldnews/comments/1xca7rb/russia_attacks_kyiv_with_ballistic_missiles/",
         "date": "2026-10-22T05:39:22+00:00"
-      },
-      {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xc0ck8/missiles_hit_kyiv_after_russia_agrees_to_us_call/",
-        "date": "2026-10-21T21:41:32+00:00"
-      },
-      {
-        "title": "Hamas threatens another Oct. 7-style attack on Israel in unprecedented warning",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xc8bbm/hamas_threatens_another_oct_7style_attack_on/",
-        "date": "2026-10-22T03:54:46+00:00"
-      },
-      {
-        "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xc4fcw/us_and_israel_draw_up_plans_for_renewed_strikes/",
-        "date": "2026-10-22T00:42:18+00:00"
       }
     ],
     "PCMag": [],
