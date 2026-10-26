@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-25T12:56:35.288Z",
+  "updated": "2026-10-26T00:51:53.282Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "戴庆成：香港工程监管为何一再失守？",
+        "link": "https://www.zaobao.com/news/china/story20261026-9892381",
+        "date": "Sun, 25 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "title": "台湾光复81周年大陆重申统一 军媒强调随时准备打仗",
+        "link": "https://www.zaobao.com/news/china/story20261025-9893556",
+        "date": "Sun, 25 Oct 2026 15:22:44 GMT"
+      },
+      {
+        "title": "现身沈伯洋竞选活动惹议 蔡康永：从未支持台独",
+        "link": "https://www.zaobao.com/news/china/story20261025-9893654",
+        "date": "Sun, 25 Oct 2026 15:01:13 GMT"
+      },
+      {
+        "title": "赵辰昕任河北省代省长 接替王正谱",
+        "link": "https://www.zaobao.com/news/china/story20261025-9893312",
+        "date": "Sun, 25 Oct 2026 13:06:08 GMT"
+      },
+      {
+        "title": "央视批日剧《Vivant》抹黑中国 指将侵华日军酷刑嫁接中国人",
+        "link": "https://www.zaobao.com/news/china/story20261025-9892533",
+        "date": "Sun, 25 Oct 2026 13:03:00 GMT"
+      },
+      {
+        "title": "特稿：学历贬值引就业焦虑 年轻人在拉面学校找寻技能价值",
+        "link": "https://www.zaobao.com/news/china/story20261025-9749126",
+        "date": "Sun, 25 Oct 2026 12:10:00 GMT"
+      },
       {
         "title": "中国企业拟助委内瑞拉重启大型电厂 缓解电力短缺",
         "link": "https://www.zaobao.com/news/china/story20261025-9891982",
@@ -13,121 +43,91 @@
         "title": "中共第七轮巡视完成反馈 部分领导干部问题线索移交处理",
         "link": "https://www.zaobao.com/news/china/story20261025-9892762",
         "date": "Sun, 25 Oct 2026 10:38:01 GMT"
-      },
-      {
-        "title": "郑丽文光复节发文：台湾须有避战决心与化解敌意智慧",
-        "link": "https://www.zaobao.com/news/china/story20261025-9891868",
-        "date": "Sun, 25 Oct 2026 10:01:00 GMT"
-      },
-      {
-        "title": "中国首部获公映许可AI长片《三星堆》票房遇冷",
-        "link": "https://www.zaobao.com/news/china/story20261025-9892442",
-        "date": "Sun, 25 Oct 2026 09:11:42 GMT"
-      },
-      {
-        "title": "宋涛：设立台湾光复纪念日彰显大陆捍卫领土完整信心",
-        "link": "https://www.zaobao.com/news/china/story20261025-9892318",
-        "date": "Sun, 25 Oct 2026 08:49:27 GMT"
-      },
-      {
-        "title": "民进党称“洋流”已引起北京关注 吁防假消息及政治恐吓",
-        "link": "https://www.zaobao.com/news/china/story20261025-9892094",
-        "date": "Sun, 25 Oct 2026 08:09:03 GMT"
-      },
-      {
-        "title": "解放军报：应对重大台独事变 全军官兵应随时准备打仗",
-        "link": "https://www.zaobao.com/news/china/story20261025-9892080",
-        "date": "Sun, 25 Oct 2026 08:00:55 GMT"
-      },
-      {
-        "title": "庄兆林履新江西省委三把手 刘金波填补省组织部长",
-        "link": "https://www.zaobao.com/news/china/story20261025-9891861",
-        "date": "Sun, 25 Oct 2026 07:01:24 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Meghan broke contact with father in letter citing abuse claims",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 08:05:31 GMT"
+        "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+        "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 22:24:16 GMT"
       },
       {
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 09:00:00 GMT"
+        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 22:54:57 GMT"
       },
       {
-        "title": "Burnham open to 'honest discussion' on EU free movement",
-        "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 12:11:23 GMT"
+        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+        "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 22:37:36 GMT"
       },
       {
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 10:38:15 GMT"
+        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 26 Oct 2026 00:26:49 GMT"
       },
       {
-        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-        "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 11:54:16 GMT"
+        "title": "Deeply divided Israel braces for pivotal election",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 22:11:13 GMT"
       },
       {
-        "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 24 Oct 2026 23:03:09 GMT"
+        "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 21:24:21 GMT"
       },
       {
-        "title": "Rosebank: Life on the oil field at the centre of a political storm",
-        "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 07:15:38 GMT"
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 23:33:14 GMT"
       },
       {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 25 Oct 2026 06:00:15 GMT"
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 25 Oct 2026 18:38:17 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
-        "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-        "date": "Sun, 25 Oct 2026 01:06:17 +0000"
+        "title": "María Corina Machado Returns to Venezuela",
+        "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+        "date": "Mon, 26 Oct 2026 00:32:49 +0000"
       },
       {
-        "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-        "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-        "date": "Sun, 25 Oct 2026 05:14:43 +0000"
+        "title": "Who Is María Corina Machado?",
+        "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+        "date": "Sun, 25 Oct 2026 21:05:50 +0000"
       },
       {
-        "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
-        "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-        "date": "Sun, 25 Oct 2026 12:41:07 +0000"
+        "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+        "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+        "date": "Mon, 26 Oct 2026 00:46:00 +0000"
       },
       {
-        "title": "Latinos Are Now America’s Most Important Swing Voters",
-        "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
-        "date": "Sun, 25 Oct 2026 09:01:38 +0000"
+        "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+        "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+        "date": "Sun, 25 Oct 2026 23:35:31 +0000"
       },
       {
-        "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-        "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
-        "date": "Sun, 25 Oct 2026 09:01:59 +0000"
+        "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
+        "link": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
+        "date": "Sun, 25 Oct 2026 21:37:43 +0000"
       },
       {
-        "title": "Israel’s High-Stakes Election: What to Know",
-        "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-        "date": "Sun, 25 Oct 2026 09:01:00 +0000"
+        "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+        "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+        "date": "Fri, 23 Oct 2026 12:18:37 +0000"
       },
       {
-        "title": "METRO with Sarah Koenig: Episode 1",
-        "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
-        "date": "Thu, 22 Oct 2026 14:00:51 +0000"
+        "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
+        "link": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
+        "date": "Sun, 25 Oct 2026 17:16:13 +0000"
       },
       {
-        "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-        "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-        "date": "Sun, 25 Oct 2026 11:11:21 +0000"
+        "title": "About That Contested Elizabeth Holmes Quote to The Times",
+        "link": "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html",
+        "date": "Sat, 24 Oct 2026 17:02:18 +0000"
       }
     ],
     "The Guardian": [
@@ -157,83 +157,73 @@
         "date": "Wed, 21 Oct 2026 00:14:55 GMT"
       },
       {
-        "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-        "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-        "date": "Sun, 25 Oct 2026 11:00:01 GMT"
+        "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+        "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+        "date": "Mon, 26 Oct 2026 00:44:10 GMT"
       },
       {
-        "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-        "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-        "date": "Sun, 25 Oct 2026 08:00:58 GMT"
+        "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+        "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+        "date": "Mon, 26 Oct 2026 00:19:05 GMT"
       },
       {
-        "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-        "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-        "date": "Sat, 24 Oct 2026 21:10:23 GMT"
+        "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+        "date": "Mon, 26 Oct 2026 00:15:36 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:40:20 +0000"
+        "title": "Lula holds off far right with victory in Brazil presidential election",
+        "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+        "date": "Mon, 26 Oct 2026 00:16:29 +0000"
       },
       {
-        "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-        "link": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:38:54 +0000"
+        "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+        "date": "Mon, 26 Oct 2026 00:02:55 +0000"
       },
       {
-        "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-        "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:37:49 +0000"
+        "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+        "date": "Mon, 26 Oct 2026 00:00:00 +0000"
       },
       {
-        "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-        "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:19:41 +0000"
+        "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+        "date": "Sun, 25 Oct 2026 23:38:57 +0000"
       },
       {
-        "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-        "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:17:39 +0000"
+        "title": "Thousands protest in Prague against public media funding reforms",
+        "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+        "date": "Sun, 25 Oct 2026 23:29:13 +0000"
       },
       {
-        "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 12:05:16 +0000"
+        "title": "Venezuela’s opposition leader Machado returns after months in exile",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+        "date": "Sun, 25 Oct 2026 23:23:25 +0000"
       },
       {
-        "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-        "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 11:39:41 +0000"
+        "title": "Bulgaria election heads to a run-off amid low voter turnout",
+        "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+        "date": "Sun, 25 Oct 2026 22:57:17 +0000"
       },
       {
-        "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-        "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-        "date": "Sun, 25 Oct 2026 10:50:38 +0000"
+        "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+        "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+        "date": "Sun, 25 Oct 2026 22:22:53 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Why is it getting harder to raise taxes in the UK?",
-        "link": "https://www.ft.com/content/4528aa39-1ef2-47f2-9ff0-3271db0ae029?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 05:00:02 GMT"
+        "title": "Lula is re-elected Brazil’s president in knife-edge election",
+        "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+        "date": "Mon, 26 Oct 2026 00:17:07 GMT"
       },
       {
-        "title": "Britain needs ‘chainsaw economics’",
-        "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 12:00:03 GMT"
-      },
-      {
-        "title": "The right’s obsession with ‘civil war’ in Britain",
-        "link": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 05:00:02 GMT"
-      },
-      {
-        "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
-        "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 05:00:10 GMT"
+        "title": "Venezuelan opposition leader Machado returns from exile",
+        "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
+        "date": "Sun, 25 Oct 2026 21:55:32 GMT"
       },
       {
         "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
@@ -241,19 +231,29 @@
         "date": "Sun, 25 Oct 2026 12:26:15 GMT"
       },
       {
-        "title": "US voters worried about corruption under Trump — FT poll",
-        "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 11:00:02 GMT"
+        "title": "Marco Rubio still owes Europe answers about America’s intentions",
+        "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
+        "date": "Sun, 25 Oct 2026 16:00:05 GMT"
       },
       {
-        "title": "Why students in a Pennsylvania midterm battleground fear AI is about to kill their future",
-        "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 11:00:02 GMT"
+        "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
+        "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
+        "date": "Sun, 25 Oct 2026 23:19:41 GMT"
       },
       {
-        "title": "Andy Burnham stokes Brexit debate ahead of UK-EU summit",
-        "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
-        "date": "Sun, 25 Oct 2026 12:01:18 GMT"
+        "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+        "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+        "date": "Mon, 26 Oct 2026 00:38:57 GMT"
+      },
+      {
+        "title": "After Hungary, Serbia takes its turn to show the power of the people",
+        "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
+        "date": "Sun, 25 Oct 2026 23:54:05 GMT"
+      },
+      {
+        "title": "Burnham promises Budget cash to end rough sleeping",
+        "link": "https://www.ft.com/content/8b6b5ec9-a5d6-4c2b-bf83-4317e4018ed8?syn-25a6b1a6=1",
+        "date": "Sun, 25 Oct 2026 23:32:25 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -345,6 +345,31 @@
     "The Verge": [],
     "TechCrunch": [
       {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "date": "Sun, 25 Oct 2026 21:31:16 +0000"
+      },
+      {
+        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+        "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "date": "Sun, 25 Oct 2026 20:20:08 +0000"
+      },
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "date": "Sun, 25 Oct 2026 16:57:32 +0000"
+      },
+      {
+        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+        "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+        "date": "Sun, 25 Oct 2026 16:05:00 +0000"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "date": "Sun, 25 Oct 2026 14:10:00 +0000"
+      },
+      {
         "title": "Starlink seems to be working normally again in Ukraine",
         "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
         "date": "Sat, 24 Oct 2026 20:46:34 +0000"
@@ -358,73 +383,48 @@
         "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
         "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
         "date": "Sat, 24 Oct 2026 19:00:00 +0000"
-      },
-      {
-        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-        "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-        "date": "Sat, 24 Oct 2026 16:30:00 +0000"
-      },
-      {
-        "title": "Block&#8217;s new voice model sounds eerily human",
-        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "date": "Sat, 24 Oct 2026 16:00:00 +0000"
-      },
-      {
-        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-        "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-        "date": "Sat, 24 Oct 2026 15:30:00 +0000"
-      },
-      {
-        "title": "These clever apps show off the iPhone Duo&#8217;s potential",
-        "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-        "date": "Sat, 24 Oct 2026 15:00:00 +0000"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "date": "Sat, 24 Oct 2026 15:00:00 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-        "link": "https://github.com/ihhub/fheroes2",
-        "date": "Sun, 25 Oct 2026 11:09:12 +0000"
+        "title": "Lula Wins Brazilian Election",
+        "link": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+        "date": "Mon, 26 Oct 2026 00:23:29 +0000"
       },
       {
-        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-        "link": "https://twitter.com/mike64_t/status/2114150399406202896",
-        "date": "Sun, 25 Oct 2026 10:42:01 +0000"
+        "title": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback",
+        "date": "Sun, 25 Oct 2026 23:56:59 +0000"
       },
       {
-        "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-        "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-        "date": "Sun, 25 Oct 2026 09:56:49 +0000"
+        "title": "F-Zero X on Nintendo 3DS",
+        "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "date": "Sun, 25 Oct 2026 23:27:30 +0000"
       },
       {
-        "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-        "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-        "date": "Sun, 25 Oct 2026 09:51:17 +0000"
+        "title": "Proton Flock Camera Map",
+        "link": "https://proton.me/flock-camera-map",
+        "date": "Sun, 25 Oct 2026 22:39:42 +0000"
       },
       {
-        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-        "date": "Sun, 25 Oct 2026 09:00:40 +0000"
+        "title": "What Security Teams Need to Know About Agents Using Abliterated Models",
+        "link": "https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models",
+        "date": "Sun, 25 Oct 2026 21:45:26 +0000"
       },
       {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "date": "Sun, 25 Oct 2026 01:33:49 +0000"
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "link": "https://minimaxir.com/2026/10/cheap-llms/",
+        "date": "Sun, 25 Oct 2026 21:11:31 +0000"
       },
       {
-        "title": "Why Gopher in 2026?",
-        "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-        "date": "Sat, 24 Oct 2026 23:33:19 +0000"
+        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+        "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+        "date": "Sun, 25 Oct 2026 21:08:28 +0000"
       },
       {
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "date": "Sat, 24 Oct 2026 23:11:54 +0000"
+        "title": "The State of Context Engineering",
+        "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "date": "Sun, 25 Oct 2026 20:32:31 +0000"
       }
     ],
     "Reddit": [
@@ -439,9 +439,19 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xexzd9/musk_claims_ukraine_breached_starlink_terms_kyiv/",
-        "date": "2026-10-25T09:32:34+00:00"
+        "title": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xfhum9/lula_wins_a_record_fourth_term_in_brazil_in_a/",
+        "date": "2026-10-26T00:01:48+00:00"
+      },
+      {
+        "title": "Serbia's Vucic concedes defeat to student led movement in parliamentary election",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xfdjcl/serbias_vucic_concedes_defeat_to_student_led/",
+        "date": "2026-10-25T20:54:09+00:00"
+      },
+      {
+        "title": "Musk Fears Russia Could Target Starlink Satellites With Anti-Satellite Weapons",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xf4ujg/musk_fears_russia_could_target_starlink/",
+        "date": "2026-10-25T15:11:03+00:00"
       },
       {
         "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote",
@@ -449,24 +459,14 @@
         "date": "2026-10-25T09:09:30+00:00"
       },
       {
-        "title": "Sikorski Says Russia Running Out of Resources if Ukraine Survives Winter",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xey4ec/sikorski_says_russia_running_out_of_resources_if/",
-        "date": "2026-10-25T09:41:25+00:00"
+        "title": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xexzd9/musk_claims_ukraine_breached_starlink_terms_kyiv/",
+        "date": "2026-10-25T09:32:34+00:00"
       },
       {
-        "title": "Ukraine Strikes AVISMA Plant, Which Produces 96% of Russia’s Titanium Sponge",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xf0dad/ukraine_strikes_avisma_plant_which_produces_96_of/",
-        "date": "2026-10-25T11:50:47+00:00"
-      },
-      {
-        "title": "Musk says he was behind Starlink speed restriction in Ukraine | CBC News",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xej6q1/musk_says_he_was_behind_starlink_speed/",
-        "date": "2026-10-24T20:36:40+00:00"
-      },
-      {
-        "title": "Britain must be 'ready for war' by 2030 amid Russian aggression, UK defense secretary says",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xexr85/britain_must_be_ready_for_war_by_2030_amid/",
-        "date": "2026-10-25T09:18:05+00:00"
+        "title": "Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xf7zzn/andy_burnham_says_he_wants_an_honest_discussion/",
+        "date": "2026-10-25T17:14:42+00:00"
       }
     ],
     "PCMag": [],
