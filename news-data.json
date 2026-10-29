@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-28T14:50:19.116Z",
+  "updated": "2026-10-29T02:00:09.147Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "中国副财长廖岷12月起接任IMF副总裁",
+        "link": "https://www.zaobao.com/news/china/story20261029-9912194",
+        "date": "Wed, 28 Oct 2026 23:50:00 GMT"
+      },
+      {
+        "title": "沈泽玮：姆巴佩一记乌龙球吃了中国的红牌",
+        "link": "https://www.zaobao.com/news/china/story20261029-9909217",
+        "date": "Wed, 28 Oct 2026 21:00:00 GMT"
+      },
       {
         "title": "巴基斯坦成全球首个对台关闭领空国家 台外交部谴责",
         "link": "https://www.zaobao.com/news/china/story20261028-9911366",
@@ -33,101 +43,91 @@
         "title": "中国音乐人改编新加坡部长陈诗龙“粤语秀” 网络歌曲《你要我怎样》走红社媒",
         "link": "https://www.zaobao.com/news/china/story20261028-9908722",
         "date": "Wed, 28 Oct 2026 10:07:37 GMT"
-      },
-      {
-        "title": "中国前副总理刘延东病逝 享年81岁",
-        "link": "https://www.zaobao.com/news/china/story20261028-9909509",
-        "date": "Wed, 28 Oct 2026 10:01:08 GMT"
-      },
-      {
-        "title": "大众汽车调整在华战略 将中国研发技术推向海外",
-        "link": "https://www.zaobao.com/news/china/story20261028-9909323",
-        "date": "Wed, 28 Oct 2026 09:28:47 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Key points at a glance",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 13:48:29 GMT"
+        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 28 Oct 2026 18:45:09 GMT"
       },
       {
-        "title": "How the Budget affects you",
-        "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 14:29:20 GMT"
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 29 Oct 2026 00:00:25 GMT"
       },
       {
-        "title": "Chancellor takes to the despatch box for his first Budget",
-        "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 13:13:17 GMT"
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 28 Oct 2026 21:38:54 GMT"
       },
       {
-        "title": "Overturned carriages and makeshift medical tents at crash site",
-        "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 11:13:55 GMT"
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 28 Oct 2026 20:24:39 GMT"
       },
       {
-        "title": "What we know about the crash so far",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 12:14:44 GMT"
+        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 29 Oct 2026 01:14:01 GMT"
       },
       {
-        "title": "Russell Brand tells court allegations made friends and colleagues turn against him",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 14:26:18 GMT"
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 28 Oct 2026 21:16:30 GMT"
       },
       {
-        "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
-        "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 14:48:03 GMT"
+        "title": "Family row over George Michael items up for auction - including Faith guitar",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 29 Oct 2026 00:01:16 GMT"
       },
       {
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 28 Oct 2026 10:31:22 GMT"
+        "title": "King Charles shows off dance moves on second day of Caribbean tour",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 29 Oct 2026 01:41:36 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
+        "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
+        "date": "Wed, 28 Oct 2026 23:35:45 +0000"
+      },
+      {
+        "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+        "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+        "date": "Thu, 29 Oct 2026 01:01:58 +0000"
+      },
+      {
+        "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
         "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
         "date": "Wed, 28 Oct 2026 14:37:47 +0000"
       },
       {
-        "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-        "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-        "date": "Wed, 28 Oct 2026 13:21:16 +0000"
+        "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
+        "link": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html",
+        "date": "Wed, 28 Oct 2026 22:44:59 +0000"
       },
       {
-        "title": "Israel’s Election: When Will We Know Who Will Be Prime Minister?",
-        "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
-        "date": "Wed, 28 Oct 2026 12:38:03 +0000"
-      },
-      {
-        "title": "A Historic Show of Strength for Israel’s Arab Minority",
-        "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
-        "date": "Wed, 28 Oct 2026 11:32:42 +0000"
-      },
-      {
-        "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
-        "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
-        "date": "Wed, 28 Oct 2026 00:15:54 +0000"
-      },
-      {
-        "title": "The U.S. Attorneys Carrying Out Trump’s Election and Grievance Cases",
-        "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-us-attorneys-elections-protests-cases.html",
-        "date": "Wed, 28 Oct 2026 09:02:47 +0000"
-      },
-      {
-        "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
-        "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
-        "date": "Wed, 28 Oct 2026 00:52:23 +0000"
+        "title": "A Ballot-Stacking Effort in Alaska",
+        "link": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
+        "date": "Wed, 28 Oct 2026 21:40:48 +0000"
       },
       {
         "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
         "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "date": "Wed, 28 Oct 2026 14:41:48 +0000"
+        "date": "Wed, 28 Oct 2026 23:04:44 +0000"
+      },
+      {
+        "title": "How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election",
+        "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+        "date": "Wed, 28 Oct 2026 20:35:54 +0000"
+      },
+      {
+        "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+        "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+        "date": "Thu, 29 Oct 2026 00:53:39 +0000"
       }
     ],
     "The Guardian": [
@@ -157,103 +157,103 @@
         "date": "Mon, 26 Oct 2026 09:59:27 GMT"
       },
       {
-        "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
+        "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
         "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-        "date": "Wed, 28 Oct 2026 13:39:01 GMT"
+        "date": "Wed, 28 Oct 2026 22:06:46 GMT"
       },
       {
-        "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
-        "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-        "date": "Wed, 28 Oct 2026 10:00:05 GMT"
+        "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+        "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+        "date": "Wed, 28 Oct 2026 21:27:33 GMT"
       },
       {
-        "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-        "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-        "date": "Wed, 28 Oct 2026 06:55:35 GMT"
+        "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+        "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+        "date": "Wed, 28 Oct 2026 20:15:07 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-        "link": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 14:32:16 +0000"
+        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+        "date": "Thu, 29 Oct 2026 00:36:33 +0000"
       },
       {
-        "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
-        "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 14:30:17 +0000"
+        "title": "Israelis rally for Jewish-Arab government after election gains",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+        "date": "Thu, 29 Oct 2026 00:34:24 +0000"
       },
       {
-        "title": "Espionage threats blur lines between security and dissent in Iran",
-        "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 14:03:08 +0000"
+        "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+        "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+        "date": "Thu, 29 Oct 2026 00:01:07 +0000"
       },
       {
-        "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
-        "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 13:56:41 +0000"
+        "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+        "date": "Thu, 29 Oct 2026 00:00:00 +0000"
       },
       {
-        "title": "Spanish football postpones 24 Copa del Rey games after train crash",
-        "link": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 13:48:09 +0000"
+        "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+        "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+        "date": "Wed, 28 Oct 2026 23:43:06 +0000"
       },
       {
-        "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-        "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 13:47:39 +0000"
+        "title": "UN experts sound alarm at excessive use of force in French student protests",
+        "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+        "date": "Wed, 28 Oct 2026 22:34:51 +0000"
       },
       {
-        "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-        "link": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 12:56:24 +0000"
+        "title": "Costa Rica’s mega-prison receives first inmates",
+        "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+        "date": "Wed, 28 Oct 2026 21:36:16 +0000"
       },
       {
-        "title": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
-        "link": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
-        "date": "Wed, 28 Oct 2026 12:53:34 +0000"
+        "title": "Indonesian students demand action on wildfires and rising costs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
+        "date": "Wed, 28 Oct 2026 21:23:17 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Healey hits banks and savers with tax rises in Budget ‘for working people’",
-        "link": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 13:07:59 GMT"
-      },
-      {
-        "title": "The FT Budget quiz: How weird is the UK?",
-        "link": "https://www.ft.com/content/ee862c14-9e71-4023-b632-5c76b7b92892?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 05:00:15 GMT"
+        "title": "Healey hits banks and savers to fund modest Budget handout",
+        "link": "https://www.ft.com/content/5ec57ee9-4eb9-4889-82f0-df402185b147?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 19:35:50 GMT"
       },
       {
         "title": "Budget in brief: what you need to know",
         "link": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 14:19:42 GMT"
+        "date": "Wed, 28 Oct 2026 17:43:32 GMT"
       },
       {
-        "title": "Israel’s election: what happens next?",
-        "link": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15",
-        "date": "Wed, 28 Oct 2026 11:32:37 GMT"
+        "title": "Let’s keep Isas simple",
+        "link": "https://www.ft.com/content/722c0e11-805a-4a0c-aeee-04545dae72cf?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 18:47:04 GMT"
       },
       {
-        "title": "Why even America’s ‘haves’ are feeling the squeeze",
-        "link": "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 10:00:04 GMT"
+        "title": "Chancellor’s Budget placates markets but delays crunch decisions",
+        "link": "https://www.ft.com/content/165e3954-19cc-469e-9eab-1557953bbb19?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 19:18:48 GMT"
       },
       {
-        "title": "At least 64 killed in collision of high-speed trains in Spain",
-        "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 14:02:22 GMT"
+        "title": "Healey fiddles while the UK stagnates",
+        "link": "https://www.ft.com/content/2d14dcd5-090b-4995-b4ab-d2123b145445?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 19:07:11 GMT"
       },
       {
-        "title": "Netanyahu ahead but no clear winner in Israeli election",
-        "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 09:48:35 GMT"
+        "title": "The thwarted Budget of a thwarted government",
+        "link": "https://www.ft.com/content/de0f2126-01ac-4a25-a04b-5376b3540584?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 17:15:32 GMT"
       },
       {
-        "title": "Polymarket’s top trader is sports gambler ‘Swiss Tony’",
-        "link": "https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1",
-        "date": "Wed, 28 Oct 2026 05:00:14 GMT"
+        "title": "HMRC creates list of 200 billionaires in tax crackdown on UK’s wealthiest",
+        "link": "https://www.ft.com/content/c8c12f19-6e23-4e43-926a-463ba0bcc9d0?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 17:18:01 GMT"
+      },
+      {
+        "title": "HMRC prepares £1.3bn tax squeeze on self-employed",
+        "link": "https://www.ft.com/content/142690bf-4294-401f-a13a-81a8f4b70494?syn-25a6b1a6=1",
+        "date": "Wed, 28 Oct 2026 19:05:25 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,129 +302,129 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "What’s the Best Kindle of 2026 (So Far)?",
-        "link": "https://www.wired.com/gallery/best-kindle/",
-        "date": "Wed, 28 Oct 2026 13:02:00 +0000"
+        "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+        "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+        "date": "Wed, 28 Oct 2026 22:54:16 +0000"
       },
       {
-        "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-        "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
-        "date": "Wed, 28 Oct 2026 13:01:00 +0000"
+        "title": "This Is What the GOP’s Final Midterms Push Looks Like",
+        "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
+        "date": "Wed, 28 Oct 2026 21:00:00 +0000"
       },
       {
-        "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-        "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-        "date": "Wed, 28 Oct 2026 12:01:00 +0000"
+        "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+        "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+        "date": "Wed, 28 Oct 2026 20:30:00 +0000"
       },
       {
-        "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-        "link": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
-        "date": "Wed, 28 Oct 2026 11:00:00 +0000"
+        "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+        "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "date": "Wed, 28 Oct 2026 20:00:00 +0000"
       },
       {
-        "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-        "link": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-        "date": "Wed, 28 Oct 2026 10:45:00 +0000"
+        "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+        "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+        "date": "Wed, 28 Oct 2026 18:57:22 +0000"
       },
       {
-        "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-        "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-        "date": "Wed, 28 Oct 2026 10:30:00 +0000"
+        "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+        "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+        "date": "Wed, 28 Oct 2026 18:30:00 +0000"
       },
       {
-        "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-        "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-        "date": "Wed, 28 Oct 2026 10:15:00 +0000"
+        "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+        "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+        "date": "Wed, 28 Oct 2026 17:15:16 +0000"
       },
       {
-        "title": "Please Let the Internet Die",
-        "link": "https://www.wired.com/story/let-the-internet-die/",
-        "date": "Wed, 28 Oct 2026 10:00:00 +0000"
+        "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+        "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+        "date": "Wed, 28 Oct 2026 15:00:00 +0000"
       }
     ],
     "The Verge": [],
     "TechCrunch": [
       {
-        "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-        "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-        "date": "Wed, 28 Oct 2026 14:34:25 +0000"
+        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+        "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+        "date": "Wed, 28 Oct 2026 23:15:00 +0000"
       },
       {
-        "title": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
-        "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-        "date": "Wed, 28 Oct 2026 14:26:36 +0000"
+        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "date": "Wed, 28 Oct 2026 22:47:50 +0000"
       },
       {
-        "title": "Meta has a new AI pet app called Waddle World",
-        "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-        "date": "Wed, 28 Oct 2026 13:53:31 +0000"
+        "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "date": "Wed, 28 Oct 2026 21:58:32 +0000"
       },
       {
-        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-        "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-        "date": "Wed, 28 Oct 2026 13:39:18 +0000"
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "date": "Wed, 28 Oct 2026 21:48:37 +0000"
       },
       {
-        "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-        "link": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-        "date": "Wed, 28 Oct 2026 13:00:00 +0000"
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "date": "Wed, 28 Oct 2026 21:34:30 +0000"
       },
       {
-        "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-        "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-        "date": "Wed, 28 Oct 2026 13:00:00 +0000"
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "date": "Wed, 28 Oct 2026 21:25:30 +0000"
       },
       {
-        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-        "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-        "date": "Wed, 28 Oct 2026 05:20:32 +0000"
+        "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+        "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+        "date": "Wed, 28 Oct 2026 20:01:00 +0000"
       },
       {
-        "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-        "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-        "date": "Wed, 28 Oct 2026 01:15:28 +0000"
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "date": "Wed, 28 Oct 2026 19:19:58 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "An architectural comparison of Obsidian Canvas and Heptabase",
-        "link": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
-        "date": "Wed, 28 Oct 2026 14:24:20 +0000"
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "date": "Thu, 29 Oct 2026 00:30:37 +0000"
       },
       {
-        "title": "The Agent SDK",
-        "link": "https://cursor.com/blog/agent-sdk",
-        "date": "Wed, 28 Oct 2026 14:02:20 +0000"
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "date": "Thu, 29 Oct 2026 00:25:45 +0000"
       },
       {
-        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-        "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-        "date": "Wed, 28 Oct 2026 13:41:30 +0000"
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "date": "Thu, 29 Oct 2026 00:16:08 +0000"
       },
       {
-        "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
-        "link": "https://www.nasscad.com/NASSCAD_V4_7_0.htm",
-        "date": "Wed, 28 Oct 2026 13:28:32 +0000"
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "date": "Wed, 28 Oct 2026 23:45:46 +0000"
       },
       {
-        "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-        "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-        "date": "Wed, 28 Oct 2026 13:27:24 +0000"
+        "title": "The first wired XR glasses powered by Android XR",
+        "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        "date": "Wed, 28 Oct 2026 23:45:19 +0000"
       },
       {
-        "title": "Emacs Turns 50",
-        "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-        "date": "Wed, 28 Oct 2026 13:25:11 +0000"
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "date": "Wed, 28 Oct 2026 23:35:02 +0000"
       },
       {
-        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-        "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-        "date": "Wed, 28 Oct 2026 12:49:45 +0000"
+        "title": "Formlabs Studio 1 $699 Resin Printer",
+        "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "date": "Wed, 28 Oct 2026 21:19:30 +0000"
       },
       {
-        "title": "Two high-speed trains collide near Toledo, Spain",
-        "link": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-        "date": "Wed, 28 Oct 2026 12:35:41 +0000"
+        "title": "A Health Update",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "date": "Wed, 28 Oct 2026 21:13:21 +0000"
       }
     ],
     "Reddit": [
@@ -439,29 +439,29 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Israel election results: Netanyahu bloc at 56 seats as nearly 60% of polling stations report",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xhhpgt/israel_election_results_netanyahu_bloc_at_56/",
-        "date": "2026-10-28T07:39:46+00:00"
+        "title": "Flavio Bolsonaro declares himself rightful president-elect of Brazil",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xhz6dp/flavio_bolsonaro_declares_himself_rightful/",
+        "date": "2026-10-28T20:13:46+00:00"
       },
       {
-        "title": "Zelensky pushes back against Musk, says Ukraine uses Starshield to defend itself",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xhjwfz/zelensky_pushes_back_against_musk_says_ukraine/",
-        "date": "2026-10-28T10:01:04+00:00"
+        "title": "Brazil's Bolsonaro deletes letter calling himself 'president-elect,' changes wording to 'leader'",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xi3153/brazils_bolsonaro_deletes_letter_calling_himself/",
+        "date": "2026-10-28T22:44:39+00:00"
       },
       {
-        "title": "Putin gives 90-minute \"history lecture\" during call with Norwegian and Finnish leaders",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xhkljm/putin_gives_90minute_history_lecture_during_call/",
-        "date": "2026-10-28T10:41:31+00:00"
+        "title": "Oxfam: Richest 0.1% produce more carbon than poorest 3.5 billion",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xi38g8/oxfam_richest_01_produce_more_carbon_than_poorest/",
+        "date": "2026-10-28T22:53:25+00:00"
       },
       {
-        "title": "Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xhi7wc/flávio_bolsonaro_arrives_in_us_after_brazil/",
-        "date": "2026-10-28T08:13:23+00:00"
+        "title": "Zelenskyy explains why Ukraine does not touch ships carrying Russian diesel to US",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xhv685/zelenskyy_explains_why_ukraine_does_not_touch/",
+        "date": "2026-10-28T17:49:26+00:00"
       },
       {
-        "title": "Zelensky Warns of Russia’s ‘Economic Marriage’ With US as Ukraine Feels ‘Home Alone’ Without Patriots",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xhidru/zelensky_warns_of_russias_economic_marriage_with/",
-        "date": "2026-10-28T08:24:09+00:00"
+        "title": "Nord Stream won't reopen after the war, Brussels tells US and Russia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xi0pmi/nord_stream_wont_reopen_after_the_war_brussels/",
+        "date": "2026-10-28T21:12:01+00:00"
       },
       {
         "title": "Russia Moves to Legalize Stolen Cars From Europe, Canada, and Ukraine",
