@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-31T10:01:40.452Z",
+  "updated": "2026-10-31T14:16:26.463Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "同事丢失包包所幸被拾获 艺人明道送锦旗感谢上海交警",
+        "link": "https://www.zaobao.com/news/china/story20261031-9926427",
+        "date": "Sat, 31 Oct 2026 10:11:00 GMT"
+      },
+      {
+        "title": "中石化原董事长傅成玉被查",
+        "link": "https://www.zaobao.com/news/china/story20261031-9926466",
+        "date": "Sat, 31 Oct 2026 09:39:12 GMT"
+      },
+      {
+        "title": "中国总人口保持14亿以上 人均预期寿命升至79.25岁",
+        "link": "https://www.zaobao.com/news/china/story20261031-9926422",
+        "date": "Sat, 31 Oct 2026 09:28:26 GMT"
+      },
+      {
+        "title": "军事观察员：攻击21大量装备076后 能和有人舰载战斗机配合作战",
+        "link": "https://www.zaobao.com/news/china/story20261031-9926230",
+        "date": "Sat, 31 Oct 2026 09:12:00 GMT"
+      },
+      {
+        "title": "瑞士企业拟加大对华投资 涉医药金融等领域",
+        "link": "https://www.zaobao.com/news/china/story20261031-9926125",
+        "date": "Sat, 31 Oct 2026 08:18:05 GMT"
+      },
+      {
+        "title": "中国调查船被指在冲绳县附近海域将物体伸入海中",
+        "link": "https://www.zaobao.com/news/china/story20261031-9925990",
+        "date": "Sat, 31 Oct 2026 08:17:00 GMT"
+      },
       {
         "title": "中国铼金镍锆等战略性矿产保有资源量大幅增加",
         "link": "https://www.zaobao.com/news/china/story20261031-9925819",
@@ -13,36 +43,6 @@
         "title": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
         "link": "https://www.zaobao.com/news/china/story20261031-9925871",
         "date": "Sat, 31 Oct 2026 07:21:44 GMT"
-      },
-      {
-        "title": "递补中委被“跳过” 朱鹤新主持召开外汇管理局党组会议",
-        "link": "https://www.zaobao.com/news/china/story20261031-9925750",
-        "date": "Sat, 31 Oct 2026 06:48:42 GMT"
-      },
-      {
-        "title": "中国载人月球探测任务乘组中两人将登陆月球",
-        "link": "https://www.zaobao.com/news/china/story20261031-9925540",
-        "date": "Sat, 31 Oct 2026 06:35:00 GMT"
-      },
-      {
-        "title": "蔡康永不会现身台湾同志大游行",
-        "link": "https://www.zaobao.com/news/china/story20261031-9925648",
-        "date": "Sat, 31 Oct 2026 06:18:00 GMT"
-      },
-      {
-        "title": "台北市长选战电视辩论登场 蓝绿候选人正面交锋",
-        "link": "https://www.zaobao.com/news/china/story20261031-9925509",
-        "date": "Sat, 31 Oct 2026 05:30:23 GMT"
-      },
-      {
-        "title": "日媒：安保战略修改方案提出仍称中国为最大挑战",
-        "link": "https://www.zaobao.com/news/china/story20261031-9925454",
-        "date": "Sat, 31 Oct 2026 05:03:44 GMT"
-      },
-      {
-        "title": "港警务处等三方合办“留学香港反诈预备班”开播",
-        "link": "https://www.zaobao.com/news/china/story20261031-9924935",
-        "date": "Sat, 31 Oct 2026 04:35:00 GMT"
       }
     ],
     "Reuters": [],
@@ -50,12 +50,12 @@
       {
         "title": "Burnham 'open' to calls for slavery apology but not reparations",
         "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 31 Oct 2026 09:52:52 GMT"
+        "date": "Sat, 31 Oct 2026 13:28:40 GMT"
       },
       {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 31 Oct 2026 00:40:43 GMT"
+        "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 31 Oct 2026 13:45:34 GMT"
       },
       {
         "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -65,7 +65,7 @@
       {
         "title": "Celebrity Traitors comes to a climax in nail-biting final",
         "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 31 Oct 2026 02:18:59 GMT"
+        "date": "Sat, 31 Oct 2026 10:54:56 GMT"
       },
       {
         "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
@@ -73,12 +73,7 @@
         "date": "Sat, 31 Oct 2026 02:20:46 GMT"
       },
       {
-        "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-        "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 31 Oct 2026 05:16:01 GMT"
-      },
-      {
-        "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+        "title": "After 28 years and 36,000 miles, Karl Bushby is almost home",
         "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 31 Oct 2026 00:04:06 GMT"
       },
@@ -86,13 +81,18 @@
         "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
         "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
         "date": "Sat, 31 Oct 2026 01:32:33 GMT"
+      },
+      {
+        "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+        "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 30 Oct 2026 23:26:16 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "How Trump Is Dismantling America’s Scientific Research Machine",
         "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-        "date": "Sat, 31 Oct 2026 09:00:38 +0000"
+        "date": "Sat, 31 Oct 2026 13:31:12 +0000"
       },
       {
         "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
@@ -107,7 +107,7 @@
       {
         "title": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
         "link": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-        "date": "Sat, 31 Oct 2026 09:06:08 +0000"
+        "date": "Sat, 31 Oct 2026 09:06:09 +0000"
       },
       {
         "title": "Pete Ricketts Leads Dan Osborn in Nebraska Senate Race, Poll Finds",
@@ -117,7 +117,7 @@
       {
         "title": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
         "link": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
-        "date": "Sat, 31 Oct 2026 09:05:34 +0000"
+        "date": "Sat, 31 Oct 2026 13:34:18 +0000"
       },
       {
         "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
@@ -127,7 +127,7 @@
       {
         "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
         "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-        "date": "Sat, 31 Oct 2026 09:05:41 +0000"
+        "date": "Sat, 31 Oct 2026 12:26:58 +0000"
       }
     ],
     "The Guardian": [
@@ -174,47 +174,52 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/10/31/liverpool-arsenal-premier-league-predictions-news-lineups?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 09:47:12 +0000"
+        "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 13:35:51 +0000"
       },
       {
-        "title": "Rival US and Russian resolutions on Western Sahara fail at UN",
-        "link": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 09:35:21 +0000"
+        "title": "Burnham opens door to formal apology for Britain’s slave trade",
+        "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 13:19:23 +0000"
       },
       {
-        "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
-        "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 09:26:46 +0000"
+        "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+        "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:58:28 +0000"
       },
       {
-        "title": "Flávio Bolsonaro vows to continue father’s political fight in Brazil",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-vows-to-continue-fathers-political-fight-in-brazil?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 09:14:45 +0000"
+        "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
+        "link": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:55:00 +0000"
       },
       {
-        "title": "A UN protection force must be urgently deployed to Palestine",
-        "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 08:57:35 +0000"
+        "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
+        "link": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:49:04 +0000"
       },
       {
-        "title": "Chelsea vs Manchester United: LIVE – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 08:30:54 +0000"
+        "title": "Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?",
+        "link": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:47:16 +0000"
       },
       {
-        "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
-        "link": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 08:27:10 +0000"
+        "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+        "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:45:49 +0000"
       },
       {
-        "title": "RSF senior commander defects, accusing Sudan group’s leadership of nepotism",
-        "link": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss",
-        "date": "Sat, 31 Oct 2026 08:09:36 +0000"
+        "title": "Former rebel leader elected chief minister of Philippine Muslim region",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
+        "date": "Sat, 31 Oct 2026 12:23:06 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+        "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+        "date": "Sat, 31 Oct 2026 14:00:02 GMT"
+      },
       {
         "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
         "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
@@ -241,19 +246,14 @@
         "date": "Sat, 31 Oct 2026 05:01:09 GMT"
       },
       {
-        "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-        "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-        "date": "Fri, 30 Oct 2026 22:17:15 GMT"
+        "title": "Budget frees London to go on £10bn borrowing spree, says Sadiq Khan",
+        "link": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1",
+        "date": "Sat, 31 Oct 2026 12:00:01 GMT"
       },
       {
-        "title": "Bank of England explores easing key limit on riskier mortgage lending",
-        "link": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
-        "date": "Sat, 31 Oct 2026 05:00:31 GMT"
-      },
-      {
-        "title": "Equity loan scheme will struggle to deliver ‘the homes buyers want’",
-        "link": "https://www.ft.com/content/a6cac59f-7344-4717-8164-a4cbfdd26db5?syn-25a6b1a6=1",
-        "date": "Sat, 31 Oct 2026 05:00:40 GMT"
+        "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+        "link": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+        "date": "Sat, 31 Oct 2026 12:00:01 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,47 +302,57 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+        "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+        "date": "Sat, 31 Oct 2026 12:00:00 +0000"
+      },
+      {
+        "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+        "link": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+        "date": "Sat, 31 Oct 2026 11:00:00 +0000"
+      },
+      {
+        "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+        "link": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+        "date": "Sat, 31 Oct 2026 11:00:00 +0000"
+      },
+      {
+        "title": "Backup by Biolite Review: A Cool Idea",
+        "link": "https://www.wired.com/review/backup-by-biolite/",
+        "date": "Sat, 31 Oct 2026 10:33:00 +0000"
+      },
+      {
+        "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+        "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+        "date": "Sat, 31 Oct 2026 10:30:00 +0000"
+      },
+      {
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "date": "Sat, 31 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+        "link": "https://www.wired.com/story/bose-deals-october-2026/",
+        "date": "Sat, 31 Oct 2026 10:00:00 +0000"
+      },
+      {
         "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
         "link": "https://www.wired.com/review/keurig-alta-brewer/",
         "date": "Sat, 31 Oct 2026 09:35:00 +0000"
-      },
-      {
-        "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
-        "link": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
-        "date": "Sat, 31 Oct 2026 09:30:00 +0000"
-      },
-      {
-        "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
-        "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
-        "date": "Sat, 31 Oct 2026 09:01:00 +0000"
-      },
-      {
-        "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
-        "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
-        "date": "Sat, 31 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Wayfair Coupons: Up to 80% Off November 2026",
-        "link": "https://www.wired.com/story/wayfair-promo-code/",
-        "date": "Sat, 31 Oct 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
-        "link": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
-        "date": "Fri, 30 Oct 2026 22:15:06 +0000"
-      },
-      {
-        "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-        "date": "Fri, 30 Oct 2026 21:19:26 +0000"
-      },
-      {
-        "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-        "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-        "date": "Fri, 30 Oct 2026 20:38:46 +0000"
       }
     ],
     "The Verge": [
+      {
+        "title": "Touchscreens everywhere!",
+        "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+        "date": "2026-10-31 12:00:00"
+      },
+      {
+        "title": "Here’s why you can’t shake those unhinged political texts",
+        "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+        "date": "2026-10-31 12:00:00"
+      },
       {
         "title": "Apple Intelligence is finally coming to China with iOS 27.3",
         "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
@@ -372,19 +382,14 @@
         "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
         "date": "2026-10-30 17:38:04"
-      },
-      {
-        "title": "The delightfully messy state of Apple gadgets",
-        "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-        "date": "2026-10-30 17:25:20"
-      },
-      {
-        "title": "Rivian’s autonomy gamble faces its first real test",
-        "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-        "date": "2026-10-30 17:16:09"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "I took two iPhones on vacation. The Duo won me over.",
+        "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+        "date": "Sat, 31 Oct 2026 14:00:00 +0000"
+      },
       {
         "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
         "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
@@ -419,53 +424,48 @@
         "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
         "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
         "date": "Fri, 30 Oct 2026 21:48:53 +0000"
-      },
-      {
-        "title": "Last-minute Halloween costumes for tech nerds",
-        "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-        "date": "Fri, 30 Oct 2026 21:26:59 +0000"
       }
     ],
     "Hacker News": [
       {
+        "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "date": "Sat, 31 Oct 2026 13:25:10 +0000"
+      },
+      {
+        "title": "Why Anthropic's Filing Crushed Tech Stocks",
+        "link": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+        "date": "Sat, 31 Oct 2026 12:32:10 +0000"
+      },
+      {
+        "title": "Prospero: A new coding harness for a more civilized age",
+        "link": "https://nullprogram.com/blog/2026/10/31/",
+        "date": "Sat, 31 Oct 2026 11:54:59 +0000"
+      },
+      {
+        "title": "Shiny Object Syndrome",
+        "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+        "date": "Sat, 31 Oct 2026 11:02:14 +0000"
+      },
+      {
+        "title": "We Took over ChatGPT Accounts",
+        "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "date": "Sat, 31 Oct 2026 10:30:11 +0000"
+      },
+      {
+        "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+        "link": "https://piefed.world/post/1503394",
+        "date": "Sat, 31 Oct 2026 10:23:41 +0000"
+      },
+      {
+        "title": "Serbia just elected the world's brainiest parliament",
+        "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "date": "Sat, 31 Oct 2026 10:21:30 +0000"
+      },
+      {
         "title": "Switch Lowering in GCC",
         "link": "https://xoranth.net/gcc-switch/",
         "date": "Sat, 31 Oct 2026 08:02:26 +0000"
-      },
-      {
-        "title": "Digital Minimalism",
-        "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-        "date": "Sat, 31 Oct 2026 06:16:36 +0000"
-      },
-      {
-        "title": "Tell HN: Scribd Breached",
-        "link": "https://news.ycombinator.com/item?id=50312756",
-        "date": "Sat, 31 Oct 2026 02:46:36 +0000"
-      },
-      {
-        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-        "link": "https://tng.episodle.com/",
-        "date": "Fri, 30 Oct 2026 23:51:24 +0000"
-      },
-      {
-        "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-        "link": "https://www.firezone.dev/blog/introducing-sanstun",
-        "date": "Fri, 30 Oct 2026 21:30:00 +0000"
-      },
-      {
-        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-        "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-        "date": "Fri, 30 Oct 2026 20:23:30 +0000"
-      },
-      {
-        "title": "Jules Verne's Lost Novel",
-        "link": "https://blue-continuum.com/verne-paris",
-        "date": "Fri, 30 Oct 2026 19:55:10 +0000"
-      },
-      {
-        "title": "The oldest ice disappears and the Stone Age emerges from it",
-        "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-        "date": "Fri, 30 Oct 2026 19:51:33 +0000"
       }
     ],
     "Reddit": [
@@ -480,38 +480,58 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
+        "title": "Ukraine’s Neptune Missiles Hit Russia Where Its Rockets Are Born, Damaging Four Factory Workshops",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xk8kyo/ukraines_neptune_missiles_hit_russia_where_its/",
+        "date": "2026-10-31T12:10:04+00:00"
+      },
+      {
+        "title": "Lavrov says Poland 'contributes nothing' to G20, calls its invitation a breach of diplomacy",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xk5zex/lavrov_says_poland_contributes_nothing_to_g20/",
+        "date": "2026-10-31T09:41:53+00:00"
+      },
+      {
+        "title": "Mark Carney: Canada has 'learned we are overdependent on the US'",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xk8gj7/mark_carney_canada_has_learned_we_are/",
+        "date": "2026-10-31T12:03:40+00:00"
+      },
+      {
+        "title": "Russian War Casualties Reach Up to 2.1 Million – The Economist",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xk93ck/russian_war_casualties_reach_up_to_21_million_the/",
+        "date": "2026-10-31T12:35:28+00:00"
+      },
+      {
         "title": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
         "link": "https://www.reddit.com/r/worldnews/comments/1xjs1vh/us_approves_potential_21_billion_sale_of_scarce/",
         "date": "2026-10-30T21:32:29+00:00"
       },
       {
-        "title": "“Appeasing Dictators Brings Only Humiliation”: Estonia’s PM Rejects Softer Rhetoric Toward Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xjk0m1/appeasing_dictators_brings_only_humiliation/",
-        "date": "2026-10-30T16:26:52+00:00"
-      },
-      {
-        "title": "Canada pledges 500 million euros toward Ukraine support loan amid 2027 budget shortfall",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xjyusd/canada_pledges_500_million_euros_toward_ukraine/",
-        "date": "2026-10-31T02:39:50+00:00"
-      },
-      {
-        "title": "U.S. ditches G20 group photo after diplomats threaten walkout over Russia inclusion",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xjlqdo/us_ditches_g20_group_photo_after_diplomats/",
-        "date": "2026-10-30T17:29:17+00:00"
-      },
-      {
-        "title": "Carney says, unequivocally, Canada seeking to become the EU's 1st associate member",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xjnbvh/carney_says_unequivocally_canada_seeking_to/",
-        "date": "2026-10-30T18:28:47+00:00"
-      },
-      {
-        "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xjyjze/brazil_summons_argentinian_diplomat_over/",
-        "date": "2026-10-31T02:24:22+00:00"
+        "title": "Zelenskyy: PAC-3 missiles could protect Ukraine this winter, but deliveries years away",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xk5649/zelenskyy_pac3_missiles_could_protect_ukraine/",
+        "date": "2026-10-31T08:51:08+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Daylight Saving Time Ends Sunday. Get Ready to Change Your Clocks",
+        "link": "https://www.cnet.com/health/daylight-saving-time-ends-when-why-2/",
+        "date": "2025-02-27 14:00:07"
+      },
+      {
+        "title": "Will the iPhone Duo Fit in Your Pocket? Here’s How It Compares to Other iPhone Sizes",
+        "link": "https://www.cnet.com/tech/mobile/iphone-duo-size-comparison/",
+        "date": "2026-10-31 12:00:00"
+      },
+      {
+        "title": "Jean-Luc in Blue Jeans: Picard Cosplay Taught Me How Much Patrick Stewart Is Loved",
+        "link": "https://www.cnet.com/culture/entertainment/jean-luc-picard-cosplay-patrick-stewart/",
+        "date": "2026-10-31 11:45:00"
+      },
+      {
+        "title": "The Wild World of Third-Party AI Apps for Ring Security, and Whether You Need Them",
+        "link": "https://www.cnet.com/home/security/ring-ai-app-store-third-parties-analysis-do-you-need-them/",
+        "date": "2026-10-31 10:00:00"
+      },
       {
         "title": "GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data",
         "link": "https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/",
@@ -531,26 +551,6 @@
         "title": "Pokemon Happy Meals Land Nov. 10: Gotta Catch ‘Em All",
         "link": "https://www.cnet.com/tech/pokemon-mcdonalds-happy-meals-nov-10/",
         "date": "2026-10-30 22:07:32"
-      },
-      {
-        "title": "This Is What an iPhone Duo’s Crease Looks Like After 139K Folds",
-        "link": "https://www.cnet.com/tech/mobile/iphone-duos-crease-after-139k-folds/",
-        "date": "2026-10-30 21:16:49"
-      },
-      {
-        "title": "What Are Open-Weight AI Models?",
-        "link": "https://www.cnet.com/tech/services-and-software/what-are-open-weight-ai-models/",
-        "date": "2026-10-30 20:15:01"
-      },
-      {
-        "title": "Live Now! We’ve Folded the iPhone Duo Over 140,000 Times – Watch Us Fold It Thousands More",
-        "link": "https://www.cnet.com/tech/mobile/watch-us-fold-the-iphone-duo-thousands-of-times-on-our-weeks-long-livestream/",
-        "date": "2026-10-26 17:00:15"
-      },
-      {
-        "title": "Researchers May Have Discovered the 6th Dwarf Planet",
-        "link": "https://www.cnet.com/science/space/new-dwarf-planet/",
-        "date": "2026-10-30 17:02:25"
       }
     ],
     "AP": [],
