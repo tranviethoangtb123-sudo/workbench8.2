@@ -1,9 +1,39 @@
 {
-  "updated": "2026-11-01T10:53:24.726Z",
+  "updated": "2026-11-01T14:43:21.029Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "央视曝光违规销售熏硫白芷 青岛成都两地立案调查",
+        "link": "https://www.zaobao.com/news/china/story20261101-9930483",
+        "date": "Sun, 01 Nov 2026 14:05:00 GMT"
+      },
+      {
+        "title": "台湾研议扩大先进半导体对陆出口管制",
+        "link": "https://www.zaobao.com/news/china/story20261101-9930406",
+        "date": "Sun, 01 Nov 2026 13:06:11 GMT"
+      },
+      {
+        "title": "香港前壹传媒高层张剑虹或提前获释 参加深圳体验团",
+        "link": "https://www.zaobao.com/news/china/story20261101-9930306",
+        "date": "Sun, 01 Nov 2026 12:29:51 GMT"
+      },
+      {
+        "title": "中国三大金融监管部门据报周一开会 研究稳定股市措施",
+        "link": "https://www.zaobao.com/news/china/story20261101-9930004",
+        "date": "Sun, 01 Nov 2026 11:11:08 GMT"
+      },
+      {
+        "title": "广东公安启动APEC安保高等级勤务 全省抽调警力支援深圳",
+        "link": "https://www.zaobao.com/news/china/story20261101-9929933",
+        "date": "Sun, 01 Nov 2026 10:45:00 GMT"
+      },
+      {
+        "title": "特稿：台湾“九合一”选举倒计时 “北蓝南绿”政治版图会否松动？",
+        "link": "https://www.zaobao.com/news/china/story20261101-9886428",
+        "date": "Sun, 01 Nov 2026 10:27:23 GMT"
+      },
       {
         "title": "谢锋：实现中国统一是孙中山毕生追求",
         "link": "https://www.zaobao.com/news/china/story20261101-9928914",
@@ -13,49 +43,34 @@
         "title": "中共要求选拔干部不唯年龄学历 防止频繁调整岗位",
         "link": "https://www.zaobao.com/news/china/story20261101-9929705",
         "date": "Sun, 01 Nov 2026 09:44:19 GMT"
-      },
-      {
-        "title": "小米汽车10月交付超5万辆 创今年单月新高",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929647",
-        "date": "Sun, 01 Nov 2026 09:25:32 GMT"
-      },
-      {
-        "title": "中共拟建立互联网企业党组织提级管理机制",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929606",
-        "date": "Sun, 01 Nov 2026 09:17:21 GMT"
-      },
-      {
-        "title": "高端客消费疲弱 澳门博彩收入同比连续五个月下跌",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929519",
-        "date": "Sun, 01 Nov 2026 08:56:15 GMT"
-      },
-      {
-        "title": "中共要求“一把手”不得搞一言堂 不得层层要求维护个人权威",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929481",
-        "date": "Sun, 01 Nov 2026 08:47:57 GMT"
-      },
-      {
-        "title": "习近平：党内思想组织作风不纯问题尚未根本解决",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929402",
-        "date": "Sun, 01 Nov 2026 08:31:37 GMT"
-      },
-      {
-        "title": "据报大陆APEC致函差别对待 台外交部称将抗议矮化行为",
-        "link": "https://www.zaobao.com/news/china/story20261101-9929404",
-        "date": "Sun, 01 Nov 2026 08:30:31 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "Shops looted as German cost of living protests turn violent",
+        "title": "Shops looted as German cost-of-living protests turn violent",
         "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Nov 2026 08:43:00 GMT"
+        "date": "Sun, 01 Nov 2026 11:57:48 GMT"
       },
       {
-        "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Nov 2026 06:03:57 GMT"
+        "title": "Healey risks breaking minimum wage promise for younger workers",
+        "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Nov 2026 11:05:40 GMT"
+      },
+      {
+        "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Nov 2026 13:41:00 GMT"
+      },
+      {
+        "title": "University of Cambridge scientist among those who died in Spanish train crash",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Nov 2026 13:41:05 GMT"
+      },
+      {
+        "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+        "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Nov 2026 14:11:35 GMT"
       },
       {
         "title": "Reeves says UK's future should be inside the EU",
@@ -63,71 +78,56 @@
         "date": "Sun, 01 Nov 2026 10:47:03 GMT"
       },
       {
-        "title": "University of Cambridge scientist among those who died in Spanish train crash",
-        "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Nov 2026 09:31:06 GMT"
-      },
-      {
-        "title": "Who are the real winners of Celebrity Traitors?",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Nov 2026 00:06:01 GMT"
-      },
-      {
         "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
         "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 01 Nov 2026 05:26:02 GMT"
       },
       {
-        "title": "No more washing up: Airbnb's new house rules divide hosts and guests",
-        "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Nov 2026 00:17:05 GMT"
-      },
-      {
-        "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home to Sri Lanka",
-        "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 31 Oct 2026 23:06:13 GMT"
+        "title": "Who are the real winners of Celebrity Traitors?",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Nov 2026 00:06:01 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
-        "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
-        "date": "Sat, 31 Oct 2026 09:00:44 +0000"
+        "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
+        "link": "https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html",
+        "date": "Sun, 01 Nov 2026 10:02:36 +0000"
       },
       {
-        "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
-        "link": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
-        "date": "Sun, 01 Nov 2026 03:05:39 +0000"
+        "title": "Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote?",
+        "link": "https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html",
+        "date": "Sun, 01 Nov 2026 10:03:33 +0000"
       },
       {
-        "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
-        "link": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
-        "date": "Sat, 31 Oct 2026 09:02:24 +0000"
+        "title": "Inside the Times’s Decisions on the Alaska Senate Race Story",
+        "link": "https://www.nytimes.com/2026/10/31/insider/the-times-decisions-alaska-senate-race-story.html",
+        "date": "Sat, 31 Oct 2026 23:06:52 +0000"
       },
       {
-        "title": "Susan Collins Is Always Keeping Score",
-        "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
-        "date": "Sat, 31 Oct 2026 22:45:39 +0000"
+        "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
+        "link": "https://www.nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html",
+        "date": "Sun, 01 Nov 2026 10:01:59 +0000"
       },
       {
-        "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-        "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-        "date": "Sat, 31 Oct 2026 17:32:04 +0000"
+        "title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
+        "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
+        "date": "Sun, 01 Nov 2026 01:37:37 +0000"
       },
       {
-        "title": "How Binance’s $6.3 Billion Hack Went Down",
-        "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-        "date": "Sat, 31 Oct 2026 22:19:49 +0000"
+        "title": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
+        "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
+        "date": "Sun, 01 Nov 2026 03:37:24 +0000"
       },
       {
-        "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-        "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-        "date": "Sat, 31 Oct 2026 23:05:42 +0000"
+        "title": "How to Track Runners During the NYC Marathon",
+        "link": "https://www.nytimes.com/2026/10/25/nyregion/track-runners-nyc-marathon.html",
+        "date": "Sun, 25 Oct 2026 15:32:38 +0000"
       },
       {
-        "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
-        "link": "https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html",
-        "date": "Sat, 31 Oct 2026 21:43:34 +0000"
+        "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+        "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+        "date": "Sun, 01 Nov 2026 10:20:20 +0000"
       }
     ],
     "The Guardian": [
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
-        "link": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 10:21:48 +0000"
+        "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+        "link": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 14:26:43 +0000"
       },
       {
-        "title": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
-        "link": "https://www.aljazeera.com/video/upfront/2026/11/1/jamaal-bowman-if-i-had-kept-my-mouth-shut-id-be-in-congress?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 10:10:30 +0000"
+        "title": "Israel election: When will government be formed, who will lead it?",
+        "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 14:16:14 +0000"
       },
       {
-        "title": "Yemeni government forces seize strategic positions in al-Jawf",
-        "link": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 10:08:55 +0000"
+        "title": "Israeli attacks on Gaza kill at least nine people",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 14:10:59 +0000"
       },
       {
-        "title": "From railway tragedy to gov’t change: Serbia’s two-year fight for justice",
-        "link": "https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 10:04:22 +0000"
+        "title": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 13:47:53 +0000"
       },
       {
-        "title": "Did a secret book fuel a witch-hunting frenzy in Europe?",
-        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/11/1/did-a-secret-book-fuel-a-witch-hunting-frenzy-in-europe?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 09:44:24 +0000"
+        "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
+        "link": "https://www.aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 13:43:57 +0000"
       },
       {
-        "title": "Marquez wins Malaysian Grand Prix to close in on retaining championship",
-        "link": "https://www.aljazeera.com/sports/2026/11/1/marquez-wins-malaysian-grand-prix-to-close-in-on-retaining-championship?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 09:36:17 +0000"
+        "title": "US midterms live: Last-ditch efforts ahead of Tuesday’s elections",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 13:42:25 +0000"
       },
       {
-        "title": "Israeli protesters urge Jewish-Arab coalition government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 09:24:52 +0000"
+        "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+        "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 13:36:16 +0000"
       },
       {
-        "title": "Malawi cattle farmers travel farther as El Nino worsens drought",
-        "link": "https://www.aljazeera.com/news/2026/11/1/malawi-cattle-farmers-travel-farther-as-el-nino-worsens-drought?traffic_source=rss",
-        "date": "Sun, 01 Nov 2026 09:16:24 +0000"
+        "title": "Liverpool vs Arsenal live: Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/1/liverpool-vs-arsenal-live-premier-league?traffic_source=rss",
+        "date": "Sun, 01 Nov 2026 13:33:09 +0000"
       }
     ],
     "Financial Times": [
@@ -231,14 +231,19 @@
         "date": "Sun, 01 Nov 2026 05:00:18 GMT"
       },
       {
+        "title": "Britain’s welfare ratchet",
+        "link": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
+        "date": "Sun, 01 Nov 2026 12:00:01 GMT"
+      },
+      {
         "title": "The new Bristol town that could give Burnham a blueprint for devolution",
         "link": "https://www.ft.com/content/3da634d6-59de-4474-b2fc-b6b1b580b1dc?syn-25a6b1a6=1",
         "date": "Sun, 01 Nov 2026 05:00:18 GMT"
       },
       {
-        "title": "Quant hedge fund to spin out of Tudor in record $9bn launch",
-        "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
-        "date": "Sun, 01 Nov 2026 05:00:18 GMT"
+        "title": "Gen Z protests turn violent in Germany",
+        "link": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
+        "date": "Sun, 01 Nov 2026 11:36:55 GMT"
       },
       {
         "title": "New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant",
@@ -249,11 +254,6 @@
         "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
         "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
         "date": "Sun, 01 Nov 2026 05:00:17 GMT"
-      },
-      {
-        "title": "Michigan feud threatens Democratic unity in key Senate race",
-        "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-        "date": "Sat, 31 Oct 2026 23:57:07 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,36 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+        "link": "https://www.wired.com/gallery/best-star-wars-gifts/",
+        "date": "Sun, 01 Nov 2026 12:30:00 +0000"
+      },
+      {
+        "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+        "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+        "date": "Sun, 01 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+        "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+        "date": "Sun, 01 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+        "link": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+        "date": "Sun, 01 Nov 2026 11:30:00 +0000"
+      },
+      {
+        "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+        "link": "https://www.wired.com/gallery/the-best-space-heaters/",
+        "date": "Sun, 01 Nov 2026 11:30:00 +0000"
+      },
+      {
+        "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
+        "link": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+        "date": "Sun, 01 Nov 2026 11:00:00 +0000"
+      },
+      {
         "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
         "link": "https://www.wired.com/story/the-best-travel-mugs/",
         "date": "Sun, 01 Nov 2026 10:31:00 +0000"
@@ -310,41 +340,26 @@
         "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
         "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
         "date": "Sun, 01 Nov 2026 10:30:00 +0000"
-      },
-      {
-        "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-        "link": "https://www.wired.com/story/best-chromebooks/",
-        "date": "Sun, 01 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
-        "link": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
-        "date": "Sun, 01 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-        "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-        "date": "Sat, 31 Oct 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
-        "link": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
-        "date": "Sat, 31 Oct 2026 11:00:00 +0000"
-      },
-      {
-        "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
-        "link": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
-        "date": "Sat, 31 Oct 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Backup by Biolite Review: A Cool Idea",
-        "link": "https://www.wired.com/review/backup-by-biolite/",
-        "date": "Sat, 31 Oct 2026 10:33:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Get in the spirit with these horrors from YouTube",
+        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+        "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "date": "2026-11-01 14:00:00"
+      },
+      {
+        "title": "New Zelda and GTA represent a games industry that no longer exists",
+        "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+        "date": "2026-11-01 13:00:00"
+      },
+      {
+        "title": "Prop 45 in California could be hiding a loophole for data centers",
+        "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+        "date": "2026-11-01 13:00:00"
+      },
+      {
+        "title": "Get in the spooky spirit with these horrors from YouTube",
         "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
         "date": "2026-10-31 21:06:58"
       },
@@ -367,24 +382,14 @@
         "title": "I built an AI Tamagotchi before Meta could",
         "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
         "date": "2026-10-31 16:05:00"
-      },
-      {
-        "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-        "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-        "date": "2026-10-31 15:12:19"
-      },
-      {
-        "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-        "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-        "date": "2026-10-31 15:00:00"
-      },
-      {
-        "title": "Vic Mensa can’t live without the Voice Memos app",
-        "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-        "date": "2026-10-31 15:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+        "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+        "date": "Sun, 01 Nov 2026 14:00:00 +0000"
+      },
       {
         "title": "Data centers are now a midterm issue, even in Brooklyn",
         "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
@@ -419,53 +424,48 @@
         "title": "I took two iPhones on vacation. The Duo won me over.",
         "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
         "date": "Sat, 31 Oct 2026 14:00:00 +0000"
-      },
-      {
-        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-        "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-        "date": "Sat, 31 Oct 2026 04:16:50 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
-        "link": "https://github.com/l0ng-ai/openidea",
-        "date": "Sun, 01 Nov 2026 09:15:26 +0000"
+        "title": "Novellas with Groff",
+        "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+        "date": "Sun, 01 Nov 2026 13:51:41 +0000"
       },
       {
-        "title": "Pac-Man's Siren Call",
-        "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
-        "date": "Sun, 01 Nov 2026 06:29:49 +0000"
+        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "date": "Sun, 01 Nov 2026 13:47:24 +0000"
+      },
+      {
+        "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+        "link": "https://arxiv.org/abs/2610.39302",
+        "date": "Sun, 01 Nov 2026 13:24:49 +0000"
+      },
+      {
+        "title": "The \"Moon Trees\"",
+        "link": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html",
+        "date": "Sun, 01 Nov 2026 13:20:23 +0000"
+      },
+      {
+        "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+        "link": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+        "date": "Sun, 01 Nov 2026 11:17:15 +0000"
+      },
+      {
+        "title": "Norway makes shithouses great again",
+        "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+        "date": "Sun, 01 Nov 2026 10:47:58 +0000"
+      },
+      {
+        "title": "Domain hacks with unusual Unicode characters (2018)",
+        "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+        "date": "Sun, 01 Nov 2026 10:44:20 +0000"
       },
       {
         "title": "The AI cost of JavaScript frameworks",
         "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
         "date": "Sun, 01 Nov 2026 06:06:19 +0000"
-      },
-      {
-        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "date": "Sun, 01 Nov 2026 02:19:53 +0000"
-      },
-      {
-        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-        "link": "https://arxiv.org/abs/2409.02292",
-        "date": "Sun, 01 Nov 2026 01:46:29 +0000"
-      },
-      {
-        "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-        "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-        "date": "Sun, 01 Nov 2026 00:10:30 +0000"
-      },
-      {
-        "title": "Altoids Project",
-        "link": "https://uvdn7.github.io/altoids-project/",
-        "date": "Sat, 31 Oct 2026 22:54:55 +0000"
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "date": "Sat, 31 Oct 2026 22:46:12 +0000"
       }
     ],
     "Reddit": [
@@ -485,33 +485,38 @@
         "date": "2026-11-01T06:53:52+00:00"
       },
       {
+        "title": "Russia opens terrorism case over Ukraine oil refinery attack",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xl10qe/russia_opens_terrorism_case_over_ukraine_oil/",
+        "date": "2026-11-01T11:44:21+00:00"
+      },
+      {
         "title": "Former Mossad agent assisted Flavio Bolsonaro's escape from Brazil via Argentina",
         "link": "https://www.reddit.com/r/worldnews/comments/1xktbzk/former_mossad_agent_assisted_flavio_bolsonaros/",
         "date": "2026-11-01T03:48:01+00:00"
       },
       {
-        "title": "Russia’s Baltic Exclave Goes Dark as Major Power Plant Failure Triggers Widespread Blackout",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xkqewb/russias_baltic_exclave_goes_dark_as_major_power/",
-        "date": "2026-11-01T01:07:37+00:00"
+        "title": "Zelensky Says Hits on Rostov Plant, S-400 Post, Pantsir Cost Russia $70M",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xl1wzy/zelensky_says_hits_on_rostov_plant_s400_post/",
+        "date": "2026-11-01T12:32:13+00:00"
       },
       {
-        "title": "U.S. Embassy Warns of Potential 'Mass Casualty Event' in Moscow",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xkij8b/us_embassy_warns_of_potential_mass_casualty_event/",
-        "date": "2026-10-31T19:05:48+00:00"
+        "title": "Iran has 'no intention' to engage in peace talks with US as war looms",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xl11ig/iran_has_no_intention_to_engage_in_peace_talks/",
+        "date": "2026-11-01T11:45:36+00:00"
       },
       {
-        "title": "Canada echoes U.S. ‘mass casualty event’ warning for Moscow - National",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xkhzck/canada_echoes_us_mass_casualty_event_warning_for/",
-        "date": "2026-10-31T18:42:57+00:00"
-      },
-      {
-        "title": "UK tells Putin via his foreign minister that he will not win war",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xkjb74/uk_tells_putin_via_his_foreign_minister_that_he/",
-        "date": "2026-10-31T19:37:48+00:00"
+        "title": "Ukraine Liberated 96 Sq Km in October, Inflicted Record Losses",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xl48n9/ukraine_liberated_96_sq_km_in_october_inflicted/",
+        "date": "2026-11-01T14:20:06+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "You Can End Spammy Election Phone Calls Now With This iPhone Trick",
+        "link": "https://www.cnet.com/tech/services-and-software/eliminate-spam-calls-with-this-iphone-trick/",
+        "date": "2025-08-05 10:00:03"
+      },
       {
         "title": "iPhone Duo Just Passed 160,000 Folds In Our Fold-a-Phone Testing Machine. How Far Can It Go?",
         "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
@@ -546,11 +551,6 @@
         "title": "GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data",
         "link": "https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/",
         "date": "2026-10-30 23:14:32"
-      },
-      {
-        "title": "Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad",
-        "link": "https://www.cnet.com/tech/mobile/samsung-slice-apple-iphone-duo-z-fold-8-ad/",
-        "date": "2026-10-30 21:58:00"
       }
     ],
     "AP": [],
