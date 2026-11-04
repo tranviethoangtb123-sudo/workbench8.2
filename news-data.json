@@ -1,9 +1,39 @@
 {
-  "updated": "2026-11-03T15:47:45.473Z",
+  "updated": "2026-11-04T02:49:13.862Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "欧盟拟调整单一市场规则 降低对华依赖",
+        "link": "https://www.zaobao.com/news/china/story20261104-9943085",
+        "date": "Wed, 04 Nov 2026 00:36:25 GMT"
+      },
+      {
+        "title": "蒋万安柯志恩昨晚在台北宁夏夜市合体扫街",
+        "link": "https://www.zaobao.com/news/china/story20261104-9943070",
+        "date": "Wed, 04 Nov 2026 00:32:40 GMT"
+      },
+      {
+        "title": "东航原董事长刘绍勇一审获刑14年",
+        "link": "https://www.zaobao.com/news/china/story20261104-9942947",
+        "date": "Tue, 03 Nov 2026 23:54:00 GMT"
+      },
+      {
+        "title": "安世半导体起诉闻泰科技 索赔20亿美元",
+        "link": "https://www.zaobao.com/news/china/story20261104-9942875",
+        "date": "Tue, 03 Nov 2026 23:26:00 GMT"
+      },
+      {
+        "title": "杨丹旭：黄仁勋卷入“女间谍”疑云",
+        "link": "https://www.zaobao.com/news/china/story20261104-9942372",
+        "date": "Tue, 03 Nov 2026 21:00:00 GMT"
+      },
+      {
+        "title": "高泉庆谈新加坡中华总商会角色：既是新中桥梁 也秉持“和而不同”",
+        "link": "https://www.zaobao.com/news/china/story20261104-9942072",
+        "date": "Tue, 03 Nov 2026 16:28:22 GMT"
+      },
       {
         "title": "王毅：菲律宾少数政客一再攻击抹黑中国",
         "link": "https://www.zaobao.com/news/china/story20261103-9942141",
@@ -13,121 +43,91 @@
         "title": "香港第三季GDP增5.2% 创五年来前三季最快增速",
         "link": "https://www.zaobao.com/news/china/story20261103-9941578",
         "date": "Tue, 03 Nov 2026 13:34:14 GMT"
-      },
-      {
-        "title": "台中市长选战蓝营优势不再？民调推估蓝绿五五波",
-        "link": "https://www.zaobao.com/news/china/story20261103-9941291",
-        "date": "Tue, 03 Nov 2026 12:46:32 GMT"
-      },
-      {
-        "title": "中国气象局：史上最强厄尔尼诺将明显影响今冬明春气候",
-        "link": "https://www.zaobao.com/news/china/story20261103-9940289",
-        "date": "Tue, 03 Nov 2026 11:45:00 GMT"
-      },
-      {
-        "title": "【东谈西论】中共五中全会“从严治党”为二十一大铺垫？",
-        "link": "https://www.zaobao.com/news/china/story20261103-9941261",
-        "date": "Tue, 03 Nov 2026 11:34:33 GMT"
-      },
-      {
-        "title": "下午察：中国万圣节狂欢的自由与边界",
-        "link": "https://www.zaobao.com/news/china/story20261103-9938427",
-        "date": "Tue, 03 Nov 2026 10:18:35 GMT"
-      },
-      {
-        "title": "何立峰同越共中央书记处书记阮青毅会谈",
-        "link": "https://www.zaobao.com/news/china/story20261103-9939755",
-        "date": "Tue, 03 Nov 2026 10:03:00 GMT"
-      },
-      {
-        "title": "张升民：中俄两军关系紧跟两国关系提质升级步伐",
-        "link": "https://www.zaobao.com/news/china/story20261103-9940797",
-        "date": "Tue, 03 Nov 2026 09:55:30 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-        "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 10:32:56 GMT"
+        "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+        "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 04 Nov 2026 02:38:07 GMT"
+      },
+      {
+        "title": "US voters name economy and state of democracy as top issues, poll says",
+        "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 04 Nov 2026 02:47:37 GMT"
+      },
+      {
+        "title": "When will we know the results?",
+        "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 04 Nov 2026 00:56:05 GMT"
+      },
+      {
+        "title": "The key US Senate races to watch",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 03 Nov 2026 10:16:56 GMT"
+      },
+      {
+        "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+        "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 04 Nov 2026 02:14:45 GMT"
+      },
+      {
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 03 Nov 2026 22:45:59 GMT"
+      },
+      {
+        "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+        "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 04 Nov 2026 00:04:28 GMT"
       },
       {
         "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
         "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 14:33:14 GMT"
-      },
-      {
-        "title": "Spanish footballer dies after collision with goalkeeper during match",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 09:09:18 GMT"
-      },
-      {
-        "title": "Watch: Why is 'Mogging' the word of the year?",
-        "link": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 14:03:57 GMT"
-      },
-      {
-        "title": "Reform UK councillor charged with rape and sexual assault",
-        "link": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 15:16:53 GMT"
-      },
-      {
-        "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 15:28:47 GMT"
-      },
-      {
-        "title": "Jury in Russell Brand rape trial begins considering verdicts",
-        "link": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 14:50:06 GMT"
-      },
-      {
-        "title": "Third teen arrested after Halloween party stabbings",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 03 Nov 2026 14:40:00 GMT"
+        "date": "Tue, 03 Nov 2026 16:34:33 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "What’s at Stake in Today’s Elections",
-        "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
-        "date": "Tue, 03 Nov 2026 15:38:45 +0000"
+        "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+        "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+        "date": "Tue, 03 Nov 2026 23:04:05 +0000"
       },
       {
-        "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
-        "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
-        "date": "Tue, 03 Nov 2026 10:03:12 +0000"
+        "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
+        "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
+        "date": "Tue, 03 Nov 2026 21:52:37 +0000"
       },
       {
-        "title": "What to Expect on Election Night, and Trump’s $1 Million Voter Fraud Reward",
-        "link": "https://www.nytimes.com/2026/11/03/podcasts/the-headlines/midterm-election-trump-voter-fraud-reward.html",
-        "date": "Tue, 03 Nov 2026 11:00:10 +0000"
+        "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+        "link": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+        "date": "Tue, 03 Nov 2026 17:48:03 +0000"
       },
       {
-        "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-        "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-        "date": "Tue, 03 Nov 2026 10:47:18 +0000"
+        "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
+        "link": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+        "date": "Wed, 04 Nov 2026 01:48:41 +0000"
       },
       {
-        "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-        "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
-        "date": "Tue, 03 Nov 2026 13:34:21 +0000"
+        "title": "America Votes",
+        "link": "https://www.nytimes.com/2026/11/03/briefing/election-night-house-senate-results.html",
+        "date": "Tue, 03 Nov 2026 22:54:49 +0000"
       },
       {
-        "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
-        "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
-        "date": "Tue, 03 Nov 2026 13:56:44 +0000"
+        "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+        "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
+        "date": "Tue, 03 Nov 2026 23:46:52 +0000"
       },
       {
         "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
         "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-        "date": "Tue, 03 Nov 2026 14:51:50 +0000"
+        "date": "Tue, 03 Nov 2026 15:55:50 +0000"
       },
       {
-        "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
-        "link": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
-        "date": "Tue, 03 Nov 2026 10:00:11 +0000"
+        "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
+        "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
+        "date": "Tue, 03 Nov 2026 23:03:45 +0000"
       }
     ],
     "The Guardian": [
@@ -157,6 +157,11 @@
         "date": "Mon, 26 Oct 2026 15:07:23 GMT"
       },
       {
+        "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+        "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+        "date": "Tue, 03 Nov 2026 22:08:50 GMT"
+      },
+      {
         "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
         "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
         "date": "Tue, 03 Nov 2026 13:00:07 GMT"
@@ -165,95 +170,90 @@
         "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
         "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
         "date": "Mon, 02 Nov 2026 20:00:27 GMT"
-      },
-      {
-        "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-        "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-        "date": "Sun, 01 Nov 2026 22:26:11 GMT"
       }
     ],
     "Al Jazeera": [
       {
-        "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-        "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 15:00:10 +0000"
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 02:36:18 +0000"
       },
       {
-        "title": "Global food security is under threat",
-        "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 14:58:10 +0000"
+        "title": "Keisha Lance Bottoms makes US history as first Black woman elected governor",
+        "link": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 02:25:51 +0000"
       },
       {
-        "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 14:42:41 +0000"
+        "title": "Ballot shortages reported in Dearborn, Michigan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 02:09:42 +0000"
       },
       {
-        "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-        "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 14:30:24 +0000"
+        "title": "Kazakhstan releases second tiger into the wild",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 01:39:46 +0000"
       },
       {
-        "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-        "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 14:17:29 +0000"
+        "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+        "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 01:36:33 +0000"
       },
       {
-        "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
-        "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 14:02:00 +0000"
+        "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 01:13:49 +0000"
       },
       {
-        "title": "Trump says US will stop giving Israel aid after year-end",
-        "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 13:42:05 +0000"
+        "title": "UN elects five judges to International Court of Justice amid record cases",
+        "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 01:03:12 +0000"
       },
       {
-        "title": "Iran commander sets out five conditions for regional security",
-        "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-        "date": "Tue, 03 Nov 2026 13:21:57 +0000"
+        "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+        "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+        "date": "Wed, 04 Nov 2026 00:59:58 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "US voters prepare to deliver verdict on Trump",
-        "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
-        "date": "Tue, 03 Nov 2026 10:00:06 GMT"
-      },
-      {
-        "title": "Americans begin voting in elections to decide control of Congress",
+        "title": "Democrats score early victories in battle for Congress",
         "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-        "date": "Tue, 03 Nov 2026 10:52:57 GMT"
+        "date": "Wed, 04 Nov 2026 02:31:59 GMT"
       },
       {
-        "title": "The FT’s guide to election night",
-        "link": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
-        "date": "Tue, 03 Nov 2026 14:00:03 GMT"
-      },
-      {
-        "title": "What 21 months of Trump have done to America",
+        "title": "The head-spinning turbulence of Trump’s second term",
         "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
         "date": "Tue, 03 Nov 2026 11:40:58 GMT"
       },
       {
-        "title": "The AI problem we feared is not the AI problem we got",
-        "link": "https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1",
-        "date": "Tue, 03 Nov 2026 05:00:13 GMT"
+        "title": "Investors watch US state races for signs of backlash against AI boom",
+        "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 20:25:23 GMT"
       },
       {
-        "title": "What Weil Gotshal teaches us about how law firms die",
-        "link": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
-        "date": "Tue, 03 Nov 2026 11:00:07 GMT"
+        "title": "Live US midterm elections results — in charts and maps",
+        "link": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 06:29:13 GMT"
       },
       {
-        "title": "Italy’s ‘exit tax’ plan spooks rich expats",
-        "link": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
-        "date": "Tue, 03 Nov 2026 05:00:13 GMT"
+        "title": "US has no immediate plan to strike Iran, Trump tells FT",
+        "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 23:34:36 GMT"
       },
       {
-        "title": "How common are national exit taxes?",
-        "link": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
-        "date": "Tue, 03 Nov 2026 14:48:45 GMT"
+        "title": "How Pennsylvania’s bellwether city could decide the US midterms",
+        "link": "https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 18:53:53 GMT"
+      },
+      {
+        "title": "Tories turn to former PM David Cameron to boost party fundraising",
+        "link": "https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 21:00:05 GMT"
+      },
+      {
+        "title": "Former Weil partners lawyer up over firm’s wind-down",
+        "link": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1",
+        "date": "Tue, 03 Nov 2026 18:30:41 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,7 +302,32 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "Here's Why You Shouldn't Use AI to Vote",
+        "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+        "link": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+        "date": "Tue, 03 Nov 2026 22:44:01 +0000"
+      },
+      {
+        "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+        "link": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+        "date": "Tue, 03 Nov 2026 21:25:25 +0000"
+      },
+      {
+        "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+        "link": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+        "date": "Tue, 03 Nov 2026 21:11:00 +0000"
+      },
+      {
+        "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+        "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+        "date": "Tue, 03 Nov 2026 19:04:58 +0000"
+      },
+      {
+        "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+        "link": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+        "date": "Tue, 03 Nov 2026 18:04:07 +0000"
+      },
+      {
+        "title": "Here’s Why You Shouldn’t Use AI to Vote",
         "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
         "date": "Tue, 03 Nov 2026 14:45:08 +0000"
       },
@@ -315,118 +340,134 @@
         "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
         "link": "https://www.wired.com/review/ipad-mini-2026/",
         "date": "Tue, 03 Nov 2026 14:00:00 +0000"
-      },
-      {
-        "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
-        "link": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-        "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
-        "link": "https://www.wired.com/review/apple-airpods-5/",
-        "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-      },
-      {
-        "title": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
-        "link": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
-        "date": "Tue, 03 Nov 2026 11:30:00 +0000"
-      },
-      {
-        "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-        "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-        "date": "Tue, 03 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
-        "link": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
-        "date": "Tue, 03 Nov 2026 10:45:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "GTA VI’s download will need up to 212GB of hard drive space",
-        "link": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
-        "date": "2026-11-03 15:15:00"
+        "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+        "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+        "date": "2026-11-04 01:15:34"
       },
       {
-        "title": "The Elder Scrolls VI officially has a name: Sentinel",
-        "link": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
-        "date": "2026-11-03 15:07:39"
+        "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+        "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+        "date": "2026-11-04 01:02:53"
       },
       {
-        "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-        "date": "2026-11-03 15:00:44"
+        "title": "The biggest modding site in PC gaming is taking a stance on AI",
+        "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+        "date": "2026-11-04 00:42:10"
       },
       {
-        "title": "A truck-sized NASA space telescope is about to crash to Earth",
-        "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
-        "date": "2026-11-03 14:17:55"
+        "title": "Please stop asking me when the AI bubble will pop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+        "date": "2026-11-03 23:37:45"
       },
       {
-        "title": "Peak Design expands its collection of wireless charging accessories",
-        "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
-        "date": "2026-11-03 14:00:00"
+        "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+        "date": "2026-11-03 22:59:36"
       },
       {
-        "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-        "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-        "date": "2026-11-03 14:00:00"
+        "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+        "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+        "date": "2026-11-03 22:20:50"
       },
       {
-        "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
-        "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-        "date": "2026-11-03 14:00:00"
+        "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+        "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+        "date": "2026-11-03 22:15:33"
       },
       {
-        "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
-        "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
-        "date": "2026-11-03 14:00:00"
+        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+        "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+        "date": "2026-11-03 22:04:02"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "date": "Tue, 03 Nov 2026 15:38:27 +0000"
+        "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "date": "Tue, 03 Nov 2026 22:41:03 +0000"
       },
       {
-        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-        "date": "Tue, 03 Nov 2026 14:30:00 +0000"
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "date": "Tue, 03 Nov 2026 22:19:53 +0000"
       },
       {
-        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-        "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-        "date": "Tue, 03 Nov 2026 14:00:00 +0000"
+        "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "date": "Tue, 03 Nov 2026 21:43:08 +0000"
       },
       {
-        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
-        "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-        "date": "Tue, 03 Nov 2026 08:01:00 +0000"
+        "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "date": "Tue, 03 Nov 2026 21:05:55 +0000"
       },
       {
-        "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-        "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-        "date": "Tue, 03 Nov 2026 07:20:00 +0000"
+        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+        "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "date": "Tue, 03 Nov 2026 20:57:17 +0000"
       },
       {
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-        "date": "Tue, 03 Nov 2026 03:30:00 +0000"
+        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+        "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+        "date": "Tue, 03 Nov 2026 19:45:48 +0000"
       },
       {
-        "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-        "date": "Tue, 03 Nov 2026 01:49:52 +0000"
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "date": "Tue, 03 Nov 2026 19:34:43 +0000"
       },
       {
-        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-        "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-        "date": "Tue, 03 Nov 2026 01:12:55 +0000"
+        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+        "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+        "date": "Tue, 03 Nov 2026 19:24:37 +0000"
       }
     ],
-    "Hacker News": [],
+    "Hacker News": [
+      {
+        "title": "The Internals of PostgreSQL",
+        "link": "https://www.interdb.jp/pg/index.html",
+        "date": "2026-11-03 21:51:06"
+      },
+      {
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "link": "https://arxiv.org/abs/2605.29713",
+        "date": "2026-11-03 21:40:53"
+      },
+      {
+        "title": "Safari introduces Adaptive Dark Mode in 27.3",
+        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "date": "2026-11-03 21:39:05"
+      },
+      {
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "date": "2026-11-03 21:26:44"
+      },
+      {
+        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "link": "https://github.com/finic-ai/kairos",
+        "date": "2026-11-03 21:16:48"
+      },
+      {
+        "title": "Pratt parsing is a black box",
+        "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+        "date": "2026-11-03 20:07:41"
+      },
+      {
+        "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+        "link": "https://flipper.net/pages/flipper-one",
+        "date": "2026-11-03 19:32:13"
+      },
+      {
+        "title": "macOS 27 does not support CoreStorage volumes",
+        "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+        "date": "2026-11-03 19:27:53"
+      }
+    ],
     "Reddit": [
       {
         "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1714, Part 1 (Thread #1861)",
@@ -439,9 +480,19 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Russia Hits Kharkiv Hospital, Wounding 73, During 289-Drone and 59-Missile Barrage",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xmnx6l/russia_hits_kharkiv_hospital_wounding_73_during/",
-        "date": "2026-11-03T08:52:14+00:00"
+        "title": "Zelensky: Musk in Contact With Putin Since War’s Start",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xmyafj/zelensky_musk_in_contact_with_putin_since_wars/",
+        "date": "2026-11-03T16:54:53+00:00"
+      },
+      {
+        "title": "Trump says Europe gave Greenland to US as ‘greatest gift’ ever",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xn0hcg/trump_says_europe_gave_greenland_to_us_as/",
+        "date": "2026-11-03T18:13:14+00:00"
+      },
+      {
+        "title": "Tusk Reports “Disturbing Movement” Near Kaliningrad Border as Poland Deploys Additional Forces",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xn0pux/tusk_reports_disturbing_movement_near_kaliningrad/",
+        "date": "2026-11-03T18:21:28+00:00"
       },
       {
         "title": "Trump Says U.S. Will Halt $4 Billion in Aid to Israel",
@@ -449,67 +500,57 @@
         "date": "2026-11-03T14:32:29+00:00"
       },
       {
-        "title": "Dinosaur blood found in fossils for the first time",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xmucm7/dinosaur_blood_found_in_fossils_for_the_first_time/",
-        "date": "2026-11-03T14:27:11+00:00"
+        "title": "Spanish transport minister resigns after two deadly train crashes in one year",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xn4lmx/spanish_transport_minister_resigns_after_two/",
+        "date": "2026-11-03T20:43:51+00:00"
       },
       {
-        "title": "‘Pressure Putin, Not Me’ – Zelensky Urges Trump to Stand Firm Against Russia",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xml5jo/pressure_putin_not_me_zelensky_urges_trump_to/",
-        "date": "2026-11-03T06:00:14+00:00"
-      },
-      {
-        "title": "Russian attacks across Ukraine kill 38, injure 167, as Russia hits Dnipro hospitals in morning missile strike",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xmtc20/russian_attacks_across_ukraine_kill_38_injure_167/",
-        "date": "2026-11-03T13:46:21+00:00"
-      },
-      {
-        "title": "Zelensky: Russia Deliberately Targeted Ukraine’s Energy Sector on US Election Day",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xmqb12/zelensky_russia_deliberately_targeted_ukraines/",
-        "date": "2026-11-03T11:16:30+00:00"
+        "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xmyrih/brazil_publishes_first_global_roadmap_for_phasing/",
+        "date": "2026-11-03T17:12:02+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "After 120 Hours of Testing, This Phone Had the Longest-Lasting Battery Life",
-        "link": "https://www.cnet.com/tech/mobile/phones-best-battery-life-test/",
-        "date": "2026-11-03 15:00:00"
+        "title": "Google Is Forcing Schools to Choose Between Its Search Engine and AI",
+        "link": "https://www.cnet.com/tech/services-and-software/google-forcing-schools-choose-between-search-engine-ai/",
+        "date": "2026-11-04 00:30:16"
       },
       {
-        "title": "How AI Data Centers Because a Central Issue in Today’s Midterm Election",
-        "link": "https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/",
-        "date": "2026-10-22 00:24:08"
+        "title": "AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand",
+        "link": "https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/",
+        "date": "2026-11-04 00:22:46"
       },
       {
-        "title": "Bambu Lab’s Newest Flagship Is a Behemoth in More Ways Than One",
-        "link": "https://www.cnet.com/tech/computing/hands-on-bambu-lab-h3c/",
-        "date": "2026-11-03 14:00:00"
+        "title": "Roku Retires Aquatic Life Screensaver to Reel Viewers Into Roku City",
+        "link": "https://www.cnet.com/tech/home-entertainment/roku-retires-aquatic-life-screensaver/",
+        "date": "2026-11-04 00:05:51"
       },
       {
-        "title": "RedMagic 12 Pro Pairs Qualcomm’s New Chip With the Phone Series’ Biggest Battery Yet",
-        "link": "https://www.cnet.com/tech/mobile/redmagic-12-pro-pairs-qualcomms-new-chip-with-the-phone-series-biggest-battery-yet/",
-        "date": "2026-11-03 12:00:00"
+        "title": "Apple Is Putting an Age Limit on Falling in Love With AI",
+        "link": "https://www.cnet.com/tech/apple-age-limits-dating-app-store-location-sharing-disclose/",
+        "date": "2026-11-03 23:12:03"
       },
       {
-        "title": "Is Your Echo Show Display Filling With AI Slop? I Found How to Turn It Off",
-        "link": "https://www.cnet.com/home/smart-home/how-to-turn-off-ai-slop-on-your-echo-show-smart-display/",
-        "date": "2026-11-03 12:00:00"
+        "title": "Expedia, Hotels.com and Vrbo Bring More AI to the Travel Booking Experience",
+        "link": "https://www.cnet.com/tech/services-and-software/expedia-hotels-com-and-vrbo-bring-more-ai-to-the-travel-booking-experience/",
+        "date": "2026-11-03 22:25:55"
       },
       {
-        "title": "iOS 27.2 Draining Your iPhone Battery? Don’t Panic, That’s Normal",
-        "link": "https://www.cnet.com/tech/services-and-software/ios-update-iphone-battery-drain/",
-        "date": "2025-09-16 13:31:34"
+        "title": "Trump Asked Grok AI About Invading Venezuela. Democrats Want His Chat History",
+        "link": "https://www.cnet.com/tech/trump-grok-ai-invading-venezuela-democrats-want-chat-history/",
+        "date": "2026-11-03 21:15:05"
       },
       {
-        "title": "AO3 Suffers Major Outage: Possibly No Fanfic for 2 Weeks or Longer",
-        "link": "https://www.cnet.com/tech/services-and-software/ao3-suffers-major-outage/",
-        "date": "2026-10-29 20:25:58"
+        "title": "Live Now! We’ve Folded the iPhone Duo Over 229,000 Times – Watch Us Fold It Thousands More",
+        "link": "https://www.cnet.com/tech/mobile/watch-us-fold-the-iphone-duo-thousands-of-times-on-our-weeks-long-livestream/",
+        "date": "2026-10-26 17:00:15"
       },
       {
-        "title": "Take Care of That New iPhone Duo, Because Repairs Could Cost Up to $1,500 Without AppleCare",
-        "link": "https://www.cnet.com/tech/mobile/iphone-duo-repair-prices-foldable-applecare/",
-        "date": "2026-10-14 22:41:44"
+        "title": "Siri Is Getting Ears on the Apple Watch: Here’s What That Means for Your Privacy",
+        "link": "https://www.cnet.com/tech/apple-watch-audio-intelligence-series-12-ultra-4-siri-recap-rewind/",
+        "date": "2026-11-03 19:00:23"
       }
     ],
     "AP": [],
