@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-05T11:42:32.617Z",
+  "updated": "2026-11-05T16:07:51.546Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "黄之锋勾结外国势力罪追加10年监禁 出狱时或已40岁",
+        "link": "https://www.zaobao.com/news/china/story20261105-9954790",
+        "date": "Thu, 05 Nov 2026 13:53:25 GMT"
+      },
+      {
+        "title": "消息：北京未批大规模进口 约60万英伟达H200晶片暂存香港",
+        "link": "https://www.zaobao.com/news/china/story20261105-9954470",
+        "date": "Thu, 05 Nov 2026 12:11:42 GMT"
+      },
       {
         "title": "下午察：10元快剪剪断“Tony老师”财路？",
         "link": "https://www.zaobao.com/news/china/story20261105-9952475",
@@ -33,76 +43,66 @@
         "title": "西南交大：2006届硕士毕业生因论文涉抄袭被撤销学位",
         "link": "https://www.zaobao.com/news/china/story20261105-9952956",
         "date": "Thu, 05 Nov 2026 09:01:19 GMT"
-      },
-      {
-        "title": "台陆委会：2005年以来大陆跨境镇压涉及131人",
-        "link": "https://www.zaobao.com/news/china/story20261105-9952807",
-        "date": "Thu, 05 Nov 2026 08:38:38 GMT"
-      },
-      {
-        "title": "中国外交部再强调愿同美方落实好两国元首共识",
-        "link": "https://www.zaobao.com/news/china/story20261105-9952613",
-        "date": "Thu, 05 Nov 2026 08:23:23 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 15:44:49 GMT"
+      },
+      {
+        "title": "Watch: How rapist Brand was never far from controversy",
+        "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 14:28:21 GMT"
+      },
+      {
+        "title": "Interest rates hiked to 4% in first increase in over three years",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 14:36:26 GMT"
+      },
+      {
         "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
         "link": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 10:30:03 GMT"
+        "date": "Thu, 05 Nov 2026 12:26:24 GMT"
       },
       {
-        "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
-        "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 03:47:56 GMT"
-      },
-      {
-        "title": "Cristiano Ronaldo retires from international football",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 11:17:03 GMT"
-      },
-      {
-        "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-        "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 10:04:51 GMT"
-      },
-      {
-        "title": "France gears up for strikes and protests as unions promise national mobilisation",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 10:26:03 GMT"
-      },
-      {
-        "title": "Pound rises to its highest level since the Brexit referendum",
-        "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 04:21:35 GMT"
-      },
-      {
-        "title": "New £200m fleet of publicly funded trains in Wales barely used after three years",
-        "link": "https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 05 Nov 2026 06:02:41 GMT"
+        "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 14:29:40 GMT"
       },
       {
         "title": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
         "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
         "date": "Thu, 05 Nov 2026 10:33:21 GMT"
+      },
+      {
+        "title": "Could this be the last Bonfire Night for noisy fireworks at home?",
+        "link": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 13:24:26 GMT"
+      },
+      {
+        "title": "Football fan tried to stop Huntingdon train attack, jury hears",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Nov 2026 15:34:46 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
         "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-        "date": "Thu, 05 Nov 2026 04:11:06 +0000"
+        "date": "Thu, 05 Nov 2026 15:20:18 +0000"
+      },
+      {
+        "title": "They Made History as ‘Firsts.’ That’s Not What They Ran On.",
+        "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html",
+        "date": "Thu, 05 Nov 2026 15:57:45 +0000"
       },
       {
         "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
         "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-        "date": "Thu, 05 Nov 2026 10:04:37 +0000"
-      },
-      {
-        "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
-        "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-        "date": "Thu, 05 Nov 2026 01:32:45 +0000"
+        "date": "Thu, 05 Nov 2026 13:35:58 +0000"
       },
       {
         "title": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
@@ -122,7 +122,7 @@
       {
         "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
         "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-        "date": "Thu, 05 Nov 2026 10:00:24 +0000"
+        "date": "Thu, 05 Nov 2026 12:14:40 +0000"
       },
       {
         "title": "The Best Pizza in New York City",
@@ -174,86 +174,86 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Visualising how the US midterms turned the map blue",
-        "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 11:09:58 +0000"
+        "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+        "link": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 15:52:15 +0000"
       },
       {
-        "title": "Cristiano Ronaldo announces retirement from international football",
-        "link": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 10:57:26 +0000"
+        "title": "Why has Cristiano Ronaldo retired from international football?",
+        "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 15:14:05 +0000"
       },
       {
-        "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
-        "link": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 10:34:42 +0000"
+        "title": "Jerusalem Daily: Settler pogroms in Hebron",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 15:10:42 +0000"
       },
       {
-        "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
-        "link": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 10:25:28 +0000"
+        "title": "Ronaldo in records: International milestones from the football icon",
+        "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 15:09:31 +0000"
       },
       {
-        "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-        "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 10:24:14 +0000"
+        "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+        "link": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 15:01:35 +0000"
       },
       {
-        "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-        "link": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 10:04:26 +0000"
+        "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+        "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 14:45:46 +0000"
       },
       {
-        "title": "A month after Yemen government offensive began, war of attrition takes hold",
-        "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 09:58:18 +0000"
+        "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+        "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 14:43:09 +0000"
       },
       {
-        "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-        "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-        "date": "Thu, 05 Nov 2026 09:57:04 +0000"
+        "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+        "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+        "date": "Thu, 05 Nov 2026 14:30:37 +0000"
       }
     ],
     "Financial Times": [
+      {
+        "title": "Nasdaq tumbles 6% as chip rout intensifies after midterms",
+        "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+        "date": "Thu, 05 Nov 2026 15:53:03 GMT"
+      },
+      {
+        "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+        "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+        "date": "Wed, 04 Nov 2026 22:38:45 GMT"
+      },
+      {
+        "title": "BoE raises interest rates to 4% in bid to tame inflation",
+        "link": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1",
+        "date": "Thu, 05 Nov 2026 14:18:29 GMT"
+      },
+      {
+        "title": "Europe can’t assume the old America is coming back",
+        "link": "https://www.ft.com/content/e44a00ff-e5f2-4d1b-af44-90f8a72898ce?syn-25a6b1a6=1",
+        "date": "Thu, 05 Nov 2026 11:47:40 GMT"
+      },
+      {
+        "title": "Politicians, voters really don’t care about your broad statistics",
+        "link": "https://www.ft.com/content/004c0408-c81f-4104-a514-ed307df8890d?syn-25a6b1a6=1",
+        "date": "Thu, 05 Nov 2026 13:00:08 GMT"
+      },
       {
         "title": "Democrats look to reshape America after historic midterm victories",
         "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
         "date": "Thu, 05 Nov 2026 05:00:25 GMT"
       },
       {
-        "title": "The beginning of the end of the age of Trump",
-        "link": "https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1",
-        "date": "Wed, 04 Nov 2026 17:42:56 GMT"
+        "title": "European stocks overtake Wall Street following Democratic sweep",
+        "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+        "date": "Thu, 05 Nov 2026 15:42:12 GMT"
       },
       {
         "title": "The next US presidential race has begun",
         "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
         "date": "Thu, 05 Nov 2026 05:00:07 GMT"
-      },
-      {
-        "title": "Morning in America, twilight in the markets",
-        "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
-        "date": "Thu, 05 Nov 2026 05:00:16 GMT"
-      },
-      {
-        "title": "Trump’s economic agenda wasn’t Republican enough",
-        "link": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
-        "date": "Thu, 05 Nov 2026 05:00:07 GMT"
-      },
-      {
-        "title": "US midterm results herald upheaval in Middle East policy",
-        "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
-        "date": "Thu, 05 Nov 2026 01:33:29 GMT"
-      },
-      {
-        "title": "Oil tumbles below $100 on post-election peace hopes",
-        "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
-        "date": "Thu, 05 Nov 2026 07:20:20 GMT"
-      },
-      {
-        "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-        "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-        "date": "Wed, 04 Nov 2026 22:38:45 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,170 +302,170 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-        "link": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
-        "date": "Thu, 05 Nov 2026 11:30:00 +0000"
+        "title": "Area Man Feels Joy Online for First Time in Years",
+        "link": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+        "date": "Thu, 05 Nov 2026 15:38:07 +0000"
       },
       {
-        "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
-        "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
-        "date": "Thu, 05 Nov 2026 10:30:00 +0000"
+        "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "link": "https://www.wired.com/story/aina-smart-ring/",
+        "date": "Thu, 05 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
-        "link": "https://www.wired.com/story/best-smart-ring/",
-        "date": "Thu, 05 Nov 2026 10:09:00 +0000"
+        "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+        "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+        "date": "Thu, 05 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
-        "link": "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/",
-        "date": "Thu, 05 Nov 2026 10:00:00 +0000"
+        "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+        "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+        "date": "Thu, 05 Nov 2026 13:00:00 +0000"
       },
       {
-        "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
-        "link": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-        "date": "Thu, 05 Nov 2026 07:00:00 +0000"
+        "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+        "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+        "date": "Thu, 05 Nov 2026 13:00:00 +0000"
       },
       {
-        "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
-        "link": "https://www.wired.com/story/ray-ban-promo-code/",
-        "date": "Thu, 05 Nov 2026 06:00:00 +0000"
+        "title": "AI’s Next Trick? Speaking Dolphin",
+        "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+        "date": "Thu, 05 Nov 2026 12:00:00 +0000"
       },
       {
-        "title": "Meta Quest Promo Codes and Coupons for November 2026",
-        "link": "https://www.wired.com/story/meta-quest-promo-code/",
-        "date": "Thu, 05 Nov 2026 06:00:00 +0000"
+        "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+        "link": "https://www.wired.com/gallery/best-wireless-chargers/",
+        "date": "Thu, 05 Nov 2026 12:00:00 +0000"
       },
       {
-        "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-        "link": "https://www.wired.com/story/nomad-discount-code/",
-        "date": "Thu, 05 Nov 2026 06:00:00 +0000"
+        "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+        "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+        "date": "Thu, 05 Nov 2026 11:45:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Playstation and Spider-Man performance see Sony profits surge",
-        "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
-        "date": "2026-11-05 11:00:15"
+        "title": "Sony’s retro headphones brought me back to my childhood in the best way",
+        "link": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
+        "date": "2026-11-05 16:00:00"
       },
       {
-        "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-        "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-        "date": "2026-11-05 11:00:00"
+        "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
+        "link": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
+        "date": "2026-11-05 16:00:00"
       },
       {
-        "title": "Big Tech’s big AI buildout will not end until someone stops it",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-        "date": "2026-11-05 10:45:00"
+        "title": "The hidden supply chain costs of the AI boom",
+        "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+        "date": "2026-11-05 15:00:00"
       },
       {
-        "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-        "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
-        "date": "2026-11-05 05:00:00"
+        "title": "WhatsApp will let you invite friends to events who aren’t on the app",
+        "link": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+        "date": "2026-11-05 15:00:00"
       },
       {
-        "title": "X says its updated web app is way faster",
-        "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-        "date": "2026-11-05 00:25:12"
+        "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+        "date": "2026-11-05 15:00:00"
       },
       {
-        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-        "date": "2026-11-04 22:42:15"
+        "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+        "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+        "date": "2026-11-05 15:00:00"
       },
       {
-        "title": "17 better ways Elon Musk could have wasted $446 million",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-        "date": "2026-11-04 21:45:00"
+        "title": "Tech is about to get hammered in Congress",
+        "link": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+        "date": "2026-11-05 14:11:27"
       },
       {
-        "title": "How I learned to love an obnoxious phone grip",
-        "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-        "date": "2026-11-04 21:30:00"
+        "title": "The X-70 is NASA’s next experimental X-plane",
+        "link": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
+        "date": "2026-11-05 14:10:12"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-        "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-        "date": "Thu, 05 Nov 2026 11:00:00 +0000"
+        "title": "Bluesky hit peak usage for the year on Election Night",
+        "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+        "date": "Thu, 05 Nov 2026 15:44:58 +0000"
       },
       {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-        "date": "Thu, 05 Nov 2026 01:26:22 +0000"
+        "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+        "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+        "date": "Thu, 05 Nov 2026 15:40:34 +0000"
       },
       {
-        "title": "After the midterms, a bigger clash over data centers could be coming",
-        "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-        "date": "Thu, 05 Nov 2026 01:02:14 +0000"
+        "title": "TikTok quietly launches a standalone TikTok Shop app",
+        "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+        "date": "Thu, 05 Nov 2026 15:33:58 +0000"
       },
       {
-        "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-        "date": "Wed, 04 Nov 2026 22:45:09 +0000"
+        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+        "date": "Thu, 05 Nov 2026 15:19:05 +0000"
       },
       {
-        "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-        "date": "Wed, 04 Nov 2026 22:13:16 +0000"
+        "title": "Instagram brings Edits to desktop to take on CapCut",
+        "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+        "date": "Thu, 05 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "Almost no one uses AI agents to book their Uber, company says",
-        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-        "date": "Wed, 04 Nov 2026 21:56:01 +0000"
+        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "date": "Thu, 05 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "Snapchat surpasses 30M paid subscribers",
-        "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-        "date": "Wed, 04 Nov 2026 21:49:29 +0000"
+        "title": "Aina&#8217;s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+        "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "date": "Thu, 05 Nov 2026 14:42:00 +0000"
       },
       {
-        "title": "OpenAI is already trying to shape the 2028 election",
-        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-        "date": "Wed, 04 Nov 2026 21:25:44 +0000"
+        "title": "RadianX promises solar-powered devices that never need charging",
+        "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+        "date": "Thu, 05 Nov 2026 14:00:00 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Awesome repositories are no longer awesome",
-        "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-        "date": "Thu, 05 Nov 2026 11:16:51 +0000"
+        "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+        "link": "https://nordstjernen.org/",
+        "date": "Thu, 05 Nov 2026 15:17:31 +0000"
       },
       {
-        "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-        "link": "https://hachyderm.io/@damienmiller/117563026759098135",
-        "date": "Thu, 05 Nov 2026 09:46:17 +0000"
+        "title": "Image of Our Satellite-Choked Night Skies",
+        "link": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+        "date": "Thu, 05 Nov 2026 14:49:07 +0000"
       },
       {
-        "title": "Baidu released ERNIE 5.5 Flash Base",
-        "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-        "date": "Thu, 05 Nov 2026 09:29:12 +0000"
+        "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+        "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "date": "Thu, 05 Nov 2026 14:44:20 +0000"
       },
       {
-        "title": "Being a kid making games in the early 2000s",
-        "link": "https://jaytholen.net/teengamedev/",
-        "date": "Thu, 05 Nov 2026 05:53:53 +0000"
+        "title": "September in Servo: , rounded rectangles, and more",
+        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+        "date": "Thu, 05 Nov 2026 14:34:18 +0000"
       },
       {
-        "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-        "link": "https://www.altera.com/newsroom/agilex-2x",
-        "date": "Thu, 05 Nov 2026 05:47:14 +0000"
+        "title": "MCP Explained",
+        "link": "https://mcp-explained.com/",
+        "date": "Thu, 05 Nov 2026 14:08:35 +0000"
       },
       {
-        "title": "Lemmings CSS Animation",
-        "link": "https://markblah.github.io/lemmings/",
-        "date": "Thu, 05 Nov 2026 04:54:10 +0000"
+        "title": "I wish tech companies knew more about me",
+        "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+        "date": "Thu, 05 Nov 2026 13:40:52 +0000"
       },
       {
-        "title": "Images 2.6",
-        "link": "https://openai.com/index/introducing-images-2-6/",
-        "date": "Wed, 04 Nov 2026 23:35:44 +0000"
+        "title": "Download your favourite YouTube videos",
+        "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+        "date": "Thu, 05 Nov 2026 13:00:11 +0000"
       },
       {
-        "title": "A thousand fewer paths to root",
-        "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-        "date": "Wed, 04 Nov 2026 23:33:14 +0000"
+        "title": "Obscure audio codec is a perfect fit for the N64",
+        "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+        "date": "Thu, 05 Nov 2026 12:51:48 +0000"
       }
     ],
     "Reddit": [
@@ -480,24 +480,19 @@
         "date": "2026-09-04T17:12:36+00:00"
       },
       {
-        "title": "Australia's far-right party scrubs their website of Trump after the death of MAGA",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xo3ku1/australias_farright_party_scrubs_their_website_of/",
-        "date": "2026-11-04T23:38:40+00:00"
-      },
-      {
-        "title": "Zelensky doubts Musk ‘acted alone’ in Ukraine Starlink slowdown",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xo1nte/zelensky_doubts_musk_acted_alone_in_ukraine/",
-        "date": "2026-11-04T22:15:53+00:00"
-      },
-      {
         "title": "\"These are not the kind of jokes\": Zelenskyy responded to Musk's statements about Russian soldiers' casualties",
         "link": "https://www.reddit.com/r/worldnews/comments/1xof95w/these_are_not_the_kind_of_jokes_zelenskyy/",
         "date": "2026-11-05T10:25:17+00:00"
       },
       {
-        "title": "NATO prepares new defence plan foreseeing strikes deep inside Russian territory",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xoe3de/nato_prepares_new_defence_plan_foreseeing_strikes/",
-        "date": "2026-11-05T09:09:43+00:00"
+        "title": "Ukraine Knocks Out 15 Russian Refineries, $23 Billion in Damage",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xoldn4/ukraine_knocks_out_15_russian_refineries_23/",
+        "date": "2026-11-05T15:21:49+00:00"
+      },
+      {
+        "title": "Taliban sets fire to hundreds of ‘immoral’ musical instruments",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xoi6by/taliban_sets_fire_to_hundreds_of_immoral_musical/",
+        "date": "2026-11-05T13:06:40+00:00"
       },
       {
         "title": "Russian Diesel Tankers Flee US Route as Trump-Putin Deal Hits Sanctions Wall",
@@ -505,15 +500,35 @@
         "date": "2026-11-05T09:51:24+00:00"
       },
       {
-        "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xnzmpe/zelensky_gives_melania_trump_ukraines_highest/",
-        "date": "2026-11-04T20:55:22+00:00"
+        "title": "Australia's far-right party scrubs their website of Trump after the death of MAGA",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xo3ku1/australias_farright_party_scrubs_their_website_of/",
+        "date": "2026-11-04T23:38:40+00:00"
+      },
+      {
+        "title": "Russia Approves Supply of 90 Missile Launchers to Iran",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xog3oo/russia_approves_supply_of_90_missile_launchers_to/",
+        "date": "2026-11-05T11:16:45+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "Safer Water at Home: New Water Heater Tech Aims to Kill Bacteria in the Tank",
+        "title": "It’s Possible You’ve Been Making Coffee All Wrong: 6 Mistakes a Pro Says to Avoid",
+        "link": "https://www.cnet.com/home/6-coffee-brewing-mistakes-according-to-a-professional/",
+        "date": "2025-01-16 13:31:49"
+      },
+      {
+        "title": "Motorola’s $1,600 Signature 27 Is Throwing Every Ultra-Level Phone Feature Together",
+        "link": "https://www.cnet.com/tech/motorolas-1600-signature-27-is-throwing-every-ultra-level-phone-feature-together/",
+        "date": "2026-11-05 13:00:00"
+      },
+      {
+        "title": "I Took the iPhone 18 Pro Max to Japan and Its New Camera System Brought Out My Creative Side",
+        "link": "https://www.cnet.com/tech/mobile/i-took-the-iphone-18-pro-max-to-japan-and-its-new-camera-system-brought-out-my-creative-side/",
+        "date": "2026-11-05 13:00:00"
+      },
+      {
+        "title": "A New Water Heater Technology Kills Bacteria Right in the Tank",
         "link": "https://www.cnet.com/home/energy-and-utilities/safer-water-at-home-new-water-heater-tech-aims-to-kill-bacteria-in-the-tank/",
         "date": "2026-11-05 10:34:00"
       },
@@ -536,21 +551,6 @@
         "title": "Data Center Backers Suffer Near-Total Midterm Defeats Across the Country",
         "link": "https://www.cnet.com/news/politics/data-center-ai-losses-midterms/",
         "date": "2026-11-05 00:17:41"
-      },
-      {
-        "title": "Scientists Build Biocomputer That Runs on Bacteria to Solve Hard Problems",
-        "link": "https://www.cnet.com/science/bacteria-powered-biocomputer-complex-computing/",
-        "date": "2026-11-04 23:53:08"
-      },
-      {
-        "title": "Bread as a Sponge for Oil Is the Best Kitchen Hack I Learned All Year",
-        "link": "https://www.cnet.com/home/kitchen-and-household/a-greasy-pan-will-ruin-a-sponge-use-a-heel-of-bread-instead/",
-        "date": "2026-10-16 09:00:00"
-      },
-      {
-        "title": "Cult Phone-Maker Nothing’s Mystery Screenless AI Device Is Coming Next Month",
-        "link": "https://www.cnet.com/tech/services-and-software/nothings-first-standalone-ai-device-coming-next-month/",
-        "date": "2026-11-04 21:00:45"
       }
     ],
     "AP": [],
