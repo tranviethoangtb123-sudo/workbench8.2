@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-10T16:04:05.909Z",
+  "updated": "2026-11-11T02:23:49.729Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "王毅与法外长通话：中欧合则两利斗则俱伤",
+        "link": "https://www.zaobao.com/news/china/story20261111-9978423",
+        "date": "Tue, 10 Nov 2026 23:55:42 GMT"
+      },
+      {
+        "title": "中国官方批复700专用码号试点 点外卖将隐藏真实手机号",
+        "link": "https://www.zaobao.com/news/china/story20261111-9978358",
+        "date": "Tue, 10 Nov 2026 23:33:00 GMT"
+      },
+      {
+        "title": "刘柳：黄仁勋婚外情与间谍疑云中的“华人叙事”",
+        "link": "https://www.zaobao.com/news/china/story20261111-9977105",
+        "date": "Tue, 10 Nov 2026 21:00:00 GMT"
+      },
+      {
+        "title": "新加坡与江苏签署23项合作文件 深化医疗与AI等领域合作",
+        "link": "https://www.zaobao.com/news/china/story20261110-9977615",
+        "date": "Tue, 10 Nov 2026 15:30:55 GMT"
+      },
       {
         "title": "阿里巴巴旗下平头哥申请赴港上市 拟分拆晶片业务",
         "link": "https://www.zaobao.com/news/china/story20261110-9977623",
@@ -23,111 +43,91 @@
         "title": "王毅同法国外长通话 吁推动中欧经贸合作",
         "link": "https://www.zaobao.com/news/china/story20261110-9977317",
         "date": "Tue, 10 Nov 2026 13:00:03 GMT"
-      },
-      {
-        "title": "中国科技企业亮相全球网络峰会 展示AI及人形机器人",
-        "link": "https://www.zaobao.com/news/china/story20261110-9977220",
-        "date": "Tue, 10 Nov 2026 12:39:22 GMT"
-      },
-      {
-        "title": "下午察：当有人开挖掘机破坏政务中心",
-        "link": "https://www.zaobao.com/news/china/story20261110-9975817",
-        "date": "Tue, 10 Nov 2026 12:25:50 GMT"
-      },
-      {
-        "title": "解放军大规模部署西太平洋 台学者：演训重心从围台转向阻挡美日",
-        "link": "https://www.zaobao.com/news/china/story20261110-9973530",
-        "date": "Tue, 10 Nov 2026 11:54:59 GMT"
-      },
-      {
-        "title": "习近平《论减贫脱贫》出版发行 官媒：中国脱贫攻坚理论结晶",
-        "link": "https://www.zaobao.com/news/china/story20261110-9976979",
-        "date": "Tue, 10 Nov 2026 11:54:42 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "US military aircraft leave second UK base",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 15:14:37 GMT"
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Nov 2026 20:20:04 GMT"
       },
       {
-        "title": "Met Police investigating more 'potential criminal allegations' about Brand",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 14:09:11 GMT"
+        "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+        "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Nov 2026 20:20:11 GMT"
       },
       {
-        "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-        "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 15:10:20 GMT"
+        "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+        "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Nov 2026 22:41:01 GMT"
       },
       {
-        "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 11:23:43 GMT"
+        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Nov 2026 22:17:45 GMT"
       },
       {
-        "title": "Watch: Meghan's first public appearance since father arrested",
-        "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 11:57:14 GMT"
+        "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+        "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 11 Nov 2026 01:11:30 GMT"
       },
       {
-        "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 14:29:00 GMT"
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 11 Nov 2026 01:01:20 GMT"
       },
       {
-        "title": "Israel's new parliament sworn in as leaders compete to form government",
-        "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 15:51:09 GMT"
+        "title": "Prince George's artwork featured in Country Life magazine",
+        "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 11 Nov 2026 00:46:28 GMT"
       },
       {
-        "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
-        "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Nov 2026 13:37:16 GMT"
+        "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+        "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 11 Nov 2026 00:17:42 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
-        "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
-        "date": "Tue, 10 Nov 2026 13:07:03 +0000"
+        "title": "Republicans Turn Back Effort to Impeach Hegseth",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
+        "date": "Wed, 11 Nov 2026 00:43:15 +0000"
       },
       {
-        "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-        "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-        "date": "Tue, 10 Nov 2026 15:45:06 +0000"
+        "title": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+        "date": "Wed, 11 Nov 2026 01:56:46 +0000"
       },
       {
-        "title": "The Jensen Huang Affair",
-        "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-        "date": "Tue, 10 Nov 2026 11:00:17 +0000"
+        "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+        "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+        "date": "Tue, 10 Nov 2026 21:12:39 +0000"
       },
       {
-        "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
-        "link": "https://www.nytimes.com/2026/11/10/podcasts/the-headlines/pete-hegseth-impeachment-charges-birds-california-booker-prize.html",
-        "date": "Tue, 10 Nov 2026 11:00:10 +0000"
+        "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+        "date": "Tue, 10 Nov 2026 19:27:59 +0000"
       },
       {
-        "title": "Oil Prices Have Tumbled in November. Here’s Why.",
-        "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-        "date": "Tue, 10 Nov 2026 15:59:29 +0000"
+        "title": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
+        "date": "Wed, 11 Nov 2026 00:16:01 +0000"
       },
       {
-        "title": "The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained",
-        "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
-        "date": "Tue, 10 Nov 2026 15:09:50 +0000"
+        "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+        "date": "Tue, 10 Nov 2026 23:21:54 +0000"
       },
       {
-        "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-        "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-        "date": "Tue, 10 Nov 2026 15:30:06 +0000"
+        "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+        "link": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+        "date": "Wed, 11 Nov 2026 02:05:19 +0000"
       },
       {
-        "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-        "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-        "date": "Tue, 10 Nov 2026 15:39:57 +0000"
+        "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
+        "link": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+        "date": "Tue, 10 Nov 2026 23:24:36 +0000"
       }
     ],
     "The Guardian": [
@@ -157,9 +157,9 @@
         "date": "Fri, 06 Nov 2026 12:48:37 GMT"
       },
       {
-        "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+        "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
         "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-        "date": "Tue, 10 Nov 2026 14:49:32 GMT"
+        "date": "Tue, 10 Nov 2026 19:01:33 GMT"
       },
       {
         "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
@@ -174,66 +174,56 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-        "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:49:36 +0000"
+        "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+        "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 01:44:21 +0000"
       },
       {
-        "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-        "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:36:49 +0000"
+        "title": "Republicans block Hegseth impeachment motion",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 01:43:42 +0000"
       },
       {
-        "title": "Deadly Egypt train crash prompts calls for political accountability",
-        "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:22:17 +0000"
+        "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+        "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 01:11:04 +0000"
       },
       {
-        "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:21:11 +0000"
+        "title": "Spain holds state funeral for 69 victims of deadly train crash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 00:42:41 +0000"
       },
       {
-        "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-        "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:18:32 +0000"
+        "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+        "link": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 00:24:27 +0000"
       },
       {
-        "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-        "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 15:04:30 +0000"
+        "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+        "date": "Wed, 11 Nov 2026 00:01:26 +0000"
       },
       {
-        "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-        "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 14:45:22 +0000"
+        "title": "Fire contained on platform in Iran’s South Pars gas field",
+        "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+        "date": "Tue, 10 Nov 2026 23:38:02 +0000"
       },
       {
-        "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
-        "link": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
-        "date": "Tue, 10 Nov 2026 14:40:00 +0000"
+        "title": "Massive fire as Israeli settlers burn down business near Nablus",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+        "date": "Tue, 10 Nov 2026 23:33:43 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Anthropic targets valuation of up to $1.4tn in IPO",
-        "link": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
-        "date": "Tue, 10 Nov 2026 13:07:48 GMT"
+        "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+        "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+        "date": "Wed, 11 Nov 2026 00:27:38 GMT"
       },
       {
-        "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
-        "link": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
-        "date": "Tue, 10 Nov 2026 14:52:07 GMT"
-      },
-      {
-        "title": "The index impact of SpaceX’s record-shattering IPO",
-        "link": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
-        "date": "Tue, 10 Nov 2026 10:11:22 GMT"
-      },
-      {
-        "title": "The last of the Botíns",
-        "link": "https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1",
-        "date": "Tue, 10 Nov 2026 05:00:11 GMT"
+        "title": "Alice Huang’s tangled web of connections",
+        "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+        "date": "Tue, 10 Nov 2026 16:17:20 GMT"
       },
       {
         "title": "Trump is taking the Alamo route",
@@ -246,14 +236,24 @@
         "date": "Tue, 10 Nov 2026 05:00:29 GMT"
       },
       {
-        "title": "Africa’s richest man Aliko Dangote pulls London listing",
-        "link": "https://www.ft.com/content/4ca0550f-e524-440f-a31a-de7c38488db2?syn-25a6b1a6=1",
-        "date": "Tue, 10 Nov 2026 12:58:15 GMT"
+        "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+        "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
+        "date": "Tue, 10 Nov 2026 23:36:56 GMT"
       },
       {
-        "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-        "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-        "date": "Tue, 10 Nov 2026 00:35:56 GMT"
+        "title": "US removes planes from second UK military base after Iran threat",
+        "link": "https://www.ft.com/content/c2992864-c0ab-4e38-b47a-5c2c1e3cb056?syn-25a6b1a6=1",
+        "date": "Tue, 10 Nov 2026 09:55:47 GMT"
+      },
+      {
+        "title": "House blocks impeachment of US defence secretary Pete Hegseth",
+        "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1",
+        "date": "Wed, 11 Nov 2026 00:01:42 GMT"
+      },
+      {
+        "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+        "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+        "date": "Tue, 10 Nov 2026 20:05:21 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,18 +302,28 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Best Early Amazon Black Friday Deals (2026)",
+        "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+        "date": "Tue, 10 Nov 2026 22:42:06 +0000"
+      },
+      {
+        "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
+        "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
+        "date": "Tue, 10 Nov 2026 16:40:19 +0000"
+      },
+      {
         "title": "Kitchen Gear From Our Place Is Steeply Discounted",
         "link": "https://www.wired.com/story/our-place-sale-november-2026/",
         "date": "Tue, 10 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "4DX Movies Are Entering Their Thirsty Romance Era",
-        "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+        "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+        "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
         "date": "Tue, 10 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-        "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+        "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+        "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
         "date": "Tue, 10 Nov 2026 14:00:00 +0000"
       },
       {
@@ -330,142 +340,132 @@
         "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
         "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
         "date": "Tue, 10 Nov 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
-        "link": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
-        "date": "Tue, 10 Nov 2026 11:30:00 +0000"
-      },
-      {
-        "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-        "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
-        "date": "Tue, 10 Nov 2026 11:30:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "The Verge’s 2026 holiday gift guide for moms",
-        "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-        "date": "2026-11-10 16:00:00"
+        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "date": "2026-11-11 00:34:24"
       },
       {
-        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-        "date": "2026-11-10 16:00:00"
+        "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+        "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+        "date": "2026-11-10 22:00:00"
       },
       {
-        "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-        "link": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-        "date": "2026-11-10 15:47:18"
+        "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+        "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+        "date": "2026-11-10 21:40:31"
       },
       {
-        "title": "Reddit wants to guide your next purchase",
-        "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-        "date": "2026-11-10 15:00:00"
+        "title": "Sony cancels live-service shooter Fairgames",
+        "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+        "date": "2026-11-10 21:06:12"
       },
       {
-        "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-        "link": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-        "date": "2026-11-10 14:37:09"
+        "title": "The PlayStation Plus PC app is shutting down next month",
+        "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+        "date": "2026-11-10 19:40:52"
       },
       {
-        "title": "Anthropic targets $1.4 trillion IPO",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-        "date": "2026-11-10 14:06:54"
+        "title": "Starlink Mini 2 adds a swappable battery",
+        "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+        "date": "2026-11-10 19:19:12"
       },
       {
-        "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-        "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-        "date": "2026-11-10 14:00:00"
+        "title": "The US is winning the AI race. Jensen Huang could have blown it",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+        "date": "2026-11-10 19:04:05"
       },
       {
-        "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-        "link": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-        "date": "2026-11-10 14:00:00"
+        "title": "Google’s Pixel Tag tracker is now available",
+        "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+        "date": "2026-11-10 19:00:00"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-        "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-        "date": "Tue, 10 Nov 2026 16:00:00 +0000"
+        "title": "X launches its own clipping feature to spur influencer engagement",
+        "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+        "date": "Wed, 11 Nov 2026 01:02:13 +0000"
       },
       {
-        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-        "date": "Tue, 10 Nov 2026 15:54:08 +0000"
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "date": "Tue, 10 Nov 2026 21:08:52 +0000"
       },
       {
-        "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-        "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-        "date": "Tue, 10 Nov 2026 15:45:27 +0000"
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "date": "Tue, 10 Nov 2026 20:52:13 +0000"
       },
       {
-        "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-        "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-        "date": "Tue, 10 Nov 2026 15:29:30 +0000"
+        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+        "date": "Tue, 10 Nov 2026 20:47:05 +0000"
       },
       {
-        "title": "Reddit is turning user conversations into AI-powered product reviews",
-        "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-        "date": "Tue, 10 Nov 2026 15:00:00 +0000"
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+        "date": "Tue, 10 Nov 2026 20:43:55 +0000"
       },
       {
-        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-        "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-        "date": "Tue, 10 Nov 2026 15:00:00 +0000"
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "date": "Tue, 10 Nov 2026 19:57:52 +0000"
       },
       {
-        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-        "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-        "date": "Tue, 10 Nov 2026 14:05:10 +0000"
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "date": "Tue, 10 Nov 2026 19:23:34 +0000"
       },
       {
-        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-        "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-        "date": "Tue, 10 Nov 2026 14:01:39 +0000"
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "date": "Tue, 10 Nov 2026 19:03:52 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "The Hardest Tarball?",
-        "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-        "date": "Tue, 10 Nov 2026 15:00:39 +0000"
+        "title": "A great old-timey game-programming hack (2013)",
+        "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+        "date": "Wed, 11 Nov 2026 01:56:31 +0000"
       },
       {
-        "title": "The Death Knell of Digital Search",
-        "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-        "date": "Tue, 10 Nov 2026 14:41:36 +0000"
+        "title": "LLMs Play Zachtronics' TIS-100",
+        "link": "https://tis-100.wincon.dev/",
+        "date": "Wed, 11 Nov 2026 00:37:05 +0000"
       },
       {
-        "title": "Wake me up when AI can...",
-        "link": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
-        "date": "Tue, 10 Nov 2026 14:11:54 +0000"
+        "title": "AI is an information gateway. Audiences still don't want it making their news",
+        "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+        "date": "Wed, 11 Nov 2026 00:15:33 +0000"
       },
       {
-        "title": "Ableton Live 13",
-        "link": "https://www.ableton.com/en/live/",
-        "date": "Tue, 10 Nov 2026 12:58:04 +0000"
+        "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+        "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+        "date": "Tue, 10 Nov 2026 23:41:41 +0000"
       },
       {
-        "title": "Let over Lambda–50 Years of Lisp (2008)",
-        "link": "https://letoverlambda.com/",
-        "date": "Tue, 10 Nov 2026 12:35:27 +0000"
+        "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+        "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "date": "Tue, 10 Nov 2026 22:17:56 +0000"
       },
       {
-        "title": "What's new in the .NET 11 runtime",
-        "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-        "date": "Tue, 10 Nov 2026 12:20:07 +0000"
+        "title": "$30M Raised to Redo the CPU",
+        "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+        "date": "Tue, 10 Nov 2026 22:14:03 +0000"
       },
       {
-        "title": "AlphaProof Code",
-        "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "date": "Tue, 10 Nov 2026 12:11:12 +0000"
+        "title": "Six Math Essentials by Terence Tao",
+        "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "date": "Tue, 10 Nov 2026 20:58:44 +0000"
       },
       {
-        "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-        "link": "https://github.com/HolyArrs/HolyArrs",
-        "date": "Tue, 10 Nov 2026 11:51:19 +0000"
+        "title": "Sherman Anti-Trust Act (1890)",
+        "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+        "date": "Tue, 10 Nov 2026 20:56:16 +0000"
       }
     ],
     "Reddit": [
@@ -485,72 +485,72 @@
         "date": "2026-11-10T13:44:46+00:00"
       },
       {
+        "title": "US Army member arrested in UK over suspected Russia espionage",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xsvgyl/us_army_member_arrested_in_uk_over_suspected/",
+        "date": "2026-11-10T19:00:54+00:00"
+      },
+      {
+        "title": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel's new parliament is sworn in",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xsygxc/eisenkot_unveils_agenda_to_reverse_netanyahus/",
+        "date": "2026-11-10T20:57:37+00:00"
+      },
+      {
+        "title": "UK court overturns Trinidad and Tobago law criminalising homosexual sex",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xt114p/uk_court_overturns_trinidad_and_tobago_law/",
+        "date": "2026-11-10T22:41:27+00:00"
+      },
+      {
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xt3e5s/us_army_soldier_suspected_of_spying_for_russia/",
+        "date": "2026-11-11T00:23:29+00:00"
+      },
+      {
         "title": "Rubio Threatens ‘Tremendous Damage’ to ICC Unless Court Bows to US Demands",
         "link": "https://www.reddit.com/r/worldnews/comments/1xsj9tg/rubio_threatens_tremendous_damage_to_icc_unless/",
         "date": "2026-11-10T10:13:37+00:00"
-      },
-      {
-        "title": "Data hacked from Russia's own statistics agency suggests more than 400,000 Russians have died in the war in Ukraine, a toll Moscow treats as a state secret.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xsilyh/data_hacked_from_russias_own_statistics_agency/",
-        "date": "2026-11-10T09:31:59+00:00"
-      },
-      {
-        "title": "Zelenskyy claims Russia is seeing 'record losses' in Ukraine war as peace talks resume",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xsjw9g/zelenskyy_claims_russia_is_seeing_record_losses/",
-        "date": "2026-11-10T10:51:18+00:00"
-      },
-      {
-        "title": "Recent Ukrainian attacks have reduced Russia’s oil processing capacity by 30%, sources say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xsmf5f/recent_ukrainian_attacks_have_reduced_russias_oil/",
-        "date": "2026-11-10T13:06:22+00:00"
-      },
-      {
-        "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xs6md1/trump_calls_iran_war_effectively_over_after_talks/",
-        "date": "2026-11-09T22:59:16+00:00"
       }
     ],
     "PCMag": [],
     "CNET": [
       {
-        "title": "NASA Just Made a Bunch of Moon Base Announcements: Here’s What They Are",
-        "link": "https://www.cnet.com/science/space/nasa-max-power-awards-moon-base-contracts/",
-        "date": "2026-11-10 03:20:15"
+        "title": "The New Adobe Firefly AI Is All About Video Editing",
+        "link": "https://www.cnet.com/tech/services-and-software/new-adobe-firefly-ai-video-editing/",
+        "date": "2026-11-10 14:00:00"
       },
       {
-        "title": "Ford Just Proved Its EV Battery Health Barely Degrades After 5 Years",
-        "link": "https://www.cnet.com/home/electric-vehicles/ford-ev-battery-health-study-5-years-later/",
-        "date": "2026-11-10 01:00:33"
+        "title": "Pixel 11 Pro’s HiLight Will Now Light Up When Your Besties Text You",
+        "link": "https://www.cnet.com/tech/mobile/pixel-11-pro-hilight-light-up-when-best-friends-text/",
+        "date": "2026-11-10 22:48:47"
       },
       {
-        "title": "AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession",
-        "link": "https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/",
-        "date": "2026-11-09 23:24:46"
+        "title": "Apple’s iPod Turns 25: Here’s the Song Catalog That Rode Wit You",
+        "link": "https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary-2/",
+        "date": "2026-10-23 22:37:05"
       },
       {
-        "title": "iOS 27.3 Could Bring More Audio Intelligence and the Redesigned Health App Soon",
-        "link": "https://www.cnet.com/tech/services-and-software/ios-27-3-features/",
-        "date": "2026-11-09 23:00:58"
+        "title": "Google Expands Gemini 4 Carbon Availability",
+        "link": "https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/",
+        "date": "2026-11-10 22:07:30"
       },
       {
-        "title": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models",
-        "link": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
-        "date": "2026-11-09 22:20:20"
+        "title": "We’ve Folded the iPhone Duo Almost 400,000 Times. How Much More Can It Take?",
+        "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
+        "date": "2026-10-23 21:30:35"
       },
       {
-        "title": "New Paramount Plus and HBO Max Bundle to Arrive Early Next Year",
-        "link": "https://www.cnet.com/tech/services-and-software/new-paramount-plus-and-hbo-max-bundle-to-arrive-early-next-year/",
-        "date": "2026-11-09 21:43:01"
+        "title": "Half of New Games on Steam Are Now Made With AI. How Does This Reflect the Gaming Industry?",
+        "link": "https://www.cnet.com/tech/gaming/50-percent-new-steam-games-ai/",
+        "date": "2026-11-10 21:48:35"
       },
       {
-        "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
-        "link": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
-        "date": "2026-11-09 20:33:48"
+        "title": "Google Introduces 3 More Top-Level Domain Names, Including .Eat and .Fly",
+        "link": "https://www.cnet.com/tech/dot-eat-dot-fly-dot-here-new-domains/",
+        "date": "2026-11-10 21:15:12"
       },
       {
-        "title": "How to Use AI Tools Like ChatGPT, Gemini and Claude to Prep for a Job Interview",
-        "link": "https://www.cnet.com/tech/services-and-software/facing-down-a-job-interview-ai-could-help-you-prepare/",
-        "date": "2026-05-12 18:57:00"
+        "title": "Death Stranding 2, Atomfall and More Land on PlayStation Plus Soon",
+        "link": "https://www.cnet.com/tech/gaming/death-stranding-2-atomfall-playstation-plus-november/",
+        "date": "2026-11-10 20:24:33"
       }
     ],
     "AP": [],
