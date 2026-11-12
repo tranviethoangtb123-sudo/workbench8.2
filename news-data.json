@@ -1,9 +1,39 @@
 {
-  "updated": "2026-11-12T11:58:01.484Z",
+  "updated": "2026-11-12T16:33:18.010Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "习近平：统一是中共历史任务 “一定要实现、一定能够实现”",
+        "link": "https://www.zaobao.com/news/china/story20261112-9989275",
+        "date": "Thu, 12 Nov 2026 14:37:33 GMT"
+      },
+      {
+        "title": "下午察：中国博主镜头下的“假印度”",
+        "link": "https://www.zaobao.com/news/china/story20261112-9987160",
+        "date": "Thu, 12 Nov 2026 13:41:24 GMT"
+      },
+      {
+        "title": "郭树清称中国养老金面临严峻挑战 倡尽快启动遗产税立法",
+        "link": "https://www.zaobao.com/news/china/story20261112-9989005",
+        "date": "Thu, 12 Nov 2026 13:31:01 GMT"
+      },
+      {
+        "title": "香港为北部都会区发展拆墙松绑 加快土地开发",
+        "link": "https://www.zaobao.com/news/china/story20261112-9989063",
+        "date": "Thu, 12 Nov 2026 13:22:41 GMT"
+      },
+      {
+        "title": "习近平提一中基础下两岸协商 台湾蓝营倡民间先行",
+        "link": "https://www.zaobao.com/news/china/story20261112-9987469",
+        "date": "Thu, 12 Nov 2026 12:14:25 GMT"
+      },
+      {
+        "title": "台湾九合一选举倒数 下周三零时起禁止发布或引述民调",
+        "link": "https://www.zaobao.com/news/china/story20261112-9986711",
+        "date": "Thu, 12 Nov 2026 11:45:00 GMT"
+      },
       {
         "title": "赖清德强调台湾将秉持平等原则参与深圳APEC峰会",
         "link": "https://www.zaobao.com/news/china/story20261112-9988119",
@@ -13,124 +43,99 @@
         "title": "孙中山诞辰160周年纪念邮票今发行",
         "link": "https://www.zaobao.com/news/china/story20261112-9986482",
         "date": "Thu, 12 Nov 2026 10:30:00 GMT"
-      },
-      {
-        "title": "黄仁勋风波冲击中国AI股 阿里巴巴一度跌逾7%",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987999",
-        "date": "Thu, 12 Nov 2026 09:43:10 GMT"
-      },
-      {
-        "title": "黄仁勋被指与大陆女间谍有染 台行政院证实台美合作调查",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987968",
-        "date": "Thu, 12 Nov 2026 09:41:08 GMT"
-      },
-      {
-        "title": "台湾拟设主权基金 初期资本额暂定300亿新台币",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987656",
-        "date": "Thu, 12 Nov 2026 09:08:13 GMT"
-      },
-      {
-        "title": "北京吁G7履行好自身责任 多为促进国际团结发挥正面作用",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987548",
-        "date": "Thu, 12 Nov 2026 08:54:26 GMT"
-      },
-      {
-        "title": "北京促美方停止以间谍叙事为科技封堵找借口",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987277",
-        "date": "Thu, 12 Nov 2026 08:26:46 GMT"
-      },
-      {
-        "title": "中证监：中国发展具有长期确定性 投资中国具备坚实基础",
-        "link": "https://www.zaobao.com/news/china/story20261112-9987241",
-        "date": "Thu, 12 Nov 2026 08:22:26 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
+        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 16:02:10 GMT"
+      },
+      {
+        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 13:27:09 GMT"
+      },
+      {
+        "title": "Teenage girl admits murder in row over boy",
+        "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 12:49:46 GMT"
+      },
+      {
+        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 13:02:46 GMT"
+      },
+      {
+        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 16:31:12 GMT"
+      },
+      {
+        "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+        "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Nov 2026 13:06:12 GMT"
+      },
+      {
         "title": "Some under-25s should get fewer benefits, Milburn review to say",
         "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 11:53:01 GMT"
-      },
-      {
-        "title": "UK economy grows at fastest rate for more than two years, boosted by AI investment",
-        "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 11:20:25 GMT"
-      },
-      {
-        "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
-        "link": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 10:48:24 GMT"
-      },
-      {
-        "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-        "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 07:59:33 GMT"
-      },
-      {
-        "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-        "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 11 Nov 2026 21:43:35 GMT"
-      },
-      {
-        "title": "DJ Tim Westwood denies two more sexual offences",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 11:12:17 GMT"
+        "date": "Thu, 12 Nov 2026 13:16:59 GMT"
       },
       {
         "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
         "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 09:43:11 GMT"
-      },
-      {
-        "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
-        "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Nov 2026 11:03:53 GMT"
+        "date": "Thu, 12 Nov 2026 14:27:30 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
-        "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-        "date": "Thu, 12 Nov 2026 05:53:49 +0000"
+        "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+        "date": "Thu, 12 Nov 2026 15:53:16 +0000"
       },
       {
-        "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-        "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-        "date": "Thu, 12 Nov 2026 01:57:34 +0000"
+        "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+        "date": "Thu, 12 Nov 2026 14:35:18 +0000"
       },
       {
-        "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
-        "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-        "date": "Thu, 12 Nov 2026 02:40:16 +0000"
+        "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+        "date": "Thu, 12 Nov 2026 14:28:03 +0000"
       },
       {
-        "title": "In China’s Spy Operations, Romance Can Be a Long Game",
-        "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
-        "date": "Thu, 12 Nov 2026 09:31:34 +0000"
+        "title": "Excavation Was Taking Place Next to Building in Brooklyn That Collapsed",
+        "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html",
+        "date": "Thu, 12 Nov 2026 16:09:11 +0000"
       },
       {
-        "title": "A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississippi in a Major Senate Upset",
-        "link": "https://www.nytimes.com/2026/11/12/podcasts/the-headlines/jensen-huang-nvidia-scott-colom-mississippi-senate.html",
-        "date": "Thu, 12 Nov 2026 11:00:14 +0000"
+        "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+        "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+        "date": "Thu, 12 Nov 2026 14:00:10 +0000"
       },
       {
         "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
         "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-        "date": "Thu, 12 Nov 2026 09:11:07 +0000"
+        "date": "Thu, 12 Nov 2026 09:11:08 +0000"
       },
       {
         "title": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
         "link": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
-        "date": "Thu, 12 Nov 2026 10:19:10 +0000"
+        "date": "Thu, 12 Nov 2026 14:14:44 +0000"
       },
       {
-        "title": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
-        "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-        "date": "Thu, 12 Nov 2026 10:31:20 +0000"
+        "title": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
+        "link": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
+        "date": "Thu, 12 Nov 2026 00:52:42 +0000"
       }
     ],
     "The Guardian": [
+      {
+        "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+        "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+        "date": "Thu, 12 Nov 2026 13:14:38 GMT"
+      },
       {
         "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
         "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
@@ -152,11 +157,6 @@
         "date": "Fri, 06 Nov 2026 15:08:43 GMT"
       },
       {
-        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-        "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-        "date": "Fri, 06 Nov 2026 12:48:37 GMT"
-      },
-      {
         "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
         "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
         "date": "Wed, 11 Nov 2026 22:50:37 GMT"
@@ -174,76 +174,76 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 10:53:23 +0000"
+        "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 16:07:16 +0000"
       },
       {
-        "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-        "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 10:49:41 +0000"
+        "title": "Four people shot in Washington DC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 15:42:07 +0000"
       },
       {
-        "title": "Manchester United sack Michael Carrick as manager",
-        "link": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 10:33:29 +0000"
+        "title": "Manchester United sacked manager Michael Carrick",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 15:21:43 +0000"
       },
       {
-        "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-        "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 09:38:00 +0000"
+        "title": "UK court finds two Iranian men guilty of spying for Iran",
+        "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 15:15:48 +0000"
       },
       {
-        "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-        "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 09:01:24 +0000"
+        "title": "Spain approves housing reforms after nationwide strike over costs",
+        "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 15:02:30 +0000"
       },
       {
-        "title": "India bypasses own rules to buy Israeli phone-hacking tech",
-        "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 08:40:08 +0000"
+        "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+        "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 14:48:10 +0000"
       },
       {
-        "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-        "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 08:35:20 +0000"
+        "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 14:44:54 +0000"
       },
       {
-        "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-        "date": "Thu, 12 Nov 2026 08:34:45 +0000"
+        "title": "Nvidia CEO Jensen Huang resigns",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
+        "date": "Thu, 12 Nov 2026 14:40:20 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Nvidia board to decide Jensen Huang’s fate",
-        "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 11:08:31 GMT"
+        "title": "Jensen Huang resigns as Nvidia chief executive",
+        "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 13:51:15 GMT"
+      },
+      {
+        "title": "Jensen jeopardy will disrupt the AI industry",
+        "link": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 15:56:31 GMT"
       },
       {
         "title": "China warns US not to use Nvidia scandal as pretext for tech curbs",
         "link": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 10:55:31 GMT"
+        "date": "Thu, 12 Nov 2026 14:17:47 GMT"
       },
       {
-        "title": "Who could run Nvidia after Jensen Huang?",
-        "link": "https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 07:54:52 GMT"
+        "title": "Nvidia shares tumble on Huang exit",
+        "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 05:57:00 GMT"
       },
       {
-        "title": "Huang falls out of favour in Washington",
-        "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 04:19:48 GMT"
+        "title": "Jensen Huang is gone. Will the AI industry pay the price?",
+        "link": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 14:22:30 GMT"
       },
       {
-        "title": "‘Sad end to a UK success story’: the bet that helped undo Ovo Energy",
-        "link": "https://www.ft.com/content/858597dc-b220-4912-be28-bd5e1b165cf9?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 05:00:03 GMT"
-      },
-      {
-        "title": "Oxford Street turns unruly pedestrians into spectacle",
-        "link": "https://www.ft.com/content/76ce61f0-24f8-4630-b727-1525570416e3?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 05:00:03 GMT"
+        "title": "Singapore barred Alice Huang for giving police ‘inaccurate information’",
+        "link": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 14:32:51 GMT"
       },
       {
         "title": "UK economy expanded by 0.7% in third quarter",
@@ -251,9 +251,9 @@
         "date": "Thu, 12 Nov 2026 08:23:17 GMT"
       },
       {
-        "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
-        "link": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 10:59:51 GMT"
+        "title": "European leaders reject Russian push to overhaul continent’s security",
+        "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+        "date": "Thu, 12 Nov 2026 15:30:49 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,170 +302,170 @@
     "The Economist": [],
     "Wired": [
       {
-        "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
-        "link": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
-        "date": "Thu, 12 Nov 2026 11:30:00 +0000"
+        "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+        "link": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+        "date": "Thu, 12 Nov 2026 15:58:21 +0000"
       },
       {
-        "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-        "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-        "date": "Thu, 12 Nov 2026 10:30:00 +0000"
+        "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+        "link": "https://www.wired.com/story/best-open-earbuds/",
+        "date": "Thu, 12 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-        "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-        "date": "Thu, 12 Nov 2026 10:15:00 +0000"
+        "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+        "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+        "date": "Thu, 12 Nov 2026 14:14:33 +0000"
       },
       {
-        "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
-        "link": "https://www.wired.com/review/rocco-super-smart-fridge/",
-        "date": "Thu, 12 Nov 2026 10:08:00 +0000"
+        "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
+        "link": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+        "date": "Thu, 12 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
-        "link": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
-        "date": "Thu, 12 Nov 2026 08:00:00 +0000"
+        "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+        "link": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+        "date": "Thu, 12 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "TurboTax Full Service Coupons This November 2026",
-        "link": "https://www.wired.com/story/turbotax-coupon/",
-        "date": "Thu, 12 Nov 2026 06:00:00 +0000"
+        "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+        "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+        "date": "Thu, 12 Nov 2026 14:00:00 +0000"
       },
       {
-        "title": "Lovehoney Coupon Offers: 70% Off",
-        "link": "https://www.wired.com/story/lovehoney-discount-code/",
-        "date": "Thu, 12 Nov 2026 06:00:00 +0000"
+        "title": "Jensen Huang Resigns as Nvidia CEO",
+        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+        "date": "Thu, 12 Nov 2026 13:58:06 +0000"
       },
       {
-        "title": "Wayfair Coupons: Up to 80% Off November 2026",
-        "link": "https://www.wired.com/story/wayfair-promo-code/",
-        "date": "Thu, 12 Nov 2026 06:00:00 +0000"
+        "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+        "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+        "date": "Thu, 12 Nov 2026 13:30:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-        "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-        "date": "2026-11-12 11:12:32"
+        "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+        "date": "2026-11-12 15:48:12"
       },
       {
-        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-        "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-        "date": "2026-11-11 22:44:36"
+        "title": "A power bank that can quickly charge three gadgets is just $49",
+        "link": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+        "date": "2026-11-12 15:19:58"
       },
       {
-        "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-        "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-        "date": "2026-11-11 22:00:00"
+        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "date": "2026-11-12 15:01:31"
       },
       {
-        "title": "United won’t let your AI agent book your flight",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-        "date": "2026-11-11 21:54:21"
+        "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+        "link": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
+        "date": "2026-11-12 14:13:58"
       },
       {
-        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-        "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-        "date": "2026-11-11 18:13:52"
+        "title": "I reviewed the Apple HomeView, ask me anything",
+        "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+        "date": "2026-11-12 14:10:00"
       },
       {
-        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-        "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-        "date": "2026-11-11 17:09:58"
+        "title": "The pricey new Apple TV 4K is still the best streamer around",
+        "link": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
+        "date": "2026-11-12 14:00:00"
       },
       {
-        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-        "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-        "date": "2026-11-11 16:00:00"
+        "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+        "link": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+        "date": "2026-11-12 14:00:00"
       },
       {
-        "title": "The best early Black Friday deals you can already shop",
-        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "date": "2026-11-11 15:53:55"
+        "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+        "link": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+        "date": "2026-11-12 14:00:00"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "date": "Thu, 12 Nov 2026 03:13:10 +0000"
+        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+        "date": "Thu, 12 Nov 2026 16:32:33 +0000"
+      },
+      {
+        "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+        "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+        "date": "Thu, 12 Nov 2026 16:12:44 +0000"
+      },
+      {
+        "title": "Whoop just launched a social network",
+        "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+        "date": "Thu, 12 Nov 2026 16:00:00 +0000"
+      },
+      {
+        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "date": "Thu, 12 Nov 2026 15:37:29 +0000"
+      },
+      {
+        "title": "Norwest pushes deeper into AI with new $4B fund",
+        "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+        "date": "Thu, 12 Nov 2026 15:18:14 +0000"
+      },
+      {
+        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers&#8217; chat transcripts",
+        "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+        "date": "Thu, 12 Nov 2026 15:02:28 +0000"
       },
       {
         "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "date": "Wed, 11 Nov 2026 23:50:00 +0000"
+        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "date": "Thu, 12 Nov 2026 14:30:01 +0000"
       },
       {
-        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-        "date": "Wed, 11 Nov 2026 23:28:45 +0000"
-      },
-      {
-        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-        "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-        "date": "Wed, 11 Nov 2026 23:17:05 +0000"
-      },
-      {
-        "title": "Why the data center you dread might never even be built",
-        "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-        "date": "Wed, 11 Nov 2026 20:15:15 +0000"
-      },
-      {
-        "title": "Meta is losing its longtime head of  infrastructure",
-        "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-        "date": "Wed, 11 Nov 2026 20:12:01 +0000"
-      },
-      {
-        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-        "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-        "date": "Wed, 11 Nov 2026 20:04:28 +0000"
-      },
-      {
-        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-        "date": "Wed, 11 Nov 2026 19:54:00 +0000"
+        "title": "Nvidia&#8217;s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+        "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+        "date": "Thu, 12 Nov 2026 14:10:34 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Why Writing Correct Software Is Hard",
-        "link": "https://pron.github.io/posts/correctness-and-complexity",
-        "date": "Thu, 12 Nov 2026 10:28:26 +0000"
+        "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+        "link": "https://fable52.games",
+        "date": "Thu, 12 Nov 2026 15:30:01 +0000"
       },
       {
-        "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-        "link": "https://www.getlazarus.org/forums/topic/17/",
-        "date": "Thu, 12 Nov 2026 05:49:34 +0000"
+        "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+        "link": "https://github.com/chocoford/ExcalidrawZ",
+        "date": "Thu, 12 Nov 2026 15:25:52 +0000"
       },
       {
-        "title": "Darling Development Update – Q4 2026",
-        "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-        "date": "Thu, 12 Nov 2026 04:32:31 +0000"
+        "title": "I'm making LLMs work on small and old devices",
+        "link": "https://github.com/hyperionaidev/smolmaxxing/",
+        "date": "Thu, 12 Nov 2026 15:23:10 +0000"
       },
       {
-        "title": "Lean Grimoire",
-        "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-        "date": "Thu, 12 Nov 2026 02:36:48 +0000"
+        "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+        "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+        "date": "Thu, 12 Nov 2026 15:14:52 +0000"
       },
       {
-        "title": "Critical RCE Vulnerability in Apache HTTP Server",
-        "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-        "date": "Thu, 12 Nov 2026 02:11:11 +0000"
+        "title": "Roadside investigations of psyllids, ants and eucs",
+        "link": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+        "date": "Thu, 12 Nov 2026 15:13:06 +0000"
       },
       {
-        "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-        "link": "https://github.com/tylertms/Stela",
-        "date": "Wed, 11 Nov 2026 23:02:38 +0000"
+        "title": "Running web sites makes me not want to",
+        "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+        "date": "Thu, 12 Nov 2026 14:30:38 +0000"
       },
       {
-        "title": "93% of paint splatters are valid Perl programs (2019)",
-        "link": "https://www.mcmillen.dev/sigbovik/",
-        "date": "Wed, 11 Nov 2026 22:34:23 +0000"
+        "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+        "link": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+        "date": "Thu, 12 Nov 2026 14:25:23 +0000"
       },
       {
-        "title": "Nvidia is preparing to oust Jensen Huang",
-        "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-        "date": "Wed, 11 Nov 2026 22:31:06 +0000"
+        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+        "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+        "date": "Thu, 12 Nov 2026 14:18:49 +0000"
       }
     ],
     "Reddit": [
@@ -480,14 +480,9 @@
         "date": "2026-11-08T19:35:14+00:00"
       },
       {
-        "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xu70wy/russias_largest_oil_refinery_slammed_by_drones_in/",
-        "date": "2026-11-12T08:00:31+00:00"
-      },
-      {
-        "title": "Ukraine again records Starshield speed restrictions — Zelenskyy",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xu8foh/ukraine_again_records_starshield_speed/",
-        "date": "2026-11-12T09:31:05+00:00"
+        "title": "Trump helped Russia double diesel exports, but US received not a single shipment – FT",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xuajou/trump_helped_russia_double_diesel_exports_but_us/",
+        "date": "2026-11-12T11:37:20+00:00"
       },
       {
         "title": "Starshield Slows Ukrainian Interceptors to 100 MPH Again, Zelenskyy Says",
@@ -495,19 +490,24 @@
         "date": "2026-11-12T10:01:48+00:00"
       },
       {
-        "title": "Canada's Port of Churchill Is Shipping Grain to Europe Again as Canada Looks Beyond the U.S.",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xtyjza/canadas_port_of_churchill_is_shipping_grain_to/",
-        "date": "2026-11-12T00:32:27+00:00"
+        "title": "Ukraine again records Starshield speed restrictions — Zelenskyy",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xu8foh/ukraine_again_records_starshield_speed/",
+        "date": "2026-11-12T09:31:05+00:00"
+      },
+      {
+        "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xu70wy/russias_largest_oil_refinery_slammed_by_drones_in/",
+        "date": "2026-11-12T08:00:31+00:00"
+      },
+      {
+        "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xucqrf/ireland_faces_pressure_to_stop_sending_russia_an/",
+        "date": "2026-11-12T13:27:39+00:00"
       },
       {
         "title": "Russia Loses Vietnam-War-Level Troop Numbers in a Month, Rutte Says",
         "link": "https://www.reddit.com/r/worldnews/comments/1xu8tn2/russia_loses_vietnamwarlevel_troop_numbers_in_a/",
         "date": "2026-11-12T09:56:07+00:00"
-      },
-      {
-        "title": "Bedouin hero who rescued Israelis on Oct. 7 sees Israel demolish family's homes | The Jerusalem Post",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xu9gtz/bedouin_hero_who_rescued_israelis_on_oct_7_sees/",
-        "date": "2026-11-12T10:34:35+00:00"
       }
     ],
     "PCMag": [],
