@@ -1,9 +1,34 @@
 {
-  "updated": "2026-11-13T11:41:26.741Z",
+  "updated": "2026-11-13T15:54:17.901Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "两外籍乘客高铁车门口吸烟 上海铁路：违规但不再追溯处置",
+        "link": "https://www.zaobao.com/news/china/story20261113-9995950",
+        "date": "Fri, 13 Nov 2026 14:58:23 GMT"
+      },
+      {
+        "title": "新北市长政见发表会 蓝绿候选人交锋家族争议与施政能力",
+        "link": "https://www.zaobao.com/news/china/story20261113-9995158",
+        "date": "Fri, 13 Nov 2026 14:05:19 GMT"
+      },
+      {
+        "title": "下午察：一个叫嘉豪的中国小孩求改名",
+        "link": "https://www.zaobao.com/news/china/story20261113-9995068",
+        "date": "Fri, 13 Nov 2026 13:33:39 GMT"
+      },
+      {
+        "title": "传记作者：黄仁勋是政治角力受害者 也让自己不堪一击",
+        "link": "https://www.zaobao.com/news/china/story20261113-9995451",
+        "date": "Fri, 13 Nov 2026 13:16:29 GMT"
+      },
+      {
+        "title": "疑受中日关系及APEC峰会影响 香港叫停日本女优成人展",
+        "link": "https://www.zaobao.com/news/china/story20261113-9995410",
+        "date": "Fri, 13 Nov 2026 13:03:31 GMT"
+      },
       {
         "title": "中共湖北原省委书记王忠林退居二线后被查",
         "link": "https://www.zaobao.com/news/china/story20261113-9994649",
@@ -18,31 +43,6 @@
         "title": "路透：中国境内逾30亿美元算力项目采用英伟达受管制晶片",
         "link": "https://www.zaobao.com/news/china/story20261113-9994167",
         "date": "Fri, 13 Nov 2026 09:28:15 GMT"
-      },
-      {
-        "title": "中国据报决定不申办2028年联合国气候大会",
-        "link": "https://www.zaobao.com/news/china/story20261113-9994115",
-        "date": "Fri, 13 Nov 2026 09:23:10 GMT"
-      },
-      {
-        "title": "韩外长：朝鲜出席APEC深圳峰会可能性不大",
-        "link": "https://www.zaobao.com/news/china/story20261113-9994069",
-        "date": "Fri, 13 Nov 2026 09:18:16 GMT"
-      },
-      {
-        "title": "英伟达丑闻发酵 中国反对美加码晶片出口管制",
-        "link": "https://www.zaobao.com/news/china/story20261113-9993853",
-        "date": "Fri, 13 Nov 2026 08:53:48 GMT"
-      },
-      {
-        "title": "蔡英文再回应罗大佑：没孩子不改变照顾台湾下一代的心情",
-        "link": "https://www.zaobao.com/news/china/story20261113-9993838",
-        "date": "Fri, 13 Nov 2026 08:52:09 GMT"
-      },
-      {
-        "title": "中国外交部：期待APEC领导人会议通过《深圳宣言》",
-        "link": "https://www.zaobao.com/news/china/story20261113-9993668",
-        "date": "Fri, 13 Nov 2026 08:36:49 GMT"
       }
     ],
     "Reuters": [],
@@ -50,49 +50,49 @@
       {
         "title": "What we know about the global outage",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 10:53:40 GMT"
+        "date": "Fri, 13 Nov 2026 14:21:26 GMT"
       },
       {
-        "title": "Watch: 'I feel it's a sign of what's to come' - office workers on Microsoft disruption",
-        "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 10:16:29 GMT"
+        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+        "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 11:43:27 GMT"
       },
       {
-        "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
-        "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 06:00:44 GMT"
+        "title": "Former Hamas bodyguard guilty of UK knife attack",
+        "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 15:51:24 GMT"
       },
       {
-        "title": "Piddington to bring legal challenge over asylum base plans",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 10:30:13 GMT"
+        "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+        "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 14:45:19 GMT"
       },
       {
-        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 02:01:35 GMT"
+        "title": "More women make allegations against Russell Brand",
+        "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 12:14:17 GMT"
       },
       {
-        "title": "Water firm pleads guilty after four killed in blast",
-        "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 10:44:00 GMT"
+        "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+        "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 14:34:21 GMT"
       },
       {
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 03:57:01 GMT"
+        "title": "Russia hit by second car bomb in as many days as peace talks continue",
+        "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 13:11:23 GMT"
       },
       {
-        "title": "Doctor burnout putting maternity patients at risk, says regulator",
-        "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 13 Nov 2026 00:55:31 GMT"
+        "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+        "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 13 Nov 2026 12:22:30 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
         "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-        "date": "Fri, 13 Nov 2026 01:28:40 +0000"
+        "date": "Fri, 13 Nov 2026 14:02:13 +0000"
       },
       {
         "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
@@ -102,7 +102,7 @@
       {
         "title": "Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
         "link": "https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html",
-        "date": "Fri, 13 Nov 2026 11:00:32 +0000"
+        "date": "Fri, 13 Nov 2026 11:00:33 +0000"
       },
       {
         "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
@@ -115,19 +115,19 @@
         "date": "Fri, 13 Nov 2026 10:03:55 +0000"
       },
       {
+        "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
+        "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+        "date": "Fri, 13 Nov 2026 15:30:07 +0000"
+      },
+      {
         "title": "How the Deadly Brooklyn Building Collapse Unfolded",
         "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
-        "date": "Fri, 13 Nov 2026 09:12:36 +0000"
+        "date": "Fri, 13 Nov 2026 15:21:23 +0000"
       },
       {
         "title": "Video From Inside Brooklyn Building That Collapsed Shows Walls Caving In",
         "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-nyc-flatbush-video.html",
-        "date": "Fri, 13 Nov 2026 08:00:18 +0000"
-      },
-      {
-        "title": "Brooklyn D.A. Opens Criminal Inquiry Into Flatbush Building Collapse",
-        "link": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html",
-        "date": "Fri, 13 Nov 2026 08:00:18 +0000"
+        "date": "Fri, 13 Nov 2026 12:47:29 +0000"
       }
     ],
     "The Guardian": [
@@ -174,66 +174,71 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Live: Microsoft struggles to restore services as outage hits global users",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 11:18:01 +0000"
+        "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+        "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 15:43:39 +0000"
       },
       {
-        "title": "El Salvador deploys armed robots to fight gangs in Haiti",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 10:57:20 +0000"
+        "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+        "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 15:02:16 +0000"
       },
       {
-        "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 10:54:25 +0000"
+        "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+        "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 14:18:25 +0000"
       },
       {
-        "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
-        "link": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 10:26:37 +0000"
+        "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+        "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 14:16:20 +0000"
       },
       {
-        "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-        "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 10:26:22 +0000"
+        "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+        "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 14:15:52 +0000"
       },
       {
-        "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-        "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 10:11:38 +0000"
+        "title": "China warns against fresh US chip curbs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 13:42:49 +0000"
       },
       {
-        "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-        "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 09:43:30 +0000"
+        "title": "Nvidia scandal: What’s next for the US tech company?",
+        "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 13:36:19 +0000"
       },
       {
-        "title": "Microsoft hit by global outages: What happened and why?",
-        "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-        "date": "Fri, 13 Nov 2026 09:30:55 +0000"
+        "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
+        "date": "Fri, 13 Nov 2026 13:19:26 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
-        "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 23:35:11 GMT"
+        "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+        "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
+        "date": "Fri, 13 Nov 2026 14:11:36 GMT"
       },
       {
-        "title": "Value Nvidia, not Huang",
-        "link": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1",
-        "date": "Fri, 13 Nov 2026 06:30:07 GMT"
+        "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
+        "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
+        "date": "Fri, 13 Nov 2026 11:29:14 GMT"
       },
       {
-        "title": "Meet the contenders to succeed Jensen Huang",
-        "link": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909?syn-25a6b1a6=1",
-        "date": "Thu, 12 Nov 2026 17:24:08 GMT"
-      },
-      {
-        "title": "The downfall of Jensen Huang",
+        "title": "Jensen Huang’s final days at Nvidia",
         "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
         "date": "Fri, 13 Nov 2026 03:47:19 GMT"
+      },
+      {
+        "title": "Jensen Huang’s years-long effort to get close to China",
+        "link": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
+        "date": "Fri, 13 Nov 2026 12:36:28 GMT"
+      },
+      {
+        "title": "Will Jensen Huang sell his $135bn of stock?",
+        "link": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
+        "date": "Fri, 13 Nov 2026 13:22:54 GMT"
       },
       {
         "title": "Why tech CEOs love black leather jackets",
@@ -241,19 +246,14 @@
         "date": "Fri, 13 Nov 2026 05:00:09 GMT"
       },
       {
-        "title": "The Silicon Valley veterans now steering Nvidia",
-        "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
-        "date": "Fri, 13 Nov 2026 01:42:30 GMT"
-      },
-      {
         "title": "Microsoft races to restore services after global outage",
         "link": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
-        "date": "Fri, 13 Nov 2026 11:33:12 GMT"
+        "date": "Fri, 13 Nov 2026 15:29:45 GMT"
       },
       {
-        "title": "Man City to be hit with Premier League sanctions next year if appeal fails",
-        "link": "https://www.ft.com/content/a7e0f7f2-d98c-4888-b211-00c1383d1b8c?syn-25a6b1a6=1",
-        "date": "Fri, 13 Nov 2026 05:00:17 GMT"
+        "title": "Surging British tech sector helps drive UK economy",
+        "link": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219?syn-25a6b1a6=1",
+        "date": "Fri, 13 Nov 2026 05:00:27 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,21 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
+        "link": "https://www.wired.com/story/best-walking-pads/",
+        "date": "Fri, 13 Nov 2026 12:34:00 +0000"
+      },
+      {
+        "title": "TCL QM7L Mini-LED TV Review (2026)",
+        "link": "https://www.wired.com/review/tcl-qm7l/",
+        "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "date": "Fri, 13 Nov 2026 11:45:00 +0000"
+      },
+      {
         "title": "Even Black Friday Will Be More Expensive Than Usual",
         "link": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
         "date": "Fri, 13 Nov 2026 11:30:00 +0000"
@@ -325,66 +340,76 @@
         "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
         "link": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
         "date": "Fri, 13 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
-        "link": "https://www.wired.com/review/bitdefender-antivirus-plus/",
-        "date": "Fri, 13 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Gametime Promo Code: Save on Tickets in November 2026",
-        "link": "https://www.wired.com/story/gametime-promo-code/",
-        "date": "Fri, 13 Nov 2026 06:00:00 +0000"
-      },
-      {
-        "title": "Instacart Promo Code: $15 Off | November 2026",
-        "link": "https://www.wired.com/story/instacart-promo/code/",
-        "date": "Fri, 13 Nov 2026 06:00:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Donald Trump really wants Tim Cook to run Nvidia",
-        "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-        "date": "2026-11-13 00:46:07"
+        "title": "The best early Black Friday deals you can already shop",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "date": "2026-11-13 15:49:27"
       },
       {
-        "title": "Xbox announces Wolfenstein 3",
-        "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-        "date": "2026-11-13 00:11:44"
+        "title": "Microsoft’s massive Outlook outage continues",
+        "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "date": "2026-11-13 15:29:21"
       },
       {
-        "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-        "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-        "date": "2026-11-12 23:43:22"
+        "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+        "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+        "date": "2026-11-13 15:22:14"
       },
       {
-        "title": "Humble Bundle redesign removes two-factor verification from settings",
-        "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-        "date": "2026-11-12 23:30:52"
+        "title": "What’s really at stake in the Jensen Huang saga",
+        "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "date": "2026-11-13 14:47:16"
       },
       {
-        "title": "Microsoft Outlook is still down",
-        "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-        "date": "2026-11-12 23:24:13"
+        "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+        "link": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+        "date": "2026-11-13 14:30:00"
       },
       {
-        "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-        "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-        "date": "2026-11-12 23:00:00"
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "date": "2026-11-13 14:00:00"
       },
       {
-        "title": "Google’s new Gemini model is better at understanding complicated questions",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-        "date": "2026-11-12 21:55:32"
+        "title": "Apple should have made the MacBook logo RGB",
+        "link": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+        "date": "2026-11-13 13:00:00"
       },
       {
-        "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-        "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-        "date": "2026-11-12 21:45:00"
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+        "date": "2026-11-13 12:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Uber confirms hackers stole thousands of drivers&#8217; license information in data breach",
+        "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "date": "Fri, 13 Nov 2026 14:57:55 +0000"
+      },
+      {
+        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "date": "Fri, 13 Nov 2026 14:44:48 +0000"
+      },
+      {
+        "title": "Microsoft&#8217;s latest email outage turned into a full blown global cloud crisis",
+        "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+        "date": "Fri, 13 Nov 2026 13:15:20 +0000"
+      },
+      {
+        "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
+        "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "date": "Fri, 13 Nov 2026 12:52:19 +0000"
+      },
+      {
+        "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
+        "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "date": "Fri, 13 Nov 2026 12:28:23 +0000"
+      },
       {
         "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
         "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -399,73 +424,48 @@
         "title": "The unfolding Jensen Huang scandal: a timeline",
         "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "date": "Thu, 12 Nov 2026 21:35:00 +0000"
-      },
-      {
-        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-        "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-        "date": "Thu, 12 Nov 2026 21:27:10 +0000"
-      },
-      {
-        "title": "Jensen Huang was having a third affair, Reuters reports",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-        "date": "Thu, 12 Nov 2026 20:26:47 +0000"
-      },
-      {
-        "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
-        "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-        "date": "Thu, 12 Nov 2026 19:27:45 +0000"
-      },
-      {
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-        "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-        "date": "Thu, 12 Nov 2026 19:11:00 +0000"
-      },
-      {
-        "title": "Microsoft&#8217;s Outlook email hit by new outage",
-        "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-        "date": "Thu, 12 Nov 2026 19:03:39 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Claude Is Down",
-        "link": "https://status.claude.com/history",
-        "date": "Fri, 13 Nov 2026 10:20:09 +0000"
+        "title": "Comparing Jensen to Steve Jobs Is Stupid",
+        "link": "https://jonaserthal.com/blog/jobs-and-jensen/",
+        "date": "Fri, 13 Nov 2026 15:43:09 +0000"
       },
       {
-        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-        "link": "https://status.claude.com/incidents/nn11wk485zfn",
-        "date": "Fri, 13 Nov 2026 10:18:13 +0000"
+        "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+        "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+        "date": "Fri, 13 Nov 2026 15:08:07 +0000"
       },
       {
-        "title": "The Dawn of the Data Intelligence Engineer",
-        "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-        "date": "Fri, 13 Nov 2026 09:08:18 +0000"
+        "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+        "link": "https://myid.ie/business/eu-digital-wallet-tracker/",
+        "date": "Fri, 13 Nov 2026 14:58:07 +0000"
       },
       {
-        "title": "TSMC Hacked",
-        "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
-        "date": "Fri, 13 Nov 2026 07:39:55 +0000"
+        "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+        "link": "https://news.ycombinator.com/item?id=50484421",
+        "date": "Fri, 13 Nov 2026 14:53:32 +0000"
       },
       {
-        "title": "Global Microsoft Outage",
-        "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-        "date": "Fri, 13 Nov 2026 06:18:23 +0000"
+        "title": "A technical vision for the Haskell ecosystem",
+        "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "date": "Fri, 13 Nov 2026 14:43:12 +0000"
       },
       {
-        "title": "Microsoft Outlook/365 still down after 12 hours",
-        "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-        "date": "Fri, 13 Nov 2026 05:08:23 +0000"
+        "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+        "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "date": "Fri, 13 Nov 2026 14:28:40 +0000"
       },
       {
-        "title": "IceWM",
-        "link": "https://ice-wm.org/",
-        "date": "Fri, 13 Nov 2026 04:54:53 +0000"
+        "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+        "link": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+        "date": "Fri, 13 Nov 2026 14:28:32 +0000"
       },
       {
-        "title": "Switcher (2004)",
-        "link": "https://folklore.org/Switcher.html",
-        "date": "Fri, 13 Nov 2026 03:14:59 +0000"
+        "title": "US university students tell surveillance cameras to Flock off",
+        "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+        "date": "Fri, 13 Nov 2026 14:11:56 +0000"
       }
     ],
     "Reddit": [
@@ -490,19 +490,19 @@
         "date": "2026-11-13T08:20:31+00:00"
       },
       {
-        "title": "‘War will resume immediately’: Putin threatens Europe as Trump envoys push Ukraine talks",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xuyd0n/war_will_resume_immediately_putin_threatens/",
-        "date": "2026-11-13T04:26:11+00:00"
+        "title": "Russia seeks Finland's NATO exit, Baltic military base ban in Ukraine talks: Report",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xv5en4/russia_seeks_finlands_nato_exit_baltic_military/",
+        "date": "2026-11-13T11:26:34+00:00"
       },
       {
-        "title": "Ukraine says US intentionally restricted Starshield to pressure Kyiv, FT reports",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xunrqe/ukraine_says_us_intentionally_restricted/",
-        "date": "2026-11-12T20:28:30+00:00"
+        "title": "Finland, Norway Block Visas for Russian Athletes",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xv6vog/finland_norway_block_visas_for_russian_athletes/",
+        "date": "2026-11-13T12:42:54+00:00"
       },
       {
-        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xuolas/russian_warship_hit_by_ukrainian_drone_in_gulf_of/",
-        "date": "2026-11-12T21:01:01+00:00"
+        "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xv97xe/russia_strikes_hospital_in_central_kyiv_after/",
+        "date": "2026-11-13T14:24:41+00:00"
       },
       {
         "title": "Trump: 'I want to get Cuba done' before leaving office",
