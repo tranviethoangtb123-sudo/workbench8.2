@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-17T12:36:53.592Z",
+  "updated": "2026-11-17T17:21:38.983Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "中国公使：荷兰晶片设备对华长期出口限制将威胁中欧经贸谈判",
+        "link": "https://www.zaobao.com/news/china/story20261117-10014994",
+        "date": "Tue, 17 Nov 2026 15:22:36 GMT"
+      },
+      {
+        "title": "中加关系迈入稳步修复期 习近平三会卡尼同意扩大关税减免",
+        "link": "https://www.zaobao.com/news/china/story20261117-10014673",
+        "date": "Tue, 17 Nov 2026 14:59:26 GMT"
+      },
+      {
+        "title": "中国商务部：中加同意将初步联合安排的豁免措施延长两年",
+        "link": "https://www.zaobao.com/news/china/story20261117-10014672",
+        "date": "Tue, 17 Nov 2026 13:53:32 GMT"
+      },
+      {
+        "title": "美升级AI晶片出口管制 中国商务部：破坏国际经贸秩序",
+        "link": "https://www.zaobao.com/news/china/story20261117-10014411",
+        "date": "Tue, 17 Nov 2026 12:55:29 GMT"
+      },
       {
         "title": "中国防长时隔18年再访意大利",
         "link": "https://www.zaobao.com/news/china/story20261117-10014184",
@@ -23,54 +43,39 @@
         "title": "特稿：深圳APEC“三巨头”同场引伙伴忧 中美求稳 朝鲜添变数",
         "link": "https://www.zaobao.com/news/china/story20261117-10009038",
         "date": "Tue, 17 Nov 2026 10:22:34 GMT"
-      },
-      {
-        "title": "巴新总理见习近平 称关闭台湾代表处曾面临国内阻力",
-        "link": "https://www.zaobao.com/news/china/story20261117-10012225",
-        "date": "Tue, 17 Nov 2026 09:49:25 GMT"
-      },
-      {
-        "title": "澳大利亚对中国建筑木材产品展开反倾销调查",
-        "link": "https://www.zaobao.com/news/china/story20261117-10012826",
-        "date": "Tue, 17 Nov 2026 09:23:00 GMT"
-      },
-      {
-        "title": "百度李彦宏：AI应用普及不及预期 若不解决恐演变成泡沫",
-        "link": "https://www.zaobao.com/news/china/story20261117-10012564",
-        "date": "Tue, 17 Nov 2026 08:54:01 GMT"
-      },
-      {
-        "title": "小米机器人已在工厂实习 可工作八小时并自主充电",
-        "link": "https://www.zaobao.com/news/china/story20261117-10012516",
-        "date": "Tue, 17 Nov 2026 08:46:41 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
-      {
-        "title": "Watch: What's in the Milburn review?",
-        "link": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 11:30:06 GMT"
-      },
       {
         "title": "At a glance: Key proposals from Milburn's Neets report",
         "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
         "date": "Tue, 17 Nov 2026 11:31:40 GMT"
       },
       {
-        "title": "Where are the most jobs for 18-24 year-olds?",
-        "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 12:35:53 GMT"
+        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Nov 2026 17:19:56 GMT"
       },
       {
-        "title": "The young people caught up in Britain's Neets crisis",
-        "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 11:55:25 GMT"
-      },
-      {
-        "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 10:45:55 GMT"
+        "date": "Tue, 17 Nov 2026 16:56:38 GMT"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Nov 2026 15:54:15 GMT"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Nov 2026 14:09:19 GMT"
+      },
+      {
+        "title": "William and Catherine walk green carpet in Mumbai for Earthshot Prize",
+        "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Nov 2026 17:13:36 GMT"
       },
       {
         "title": "How Met failed to stop rape-unit detective who abused women",
@@ -78,56 +83,51 @@
         "date": "Tue, 17 Nov 2026 06:02:28 GMT"
       },
       {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "link": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 07:10:08 GMT"
-      },
-      {
-        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Nov 2026 10:11:00 GMT"
+        "title": "UK sanctions firms over Israeli West Bank settlements",
+        "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Nov 2026 15:59:47 GMT"
       }
     ],
     "The New York Times": [
       {
+        "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+        "link": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+        "date": "Tue, 17 Nov 2026 17:15:05 +0000"
+      },
+      {
+        "title": "Measles Is Officially Back in the United States. What Now?",
+        "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+        "date": "Tue, 17 Nov 2026 16:50:04 +0000"
+      },
+      {
+        "title": "Do You Need a Measles Booster?",
+        "link": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
+        "date": "Tue, 17 Nov 2026 16:14:28 +0000"
+      },
+      {
+        "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+        "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+        "date": "Tue, 17 Nov 2026 17:11:53 +0000"
+      },
+      {
+        "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+        "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+        "date": "Tue, 17 Nov 2026 06:00:12 +0000"
+      },
+      {
+        "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+        "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+        "date": "Tue, 17 Nov 2026 13:09:11 +0000"
+      },
+      {
+        "title": "President Trump Starts Asia Trip With Quick Manila Stopover",
+        "link": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+        "date": "Tue, 17 Nov 2026 17:01:42 +0000"
+      },
+      {
         "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
         "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
         "date": "Tue, 17 Nov 2026 10:03:49 +0000"
-      },
-      {
-        "title": "Trump Administration Divide on China Policy Breaks Into Public View",
-        "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
-        "date": "Tue, 17 Nov 2026 03:48:50 +0000"
-      },
-      {
-        "title": "Tracking China’s War of Words Against Japan",
-        "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-        "date": "Tue, 17 Nov 2026 11:00:17 +0000"
-      },
-      {
-        "title": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
-        "link": "https://www.nytimes.com/2026/11/17/podcasts/the-headlines/ai-fight-trump-administration-new-james-bond-megaspeed.html",
-        "date": "Tue, 17 Nov 2026 11:00:07 +0000"
-      },
-      {
-        "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-        "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
-        "date": "Tue, 17 Nov 2026 08:45:15 +0000"
-      },
-      {
-        "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
-        "link": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
-        "date": "Tue, 17 Nov 2026 05:00:08 +0000"
-      },
-      {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "date": "Tue, 17 Nov 2026 10:04:03 +0000"
-      },
-      {
-        "title": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
-        "link": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
-        "date": "Tue, 17 Nov 2026 10:02:03 +0000"
       }
     ],
     "The Guardian": [
@@ -174,66 +174,71 @@
     ],
     "Al Jazeera": [
       {
-        "title": "India vs Pakistan live: SAFF Championship final",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+        "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+        "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 17:09:49 +0000"
       },
       {
-        "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-        "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 11:49:39 +0000"
+        "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+        "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 16:53:25 +0000"
       },
       {
-        "title": "Ukrainian breaks world record for deepest competitive freedive",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 11:37:13 +0000"
+        "title": "Photos: Tens of thousands rally in France over living standards and wages",
+        "link": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 16:39:01 +0000"
       },
       {
-        "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 11:19:04 +0000"
+        "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+        "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 16:38:28 +0000"
       },
       {
-        "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-        "link": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 11:17:07 +0000"
+        "title": "Election-winning student movement enters Serbia’s new parliament",
+        "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 16:13:48 +0000"
       },
       {
-        "title": "Bangladesh police clash with garment workers amid protests over wages",
-        "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 11:06:12 +0000"
+        "title": "US officially loses measles-free status after 26 years amid outbreak",
+        "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 16:07:53 +0000"
       },
       {
-        "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-        "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 10:53:42 +0000"
+        "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
+        "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 15:59:41 +0000"
       },
       {
-        "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
-        "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
-        "date": "Tue, 17 Nov 2026 10:42:42 +0000"
+        "title": "Jerusalem Daily: Deadly settler pogroms persist",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+        "date": "Tue, 17 Nov 2026 15:49:11 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
-        "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 08:09:20 GMT"
+        "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
+        "link": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 16:49:56 GMT"
       },
       {
-        "title": "Epstein’s dealings with Deutsche were far larger than previously known",
-        "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 06:00:06 GMT"
+        "title": "How Jensen Huang’s family shaped Nvidia’s Singapore dealings",
+        "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 15:33:25 GMT"
       },
       {
-        "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
-        "link": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 06:00:06 GMT"
+        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
+        "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 17:06:32 GMT"
       },
       {
-        "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
-        "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 06:00:07 GMT"
+        "title": "US tech stocks slide ahead of Nvidia results",
+        "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 17:13:05 GMT"
+      },
+      {
+        "title": "AI grapples with the return of the ‘Antichrist’",
+        "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 12:20:22 GMT"
       },
       {
         "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
@@ -241,89 +246,84 @@
         "date": "Tue, 17 Nov 2026 05:00:25 GMT"
       },
       {
-        "title": "The AI sell-off makes sense. Staying bearish may not",
-        "link": "https://www.ft.com/content/d94f5378-ae95-4bfd-ac01-3a65b387d4cf",
-        "date": "Tue, 17 Nov 2026 05:00:25 GMT"
+        "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+        "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 08:09:20 GMT"
       },
       {
-        "title": "Ukraine destroys section of Crimea bridge in fierce exchange",
-        "link": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 09:01:17 GMT"
-      },
-      {
-        "title": "Finland urges European leaders to talk to Putin directly",
-        "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-        "date": "Tue, 17 Nov 2026 05:00:25 GMT"
+        "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+        "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+        "date": "Tue, 17 Nov 2026 06:00:07 GMT"
       }
     ],
     "The Wall Street Journal": [
       {
-        "title": "ProQuest:Why Tesla Is Pulling The Plug on the Cybertruck",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933321?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:50:06 GMT"
+        "title": "ProQuest:other 3",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933400?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:12:32 GMT"
       },
       {
-        "title": "ProQuest:tbl of contents 2",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933296?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:49:52 GMT"
+        "title": "ProQuest:California Voters Pass Ban On Wealth Taxes: Ballot measure follows failure of billionaire levy, in new blow to progressives",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933397?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:13:12 GMT"
       },
       {
-        "title": "ProQuest:ChatGPT Feature Lets Users Pay With Agents",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933108?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:49:59 GMT"
+        "title": "ProQuest:SpaceX's Starship Sticks the Landing",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933390?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:12:01 GMT"
       },
       {
-        "title": "ProQuest:stock quote 91",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933074?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:48:16 GMT"
+        "title": "ProQuest:display ad 40",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933387?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:12:13 GMT"
       },
       {
-        "title": "ProQuest:Tech Isn't the FAA's Biggest Problem",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413932934?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:49:46 GMT"
+        "title": "ProQuest:other 49",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933385?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:13:14 GMT"
       },
       {
-        "title": "ProQuest:Doctors Have a New Assistant",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413932933?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:48:15 GMT"
+        "title": "ProQuest:Trump Visit Puts Focus on Philippines: U.S. ally has placed itself in forefront of confronting China along key waterway",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933380?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:12:32 GMT"
       },
       {
-        "title": "ProQuest:Huang Bolstered China's Backdoor AI Route: Gian data centers in Southeast Asia exploited a gap in U. controls",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413932892?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:49:48 GMT"
+        "title": "ProQuest:display ad 27",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933376?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:11:38 GMT"
       },
       {
-        "title": "ProQuest:Good and Godly Resistance",
-        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413932876?accountid=37826",
-        "date": "Tue, 17 Nov 2026 10:48:15 GMT"
+        "title": "ProQuest:Rational Investing and Stock-Market Bubbles",
+        "link": "https://ezproxy.law.umaryland.edu/login?url=https://www.proquest.com/docview/3413933375?accountid=37826",
+        "date": "Tue, 17 Nov 2026 12:13:02 GMT"
       }
     ],
     "Bloomberg": [],
     "The Economist": [],
     "Wired": [
       {
+        "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+        "link": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+        "date": "Tue, 17 Nov 2026 17:00:00 +0000"
+      },
+      {
+        "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+        "link": "https://www.wired.com/review/xreal-aura/",
+        "date": "Tue, 17 Nov 2026 14:00:00 +0000"
+      },
+      {
+        "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+        "link": "https://www.wired.com/story/best-laptops/",
+        "date": "Tue, 17 Nov 2026 13:00:00 +0000"
+      },
+      {
         "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
         "link": "https://www.wired.com/review/capillus-hairband/",
         "date": "Tue, 17 Nov 2026 12:00:00 +0000"
       },
       {
-        "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
-        "link": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
-        "date": "Tue, 17 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
-        "link": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
-        "date": "Tue, 17 Nov 2026 11:00:00 +0000"
-      },
-      {
         "title": "Congratulations to WIRED’s Class of 2026",
         "link": "https://www.wired.com/story/wired-yearbook-2026/",
-        "date": "Tue, 17 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-        "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
         "date": "Tue, 17 Nov 2026 11:00:00 +0000"
       },
       {
@@ -332,140 +332,140 @@
         "date": "Tue, 17 Nov 2026 11:00:00 +0000"
       },
       {
-        "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
-        "link": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
+        "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+        "link": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
         "date": "Tue, 17 Nov 2026 11:00:00 +0000"
       },
       {
-        "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-        "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-        "date": "Tue, 17 Nov 2026 10:47:45 +0000"
+        "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+        "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+        "date": "Tue, 17 Nov 2026 11:00:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-        "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-        "date": "2026-11-16 23:35:58"
+        "title": "Inside Microsoft’s giant Outlook outage",
+        "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+        "date": "2026-11-17 17:00:00"
       },
       {
-        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-        "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-        "date": "2026-11-16 23:17:34"
+        "title": "The DOJ says it’s investigating Megaspeed",
+        "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+        "date": "2026-11-17 16:19:03"
       },
       {
-        "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-        "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-        "date": "2026-11-16 22:54:59"
+        "title": "Banning phones really does help kids learn, researchers say",
+        "link": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
+        "date": "2026-11-17 16:13:18"
       },
       {
-        "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-        "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-        "date": "2026-11-16 21:41:57"
+        "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+        "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "date": "2026-11-17 16:09:57"
       },
       {
-        "title": "California sues OpenAI over rogue AI hacking incidents",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-        "date": "2026-11-16 20:46:01"
+        "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+        "link": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+        "date": "2026-11-17 16:00:00"
       },
       {
-        "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-        "date": "2026-11-16 20:41:28"
+        "title": "Scoop up three great 4K Blu-ray movies for $33",
+        "link": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+        "date": "2026-11-17 16:00:00"
       },
       {
-        "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-        "date": "2026-11-16 20:36:14"
+        "title": "Kalshi moves into a new kind of gambling: the stock market",
+        "link": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
+        "date": "2026-11-17 15:35:32"
       },
       {
-        "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-        "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-        "date": "2026-11-16 20:29:37"
+        "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+        "link": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+        "date": "2026-11-17 15:04:20"
       }
     ],
     "TechCrunch": [
       {
-        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-        "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-        "date": "Mon, 16 Nov 2026 23:32:32 +0000"
+        "title": "AI models can be tricked into identifying civilians as military targets by telling them it&#8217;s a game",
+        "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+        "date": "Tue, 17 Nov 2026 17:20:41 +0000"
       },
       {
-        "title": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information&#8217;",
-        "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-        "date": "Mon, 16 Nov 2026 22:12:31 +0000"
+        "title": "Jensen Huang says he would be &#8216;honored&#8217; if allowed to return as Nvidia CEO",
+        "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "date": "Tue, 17 Nov 2026 16:44:15 +0000"
       },
       {
-        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-        "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-        "date": "Mon, 16 Nov 2026 22:03:02 +0000"
+        "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too",
+        "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "date": "Tue, 17 Nov 2026 16:32:55 +0000"
       },
       {
-        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-        "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-        "date": "Mon, 16 Nov 2026 21:01:02 +0000"
+        "title": "Uber and Zipline&#8217;s drone delivery service takes off in Texas, with dozens of cities to follow",
+        "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+        "date": "Tue, 17 Nov 2026 15:07:06 +0000"
       },
       {
-        "title": "California state AG sues OpenAI over rogue agent incidents",
-        "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-        "date": "Mon, 16 Nov 2026 20:07:13 +0000"
+        "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+        "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+        "date": "Tue, 17 Nov 2026 15:01:46 +0000"
       },
       {
-        "title": "Uber says hackers stole information on close to 150,000 driver&#8217;s licenses during data breach",
-        "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-        "date": "Mon, 16 Nov 2026 19:53:00 +0000"
+        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+        "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+        "date": "Tue, 17 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "Apple adds &#8216;face unlock&#8217; to the iPhone Duo, but it&#8217;s not Face ID",
-        "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-        "date": "Mon, 16 Nov 2026 19:26:55 +0000"
+        "title": "Instagram&#8217;s new tool for creators targets unauthorized reposts and AI-modified videos",
+        "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+        "date": "Tue, 17 Nov 2026 15:00:00 +0000"
       },
       {
-        "title": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy did not threaten national security",
-        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-        "date": "Mon, 16 Nov 2026 19:12:02 +0000"
+        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+        "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+        "date": "Tue, 17 Nov 2026 14:50:58 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "date": "Tue, 17 Nov 2026 11:45:51 +0000"
+        "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+        "link": "https://news.ycombinator.com/item?id=50534429",
+        "date": "Tue, 17 Nov 2026 17:00:24 +0000"
       },
       {
-        "title": "How the Claude Code team thinks about verification",
-        "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-        "date": "Tue, 17 Nov 2026 10:20:40 +0000"
+        "title": "Jensen Huang says he’s open to returning in first statement since resignation",
+        "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+        "date": "Tue, 17 Nov 2026 16:40:38 +0000"
       },
       {
-        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-        "link": "https://support.apple.com/en-us/149699",
-        "date": "Tue, 17 Nov 2026 02:17:04 +0000"
+        "title": "Charles Schwab website goes down",
+        "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
+        "date": "Tue, 17 Nov 2026 16:05:42 +0000"
       },
       {
-        "title": "Why 3dfx 1 cards had such a washed out color output?",
-        "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-        "date": "Tue, 17 Nov 2026 00:16:24 +0000"
+        "title": "NSA Internal Network Down",
+        "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+        "date": "Tue, 17 Nov 2026 15:50:48 +0000"
       },
       {
-        "title": "Optimizely compromised, served malware on Zoom, GitLab",
-        "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "date": "Mon, 16 Nov 2026 23:00:34 +0000"
+        "title": "Highly classified US national security communications network goes down",
+        "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+        "date": "Tue, 17 Nov 2026 15:38:28 +0000"
       },
       {
-        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-        "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "date": "Mon, 16 Nov 2026 22:58:20 +0000"
+        "title": "Antfly learned to stop worrying and love Apache 2.0",
+        "link": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
+        "date": "Tue, 17 Nov 2026 15:33:15 +0000"
       },
       {
-        "title": "Spamhaus new email sender requirements in November",
-        "link": "https://www.spamhaus.org/sender-guidelines/",
-        "date": "Mon, 16 Nov 2026 21:47:19 +0000"
+        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "link": "https://alloyhtml.com/example.html",
+        "date": "Tue, 17 Nov 2026 15:07:09 +0000"
       },
       {
-        "title": "BugMeNot has closed",
-        "link": "https://www.bugmenot.com/",
-        "date": "Mon, 16 Nov 2026 21:32:17 +0000"
+        "title": "What is the best harness for each model?",
+        "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "date": "Tue, 17 Nov 2026 14:53:43 +0000"
       }
     ],
     "Reddit": [
@@ -480,14 +480,19 @@
         "date": "2026-11-08T19:35:14+00:00"
       },
       {
+        "title": "Highly classified US national security communications network goes down, sources say",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xyoegz/highly_classified_us_national_security/",
+        "date": "2026-11-17T16:08:25+00:00"
+      },
+      {
         "title": "Crimean Bridge partially collapses after overnight attack, roadway span and arch fall into water",
         "link": "https://www.reddit.com/r/worldnews/comments/1xydhnn/crimean_bridge_partially_collapses_after/",
         "date": "2026-11-17T06:44:11+00:00"
       },
       {
-        "title": "US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xy4avz/us_intel_indicates_iran_developing_plans_to/",
-        "date": "2026-11-16T23:09:01+00:00"
+        "title": "Leaked Files Show Deutsche Bank Protected Russian Profits Despite Warnings",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xyifur/leaked_files_show_deutsche_bank_protected_russian/",
+        "date": "2026-11-17T11:49:32+00:00"
       },
       {
         "title": "Kremlin reportedly tells lawmakers to prepare for ‘victory’ in Ukraine and soldiers’ return home",
@@ -495,19 +500,14 @@
         "date": "2026-11-17T09:32:13+00:00"
       },
       {
-        "title": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xy6pyt/ukrainian_forces_reportedly_strike_crimean_bridge/",
-        "date": "2026-11-17T00:55:50+00:00"
-      },
-      {
         "title": "Trump effigies burn in Philippines ahead of Asia summits",
         "link": "https://www.reddit.com/r/worldnews/comments/1xyhshy/trump_effigies_burn_in_philippines_ahead_of_asia/",
         "date": "2026-11-17T11:12:11+00:00"
       },
       {
-        "title": "Andy Burnham Says Brexit Caused 'Nato Disunity And Weaker Europe'",
-        "link": "https://www.reddit.com/r/worldnews/comments/1xygbh7/andy_burnham_says_brexit_caused_nato_disunity_and/",
-        "date": "2026-11-17T09:43:56+00:00"
+        "title": "Deutsche Bank reportedly ran oligarchs’ accounts from Switzerland",
+        "link": "https://www.reddit.com/r/worldnews/comments/1xymhrb/deutsche_bank_reportedly_ran_oligarchs_accounts/",
+        "date": "2026-11-17T14:55:19+00:00"
       }
     ],
     "PCMag": [],
