@@ -1,9 +1,34 @@
 {
-  "updated": "2026-11-20T12:19:30.134Z",
+  "updated": "2026-11-20T16:41:16.238Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "香港选委会选举前夕 部分候选人街站宣传活动叫停",
+        "link": "https://www.zaobao.com/news/china/story20261120-10033577",
+        "date": "Fri, 20 Nov 2026 15:08:13 GMT"
+      },
+      {
+        "title": "助理遭警方带走 徐欣莹质疑司法介选赴竹检抗议",
+        "link": "https://www.zaobao.com/news/china/story20261120-10033867",
+        "date": "Fri, 20 Nov 2026 14:43:00 GMT"
+      },
+      {
+        "title": "中俄涉台立场渐趋具体 学者指军事格局现三极态势",
+        "link": "https://www.zaobao.com/news/china/story20261120-10030669",
+        "date": "Fri, 20 Nov 2026 13:21:22 GMT"
+      },
+      {
+        "title": "中美两军在上海举行海上军事安全磋商",
+        "link": "https://www.zaobao.com/news/china/story20261120-10033427",
+        "date": "Fri, 20 Nov 2026 13:08:35 GMT"
+      },
+      {
+        "title": "中美元首共同观看特朗普竞选神曲《YMCA》歌舞表演",
+        "link": "https://www.zaobao.com/news/china/story20261120-10032291",
+        "date": "Fri, 20 Nov 2026 12:12:11 GMT"
+      },
       {
         "title": "百度旗下香港公司提前实施直播业务收购 被罚50万人民币",
         "link": "https://www.zaobao.com/news/china/story20261120-10033049",
@@ -18,39 +43,24 @@
         "title": "中国外交部：缅甸种族灭绝案裁决不利于解决争端",
         "link": "https://www.zaobao.com/news/china/story20261120-10032320",
         "date": "Fri, 20 Nov 2026 10:11:24 GMT"
-      },
-      {
-        "title": "路透：中国收紧红筹企业境外上市审批 港IPO市场或受冲击",
-        "link": "https://www.zaobao.com/news/china/story20261120-10032066",
-        "date": "Fri, 20 Nov 2026 09:39:11 GMT"
-      },
-      {
-        "title": "卡尼称希望很快能与台湾签订贸易协议",
-        "link": "https://www.zaobao.com/news/china/story20261120-10032055",
-        "date": "Fri, 20 Nov 2026 09:37:57 GMT"
-      },
-      {
-        "title": "调查：日本民众对中日关系负面评价比例创新高",
-        "link": "https://www.zaobao.com/news/china/story20261120-10032040",
-        "date": "Fri, 20 Nov 2026 09:35:10 GMT"
-      },
-      {
-        "title": "香港公屋轮候时间创10年新低",
-        "link": "https://www.zaobao.com/news/china/story20261120-10031106",
-        "date": "Fri, 20 Nov 2026 09:05:00 GMT"
-      },
-      {
-        "title": "台湾股市基准指数暴跌18% 创35年来最差单周表现",
-        "link": "https://www.zaobao.com/news/china/story20261120-10031692",
-        "date": "Fri, 20 Nov 2026 08:54:53 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "What the Brussels summit could mean for the Brexit deal",
-        "link": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 08:07:06 GMT"
+        "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 13:52:04 GMT"
+      },
+      {
+        "title": "What we know about the latest Russian missile strikes on Ukraine",
+        "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 15:14:01 GMT"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 16:39:49 GMT"
       },
       {
         "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
@@ -58,46 +68,36 @@
         "date": "Fri, 20 Nov 2026 00:02:07 GMT"
       },
       {
-        "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-        "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 00:08:22 GMT"
-      },
-      {
-        "title": "Calls for consent law change after Joanne Young rape case",
+        "title": "Calls for consent defence change after Joanne Young rape case",
         "link": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 10:49:48 GMT"
+        "date": "Fri, 20 Nov 2026 13:52:37 GMT"
       },
       {
-        "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-        "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 06:00:33 GMT"
+        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
+        "link": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 14:56:06 GMT"
+      },
+      {
+        "title": "Anthropic shares fall a day after blockbuster opening",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 20 Nov 2026 16:27:47 GMT"
       },
       {
         "title": "UK braces for coldest night of autumn so far with temperature of -10C forecast",
         "link": "https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o?at_medium=RSS&at_campaign=rss",
         "date": "Fri, 20 Nov 2026 08:12:15 GMT"
-      },
-      {
-        "title": "Three Kyiv bridges hit during major Russian missile attack",
-        "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 12:09:55 GMT"
-      },
-      {
-        "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
-        "link": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 20 Nov 2026 00:38:57 GMT"
       }
     ],
     "The New York Times": [
       {
         "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
         "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-        "date": "Fri, 20 Nov 2026 10:03:50 +0000"
+        "date": "Fri, 20 Nov 2026 14:43:10 +0000"
       },
       {
-        "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-        "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-        "date": "Fri, 20 Nov 2026 01:13:38 +0000"
+        "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
+        "link": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+        "date": "Fri, 20 Nov 2026 10:02:23 +0000"
       },
       {
         "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
@@ -105,29 +105,29 @@
         "date": "Fri, 20 Nov 2026 11:00:08 +0000"
       },
       {
+        "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
+        "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
+        "date": "Fri, 20 Nov 2026 15:03:34 +0000"
+      },
+      {
+        "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+        "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+        "date": "Fri, 20 Nov 2026 15:35:43 +0000"
+      },
+      {
         "title": "China’s A.I. Ambitions Are Running Into a Money Problem",
         "link": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
         "date": "Fri, 20 Nov 2026 10:01:07 +0000"
       },
       {
-        "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
-        "link": "https://www.nytimes.com/2026/11/20/business/from-gig-workers-to-tycoons-china-is-reaching-into-every-pocket.html",
-        "date": "Fri, 20 Nov 2026 10:00:32 +0000"
+        "title": "Should You Invest in Anthropic? Here’s What to Consider.",
+        "link": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
+        "date": "Fri, 20 Nov 2026 14:39:17 +0000"
       },
       {
-        "title": "These Underdogs Were Just Elected. No One Is More Surprised Than They Are.",
-        "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-        "date": "Fri, 20 Nov 2026 10:02:31 +0000"
-      },
-      {
-        "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
-        "link": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
-        "date": "Thu, 19 Nov 2026 19:51:12 +0000"
-      },
-      {
-        "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-        "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-        "date": "Fri, 20 Nov 2026 12:09:53 +0000"
+        "title": "Best Thanksgiving Side Dishes | Thanksgiving Recipes 2025 | NYT Cooking",
+        "link": "https://cooking.nytimes.com/article/best-thanksgiving-side-dishes",
+        "date": "Fri, 09 Oct 2026 20:08:45 +0000"
       }
     ],
     "The Guardian": [
@@ -157,7 +157,7 @@
         "date": "Wed, 18 Nov 2026 05:00:32 GMT"
       },
       {
-        "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+        "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
         "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
         "date": "Fri, 20 Nov 2026 11:00:31 GMT"
       },
@@ -174,56 +174,61 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
-        "link": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:59:52 +0000"
+        "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+        "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 16:13:57 +0000"
       },
       {
-        "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:55:16 +0000"
+        "title": "US Senate passes bill to speed up energy project approvals",
+        "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 16:10:12 +0000"
       },
       {
-        "title": "US appoints new cybersecurity chief after series of tech failures",
-        "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:26:28 +0000"
+        "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+        "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 16:05:31 +0000"
       },
       {
-        "title": "EU and UK seal reset deal",
-        "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:20:19 +0000"
+        "title": "One third of attacks on children worldwide recorded in Palestine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 15:50:28 +0000"
       },
       {
-        "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:10:06 +0000"
+        "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
+        "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 15:49:06 +0000"
       },
       {
-        "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-        "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 11:01:51 +0000"
+        "title": "Jerusalem Daily: Palestinians return home to ruins",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 15:42:04 +0000"
       },
       {
-        "title": "Can the Rohingya genocide verdict deliver justice?",
-        "link": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 10:45:20 +0000"
+        "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+        "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 15:18:26 +0000"
       },
       {
-        "title": "Drone operator removes Man United training footage and issues apology",
-        "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-        "date": "Fri, 20 Nov 2026 10:37:20 +0000"
+        "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+        "link": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+        "date": "Fri, 20 Nov 2026 15:00:00 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
-        "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-        "date": "Fri, 20 Nov 2026 10:47:15 GMT"
+        "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
+        "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 14:01:58 GMT"
       },
       {
-        "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-        "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-        "date": "Fri, 20 Nov 2026 05:00:17 GMT"
+        "title": "The AI fever in markets is breaking",
+        "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 15:23:38 GMT"
+      },
+      {
+        "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
+        "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 12:02:46 GMT"
       },
       {
         "title": "Pensions: unjust and unsustainable?",
@@ -231,29 +236,24 @@
         "date": "Fri, 20 Nov 2026 05:00:08 GMT"
       },
       {
-        "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
-        "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-        "date": "Fri, 20 Nov 2026 05:45:11 GMT"
+        "title": "The Milburn review is no substitute for an economic plan",
+        "link": "https://www.ft.com/content/ce91c75c-0cf9-447c-ad9a-47b3f19b8844?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 15:43:27 GMT"
       },
       {
-        "title": "Why Britons can feel smugger than the French",
-        "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-        "date": "Fri, 20 Nov 2026 05:00:17 GMT"
+        "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
+        "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 14:00:38 GMT"
       },
       {
-        "title": "Anthropic shares slide as fears over AI boom dominate",
-        "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-        "date": "Fri, 20 Nov 2026 11:04:01 GMT"
+        "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
+        "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 15:57:09 GMT"
       },
       {
-        "title": "So, Anthropic is finally a public company. What now?",
-        "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-        "date": "Fri, 20 Nov 2026 05:19:35 GMT"
-      },
-      {
-        "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-        "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-        "date": "Fri, 20 Nov 2026 05:00:26 GMT"
+        "title": "Burnham’s EU deal in brief",
+        "link": "https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1",
+        "date": "Fri, 20 Nov 2026 12:45:08 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,26 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "Don’t Bring Jensen Back",
+        "link": "https://www.wired.com/story/dont-bring-jensen-back/",
+        "date": "Fri, 20 Nov 2026 16:00:00 +0000"
+      },
+      {
+        "title": "The Best Pura Deals for Cyber Week (2026)",
+        "link": "https://www.wired.com/story/pura-black-friday-2026/",
+        "date": "Fri, 20 Nov 2026 13:30:00 +0000"
+      },
+      {
+        "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+        "link": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+        "date": "Fri, 20 Nov 2026 13:00:00 +0000"
+      },
+      {
+        "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+        "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+        "date": "Fri, 20 Nov 2026 13:00:00 +0000"
+      },
+      {
         "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
         "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
         "date": "Fri, 20 Nov 2026 12:15:00 +0000"
@@ -320,71 +340,76 @@
         "title": "The 36 Best REI Holiday Sale Outdoor Deals (2026)",
         "link": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
         "date": "Fri, 20 Nov 2026 11:30:00 +0000"
-      },
-      {
-        "title": "The Smart Ring Goes to Church",
-        "link": "https://www.wired.com/story/smart-ring-goes-to-church/",
-        "date": "Fri, 20 Nov 2026 11:30:00 +0000"
-      },
-      {
-        "title": "Regular Tech Bros Are Worried About Honeypots",
-        "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-        "date": "Fri, 20 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "title": "The Best Gifts for the Techie in Your Life (2026)",
-        "link": "https://www.wired.com/story/best-tech-gifts-2026/",
-        "date": "Fri, 20 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
-        "link": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
-        "date": "Fri, 20 Nov 2026 10:30:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Why the robots are ditching Uber",
-        "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-        "date": "2026-11-20 12:00:00"
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "date": "2026-11-20 16:34:13"
       },
       {
-        "title": "Apple is hiring engineers to build its own AI agent",
-        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-        "date": "2026-11-19 22:31:41"
+        "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+        "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+        "date": "2026-11-20 16:22:15"
       },
       {
-        "title": "A brief history of Nvidia’s recent stock fluctuations",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-        "date": "2026-11-19 21:59:35"
+        "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+        "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+        "date": "2026-11-20 16:00:00"
       },
       {
-        "title": "Meta now sells 3D movies on Quest VR headsets",
-        "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-        "date": "2026-11-19 21:12:06"
+        "title": "The best early Black Friday deals you can already shop",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "date": "2026-11-20 15:53:25"
       },
       {
-        "title": "Meta’s Muse Charm might cost $300",
-        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-        "date": "2026-11-19 20:22:17"
+        "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+        "link": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+        "date": "2026-11-20 15:02:13"
       },
       {
-        "title": "Google is putting AI chats right on the homepage",
-        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-        "date": "2026-11-19 20:05:06"
+        "title": "Let’s talk about GTA VI",
+        "link": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+        "date": "2026-11-20 15:00:00"
       },
       {
-        "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-        "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-        "date": "2026-11-19 19:40:28"
+        "title": "The week everything fell apart",
+        "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+        "date": "2026-11-20 14:06:59"
       },
       {
-        "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-        "date": "2026-11-19 19:35:52"
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "date": "2026-11-20 12:30:47"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Bending Spoons buys Mailchimp for $3.68 billion",
+        "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+        "date": "Fri, 20 Nov 2026 16:16:06 +0000"
+      },
+      {
+        "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+        "date": "Fri, 20 Nov 2026 15:46:07 +0000"
+      },
+      {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "date": "Fri, 20 Nov 2026 14:00:00 +0000"
+      },
+      {
+        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+        "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+        "date": "Fri, 20 Nov 2026 13:25:00 +0000"
+      },
+      {
+        "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
+        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+        "date": "Fri, 20 Nov 2026 13:21:11 +0000"
+      },
       {
         "title": "The U.S. national cyber director is stepping down",
         "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
@@ -399,38 +424,38 @@
         "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
         "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
         "date": "Fri, 20 Nov 2026 00:43:50 +0000"
-      },
-      {
-        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-        "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-        "date": "Fri, 20 Nov 2026 00:26:03 +0000"
-      },
-      {
-        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-        "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-        "date": "Thu, 19 Nov 2026 23:37:56 +0000"
-      },
-      {
-        "title": "Want to see your live AI usage on your Mac&#8217;s icons? This clever new app lets you",
-        "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-        "date": "Thu, 19 Nov 2026 22:33:26 +0000"
-      },
-      {
-        "title": "Meta&#8217;s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "date": "Thu, 19 Nov 2026 21:58:06 +0000"
-      },
-      {
-        "title": "These tech outages are giving Y2K, AI agent style",
-        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-        "date": "Thu, 19 Nov 2026 21:42:31 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Why do tech leaders sound so illogical and off-putting?",
-        "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
-        "date": "Fri, 20 Nov 2026 11:13:05 +0000"
+        "title": "I'll never buy Framework hardware again",
+        "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "date": "Fri, 20 Nov 2026 16:06:30 +0000"
+      },
+      {
+        "title": "Finite-time blow-up for the Navier–Stokes equations",
+        "link": "https://github.com/tristanbuckmaster/navier-stokes/",
+        "date": "Fri, 20 Nov 2026 15:34:31 +0000"
+      },
+      {
+        "title": "Why there are still no non-WebKit browsers on iOS",
+        "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+        "date": "Fri, 20 Nov 2026 15:03:31 +0000"
+      },
+      {
+        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+        "link": "https://alpo.ge/remark.pdf",
+        "date": "Fri, 20 Nov 2026 14:16:21 +0000"
+      },
+      {
+        "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+        "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "date": "Fri, 20 Nov 2026 13:29:59 +0000"
+      },
+      {
+        "title": "If you stop writing code, you also get worse at reviewing it",
+        "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+        "date": "Fri, 20 Nov 2026 12:41:38 +0000"
       },
       {
         "title": "The Making of Oxygene",
@@ -441,31 +466,6 @@
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
         "link": "https://architectlabs.com/blog/frostbite",
         "date": "Fri, 20 Nov 2026 10:01:41 +0000"
-      },
-      {
-        "title": "What people are building, discovered through new domains",
-        "link": "https://startups.novumsignals.com/",
-        "date": "Fri, 20 Nov 2026 09:54:33 +0000"
-      },
-      {
-        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-        "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "date": "Fri, 20 Nov 2026 09:43:19 +0000"
-      },
-      {
-        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-        "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-        "date": "Fri, 20 Nov 2026 09:13:09 +0000"
-      },
-      {
-        "title": "\"I can tell you wrote this yourself\"",
-        "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-        "date": "Fri, 20 Nov 2026 07:13:21 +0000"
-      },
-      {
-        "title": "Jujutsu Primer",
-        "link": "https://ethanlowman.com/posts/jj-primer/",
-        "date": "Fri, 20 Nov 2026 05:46:01 +0000"
       }
     ],
     "Reddit": [
@@ -513,6 +513,21 @@
     "PCMag": [],
     "CNET": [
       {
+        "title": "One Month and a Half-Million-Plus Folds Later, Our Machine Is Still Testing the iPhone Duo",
+        "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
+        "date": "2026-10-23 21:30:35"
+      },
+      {
+        "title": "Everything Is Falling Apart, and AI’s Fingerprints Are All Over It",
+        "link": "https://www.cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai/",
+        "date": "2026-11-20 13:30:00"
+      },
+      {
+        "title": "Polaroid’s Portable Printer Got Me Right Back Into Journaling",
+        "link": "https://www.cnet.com/tech/mobile/polaroid-hi-print-printer-got-me-right-back-into-journaling/",
+        "date": "2026-11-20 13:00:00"
+      },
+      {
         "title": "11 Steps I Use for Quick Smart Home Prep for Guests and Holiday Visitors",
         "link": "https://www.cnet.com/home/smart-home/ways-to-turn-your-smart-home-into-a-haven-for-new-guests/",
         "date": "2024-12-21 12:00:03"
@@ -536,21 +551,6 @@
         "title": "Our Readers Say This Is the Laptop Brand to Shop for During Black Friday Sales",
         "link": "https://www.cnet.com/tech/computing/peoples-picks-2026-laptops/",
         "date": "2026-11-04 13:00:00"
-      },
-      {
-        "title": "GTA 6 Launch Day Hits Different for Fired Rockstar Workers",
-        "link": "https://www.cnet.com/tech/gaming/gta-6-launch-day-hits-different-for-fired-rockstar-workers/",
-        "date": "2026-11-19 21:41:49"
-      },
-      {
-        "title": "Soon You Can Ask Siri About What’s Showing on Your iPad",
-        "link": "https://www.cnet.com/tech/mobile/siri-ipados27-updates-apple-tablet/",
-        "date": "2026-11-19 21:34:05"
-      },
-      {
-        "title": "Meta Is Trying to Woo Teens to Instagram Through Schools",
-        "link": "https://www.cnet.com/news/social-media/meta-school-kids-instagram-project-gryffindor/",
-        "date": "2026-11-19 21:26:53"
       }
     ],
     "AP": [],
