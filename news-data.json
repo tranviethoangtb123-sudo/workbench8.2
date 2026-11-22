@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-22T12:07:11.471Z",
+  "updated": "2026-11-22T15:54:28.991Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
+      {
+        "title": "北京上海零售消费持续萎缩 一线城市消费前景引担忧",
+        "link": "https://www.zaobao.com.sg/news/china/story20261122-10040304",
+        "date": "Sun, 22 Nov 2026 14:48:35 GMT"
+      },
+      {
+        "title": "台湾地方县市选举最后一周冲刺 蓝白蒋柯合体抗民进党“洋流”",
+        "link": "https://www.zaobao.com.sg/news/china/story20261122-10039862",
+        "date": "Sun, 22 Nov 2026 13:52:33 GMT"
+      },
+      {
+        "title": "中国下调融资保证金比例至80% 料释放4000亿人民币资金",
+        "link": "https://www.zaobao.com.sg/news/china/story20261122-10039825",
+        "date": "Sun, 22 Nov 2026 11:29:10 GMT"
+      },
       {
         "title": "宋楚瑜跨党派支持绿营基隆市长候选人童子玮",
         "link": "https://www.zaobao.com.sg/news/china/story20261122-10038851",
@@ -28,21 +43,6 @@
         "title": "稻城亚丁金刚挑战线将封闭至明年4月",
         "link": "https://www.zaobao.com.sg/news/china/story20261122-10039074",
         "date": "Sun, 22 Nov 2026 08:25:23 GMT"
-      },
-      {
-        "title": "中国第二艘国产大型邮轮首航",
-        "link": "https://www.zaobao.com.sg/news/china/story20261122-10038830",
-        "date": "Sun, 22 Nov 2026 07:44:23 GMT"
-      },
-      {
-        "title": "陈文清出访德国和奥地利 并出席中德高级别安全对话",
-        "link": "https://www.zaobao.com.sg/news/china/story20261122-10038838",
-        "date": "Sun, 22 Nov 2026 07:32:34 GMT"
-      },
-      {
-        "title": "欧阳娜娜称“总想着有一天海峡会变窄”",
-        "link": "https://www.zaobao.com.sg/news/china/story20261122-10038759",
-        "date": "Sun, 22 Nov 2026 07:15:45 GMT"
       }
     ],
     "Reuters": [],
@@ -58,19 +58,19 @@
         "date": "Sun, 22 Nov 2026 06:01:49 GMT"
       },
       {
-        "title": "How a teen gamer and his mother helped rescue a missing girl",
-        "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 22 Nov 2026 00:09:58 GMT"
+        "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+        "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 22 Nov 2026 13:50:21 GMT"
       },
       {
-        "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 22 Nov 2026 11:25:14 GMT"
+        "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+        "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 22 Nov 2026 14:19:06 GMT"
       },
       {
-        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 22 Nov 2026 04:39:13 GMT"
+        "title": "BBC apologises after noise disruption during Strictly",
+        "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 22 Nov 2026 13:46:00 GMT"
       },
       {
         "title": "Miley Cyrus marries Maxx Morando in California ceremony",
@@ -78,14 +78,14 @@
         "date": "Sun, 22 Nov 2026 08:46:28 GMT"
       },
       {
+        "title": "How a teen gamer and his mother helped rescue a missing girl",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 22 Nov 2026 00:09:58 GMT"
+      },
+      {
         "title": "Employers are being asked to give interview feedback - here's what applicants want",
         "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
         "date": "Sun, 22 Nov 2026 00:04:07 GMT"
-      },
-      {
-        "title": "The real people finding their work copied and stolen by AI characters",
-        "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 22 Nov 2026 05:00:38 GMT"
       }
     ],
     "The New York Times": [
@@ -102,27 +102,27 @@
       {
         "title": "Looking for the Formula to Stop an Apocalypse",
         "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-        "date": "Sun, 22 Nov 2026 10:02:04 +0000"
+        "date": "Sun, 22 Nov 2026 12:27:46 +0000"
+      },
+      {
+        "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+        "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+        "date": "Sun, 22 Nov 2026 15:31:36 +0000"
       },
       {
         "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
         "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
-        "date": "Sun, 22 Nov 2026 10:01:55 +0000"
+        "date": "Sun, 22 Nov 2026 12:30:24 +0000"
       },
       {
         "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
         "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-        "date": "Sun, 22 Nov 2026 10:02:15 +0000"
+        "date": "Sun, 22 Nov 2026 15:04:54 +0000"
       },
       {
         "title": "Jennifer Lopez Feels Like She’s Getting Better at Everything",
         "link": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
         "date": "Fri, 20 Nov 2026 20:12:35 +0000"
-      },
-      {
-        "title": "Would You Buy a Used Civilization From This Man?",
-        "link": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-        "date": "Sun, 22 Nov 2026 11:00:23 +0000"
       },
       {
         "title": "What Does It Actually Mean to Write ‘Like a Human’?",
@@ -174,44 +174,44 @@
     ],
     "Al Jazeera": [
       {
-        "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-        "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 11:46:42 +0000"
+        "title": "Can we build a more ethical AI future?",
+        "link": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 15:30:09 +0000"
       },
       {
-        "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-        "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 11:44:50 +0000"
+        "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 15:24:20 +0000"
       },
       {
-        "title": "Russian ship attacked by drone in Baltic Sea off Finland",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 11:15:27 +0000"
+        "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+        "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 15:03:38 +0000"
       },
       {
-        "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-        "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 11:07:30 +0000"
+        "title": "The Drugs Don’t Work",
+        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 14:51:39 +0000"
       },
       {
-        "title": "Russian cargo ship still on fire off Finland after drone attack",
-        "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 10:39:50 +0000"
+        "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+        "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 14:48:50 +0000"
       },
       {
-        "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-        "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 09:45:48 +0000"
+        "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+        "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 14:35:55 +0000"
       },
       {
-        "title": "Restored wells bring life back to Hebron’s occupied Old City",
-        "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 09:33:16 +0000"
+        "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+        "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 14:33:26 +0000"
       },
       {
-        "title": "Photos: People rally across France over living costs, public services",
-        "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
-        "date": "Sun, 22 Nov 2026 09:27:48 +0000"
+        "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+        "date": "Sun, 22 Nov 2026 14:30:27 +0000"
       }
     ],
     "Financial Times": [
@@ -231,29 +231,29 @@
         "date": "Sun, 22 Nov 2026 05:00:06 GMT"
       },
       {
-        "title": "A rocky road to Irish unity",
-        "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
-        "date": "Sun, 22 Nov 2026 05:00:14 GMT"
+        "title": "Adoption, not innovation, holds Britain back",
+        "link": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
+        "date": "Sun, 22 Nov 2026 12:02:25 GMT"
       },
       {
-        "title": "Cheap Chinese ecommerce parcels flood the UK",
-        "link": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
-        "date": "Sun, 22 Nov 2026 05:00:14 GMT"
+        "title": "Climate talks fail after stand-off over fossil fuels",
+        "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+        "date": "Sun, 22 Nov 2026 13:50:41 GMT"
       },
       {
-        "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-        "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-        "date": "Sun, 22 Nov 2026 05:00:06 GMT"
-      },
-      {
-        "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-        "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-        "date": "Sun, 22 Nov 2026 11:32:52 GMT"
+        "title": "Andy Burnham seeks quick tuition fees deal with the EU",
+        "link": "https://www.ft.com/content/46e64bab-5444-484e-b735-d693c7e3f37e?syn-25a6b1a6=1",
+        "date": "Sun, 22 Nov 2026 14:22:56 GMT"
       },
       {
         "title": "Burnham’s EU dreams hampered by ministers’ doubts",
         "link": "https://www.ft.com/content/b3b86fe5-e7ac-4922-b45b-480ba1c88613?syn-25a6b1a6=1",
         "date": "Sun, 22 Nov 2026 05:00:14 GMT"
+      },
+      {
+        "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
+        "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+        "date": "Sun, 22 Nov 2026 14:15:40 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -344,6 +344,36 @@
     ],
     "The Verge": [
       {
+        "title": "Protesters storm Meta offices in India",
+        "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+        "date": "2026-11-22 15:15:07"
+      },
+      {
+        "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+        "date": "2026-11-22 14:00:00"
+      },
+      {
+        "title": "‘The show is starting soon. Please turn on your headphones.’",
+        "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+        "date": "2026-11-22 14:00:00"
+      },
+      {
+        "title": "How Tamagotchis got us hooked on digital pets",
+        "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+        "date": "2026-11-22 13:15:27"
+      },
+      {
+        "title": "Your questions about Apple HomeView’s audio, answered",
+        "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+        "date": "2026-11-22 13:00:00"
+      },
+      {
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "date": "2026-11-22 13:00:00"
+      },
+      {
         "title": "Amazon is complaining about NYC Council on shipping labels, too",
         "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
         "date": "2026-11-21 21:59:31"
@@ -352,39 +382,14 @@
         "title": "The UN fails to agree on rules regulating ‘killer robots’",
         "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
         "date": "2026-11-21 20:03:37"
-      },
-      {
-        "title": "The FBI and USDA were reportedly hacked",
-        "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-        "date": "2026-11-21 17:42:27"
-      },
-      {
-        "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-        "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-        "date": "2026-11-21 16:00:00"
-      },
-      {
-        "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-        "date": "2026-11-21 16:00:00"
-      },
-      {
-        "title": "Can Anthropic afford to put safety first?",
-        "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-        "date": "2026-11-21 15:00:00"
-      },
-      {
-        "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-        "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-        "date": "2026-11-21 14:55:28"
-      },
-      {
-        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-        "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-        "date": "2026-11-21 14:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "Can a TV be too large? An investigation",
+        "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+        "date": "Sun, 22 Nov 2026 15:00:00 +0000"
+      },
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
         "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -419,53 +424,48 @@
         "title": "Startup sues Apple in India over tap-to-share contacts feature",
         "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
         "date": "Sat, 21 Nov 2026 04:00:00 +0000"
-      },
-      {
-        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-        "date": "Fri, 20 Nov 2026 20:58:29 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "The Most Popular Car Colors in America",
-        "link": "https://www.iseecars.com/most-popular-car-colors-study",
-        "date": "2026-11-22 02:47:18"
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "link": "https://github.com/gulivan/worker755",
+        "date": "Sun, 22 Nov 2026 13:56:58 +0000"
+      },
+      {
+        "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+        "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+        "date": "Sun, 22 Nov 2026 13:37:10 +0000"
+      },
+      {
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "link": "https://simonwillison.net/2026/Nov/21/muru/",
+        "date": "Sun, 22 Nov 2026 09:57:01 +0000"
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "date": "Sun, 22 Nov 2026 08:57:34 +0000"
+      },
+      {
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "date": "Sun, 22 Nov 2026 06:52:25 +0000"
+      },
+      {
+        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+        "link": "https://github.com/EL4CTEO/fast-anything",
+        "date": "Sun, 22 Nov 2026 04:10:09 +0000"
+      },
+      {
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "date": "Sun, 22 Nov 2026 04:04:56 +0000"
       },
       {
         "title": "Data Processing Incidents on Inference Providers",
         "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-        "date": "2026-11-22 02:14:14"
-      },
-      {
-        "title": "The Mythology of Conscious AI",
-        "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-        "date": "2026-11-22 02:10:02"
-      },
-      {
-        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-        "link": "https://github.com/ItsNotRexed/Leonida",
-        "date": "2026-11-22 00:57:26"
-      },
-      {
-        "title": "Sandwich Simulator",
-        "link": "https://stulle.app/",
-        "date": "2026-11-22 00:07:59"
-      },
-      {
-        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-        "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-        "date": "2026-11-21 22:09:58"
-      },
-      {
-        "title": "Advice for the next 100 Rust GUIs",
-        "link": "https://linebender.org/blog/next-100-guis/",
-        "date": "2026-11-21 21:17:53"
-      },
-      {
-        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-        "link": "https://tasklet.ai/careers",
-        "date": "2026-11-21 21:11:08"
+        "date": "Sun, 22 Nov 2026 02:14:14 +0000"
       }
     ],
     "Reddit": [
@@ -511,7 +511,48 @@
       }
     ],
     "PCMag": [],
-    "CNET": [],
+    "CNET": [
+      {
+        "title": "Andrew Garfield on Becoming Sam Altman in ‘Artificial’: ‘I’m Dying to Understand This Person’",
+        "link": "https://www.cnet.com/culture/entertainment/andrew-garfield-becoming-sam-altman-artificial/",
+        "date": "2026-11-22 13:00:00"
+      },
+      {
+        "title": "Genesis Launches Hybrids at the LA Auto Show, EREV Coming in 2027",
+        "link": "https://www.cnet.com/roadshow/automobiles/genesis-g80-gv80-hybrids-laas-debut-arriving-in-2027/",
+        "date": "2026-11-22 11:00:00"
+      },
+      {
+        "title": "New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash",
+        "link": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
+        "date": "2026-11-21 11:00:00"
+      },
+      {
+        "title": "Even the Iconic Google Home Page Can’t Survive the Push for More AI",
+        "link": "https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/",
+        "date": "2026-11-21 00:01:42"
+      },
+      {
+        "title": "Google Is Killing the Nest App. Here’s What Comes Next",
+        "link": "https://www.cnet.com/home/smart-home/nest-app-google-assistant-sunset/",
+        "date": "2026-11-20 22:27:07"
+      },
+      {
+        "title": "Why You Shouldn’t Use Meta’s Muse AI Agent for Shopping Next Weekend",
+        "link": "https://www.cnet.com/tech/services-and-software/metas-muse-mascot-agentic-ai-privacy-violations-security-data/",
+        "date": "2026-09-29 19:35:31"
+      },
+      {
+        "title": "Streamline Your Prestige TV Viewing With This New DirecTV Bundle That Has Netflix, HBO Max and Apple TV",
+        "link": "https://www.cnet.com/tech/streamline-your-prestige-tv-viewing-with-this-new-directv-bundle-that-has-netflix-hbo-max-and-apple-tv/",
+        "date": "2026-11-20 20:39:23"
+      },
+      {
+        "title": "Fluance’s Upgraded RT86 Could Be Turntable to Beat for $700",
+        "link": "https://www.cnet.com/tech/fluances-upgraded-rt86-could-be-turntable-to-beat-for-700/",
+        "date": "2026-11-20 20:21:22"
+      }
+    ],
     "AP": [],
     "雪球": [],
     "MENA": [],
