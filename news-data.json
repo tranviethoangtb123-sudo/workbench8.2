@@ -1,103 +1,108 @@
 {
-  "updated": "2026-11-26T13:20:10.679Z",
+  "updated": "2026-11-26T18:06:52.492Z",
   "sources": {
     "金十数据": [],
     "东方财富": [],
     "联合早报": [
       {
+        "title": "新北“变天”悬念：苏巧慧组织战占优势 李四川待投票率突围",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10064435",
+        "date": "Thu, 26 Nov 2026 15:45:29 GMT"
+      },
+      {
+        "title": "美对华关税可能升至40% 分析：中美贸易休战仍有望延长",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10064339",
+        "date": "Thu, 26 Nov 2026 15:28:17 GMT"
+      },
+      {
+        "title": "沈伯洋公布选前之夜安排 与蔡英文直播吸引逾27万人",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10064315",
+        "date": "Thu, 26 Nov 2026 13:51:13 GMT"
+      },
+      {
+        "title": "沈伯洋取消选前之夜 路权争议延烧台北选战添变数",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10063952",
+        "date": "Thu, 26 Nov 2026 13:08:34 GMT"
+      },
+      {
+        "title": "中国八部门：稳妥有序推动云计算大模型等AI服务出海",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10063369",
+        "date": "Thu, 26 Nov 2026 12:18:09 GMT"
+      },
+      {
+        "title": "中国本月关闭10多家高尔夫球场 疑展开新一轮整治",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10063897",
+        "date": "Thu, 26 Nov 2026 12:10:36 GMT"
+      },
+      {
+        "title": "九合一选举倒数两天 卓荣泰要求加强选举维安",
+        "link": "https://www.zaobao.com.sg/news/china/story20261126-10061747",
+        "date": "Thu, 26 Nov 2026 12:05:00 GMT"
+      },
+      {
         "title": "下午察：中巴“铁杆友谊”飞向太空",
         "link": "https://www.zaobao.com.sg/news/china/story20261126-10062372",
         "date": "Thu, 26 Nov 2026 10:46:16 GMT"
-      },
-      {
-        "title": "九合一选举在即 台知名主持人吴宗宪称将抽空投票",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10061511",
-        "date": "Thu, 26 Nov 2026 10:30:00 GMT"
-      },
-      {
-        "title": "中国国防部促日本停止在南中国海问题上拱火滋事",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10063061",
-        "date": "Thu, 26 Nov 2026 09:46:57 GMT"
-      },
-      {
-        "title": "马云现身阿里旗下平头哥办公区与员工合影",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10062847",
-        "date": "Thu, 26 Nov 2026 09:20:35 GMT"
-      },
-      {
-        "title": "广东官方鼓励算力中心优先使用中国国产算力晶片",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10062451",
-        "date": "Thu, 26 Nov 2026 08:44:40 GMT"
-      },
-      {
-        "title": "普京APEC期间爱吃粤菜 离开前还打包上飞机",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10062371",
-        "date": "Thu, 26 Nov 2026 08:38:17 GMT"
-      },
-      {
-        "title": "万科拟将债券再展期三年 财务压力加剧",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10062092",
-        "date": "Thu, 26 Nov 2026 08:15:39 GMT"
-      },
-      {
-        "title": "韩国拟对中国进口PVC悬浮树脂征收反倾销税",
-        "link": "https://www.zaobao.com.sg/news/china/story20261126-10062094",
-        "date": "Thu, 26 Nov 2026 08:13:39 GMT"
       }
     ],
     "Reuters": [],
     "BBC News": [
       {
-        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 05:00:24 GMT"
+        "title": "How the train attack unfolded - carriage by carriage",
+        "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 15:25:57 GMT"
       },
       {
-        "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-        "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 05:00:27 GMT"
+        "title": "Could the Huntingdon attack have been prevented?",
+        "link": "https://www.bbc.co.uk/news/videos/cmdx10e25r2qo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 15:47:04 GMT"
+      },
+      {
+        "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+        "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 14:55:16 GMT"
+      },
+      {
+        "title": "Drug rape husband says wife 'would have been terrified', court hears",
+        "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 17:57:13 GMT"
+      },
+      {
+        "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+        "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 16:29:54 GMT"
+      },
+      {
+        "title": "Burnham joined by former PMs at Ann Widdecombe service",
+        "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 16:48:40 GMT"
+      },
+      {
+        "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+        "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 26 Nov 2026 16:46:51 GMT"
       },
       {
         "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
         "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 11:40:05 GMT"
-      },
-      {
-        "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-        "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 00:08:07 GMT"
-      },
-      {
-        "title": "BBC launches partnership with Met Office for weather coverage",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 00:12:37 GMT"
-      },
-      {
-        "title": "New UK-EU treaty has 10-year termination clause",
-        "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 09:59:14 GMT"
-      },
-      {
-        "title": "Desperate appeals from women on death row in Iran after protests",
-        "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 06:01:58 GMT"
-      },
-      {
-        "title": "Government's antisemitism adviser opens investigation into BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 26 Nov 2026 12:02:58 GMT"
+        "date": "Thu, 26 Nov 2026 13:24:22 GMT"
       }
     ],
     "The New York Times": [
       {
-        "title": "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
-        "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html",
-        "date": "Thu, 26 Nov 2026 02:24:38 +0000"
+        "title": "Thanksgiving Parade Balloons Are Deflated in New York",
+        "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
+        "date": "Thu, 26 Nov 2026 14:06:46 +0000"
       },
       {
-        "title": "The Thanksgiving Parade on Saturday. Can They Do That?",
+        "title": "The Thanksgiving Parade Is on a Saturday. Can They Do That?",
         "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
-        "date": "Thu, 26 Nov 2026 02:45:29 +0000"
+        "date": "Thu, 26 Nov 2026 14:07:50 +0000"
+      },
+      {
+        "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+        "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+        "date": "Thu, 26 Nov 2026 16:50:50 +0000"
       },
       {
         "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
@@ -110,24 +115,19 @@
         "date": "Thu, 26 Nov 2026 12:04:01 +0000"
       },
       {
+        "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+        "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+        "date": "Thu, 26 Nov 2026 17:03:31 +0000"
+      },
+      {
         "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
         "link": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
         "date": "Thu, 26 Nov 2026 10:01:56 +0000"
       },
       {
-        "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
-        "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-        "date": "Wed, 25 Nov 2026 21:36:24 +0000"
-      },
-      {
-        "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
-        "link": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-        "date": "Thu, 26 Nov 2026 10:03:47 +0000"
-      },
-      {
         "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
         "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-        "date": "Thu, 26 Nov 2026 10:00:12 +0000"
+        "date": "Thu, 26 Nov 2026 14:01:45 +0000"
       }
     ],
     "The Guardian": [
@@ -174,61 +174,56 @@
     ],
     "Al Jazeera": [
       {
-        "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 12:34:10 +0000"
+        "title": "Netanyahu’s corruption trial: Is it really all over?",
+        "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 17:38:02 +0000"
       },
       {
-        "title": "FIFA says personal and business information stolen in cyberattack",
-        "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 12:31:46 +0000"
+        "title": "Syrian children continue learning amid the ruins of war in Idlib",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 17:32:21 +0000"
       },
       {
-        "title": "With the rise of AI, are we close to having universal basic income",
-        "link": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 12:12:45 +0000"
+        "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+        "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 17:18:24 +0000"
       },
       {
-        "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-        "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 12:10:49 +0000"
+        "title": "How a teen’s death raises questions about Colombia’s security crackdown",
+        "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 16:49:59 +0000"
       },
       {
-        "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
-        "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 11:56:53 +0000"
+        "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+        "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 16:32:31 +0000"
       },
       {
-        "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
-        "link": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 11:38:20 +0000"
+        "title": "Spanish economist to become new European Central Bank chief",
+        "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 16:20:54 +0000"
       },
       {
-        "title": "Iraq denies reports of troop movements towards Kurdish region",
-        "link": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 11:23:29 +0000"
+        "title": "Why is France roiling?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 15:57:49 +0000"
       },
       {
-        "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
-        "link": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
-        "date": "Thu, 26 Nov 2026 11:22:59 +0000"
+        "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+        "date": "Thu, 26 Nov 2026 15:56:39 +0000"
       }
     ],
     "Financial Times": [
       {
-        "title": "Nvidia halts chip shipments to south-east Asia",
-        "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 05:00:19 GMT"
+        "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+        "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 17:13:40 GMT"
       },
       {
-        "title": "Nvidia’s ‘great man theory’ is flawed",
-        "link": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 12:56:10 GMT"
-      },
-      {
-        "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
-        "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 00:45:54 GMT"
+        "title": "BoE to cut capital requirements for banks as it warns of AI risks",
+        "link": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 15:42:39 GMT"
       },
       {
         "title": "How Britain taxed itself into a corner",
@@ -236,24 +231,29 @@
         "date": "Thu, 26 Nov 2026 05:00:12 GMT"
       },
       {
-        "title": "The UK’s very surprising economy",
-        "link": "https://www.ft.com/content/8a073230-1874-43cc-9cf3-5079c1f90ef8?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 05:00:19 GMT"
+        "title": "Nvidia’s ‘great man theory’ is flawed",
+        "link": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 12:56:10 GMT"
       },
       {
-        "title": "How ‘Friendsgiving’ took over in America",
-        "link": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
-        "date": "Thu, 26 Nov 2026 05:00:11 GMT"
+        "title": "We’re stuck in a bonfire of the quangos doom loop",
+        "link": "https://www.ft.com/content/ab820f61-b8d4-4aa5-92bc-a51d6c04d0f7?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 16:39:20 GMT"
       },
       {
-        "title": "Software stocks spared in tech rout as AI narrative shifts",
-        "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 05:00:29 GMT"
+        "title": "UK to pay additional ‘participation fee’ as price of EU reset deal",
+        "link": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 14:57:48 GMT"
       },
       {
-        "title": "Global stocks climb after volatile US trading over AI risks",
-        "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
-        "date": "Thu, 26 Nov 2026 12:27:09 GMT"
+        "title": "UK net migration falls by more than half to 77,000",
+        "link": "https://www.ft.com/content/3f5ea9f4-064c-4547-9cf2-1140516c8002?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 09:39:47 GMT"
+      },
+      {
+        "title": "Pablo Hernández de Cos wins race for ECB presidency",
+        "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+        "date": "Thu, 26 Nov 2026 17:36:51 GMT"
       }
     ],
     "The Wall Street Journal": [
@@ -302,6 +302,11 @@
     "The Economist": [],
     "Wired": [
       {
+        "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+        "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+        "date": "Thu, 26 Nov 2026 17:57:25 +0000"
+      },
+      {
         "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
         "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
         "date": "Thu, 26 Nov 2026 13:00:00 +0000"
@@ -335,56 +340,61 @@
         "title": "Best Gaming Mouse (2026): My Picks After Testing Dozens of Mice",
         "link": "https://www.wired.com/gallery/best-gaming-mouse/",
         "date": "Thu, 26 Nov 2026 11:30:00 +0000"
-      },
-      {
-        "title": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
-        "link": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
-        "date": "Thu, 26 Nov 2026 11:15:00 +0000"
       }
     ],
     "The Verge": [
       {
-        "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-        "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-        "date": "2026-11-26 12:00:00"
+        "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+        "date": "2026-11-26 17:07:00"
       },
       {
-        "title": "X is finally getting its first parental controls",
-        "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-        "date": "2026-11-26 10:45:50"
+        "title": "Android app developers will soon have to share their address publicly",
+        "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+        "date": "2026-11-26 17:06:24"
       },
       {
-        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-        "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-        "date": "2026-11-26 09:54:40"
+        "title": "The best Black Friday deals we’ve already found",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "date": "2026-11-26 16:55:00"
       },
       {
-        "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-        "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-        "date": "2026-11-26 00:04:34"
+        "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+        "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+        "date": "2026-11-26 16:38:00"
       },
       {
-        "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-        "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-        "date": "2026-11-25 23:56:44"
+        "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+        "date": "2026-11-26 16:00:00"
       },
       {
-        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-        "date": "2026-11-25 21:51:26"
+        "title": "GTA VI developers vote against unionization",
+        "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+        "date": "2026-11-26 15:55:24"
       },
       {
-        "title": "The Verge’s 2026 holiday gift guide for travelers",
-        "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-        "date": "2026-11-25 21:48:00"
+        "title": "Why GTA VI’s version of Florida feels so real",
+        "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+        "date": "2026-11-26 15:00:00"
       },
       {
-        "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-        "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-        "date": "2026-11-25 20:31:48"
+        "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+        "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+        "date": "2026-11-26 14:00:00"
       }
     ],
     "TechCrunch": [
+      {
+        "title": "A month with the iPhone Duo has changed how I use my phone",
+        "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+        "date": "Thu, 26 Nov 2026 17:00:00 +0000"
+      },
+      {
+        "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+        "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "date": "Thu, 26 Nov 2026 16:00:00 +0000"
+      },
       {
         "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
         "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -414,58 +424,48 @@
         "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
         "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
         "date": "Wed, 25 Nov 2026 19:44:24 +0000"
-      },
-      {
-        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-        "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-        "date": "Wed, 25 Nov 2026 18:49:52 +0000"
-      },
-      {
-        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-        "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "date": "Wed, 25 Nov 2026 18:11:46 +0000"
       }
     ],
     "Hacker News": [
       {
-        "title": "Head of Software Engineering – NOX Metals",
-        "link": "https://news.ycombinator.com/item?id=50654353",
-        "date": "Thu, 26 Nov 2026 12:00:00 +0000"
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "date": "Thu, 26 Nov 2026 17:47:45 +0000"
       },
       {
-        "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-        "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-        "date": "Thu, 26 Nov 2026 11:50:49 +0000"
+        "title": "YouTube Ad Punisher – Bypass anti-adblock",
+        "link": "https://github.com/antonpictures/youtube-punisher",
+        "date": "Thu, 26 Nov 2026 17:36:47 +0000"
       },
       {
-        "title": "Intel One Mono font",
-        "link": "https://github.com/intel/intel-one-mono",
-        "date": "Thu, 26 Nov 2026 10:11:01 +0000"
+        "title": "Tracking Diseases Cured by AI",
+        "link": "https://diseasescuredbyai.com/",
+        "date": "Thu, 26 Nov 2026 17:16:41 +0000"
       },
       {
-        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-        "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "date": "Thu, 26 Nov 2026 09:44:23 +0000"
+        "title": "AMD Specific Patches for Llama.cpp",
+        "link": "https://devnull.land/amd-specific-llama-cpp",
+        "date": "Thu, 26 Nov 2026 17:11:29 +0000"
       },
       {
-        "title": "Moat: Your OpenRouter Replacement",
-        "link": "https://commandcode.ai/moat",
-        "date": "Thu, 26 Nov 2026 06:32:48 +0000"
+        "title": "NP_R ≠ PAR_R",
+        "link": "https://github.com/samueleverett01/bss-permanent-separations",
+        "date": "Thu, 26 Nov 2026 16:50:55 +0000"
       },
       {
-        "title": "An algebraic quantization of gravity from the null cone",
-        "link": "https://arxiv.org/abs/2611.34924",
-        "date": "Thu, 26 Nov 2026 05:37:51 +0000"
+        "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+        "link": "https://news.ycombinator.com/item?id=50656763",
+        "date": "Thu, 26 Nov 2026 16:16:41 +0000"
       },
       {
-        "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-        "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-        "date": "Thu, 26 Nov 2026 05:12:59 +0000"
+        "title": "1984 Hosting is down due to a security incident",
+        "link": "https://status.1984.is/status/public",
+        "date": "Thu, 26 Nov 2026 16:09:12 +0000"
       },
       {
-        "title": "Unconditional Integer Factorization in Subexponential Time",
-        "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-        "date": "Thu, 26 Nov 2026 04:59:56 +0000"
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "link": "https://michidk.github.io/sidebyside/",
+        "date": "Thu, 26 Nov 2026 15:00:06 +0000"
       }
     ],
     "Reddit": [
@@ -480,38 +480,43 @@
         "date": "2026-11-08 19:35:14"
       },
       {
+        "title": "Britain Contacts 100,000 Former Troops to Prepare for Possible War—First Time Since the Cold War",
+        "link": "https://www.reddit.com/r/worldnews/comments/1y5x9wy/britain_contacts_100000_former_troops_to_prepare/",
+        "date": "2026-11-26 09:43:55"
+      },
+      {
+        "title": "South Korean Man Who Became First-Ever Perfect Scorer on Law Exam Found Dead Amid AI Cheating Allegations",
+        "link": "https://www.reddit.com/r/worldnews/comments/1y5yi8d/south_korean_man_who_became_firstever_perfect/",
+        "date": "2026-11-26 11:00:06"
+      },
+      {
+        "title": "Belarus' Lukashenko casts doubt on historical arguments about Ukraine's belonging: In that case, we will have to return all of Russia to Mongolia",
+        "link": "https://www.reddit.com/r/worldnews/comments/1y5wiag/belarus_lukashenko_casts_doubt_on_historical/",
+        "date": "2026-11-26 08:56:02"
+      },
+      {
+        "title": "North Korea pauses military aid to Russia, Ukrainian intelligence says",
+        "link": "https://www.reddit.com/r/worldnews/comments/1y5xhd9/north_korea_pauses_military_aid_to_russia/",
+        "date": "2026-11-26 09:57:06"
+      },
+      {
+        "title": "Korea's Births Jump 14.3% in 2026, Fastest Growth on Record",
+        "link": "https://www.reddit.com/r/worldnews/comments/1y61oow/koreas_births_jump_143_in_2026_fastest_growth_on/",
+        "date": "2026-11-26 13:50:58"
+      },
+      {
         "title": "Ukraine attacks Russian military base, says five planes struck",
         "link": "https://www.reddit.com/r/worldnews/comments/1y5pgx1/ukraine_attacks_russian_military_base_says_five/",
         "date": "2026-11-26 02:19:36"
-      },
-      {
-        "title": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
-        "link": "https://www.reddit.com/r/worldnews/comments/1y5exp8/ukrainian_combat_laser_intercepts_russian/",
-        "date": "2026-11-25 18:31:20"
-      },
-      {
-        "title": "Russia loses more than 2,300 soldiers over past day",
-        "link": "https://www.reddit.com/r/worldnews/comments/1y5v7ua/russia_loses_more_than_2300_soldiers_over_past_day/",
-        "date": "2026-11-26 07:35:38"
-      },
-      {
-        "title": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war",
-        "link": "https://www.reddit.com/r/worldnews/comments/1y5nmw4/end_your_war_end_it_now_anthony_albanese_tells/",
-        "date": "2026-11-26 00:46:09"
-      },
-      {
-        "title": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
-        "link": "https://www.reddit.com/r/worldnews/comments/1y5haem/poland_says_will_create_nofly_zone_at_ukraine/",
-        "date": "2026-11-25 20:04:04"
-      },
-      {
-        "title": "Hungary Adopts Wealth Tax as Europe Targets Growing Inequality",
-        "link": "https://www.reddit.com/r/worldnews/comments/1y5gleb/hungary_adopts_wealth_tax_as_europe_targets/",
-        "date": "2026-11-25 19:36:55"
       }
     ],
     "PCMag": [],
     "CNET": [
+      {
+        "title": "Black Friday Porch Pirates Don’t Care About Your Doorbell Camera. Follow This Expert Plan Now",
+        "link": "https://www.cnet.com/home/security/package-theft-advice/",
+        "date": "2026-11-25 19:00:00"
+      },
       {
         "title": "Fast Fashion Fiasco: Shein to Pay $100 Million in FTC Complaint",
         "link": "https://www.cnet.com/tech/shein-fast-fashion-lawsuit/",
@@ -546,11 +551,6 @@
         "title": "Lenovo Is Taking $758 Off the Legion Go S SteamOS Handheld for Black Friday",
         "link": "https://www.cnet.com/tech/gaming/lenovo-legion-go-s-steamos-handheld-black-friday/",
         "date": "2026-11-25 18:42:22"
-      },
-      {
-        "title": "HBO Max’s Black Friday Deal Gets You a Year of DC, ‘Harry Potter,’ ‘The Pitt’ and More for Half Off",
-        "link": "https://www.cnet.com/tech/services-and-software/hbo-max-black-friday-deal/",
-        "date": "2026-11-25 18:22:34"
       }
     ],
     "AP": [],
